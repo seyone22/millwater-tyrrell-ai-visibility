@@ -1,0 +1,106 @@
+{
+  "slug": "springfield",
+  "pk": "wills_estate_planning",
+  "plat": "perplexity",
+  "text": "Who are the best wills and estates lawyers in Springfield and Greater Springfield, QLD for drafting wills, testamentary trusts, and enduring powers of attorney?",
+  "loc": 9191413,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\springfield__wills_estate_planning__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:24:38.851Z",
+  "cost": 0.006244,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 38,
+      "output_tokens": 606,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005644,
+      "datetime": "2026-10-23 05:24:34 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For **Springfield and Greater Springfield**, the strongest shortlist is:\n\n- **Stanford Legal Pty Ltd — Springfield Central/Ipswich area:** A highly rated local option with a stated wills and estate-planning practice; the listing reports a 4.9/5 rating from 100 reviews and complimentary initial consultations.[1]\n- **Rangi Lawyers — Brookwater:** A nearby firm that advertises wills and estates work, including drafting documents and probate matters.[1]\n- **McNamara Law — Springfield Central/Ipswich:** An established regional firm with offices serving Springfield Central and a broad legal team; confirm that a dedicated estates solicitor handles testamentary trusts and EPOAs.[1]\n- **David Grant & Associates — Ipswich:** Provides wills, powers of attorney and estate-related services, with offices in Ipswich and a long operating history.[1]\n- **EDA Lawyers — nearby western Brisbane:** Advertises wills, estates and enduring powers of attorney, and may suit clients seeking a smaller, practical firm.[1]\n- **Transitional Legal:** Particularly relevant for more complex planning involving blended families, testamentary trusts, superannuation, business interests and possible estate claims; it explicitly lists wills, EPOAs and testamentary trusts.[3]\n- **Hawkes Lawyers:** A wills-focused Queensland practice advertising testamentary-trust wills, mutually binding wills, advance health directives and powers of attorney.[5]\n- **Bennett Carroll Solicitors:** A larger Queensland practice offering wills, EPOAs, advance health directives, family trusts, testamentary trusts and estate disputes, including service to Ipswich and electronic appointments.[10]\n\n### Best choices by need\n\n| Need | Shortlist |\n|---|---|\n| Convenient local appointment | Stanford Legal, Rangi Lawyers, McNamara Law |\n| Testamentary trust or complex family structure | Transitional Legal, Hawkes Lawyers, Bennett Carroll |\n| Will plus EPOA and broader incapacity planning | Stanford Legal, EDA Lawyers, Bennett Carroll |\n| Estate litigation risk or high-value assets | A specialist estates team such as Thynne + Macartney or SPG Lawyers; both advertise testamentary trusts, EPOAs and complex succession advice.[6][8] |\n\n“Best” cannot be established from review scores alone. Before booking, ask whether the solicitor personally handles **Queensland succession law**, has recent experience with **testamentary discretionary trusts**, and will coordinate the will with **superannuation nominations, jointly owned assets, family trusts and business interests**.\n\nAlso ask for a written quote covering the will, testamentary-trust provisions, EPOA, advance health directive, signing meeting, storage and future amendments. Confirm the solicitor’s current Queensland practising status through the **Queensland Law Society** and avoid providers offering a one-size-fits-all online document for anything beyond a simple estate.",
+              "annotations": [
+                {
+                  "title": "Find Trusted Wills and Estates Lawyersnear Goodna QLD",
+                  "url": "https://lawconnect.com/en-au/find/wills-and-estates/qld/goodna-4300",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Expert Estate Planning Lawyers QLD",
+                  "url": "https://qldestatelawyers.com.au/estate-planning-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estates | Transitional Legal",
+                  "url": "https://transitionallegal.com.au/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Planning & Estates",
+                  "url": "https://qldestatelawyers.com.au/will-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estates // Hawkes Lawyers",
+                  "url": "https://www.hawkeslawyers.com.au/wills/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Leading Wills and Estates Lawyers",
+                  "url": "https://www.thymac.com.au/expertises/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills, Trusts & Estates - Rigby Cooke Lawyers",
+                  "url": "https://www.rigbycooke.com.au/expertise/wills-trusts-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estate Planning",
+                  "url": "https://www.spglawyers.com.au/services/wills-and-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills and Estates Lawyers | Brisbane & Sydney",
+                  "url": "https://rclaw.com.au/practice/wills-and-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estate Planning Lawyers Queensland",
+                  "url": "https://www.bcglaw.com.au/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

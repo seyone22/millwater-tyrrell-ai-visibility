@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane_south",
+  "pk": "divorce_property",
+  "plat": "perplexity",
+  "text": "I am going through a separation and complex property settlement in Brisbane Southside (Mount Gravatt & Sunnybank). Which family law firms have the strongest track record for property division and binding financial agreements?",
+  "loc": 9060851,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_south__divorce_property__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:28:12.019Z",
+  "cost": 0.006328,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 47,
+      "output_tokens": 681,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005728,
+      "datetime": "2026-10-23 05:28:08 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For a complex property pool involving businesses, trusts, multiple properties, superannuation or disputed contributions, the strongest Brisbane options to shortlist are:\n\n- **Cooper Grace Ward — Brisbane CBD:** A major Brisbane firm with a dedicated family-law team and integrated expertise in tax, superannuation, corporate structures and property. It specifically handles complex property settlements and binding financial agreements (BFAs), making it a strong choice for high-value or structurally complex matters.[9]\n- **Australian Family Lawyers — Upper Mount Gravatt:** A convenient Southside option whose team includes Accredited Family Law Specialists and handles complex, high-asset disputes involving trusts and businesses, as well as BFAs.[3]\n- **Life Law Solutions — Mount Gravatt East:** A local firm offering property and asset division, superannuation splitting, valuations, disclosure, negotiation and BFAs. Its Mount Gravatt East location may be practical for ongoing conferences.[1]\n- **R&G Law Group — West End:** Handles complex asset pools involving trusts, companies, multiple properties and overseas interests, along with business valuations, debt allocation, property settlements and BFAs. It explicitly services Sunnybank and surrounding Southside suburbs.[4]\n- **Stewart Family Law — Brisbane City:** A specialist family-law firm with a listed Doyle’s-recommended status and experience documenting negotiated settlements through financial agreements or consent orders.[2]\n- **PCL Lawyers — Brisbane:** Handles property pools of all sizes, complex property settlements, BFAs and consent orders, with a focus on formalising agreements so they are enforceable.[5][7]\n\n**Best-fit shortlist by situation**\n\n| Situation | Firms to consider |\n|---|---|\n| Trusts, companies, business interests or tax complexity | Cooper Grace Ward; R&G Law Group |\n| High-value or strongly contested litigation | Cooper Grace Ward; Australian Family Lawyers; Stewart Family Law |\n| Convenient Brisbane Southside location | Australian Family Lawyers; Life Law Solutions |\n| Mainly negotiated settlement or mediation | Stewart Family Law; PCL Lawyers; Life Law Solutions |\n| BFA advice or drafting | Cooper Grace Ward; Australian Family Lawyers; R&G Law Group; PCL Lawyers |\n\nThese are not independent rankings: the available material largely reflects firms’ own descriptions of their services, so “strongest track record” should be verified through independent directories, published specialist credentials, reported cases and a consultation. Ask each firm:\n\n- Who will personally run the matter, and are they an **Accredited Family Law Specialist**?\n- How often do they handle trusts, businesses, complex financial disclosure and asset tracing?\n- What is their experience challenging or defending BFAs?\n- Would a **BFA, consent orders or both** be appropriate for the proposed settlement?\n- What are the likely costs for negotiation, mediation and litigation?\n- Can they recommend forensic accountants, valuers and tax advisers where needed?\n\nA BFA should not be treated as a routine template: each party generally needs independent legal advice, and enforceability can depend on strict statutory requirements and the circumstances in which the agreement was made.[9] Property proceedings also have limitation periods—generally 12 months after divorce for married couples and two years after de facto separation—so obtain advice promptly if either deadline may be relevant.[9]",
+              "annotations": [
+                {
+                  "title": "Brisbane Family Lawyer | Life Law Solutions",
+                  "url": "https://lifelaw.com.au/family-lawyer-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Property Settlement Lawyers Brisbane - Free Initital Consult",
+                  "url": "https://stewartfamilylaw.com.au/property-settlement-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Lawyers Upper Mount Gravatt",
+                  "url": "https://www.australianfamilylawyers.com.au/cm-family-lawyers-upper-mount-gravatt",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Brisbane Family Lawyers | Property Settlement & Divorce",
+                  "url": "https://rglawgroup.com.au/family-law",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Lawyers in Brisbane",
+                  "url": "https://www.pcllawyers.com.au/brisbane/family-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Separation Lawyers Brisbane | Stewart Family Law",
+                  "url": "https://stewartfamilylaw.com.au/separation-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Property Settlement Lawyers in Brisbane",
+                  "url": "https://www.pcllawyers.com.au/brisbane/family-lawyers/property-settlement-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Divorce Property Settlement Lawyer Brisbane",
+                  "url": "https://bartonfamilylaw.com.au/property-settlement-lawyer-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Law Brisbane - Divorce Lawyers",
+                  "url": "https://cgw.com.au/expertise/family-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Find Family Lawyers in Mount Gravatt QLD - Finchly",
+                  "url": "https://finchly.com.au/find/family-law/qld/mount-gravatt-4122",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

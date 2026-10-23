@@ -1,0 +1,254 @@
+{
+  "slug": "logan",
+  "pk": "wills_estate_planning",
+  "plat": "claude",
+  "text": "Who are the best wills and estates lawyers in Logan and Western Corridor (Ipswich to Brisbane) for drafting wills, testamentary trusts, and enduring powers of attorney?",
+  "loc": 9112660,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\logan__wills_estate_planning__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:33:19.458Z",
+  "cost": 0.065884,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10668,
+      "output_tokens": 1552,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.065284,
+      "datetime": "2026-10-23 05:33:15 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a curated overview of some of the best wills and estates lawyers serving the **Logan and Western Corridor (Ipswich to Brisbane)** region, covering drafting wills, testamentary trusts, and enduring powers of attorney (EPOAs):\n\n---\n\n## ⚖️ Top Wills & Estates Lawyers – Logan & Western Corridor (Ipswich to Brisbane)\n\n---\n\n### 1. 🏆 Turner Freeman Lawyers\n**Offices:** Brisbane, Logan, Ipswich (and more)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Turner Freeman Lawyers have offices across Queensland including Brisbane, Logan, and Ipswich, offering a comprehensive, cost-effective and sensitive approach to Estate Planning, Estate Administration and Estate Litigation.",
+              "annotations": [
+                {
+                  "title": "Wills & Estate Lawyers Australia",
+                  "url": "https://www.turnerfreeman.com.au/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their Wills & Estate Lawyers can help ensure you and your loved ones have peace of mind, whether you are preparing a Will or disputing an unfair Will.",
+              "annotations": [
+                {
+                  "title": "Wills & Estate Lawyers Australia",
+                  "url": "https://www.turnerfreeman.com.au/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are one of Australia's most established firms in this area and are well-suited for complex matters including testamentary trusts and EPOAs.\n\n---\n\n### 2. 🏆 Ryder Lawyers\n**Office:** Logan City, Queensland\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Ryder Lawyers has an experienced team of Family Law & Wills and Estates lawyers in Logan and Ipswich who support clients to negotiate the best outcome for them and their family.",
+              "annotations": [
+                {
+                  "title": "Family Law",
+                  "url": "https://ryderlawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Led by Carolyn Ryder, their legal practitioner director with over 20 years of legal experience, they deliver solutions at their office in Logan City and remotely Australia-wide.",
+              "annotations": [
+                {
+                  "title": "Family Law",
+                  "url": "https://ryderlawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are a strong local option for personalised estate planning services.\n\n---\n\n### 3. 🏆 Madsen Law\n**Office:** Logan & Brisbane Southside\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "At Madsen Law, experienced estate lawyers take the stress and confusion out of managing your estate, stepping clients through an otherwise daunting process.",
+              "annotations": [
+                {
+                  "title": "Estate Lawyers Logan",
+                  "url": "https://madsenlaw.com.au/estate-law/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their services include making or updating a will, enduring power of attorney, probate and letters of administration, help for executors and trustees, estate administration and asset transfer, estate disputes, and family provision claims.",
+              "annotations": [
+                {
+                  "title": "Estate Lawyers Logan",
+                  "url": "https://madsenlaw.com.au/estate-law/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are trusted by local families and businesses across Logan and Brisbane Southside.\n\n---\n\n### 4. 🏆 Bennett Carroll Solicitors\n**Offices:** Brisbane, Ipswich, Gold Coast, Sunshine Coast\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "At Bennett Carroll Solicitors, they help Queenslanders protect their future with experienced legal advice in all aspects of Wills and Estates — whether in Brisbane, Stafford, Upper Mount Gravatt, the Sunshine Coast, Gold Coast, Ipswich, or regional Queensland — and can assist fully electronically, via phone, email, video call, or in-person.",
+              "annotations": [
+                {
+                  "title": "Wills & Estate Planning Lawyers Queensland",
+                  "url": "https://www.bcglaw.com.au/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They provide legal advice on wills, enduring powers of attorney (EPOAs), and estate administration across their Queensland offices.",
+              "annotations": [
+                {
+                  "title": "Wills & Estate Planning Lawyers Queensland",
+                  "url": "https://www.bcglaw.com.au/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Their Ipswich office makes them a strong choice for the western corridor.\n\n---\n\n### 5. 🏆 Will and Estate Lawyers Australia\n**Offices:** Milton & Ashgrove (Brisbane), serving Logan & Ipswich\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "With Milton & Ashgrove offices serving Greater Brisbane, Ipswich, Logan & surrounding areas, they offer fixed-fee probate services from $1,490, and charge $799 for a single will and $999 for couples (mirror wills).",
+              "annotations": [
+                {
+                  "title": "Will and Estate Lawyers Australia",
+                  "url": "https://willandestatelawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They have administered over 600 estates with a 5/5 rating from 120+ Google reviews, and are experienced Queensland succession law practitioners.",
+              "annotations": [
+                {
+                  "title": "Will and Estate Lawyers Australia",
+                  "url": "https://willandestatelawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Their transparent pricing makes them an excellent choice for straightforward to moderately complex estate planning.\n\n---\n\n### 6. 🏆 Aitken Whyte Lawyers\n**Office:** Brisbane (serving Ipswich, Logan & surrounds)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "At Aitken Whyte Lawyers, their wills and estate lawyers team help clients with every aspect of estate planning, administration and disputes, providing practical advice tailored to your circumstances to help you protect your family, your assets and your wishes.",
+              "annotations": [
+                {
+                  "title": "Wills & Estate Lawyers Brisbane",
+                  "url": "https://www.awbrisbanelawyers.com.au/will-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their wills and estate lawyers assist clients across Brisbane and South East Queensland, including Ipswich, Logan, Redland, Redcliffe and Caboolture.",
+              "annotations": [
+                {
+                  "title": "Wills & Estate Lawyers Brisbane",
+                  "url": "https://www.awbrisbanelawyers.com.au/will-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 📋 Key Services to Look For\n\nWhen choosing a lawyer for your needs, confirm they offer:\n- ✅ **Drafting Wills** (simple and complex)\n- ✅ **Testamentary Trusts** (tax-effective trusts created within a will)\n- ✅ **Enduring Powers of Attorney (EPOA)** – financial and personal/health\n- ✅ **Advance Health Directives**\n- ✅ **Estate Administration & Probate**\n\n---\n\n## 💡 Tips for Choosing the Right Lawyer\n1. **Local presence matters** – Firms with offices in Logan or Ipswich (like Ryder Lawyers, Turner Freeman, Bennett Carroll) can meet with you in person.\n2. **Fixed fees** – Look for transparent pricing (Will and Estate Lawyers Australia is particularly strong here).\n3. **Complexity** – For testamentary trusts, choose a firm with dedicated estate planning experience (Turner Freeman, Bennett Carroll, and Aitken Whyte are well-regarded for complex matters).\n4. **Reviews** – Check Google Reviews and Law Society ratings before committing.\n\nWould you like more detail on any of these firms, or help comparing them for a specific situation?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "best wills estates lawyers Logan Ipswich Brisbane western corridor",
+        "top wills estates solicitors testamentary trusts enduring power of attorney Ipswich Queensland"
+      ]
+    }
+  ]
+}

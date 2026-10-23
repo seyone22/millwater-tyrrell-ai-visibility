@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane_east",
+  "pk": "parenting_custody",
+  "plat": "perplexity",
+  "text": "Which family lawyers in Brisbane East and Bayside (Carindale & Wynnum) are best for parenting arrangements, child custody disputes, and accredited family dispute resolution (mediation)?",
+  "loc": 9194035,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_east__parenting_custody__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:31:09.837Z",
+  "cost": 0.006313,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 44,
+      "output_tokens": 669,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005713,
+      "datetime": "2026-10-23 05:31:05 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For **parenting arrangements, contested “custody” matters and mediation**, the strongest Brisbane East/Bayside options to shortlist are:\n\n- **Stewart Family Law — Brisbane:** Particularly strong for parenting disputes and mediation. Director Judy Stewart is identified as an **Accredited Family Law Specialist**, an **AMDRAS Advanced Mediator** and a registered FDR practitioner. The firm handles parenting plans, consent orders, mediation and litigation.[9]\n- **Avokah Legal — Woolloongabba:** Convenient for Brisbane East, including East Brisbane, Carindale and surrounding suburbs. The firm focuses on parenting arrangements and works with an **NMAS-accredited mediator**, Nicole Mackenzie, who handles complex parenting matters.[2]\n- **The Law People — Brisbane:** Led by Queensland Law Society **Accredited Family Law Specialist** Jill Johnstone. It advises on parenting plans, parenting orders, urgent safety concerns, enforcement and court disputes, and offers negotiation, mediation and collaborative-law options.[8][10]\n- **HopgoodGanim — Brisbane CBD:** A strong option for complex or high-conflict matters. Its family-law team includes lawyers recognised for parenting work and mediation, including Geoffrey Wilson, Lisa Lahey and Alison Ross; the firm also has significant alternative-dispute-resolution expertise.[1][3]\n- **Best Wilson Buckley Family Law — Brisbane:** A specialist family-law practice offering parenting-dispute advice, mediation and FDR services. It may suit parents wanting a dedicated family-law firm rather than a general practice.[6]\n- **Australian Family Lawyers — Brisbane:** A larger specialist network offering parenting disputes, child-support advice and family mediation, with access to Accredited Family Law Specialists.[7]\n\n## Best fit by situation\n\n| Situation | Shortlist |\n|---|---|\n| **Mediation/FDR first** | Stewart Family Law, Avokah Legal, The Law People |\n| **Complex or high-conflict parenting dispute** | HopgoodGanim, Stewart Family Law, The Law People |\n| **Carindale and Brisbane East convenience** | Avokah Legal, Best Wilson Buckley, Brisbane-based Stewart Family Law |\n| **Wynnum/Bayside location** | Ask the shortlisted firms about consultations by phone/video or appointments near Wynnum; specialist Brisbane firms may be more suitable than a small local general practice |\n| **Urgent safety, family violence or child-abuse concerns** | The Law People, Stewart Family Law or HopgoodGanim, with advice sought urgently |\n\nIn Queensland family-law matters, “custody” is generally addressed through **parenting arrangements or parenting orders**. These can cover where a child lives, time with each parent, communication and major long-term decisions. FDR is commonly expected before a parenting application, but exceptions may apply—particularly where there is family violence, abuse, urgency or a serious safety risk.[8]\n\nWhen comparing firms, ask whether the specific lawyer is a **Queensland Law Society Accredited Family Law Specialist**, a **registered FDR practitioner**, or an **AMDRAS/NMAS-accredited mediator**—these are different credentials. Also confirm hourly rates, likely total cost, availability for urgent applications and experience with family violence or contravention proceedings.",
+              "annotations": [
+                {
+                  "title": "Best Lawyers Near You in Brisbane, Australia for Family Law",
+                  "url": "https://www.bestlawyers.com/australia/brisbane/family-law",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Ashika Jacques - Solicitor",
+                  "url": "https://www.avokahlegal.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Leading Parenting & Children's Matters Lawyers - Brisbane, 2026 - Doyle's Guide",
+                  "url": "https://doylesguide.com/rankings/parenting-childrens-matters-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Lawyers in Australia for Family Law",
+                  "url": "https://www.bestlawyers.com/australia/family-law",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Law Lawyers Wynnum QLD",
+                  "url": "https://www.gotocourt.com.au/qld/wynnum-lawyers/family",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Our Legal Services - Best Wilson",
+                  "url": "https://bwbfamilylaw.com.au/how-we-help",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Lawyers Brisbane",
+                  "url": "https://www.australianfamilylawyers.com.au/cm-family-lawyers-brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Child Custody Lawyers Brisbane",
+                  "url": "https://thelawpeople.com.au/parenting-arrangements/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Child Custody Lawyers Brisbane | Free 15-Minute Consult",
+                  "url": "https://stewartfamilylaw.com.au/child-custody-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The Law People: Family Lawyers Brisbane | Family Law Firm",
+                  "url": "https://thelawpeople.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

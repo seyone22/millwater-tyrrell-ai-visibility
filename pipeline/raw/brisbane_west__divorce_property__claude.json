@@ -1,0 +1,297 @@
+{
+  "slug": "brisbane_west",
+  "pk": "divorce_property",
+  "plat": "claude",
+  "text": "I am going through a separation and complex property settlement in Brisbane Western Suburbs (Indooroopilly & Centenary). Which family law firms have the strongest track record for property division and binding financial agreements?",
+  "loc": 9192539,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_west__divorce_property__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:27:09.431Z",
+  "cost": 0.064933,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10556,
+      "output_tokens": 1511,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.064333,
+      "datetime": "2026-10-23 05:27:05 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a comprehensive overview of the family law firms with the strongest track records for **property division and binding financial agreements (BFAs)** in the Brisbane Western Suburbs (Indooroopilly & Centenary) area:\n\n---\n\n## 🏆 Top Family Law Firms for Property Settlement & BFAs — Brisbane Western Suburbs\n\n---\n\n### 1. 🥇 Melrose Keys Lawyers *(Kenmore — Closest to Your Area)*\nThis is the most locally relevant firm for your specific area. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They proudly serve the **Kenmore, Indooroopilly, and Brisbane Western Suburbs** region.",
+              "annotations": [
+                {
+                  "title": "Melrose Keys Lawyers - Brisbane Family and Estate Lawyers",
+                  "url": "https://mk-law.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Recognised as a **Winner of the Inside Family Law Awards**, Melrose Keys Lawyers brings three decades of proven professionalism and quality across family, estate, and commercial law.",
+              "annotations": [
+                {
+                  "title": "Melrose Keys Lawyers - Brisbane Family and Estate Lawyers",
+                  "url": "https://mk-law.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Melrose Keys Lawyers - Brisbane Family and Estate Lawyers",
+                  "url": "https://mk-law.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their clients confirm this reliability with a consistent **4.9-star average** from over 50 five-star Google reviews.",
+              "annotations": [
+                {
+                  "title": "Melrose Keys Lawyers - Brisbane Family and Estate Lawyers",
+                  "url": "https://mk-law.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Director Hayder Shkara has vast experience in family law, including financial and property settlements, divorce, custody matters, consent orders, and **binding financial agreements**.",
+              "annotations": [
+                {
+                  "title": "Melrose Keys Lawyers - Brisbane Family and Estate Lawyers",
+                  "url": "https://mk-law.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They specialise in family law, child custody, mediation, property settlements, binding financial agreements, and wills and estates.",
+              "annotations": [
+                {
+                  "title": "Melrose Keys Lawyers - Brisbane Family and Estate Lawyers",
+                  "url": "https://mk-law.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n> **Why choose them:** Hyperlocal to your area, award-winning, and specialist BFA expertise.\n\n---\n\n### 2. 🥈 Littles Family Lawyers *(Indooroopilly — Right in Your Suburb)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Littles Family Lawyers is located in the western suburbs **at Indooroopilly**, close to the Brisbane CBD, with the advantage of onsite free parking and easy access to public transport, including the nearby train and bus station.",
+              "annotations": [
+                {
+                  "title": "The Best 12 Family Lawyers In Brisbane (Updated 2026)",
+                  "url": "https://familylawyerfinder.com/au/best-family-lawyers-brisbane-qld-4000/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Their Indooroopilly location makes them a highly convenient choice for clients in the Centenary corridor.\n\n> **Why choose them:** Literally based in Indooroopilly — ideal for clients in the western suburbs who want a local firm.\n\n---\n\n### 3. 🥉 Best Wilson Buckley Family Law *(Brisbane — Specialist Property Settlement)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Best Wilson Buckley Family Law has been guiding Queensland families through property settlements since **2009**, with a Brisbane office staffed by lawyers who know the local court and the local community.",
+              "annotations": [
+                {
+                  "title": "Property Settlement Lawyers Brisbane",
+                  "url": "https://bwbfamilylaw.com.au/how-we-help/property-settlement-lawyers-brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They started as a dedicated family law practice and have grown into **one of Queensland's largest specialist family law firms**, handling nothing else.",
+              "annotations": [
+                {
+                  "title": "Property Settlement Lawyers Brisbane",
+                  "url": "https://bwbfamilylaw.com.au/how-we-help/property-settlement-lawyers-brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n> **Why choose them:** Decades of exclusive family law focus, strong property settlement track record across Queensland.\n\n---\n\n### 4. Stewart Family Law *(Brisbane CBD — Accredited Specialists)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Stewart Family Law is a **Doyle's Guide Recommended** Family & Divorce Law Firm in Brisbane.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Brisbane",
+                  "url": "https://stewartfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Judy Stewart was also recently awarded **Brisbane's 2027 Lawyer of the Year** by Best Lawyers.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Brisbane",
+                  "url": "https://stewartfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their team includes highly experienced Brisbane family lawyers, including **Accredited Family Law Specialists** recognised by the Queensland Law Society, advising across all areas of family law from divorce and separation to complex property settlements under the Family Law Act.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Brisbane",
+                  "url": "https://stewartfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n> **Why choose them:** Ideal for high-complexity or high-value property matters requiring accredited specialist-level expertise.\n\n---\n\n### 5. Michael Lynch Family Lawyers *(Brisbane — Proven Indooroopilly Clients)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "As a specialist family law firm in Brisbane, their extensive range of legal services includes divorce and de facto relationship **property settlements**.",
+              "annotations": [
+                {
+                  "title": "Property Settlement Lawyers Brisbane",
+                  "url": "https://www.michaellynchfamilylawyers.com.au/family-law-services/property-settlement/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Notably, ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "they have a documented client testimonial from **Indooroopilly** specifically.",
+              "annotations": [
+                {
+                  "title": "Property Settlement Lawyers Brisbane",
+                  "url": "https://www.michaellynchfamilylawyers.com.au/family-law-services/property-settlement/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n> **Why choose them:** Demonstrated experience serving Indooroopilly clients directly.\n\n---\n\n### 6. Cudmore Legal Family Lawyers *(Brisbane — Complex Financial Settlements)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Cudmore Legal Family Lawyers has a reputation for resolving family law disputes efficiently, and is **known in Brisbane for superior guidance in elite financial settlements** and complex parenting matters, with a motto to give honest, frank, and commercially wise family law advice.",
+              "annotations": [
+                {
+                  "title": "The Best 12 Family Lawyers In Brisbane (Updated 2026)",
+                  "url": "https://familylawyerfinder.com/au/best-family-lawyers-brisbane-qld-4000/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n> **Why choose them:** Best suited for high-net-worth or particularly complex property division matters.\n\n---\n\n## 📋 Key Tips for Your Situation\n\nWhen navigating a complex property settlement and/or BFA in Queensland, keep these points in mind:\n\n1. **Binding Financial Agreements (BFAs)** require *both* parties to have independent legal advice — so each party needs their own lawyer.\n2. **Accredited Family Law Specialists** (recognised by the Queensland Law Society) are worth seeking out for complex matters — Stewart Family Law and Best Wilson Buckley both have these.\n3. **Doyle's Guide** and **Best Lawyers** rankings are reliable third-party indicators of firm quality in Australia.\n4. For the **Centenary Suburbs** (Jindalee, Riverhills, Middle Park, etc.), firms based in Kenmore (Melrose Keys) or Indooroopilly (Littles) will be the most geographically convenient.\n5. Always book an **initial consultation** with 2–3 firms to compare their approach and fee structures before committing.\n\n---\n\nWould you like more detail on any of these firms, or guidance on what to expect from the property settlement process itself in Queensland?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "best family law firms property settlement Brisbane Indooroopilly Centenary suburbs",
+        "family lawyers binding financial agreements property division Brisbane western suburbs"
+      ]
+    }
+  ]
+}

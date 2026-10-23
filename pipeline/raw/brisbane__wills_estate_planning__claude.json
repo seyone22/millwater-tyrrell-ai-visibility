@@ -1,0 +1,326 @@
+{
+  "slug": "brisbane",
+  "pk": "wills_estate_planning",
+  "plat": "claude",
+  "text": "Who are the best wills and estates lawyers in Brisbane for drafting wills, testamentary trusts, and enduring powers of attorney?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane__wills_estate_planning__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:26:23.499Z",
+  "cost": 0.065344,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10523,
+      "output_tokens": 1545,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.064744,
+      "datetime": "2026-10-23 05:26:19 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a guide to some of the **best wills and estates lawyers in Brisbane** for drafting wills, testamentary trusts, and enduring powers of attorney (EPOAs):\n\n---\n\n### 1. 🏆 **Cooper Grace Ward**\nOne of Brisbane's most prominent full-service law firms, Cooper Grace Ward is consistently recognised for its wills and estates expertise. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Rebecca Edwards of Cooper Grace Ward is listed as a recommended leading Wills & Estates Litigation Lawyer in Queensland for 2025 by Doyle's Guide.",
+              "annotations": [
+                {
+                  "title": "Leading Wills & Estates Litigation Lawyers - Queensland, 2025 - Doyle's Guide",
+                  "url": "https://doylesguide.com/leading-estates-litigation-lawyers-queensland-2025/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " The firm handles complex estate planning matters including testamentary trusts and EPOAs.\n\n---\n\n### 2. 🏆 **de Groots Wills & Estate Lawyers**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "De Groots is Australia's specialist wills and estate lawyers firm, established in 1986, with offices in Brisbane, Sydney, and Melbourne.",
+              "annotations": [
+                {
+                  "title": "Home",
+                  "url": "https://degroots.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "With over 40 years of experience, a team of dedicated professionals ensures precision in estate planning, administration, and dispute resolution, specialising exclusively in this legal field and providing tailored, personalised service.",
+              "annotations": [
+                {
+                  "title": "Home",
+                  "url": "https://degroots.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their lawyers, including Dr. John de Groot, are recognised in the 2025 Doyle's Guide as Leading Wills, Estates & Succession Planning Lawyers in Queensland.",
+              "annotations": [
+                {
+                  "title": "Home",
+                  "url": "https://degroots.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. 🏆 **Estate First Lawyers**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Estate First Lawyers is a leading Australian estate planning law firm with offices in Brisbane, Sydney, and Melbourne, and also offers a virtual estate planning service across Australia, having been trusted by thousands of Australians with their estate planning and estate administration needs.",
+              "annotations": [
+                {
+                  "title": "Estate Lawyers - Will Lawyers",
+                  "url": "https://estatefirst.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They have been mentioned in Doyle's Guide and Best Lawyers awards, and notably have 2 of the 45 Queensland Law Society accredited specialists in succession law.",
+              "annotations": [
+                {
+                  "title": "Estate Lawyers - Will Lawyers",
+                  "url": "https://estatefirst.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 4. 🏆 **Cornford-Scott Lawyers**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Angela Cornford-Scott of Cornford-Scott Lawyers Brisbane is listed as a **Market Leader** in the 2025 Doyle's Guide rankings for Wills & Estates Litigation in Queensland.",
+              "annotations": [
+                {
+                  "title": "Leading Wills & Estates Litigation Lawyers - Queensland, 2025 - Doyle's Guide",
+                  "url": "https://doylesguide.com/leading-estates-litigation-lawyers-queensland-2025/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Prue Poole, also of Cornford-Scott Lawyers, is listed as **Preeminent** in the same rankings.",
+              "annotations": [
+                {
+                  "title": "Leading Wills & Estates Litigation Lawyers - Queensland, 2025 - Doyle's Guide",
+                  "url": "https://doylesguide.com/leading-estates-litigation-lawyers-queensland-2025/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " This firm is particularly well-regarded for complex and contested estate matters.\n\n---\n\n### 5. 🏆 **Direct Lawyers (West End, Brisbane)**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Direct Lawyers is a Brisbane-based Wills and Estates law firm with over 15 years of focused experience, providing specialist legal services across Brisbane and Queensland.",
+              "annotations": [
+                {
+                  "title": "Wills and Estates Lawyers Brisbane",
+                  "url": "https://www.directlawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The firm assists with estate planning, wills, testamentary trusts, estate administration, probate, estate litigation, family provision claims, inheritance disputes, asset protection strategies, and legal counsel for executors.",
+              "annotations": [
+                {
+                  "title": "Wills and Estates Lawyers Brisbane",
+                  "url": "https://www.directlawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They hold a strong 4.9-star Google rating from 83 reviews.",
+              "annotations": [
+                {
+                  "title": "Wills and Estates Lawyers Brisbane",
+                  "url": "https://www.directlawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 6. 🏆 **Attwood Marshall Lawyers**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Attwood Marshall Lawyers is a leading Wills and Estates law firm in Brisbane, with experienced lawyers recognised for their expertise and compassionate approach to helping families plan for the future and navigate legal complexities.",
+              "annotations": [
+                {
+                  "title": "Wills and Estate Lawyers Brisbane",
+                  "url": "https://attwoodmarshall.com.au/brisbane/wills-and-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Serving the community since 1946, they've helped thousands of families across Brisbane protect their legacy.",
+              "annotations": [
+                {
+                  "title": "Wills and Estate Lawyers Brisbane",
+                  "url": "https://attwoodmarshall.com.au/brisbane/wills-and-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 7. 🏆 **Bennett Carroll Solicitors**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Bennett Carroll Solicitors provide legal advice on wills, enduring powers of attorney (EPOAs), and estate administration in Brisbane, Ipswich, Kawana, Mermaid Beach, Stafford, and Upper Mount Gravatt, with both remote and in-office appointments available.",
+              "annotations": [
+                {
+                  "title": "Wills & Estate Planning Lawyers Queensland",
+                  "url": "https://www.bcglaw.com.au/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 8. 🏆 **McCarthy Durie Lawyers**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "McCarthy Durie Lawyers, located at Level 7, 239 George Street Brisbane, has a highly skilled team of dedicated wills and estates lawyers who can help with all aspects of preparing a will and estate/succession planning, providing trusted advice to help clients make informed decisions.",
+              "annotations": [
+                {
+                  "title": "The Best Estate Planning Lawyers In Brisbane",
+                  "url": "https://www.top10lawyers.com.au/estate-planning-lawyer-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 9. 🏆 **McInnes Wilson Lawyers**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Katie Worsnop of McInnes Wilson is listed as **Preeminent** in Doyle's Guide 2025 for Wills & Estates Litigation in Queensland, with Fred Smith also listed as a Leading lawyer at the same firm.",
+              "annotations": [
+                {
+                  "title": "Leading Wills & Estates Litigation Lawyers - Queensland, 2025 - Doyle's Guide",
+                  "url": "https://doylesguide.com/leading-estates-litigation-lawyers-queensland-2025/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " McInnes Wilson is a well-established Queensland firm with strong expertise across all estate planning services.\n\n---\n\n### 💡 Tips for Choosing the Right Lawyer:\n- **For complex testamentary trusts** – Look for firms with accredited succession law specialists, such as Estate First Lawyers or de Groots.\n- **For enduring powers of attorney** – Bennett Carroll Solicitors and Attwood Marshall Lawyers are well-regarded options.\n- **For peer-recognised excellence** – Refer to the **Doyle's Guide** and **Best Lawyers** rankings, which are voted on by the Queensland legal community.\n- **For specialist-only firms** – de Groots, Direct Lawyers, and Estate First Lawyers focus exclusively on wills and estates law.\n\nIt's always recommended to book an initial consultation with a few firms to find the best fit for your specific needs and circumstances.",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "best wills and estates lawyers Brisbane",
+        "top Brisbane lawyers testamentary trusts enduring power of attorney"
+      ]
+    }
+  ]
+}

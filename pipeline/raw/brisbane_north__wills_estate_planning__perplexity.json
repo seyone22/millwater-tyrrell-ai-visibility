@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane_north",
+  "pk": "wills_estate_planning",
+  "plat": "perplexity",
+  "text": "Who are the best wills and estates lawyers in Brisbane Northside (Chermside & North Lakes) for drafting wills, testamentary trusts, and enduring powers of attorney?",
+  "loc": 9060852,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_north__wills_estate_planning__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:29:45.524Z",
+  "cost": 0.00615,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 44,
+      "output_tokens": 506,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.00555,
+      "datetime": "2026-10-23 05:29:41 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For **Chermside and North Lakes**, the strongest shortlist is:\n\n- **Preston & Associates — North Lakes:** A genuinely local option offering wills, testamentary trusts, estate planning, probate and enduring powers of attorney. It advertises fixed-fee advice, with standard wills from $880.[1]\n- **Terry Anderssen Lawyers — Brisbane Northside:** Handles customised wills, enduring powers of attorney, probate, estate administration and family-provision disputes.[2]\n- **Bennett Carroll Solicitors — Stafford:** Convenient for Chermside; offers wills, EPOAs, advance health directives, testamentary trusts, probate and estate disputes, with in-person and electronic appointments.[5][6]\n- **Perspective Law — Brisbane/Bulimba:** A specialist wills-and-estates practice with about 30 years’ experience, covering testamentary discretionary trusts, EPOAs, advance health directives, complex estates and business succession.[8]\n- **Khoury Scott & Associates — Brisbane CBD:** Suitable for more complex or blended-family planning; specifically advertises tailored wills, testamentary trusts and EPOAs prepared together with explanatory advice.[4]\n- **Gregory Cox / HopgoodGanim — Brisbane:** A higher-end option for substantial or complex estates, with more than 25 years in estate planning, administration and litigation, including complex wills, powers of attorney and succession planning.[3]\n\n**Best local starting points:** Preston & Associates for **North Lakes**, and Bennett Carroll for **Chermside/northern Brisbane**. For a complex estate involving companies, trusts, significant investments, vulnerable beneficiaries or likely disputes, Perspective Law or HopgoodGanim may be more appropriate.\n\nWhen comparing quotes, ask whether the fee includes:\n\n- A will with a **testamentary discretionary trust**, not merely a basic will\n- One or more **enduring powers of attorney**\n- An advance health directive, if required\n- Superannuation and binding death-benefit nominations\n- Business, company and trust structures\n- Advice for blended families or potential family-provision claims\n- Signing, witnessing, storage and future updates\n- GST and the cost of amendments\n\nConfirm that the practitioner is currently admitted in Queensland and holds a current practising certificate. A testamentary trust should be drafted around the family’s tax, asset-protection and beneficiary circumstances rather than added as a generic clause.",
+              "annotations": [
+                {
+                  "title": "Wills & Estates Lawyer North Brisbane (2026) | Preston & ...",
+                  "url": "https://prestonandassociates.com.au/wills-estate-planning-lawyer-north-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Why Wills Matter: Estate Planning Tips from Brisbane Lawyers",
+                  "url": "https://terryanderssen.com.au/brisbane-northside-wills-estate-planning-tips/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Brisbane, Australia Trusts and Estates Lawyers",
+                  "url": "https://www.bestlawyers.com/australia/brisbane/trusts-and-estates",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estate Lawyers Brisbane",
+                  "url": "https://ksalaw.com.au/services/wills-and-estates",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estate Planning Lawyers in Queensland",
+                  "url": "https://www.bcglaw.com.au/wills-estates-planning/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estate Planning Lawyers Queensland",
+                  "url": "https://www.bcglaw.com.au/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estate Planning Lawyer | RMO Law",
+                  "url": "https://rmolaw.com.au/practice-areas/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estates",
+                  "url": "https://perspectivelaw.com/estate-planning-and-succession-law-perspective-law/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estates Lawyers North Lakes QLD",
+                  "url": "https://www.gotocourt.com.au/qld/north-lakes-lawyers/wills-and-estates",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Chermside Centre, Australia Trusts and Estates Lawyers | Best Chermside Centre Attorneys Near Me",
+                  "url": "https://www.bestlawyers.com/australia/chermside-centre/trusts-and-estates",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

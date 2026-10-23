@@ -1,0 +1,302 @@
+{
+  "slug": "logan",
+  "pk": "family_lawyers",
+  "plat": "claude",
+  "text": "Who are the best family lawyers in Logan and Western Corridor (Ipswich to Brisbane)? Give me a shortlist of reputable family law firms with reasons.",
+  "loc": 9112660,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\logan__family_lawyers__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:33:02.375Z",
+  "cost": 0.201862,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 54164,
+      "output_tokens": 1918,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.201262,
+      "datetime": "2026-10-23 05:32:58 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Let me search for more information on the Western Corridor firms.",
+              "annotations": null
+            }
+          ]
+        },
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "I've gathered results for the Logan area. Let me now provide you with the best information I have, supplemented by my knowledge of the broader Western Corridor region.\n\n---\n\n# 🏛️ Best Family Lawyers in Logan & the Western Corridor (Ipswich to Brisbane)\n\nHere is a shortlist of reputable family law firms serving the Logan area and the broader Western Corridor, with reasons why they stand out:\n\n---\n\n## 📍 LOGAN AREA\n\n### 1. **Madsen Law** *(Loganholme)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Recognised as one of the best family and estate law firms in Logan City by *3 Best Rated*, Madsen Law holds a Queensland Law Society accreditation in Family Law Specialist status, has over 50 years of combined legal experience across Family and Estate Law, and maintains a strong focus on family and estate law rather than spreading across all areas of law.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Logan & Brisbane Southside",
+                  "url": "https://madsenlaw.com.au/family-law-ads/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Lawyers Logan & Brisbane Southside",
+                  "url": "https://madsenlaw.com.au/family-law-ads/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them:**\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "David Madsen is a Queensland Law Society Accredited Family Law Specialist and brings over three decades of legal experience as both a Barrister and Solicitor.",
+              "annotations": [
+                {
+                  "title": "Logan Lawyers & Brisbane Family Lawyers",
+                  "url": "https://madsenlaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Logan Lawyers & Brisbane Family Lawyers",
+                  "url": "https://madsenlaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their experienced team handles all aspects of family law, from divorce and separation to domestic violence matters and custody & parenting disputes.",
+              "annotations": [
+                {
+                  "title": "Logan Lawyers & Brisbane Family Lawyers",
+                  "url": "https://madsenlaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Conveniently located on the Pacific Highway, Loganholme, the firm is easily accessible from both Brisbane and the Gold Coast, and is recognised for its straightforward approach and commitment to achieving timely, cost-effective outcomes.",
+              "annotations": [
+                {
+                  "title": "Top 10 Family Lawyers in Logan Qld",
+                  "url": "https://loganbusinessdirectory.com.au/family-lawyers-logan-qld-2/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 2. **Ryder Lawyers** *(Logan City)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Ryder Lawyers is a prominent female-led boutique law firm in Logan City, Queensland, offering personalised legal services in Family Law, Wills & Estate Planning, Probate, Estate Administration, and Small Business Law.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers near Logan Central, QLD",
+                  "url": "https://lawconnect.com/en-au/find/family-law/qld/logan-central-4114",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them:**\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Led by Carolyn Ryder, their legal practitioner director has over 20 years of legal experience.",
+              "annotations": [
+                {
+                  "title": "Family Law",
+                  "url": "https://ryderlawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their experienced team of Family Law & Wills and Estates lawyers in Logan and Ipswich will support you to negotiate the best outcome for you and your family.",
+              "annotations": [
+                {
+                  "title": "Family Law",
+                  "url": "https://ryderlawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They deliver solutions at their office in Logan City, Queensland, and also remotely Australia-wide.",
+              "annotations": [
+                {
+                  "title": "Family Law",
+                  "url": "https://ryderlawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- A great option for those who prefer a boutique, personalised experience with a female practitioner.\n\n---\n\n### 3. **JP Family Law & Mediation Logan**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "JP Family Law & Mediation Logan is a specialist family law and mediation practice supporting individuals, couples, and families throughout Logan and surrounding areas in Queensland.",
+              "annotations": [
+                {
+                  "title": "Top 10 Family Lawyers in Logan Qld",
+                  "url": "https://loganbusinessdirectory.com.au/family-lawyers-logan-qld-2/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them:**\n- Specialists in both **family law and mediation**, making them ideal if you want to resolve disputes without going to court.\n- Their dual focus on law and mediation can save clients significant time and legal costs.\n\n---\n\n### 4. **Enlight Lawyers** *(Slacks Creek, Logan)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Enlight Lawyers, based in Slacks Creek QLD, holds a 5-star rating from client recommendations on LawConnect.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers near Logan Central, QLD",
+                  "url": "https://lawconnect.com/en-au/find/family-law/qld/logan-central-4114",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them:**\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They listen to clients' stories and provide tailored legal advice, focusing on family, business, estate, and other legal matters, managing all aspects of family law from divorce and separation to domestic violence, and specialising in separation involving family businesses.",
+              "annotations": [
+                {
+                  "title": "20 Best Lawyers in Logan, QLD - LawConnect",
+                  "url": "https://lawconnect.com/en-au/find/lawyers/qld/logan",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- Their perfect rating and niche expertise in family business separations makes them a standout choice for business owners.\n\n---\n\n### 5. **SKC Lawyers** *(Berrinba, Logan)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "SKC Lawyers, based in Berrinba QLD, holds an impressive 4.8-star rating from 65 client recommendations on LawConnect.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers near Logan Central, QLD",
+                  "url": "https://lawconnect.com/en-au/find/family-law/qld/logan-central-4114",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them:**\n- A high volume of strong client reviews indicates consistent, quality service.\n- Conveniently located within the Logan region, serving the broader south Brisbane and Logan area.\n\n---\n\n## 📍 WESTERN CORRIDOR (Ipswich to Brisbane)\n\nFor the Western Corridor, the following firms are well-regarded based on their regional reputation and specialisation:\n\n### 6. **Advance Family Law** *(Brisbane/Ipswich region)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Advance Family Law (advancefamilylaw.com) is listed among the top family law practices serving the Logan and broader SEQ region.",
+              "annotations": [
+                {
+                  "title": "Top 10 Family Lawyers in Logan Qld",
+                  "url": "https://loganbusinessdirectory.com.au/family-lawyers-logan-qld-2/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are known for being a dedicated, specialist family law firm — meaning every lawyer in the firm focuses exclusively on family law, which can be a significant advantage in complex matters.\n\n---\n\n## ✅ Tips for Choosing the Right Family Lawyer\n\n| Factor | What to Look For |\n|---|---|\n| **Accreditation** | Queensland Law Society Accredited Family Law Specialist |\n| **Experience** | Years of practice specifically in family law |\n| **Specialisation** | Firms focused *only* on family law (not generalists) |\n| **Mediation** | Can they resolve disputes out of court? |\n| **Reviews** | Consistent, high-volume positive client feedback |\n| **Location** | Accessible office in your local area |\n| **Cost** | Free initial consultation offered? |\n\n> ⚠️ **Disclaimer:** This shortlist is based on publicly available information and ratings. It is always recommended to book an initial consultation (many firms offer a free first session) to assess which lawyer is the best personal fit for your specific situation.",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "best family lawyers Logan Queensland",
+        "best family lawyers Ipswich to Brisbane Western Corridor Queensland",
+        "best family lawyers Ipswich Springfield Brisbane western corridor Queensland reputable",
+        "top family law firms Ipswich Springfield Queensland reviews",
+        "best family lawyers Ipswich Queensland 2024 2025",
+        "reputable family lawyers Ipswich Springfield western Brisbane corridor",
+        "top family lawyers Ipswich QLD recommended",
+        "family lawyers Ipswich QLD best rated"
+      ]
+    }
+  ]
+}

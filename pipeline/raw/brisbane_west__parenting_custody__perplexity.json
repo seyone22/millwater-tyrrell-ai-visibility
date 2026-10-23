@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane_west",
+  "pk": "parenting_custody",
+  "plat": "perplexity",
+  "text": "Which family lawyers in Brisbane Western Suburbs (Indooroopilly & Centenary) are best for parenting arrangements, child custody disputes, and accredited family dispute resolution (mediation)?",
+  "loc": 9192539,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_west__parenting_custody__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:26:45.113Z",
+  "cost": 0.006275,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 44,
+      "output_tokens": 631,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005675,
+      "datetime": "2026-10-23 05:26:41 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For parenting arrangements, child-custody disputes and mediation in Brisbane’s western suburbs, the strongest shortlist is:\n\n| Firm | Location/relevance | Why consider them |\n|---|---|---|\n| **Littles Family Lawyers** | Indooroopilly | Western-suburbs firm handling parenting disputes, court proceedings, mediation and dispute-resolution conferences.[1] |\n| **Daykin Family Law** | Indooroopilly service area | Handles parenting arrangements and offers mediation and alternative dispute resolution.[5] |\n| **Melrose Keys Lawyers** | Kenmore, serving Indooroopilly and Brisbane West | Specifically lists child custody, parenting disputes and mediation among its services.[6] |\n| **James Black Family Law Mediation Arbitration** | Indooroopilly | Focuses on parenting arrangements, child support and mediation, with an approach aimed at reducing delay and cost.[8] |\n| **The Law People** | Brisbane-wide | Led by Jill Johnstone, identified as a Queensland Law Society Accredited Specialist in Family Law; handles parenting arrangements, negotiation, mediation and collaborative law.[7] |\n| **Stewart Family Law** | Brisbane; suitable for western-suburbs clients | Particularly strong for formal mediation: Judy Stewart is an Accredited Family Law Specialist, AMDRAS Advanced Mediator and Registered Family Dispute Resolution Practitioner. The firm also handles parenting litigation and can issue certificates needed before commencing many parenting cases in court.[4][9] |\n\n## Best fit by situation\n\n- **Need a local Indooroopilly solicitor:** Littles, Daykin, or James Black.\n- **Live in Kenmore, Centenary or nearby suburbs:** Melrose Keys is the most geographically targeted option.\n- **Want a highly mediation-focused practitioner:** Stewart Family Law is the clearest match because its mediators hold both family-law-specialist and Registered FDR Practitioner credentials.[9]\n- **Expect a complex or strongly contested court case:** Consider Stewart Family Law, The Law People, or another firm with an Accredited Family Law Specialist involved in the matter.[4][7]\n- **Want negotiation before litigation:** The Law People explicitly offers direct negotiation, lawyer-assisted negotiation, mediation and collaborative law.[7]\n\nBefore engaging a firm, ask:\n\n1. Is the actual lawyer handling the matter a **Queensland Law Society Accredited Family Law Specialist**?\n2. Is the mediator a **Registered Family Dispute Resolution Practitioner** and/or **AMDRAS-accredited**?\n3. Can they handle urgent issues such as family violence, recovery orders, relocation or contravention applications?\n4. Will they advise on a parenting plan, consent orders, or both?\n5. What are the likely costs for negotiation, mediation and court proceedings separately?\n\n“Child custody” is generally discussed in Australian family law as **parenting arrangements**, including where a child lives, time with each parent and parental decision-making. If there is family violence, a child-safety concern or an urgent risk of removal, seek urgent legal advice rather than relying only on mediation.",
+              "annotations": [
+                {
+                  "title": "The Best 12 Family Lawyers In Brisbane (Updated 2026) | ⚖️ ...",
+                  "url": "https://familylawyerfinder.com/au/best-family-lawyers-brisbane-qld-4000/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Child Custody Lawyers Brisbane",
+                  "url": "https://www.avokahlegal.com.au/child-custody-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Lawyers Brisbane West",
+                  "url": "https://www.australianfamilylawyers.com.au/cm-family-lawyers-brisbane-west",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Child Custody Lawyers Brisbane | Free 15-Minute Consult",
+                  "url": "https://stewartfamilylaw.com.au/child-custody-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Lawyers Indooroopilly",
+                  "url": "https://daykinfamilylaw.com.au/indooroopilly/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Melrose Keys Lawyers - Brisbane Family and Estate Lawyers",
+                  "url": "https://mk-law.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The Law People: Family Lawyers Brisbane | Family Law Firm",
+                  "url": "https://thelawpeople.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Children's Lawyers near Toowong, QLD – 42 Nearby | Lawconnect",
+                  "url": "https://lawconnect.com/en-au/find/childrens-law/qld/toowong-4066",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Mediation & Dispute Resolution Practitioners Brisbane",
+                  "url": "https://stewartfamilylaw.com.au/family-mediation-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Award Winning Family & Divorce Lawyers Brisbane | DA Family ...",
+                  "url": "https://dafamilylawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "slug": "springfield",
+  "pk": "parenting_custody",
+  "plat": "aimode",
+  "text": "Which family lawyers in Springfield and Greater Springfield, QLD are best for parenting arrangements, child custody disputes, and accredited family dispute resolution (mediation)?",
+  "loc": 9191413,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\springfield__parenting_custody__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:24:47.379Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which family lawyers in Springfield and Greater Springfield, QLD are best for parenting arrangements, child custody disputes, and accredited family dispute resolution (mediation)?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 9191413,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20family%20lawyers%20in%20Springfield%20and%20Greater%20Springfield%2C%20QLD%20are%20best%20for%20parenting%20arrangements%2C%20child%20custody%20disputes%2C%20and%20accredited%20family%20dispute%20resolution%20%28mediation%29%3F&udm=50&uule=w+CAIQIFISCRFktRYbSpFrEUDb3vNaowIF&hl=en&gl=AU",
+      "datetime": "2026-10-23 05:24:43 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "When navigating child custody disputes, parenting arrangements, or family dispute resolution (mediation) in Springfield and Greater Springfield, several local firms stand out for their specialized expertise, proximity, and client-focused approaches.\n\n\n\n---\n\n![](https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QurfQ83WEnqjU5YZaWmO8A&cb_client=search.gws-prod.grass&yaw=94.6419&pitch=-11.619396&thumbfov=100&w=82&h=82)\nBrookwater Legal 4.8 (326)  \nLegal services  \nOpen Augustine Heights QLD  \nCall Directions Website Brookwater Legal located nearby in Augustine Heights (serving the broader Greater Springfield and Ipswich corridor), handles comprehensive children’s and parenting matters, including complex arrangements, child support, and alternative dispute resolution. They emphasize child-focused, cost-effective resolutions and offer a confidential, fixed-fee initial consultation. You can review their scope on the [Brookwater Legal Family Lawyers Page](https://www.brookwaterlegal.com.au/family-lawyers).\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLceroix1vUkLSzIaC8vAjksj9bTJXvF-oXw3KfKE2VdlG_ILVpdjImC5t_OCav7h_jUqm14S1WtYeCisxzEBl9m7IviVtfjcEK6tYZ3M560rEt1JWGkimkS-vN41bt58XvzG3TawzXsDCjx=s108-w108-h144-n-k-no)\nKeane Legal 4.0 (4)  \nLaw firm  \nOpen East Ipswich QLD  \nCall Directions Website Keane Legal practices exclusively in family law, servicing Ipswich, Brookwater, and the Greater Springfield region. They manage custody disputes, parenting plans, and mediation preparation, offering structured initial appointments out of their local offices. More details can be found directly via [Keane Legal Springfield & Brookwater](https://www.keanelegal.com.au/family-law-solicitors-springfield-qld).\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLc04b018IbzSH7v3qj4XpWTpzghkRE7mkJZCJr1BGtI_2cDHbkcgPWNWTYbtHxf0j2wzK6iFkbWjPZhrA-rbzQVrZofK0P5S_cN_Zcg4vsbyeoe1QWGLTOlN0-W35v62YVXJ8nf_xh8K3hQ=s192-w192-h144-n-k-no)\nVM Family Law 3.7 (34)  \nFamily law attorney  \nOpen Brookwater QLD  \nCall Directions Website VM Family Law services Ipswich and Greater Springfield with a strong focus on resolving parenting matters through alternate dispute resolution, drafting formal parenting plans, negotiating Consent Orders, and providing representation in the local Ipswich and Brisbane federal circuit and family courts.[[1]](https://www.brookwaterlegal.com.au/)[[2]](https://www.brookwaterlegal.com.au/family-lawyers)[[3]](https://www.keanelegal.com.au/family-lawyer-ipswich-brookwater-springfield)[[4]](https://www.keanelegal.com.au/family-law-solicitors-springfield-qld)[[5]](https://www.vmfamilylaw.com.au/)\n\nTo help narrow down the best fit, could you share:\n\n- Whether you are looking to **negotiate an amicable agreement** via mediation or need **urgent court representation**?\n- If there are any safety concerns or **domestic violence issues** involved?",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "When navigating child custody disputes, parenting arrangements, or family dispute resolution (mediation) in Springfield and Greater Springfield, several local firms stand out for their specialized expertise, proximity, and client-focused approaches.",
+              "markdown": "When navigating child custody disputes, parenting arrangements, or family dispute resolution (mediation) in Springfield and Greater Springfield, several local firms stand out for their specialized expertise, proximity, and client-focused approaches.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Brookwater Legal 4.8 (326) Legal services Open Augustine Heights QLD Call Directions Website Brookwater Legal located nearby in Augustine Heights (serving the broader Greater Springfield and Ipswich corridor), handles comprehensive children’s and parenting matters, including complex arrangements, child support, and alternative dispute resolution. They emphasize child-focused, cost-effective resolutions and offer a confidential, fixed-fee initial consultation. You can review their scope on the Brookwater Legal Family Lawyers Page.",
+              "markdown": "---\n\n![](https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QurfQ83WEnqjU5YZaWmO8A&cb_client=search.gws-prod.grass&yaw=94.6419&pitch=-11.619396&thumbfov=100&w=82&h=82)\nBrookwater Legal 4.8 (326)  \nLegal services  \nOpen Augustine Heights QLD  \nCall Directions Website Brookwater Legal located nearby in Augustine Heights (serving the broader Greater Springfield and Ipswich corridor), handles comprehensive children’s and parenting matters, including complex arrangements, child support, and alternative dispute resolution. They emphasize child-focused, cost-effective resolutions and offer a confidential, fixed-fee initial consultation. You can review their scope on the [Brookwater Legal Family Lawyers Page](https://www.brookwaterlegal.com.au/family-lawyers).",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Brookwater Legal Family Lawyers Page",
+                  "description": null,
+                  "url": "https://www.brookwaterlegal.com.au/family-lawyers",
+                  "domain": "www.brookwaterlegal.com.au"
+                }
+              ],
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QurfQ83WEnqjU5YZaWmO8A&cb_client=search.gws-prod.grass&yaw=94.6419&pitch=-11.619396&thumbfov=100&w=82&h=82"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Keane Legal 4.0 (4) Law firm Open East Ipswich QLD Call Directions Website Keane Legal practices exclusively in family law, servicing Ipswich, Brookwater, and the Greater Springfield region. They manage custody disputes, parenting plans, and mediation preparation, offering structured initial appointments out of their local offices. More details can be found directly via Keane Legal Springfield & Brookwater.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLceroix1vUkLSzIaC8vAjksj9bTJXvF-oXw3KfKE2VdlG_ILVpdjImC5t_OCav7h_jUqm14S1WtYeCisxzEBl9m7IviVtfjcEK6tYZ3M560rEt1JWGkimkS-vN41bt58XvzG3TawzXsDCjx=s108-w108-h144-n-k-no)\nKeane Legal 4.0 (4)  \nLaw firm  \nOpen East Ipswich QLD  \nCall Directions Website Keane Legal practices exclusively in family law, servicing Ipswich, Brookwater, and the Greater Springfield region. They manage custody disputes, parenting plans, and mediation preparation, offering structured initial appointments out of their local offices. More details can be found directly via [Keane Legal Springfield & Brookwater](https://www.keanelegal.com.au/family-law-solicitors-springfield-qld).",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Keane Legal Springfield & Brookwater",
+                  "description": null,
+                  "url": "https://www.keanelegal.com.au/family-law-solicitors-springfield-qld",
+                  "domain": "www.keanelegal.com.au"
+                }
+              ],
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLceroix1vUkLSzIaC8vAjksj9bTJXvF-oXw3KfKE2VdlG_ILVpdjImC5t_OCav7h_jUqm14S1WtYeCisxzEBl9m7IviVtfjcEK6tYZ3M560rEt1JWGkimkS-vN41bt58XvzG3TawzXsDCjx=s108-w108-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "VM Family Law 3.7 (34) Family law attorney Open Brookwater QLD Call Directions Website VM Family Law services Ipswich and Greater Springfield with a strong focus on resolving parenting matters through alternate dispute resolution, drafting formal parenting plans, negotiating Consent Orders, and providing representation in the local Ipswich and Brisbane federal circuit and family courts.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLc04b018IbzSH7v3qj4XpWTpzghkRE7mkJZCJr1BGtI_2cDHbkcgPWNWTYbtHxf0j2wzK6iFkbWjPZhrA-rbzQVrZofK0P5S_cN_Zcg4vsbyeoe1QWGLTOlN0-W35v62YVXJ8nf_xh8K3hQ=s192-w192-h144-n-k-no)\nVM Family Law 3.7 (34)  \nFamily law attorney  \nOpen Brookwater QLD  \nCall Directions Website VM Family Law services Ipswich and Greater Springfield with a strong focus on resolving parenting matters through alternate dispute resolution, drafting formal parenting plans, negotiating Consent Orders, and providing representation in the local Ipswich and Brisbane federal circuit and family courts.[[1]](https://www.brookwaterlegal.com.au/)[[2]](https://www.brookwaterlegal.com.au/family-lawyers)[[3]](https://www.keanelegal.com.au/family-lawyer-ipswich-brookwater-springfield)[[4]](https://www.keanelegal.com.au/family-law-solicitors-springfield-qld)[[5]](https://www.vmfamilylaw.com.au/)",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc04b018IbzSH7v3qj4XpWTpzghkRE7mkJZCJr1BGtI_2cDHbkcgPWNWTYbtHxf0j2wzK6iFkbWjPZhrA-rbzQVrZofK0P5S_cN_Zcg4vsbyeoe1QWGLTOlN0-W35v62YVXJ8nf_xh8K3hQ=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Brookwater Legal",
+                  "domain": "www.brookwaterlegal.com.au",
+                  "url": "https://www.brookwaterlegal.com.au/",
+                  "title": "Welcome To Brookwater Legal | Springfield & Ipswich Lawyers",
+                  "text": "Brookwater Legal, serving Greater Springfield, Ipswich, and Brisbane surrounds (Phone: 07 3437 8555). Location: Suite 9F, 118 Augu..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Brookwater Legal",
+                  "domain": "www.brookwaterlegal.com.au",
+                  "url": "https://www.brookwaterlegal.com.au/family-lawyers",
+                  "title": "Local Family Lawyers | Brookwater Legal",
+                  "text": "Cost-effective, child-focused, flexible, local, and accessible representation protecting client and children's rights."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Keane Legal",
+                  "domain": "www.keanelegal.com.au",
+                  "url": "https://www.keanelegal.com.au/family-lawyer-ipswich-brookwater-springfield",
+                  "title": "Divorce & Family Lawyers in Ipswich & Brookwater QLD",
+                  "text": "Our family lawyers practice exclusively in family law. Keane Legal is a law firm in Ipswich and Brookwater, Building 5, 22 Magnoli..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Keane Legal",
+                  "domain": "www.keanelegal.com.au",
+                  "url": "https://www.keanelegal.com.au/family-law-solicitors-springfield-qld",
+                  "title": "Family & Divorce Lawyers Springfield QLD | Offices in Ipswich ...",
+                  "text": "Whether you need assistance with separation and divorce, custody disputes or parenting arrangements, our family lawyers in Ipswich..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "VM Family Law",
+                  "domain": "www.vmfamilylaw.com.au",
+                  "url": "https://www.vmfamilylaw.com.au/",
+                  "title": "Best Family Lawyers Ipswich & Greater Springfield | We Can ...",
+                  "text": "our family law firm can assist you in resolving parenting matters. Ipswich Court Orders. Brisbane and Ipswich area."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "To help narrow down the best fit, could you share:",
+              "markdown": "To help narrow down the best fit, could you share:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Whether you are looking to negotiate an amicable agreement via mediation or need urgent court representation ? If there are any safety concerns or domestic violence issues involved?",
+              "markdown": "- Whether you are looking to **negotiate an amicable agreement** via mediation or need **urgent court representation**?\n- If there are any safety concerns or **domestic violence issues** involved?",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Brookwater Legal",
+              "domain": "www.brookwaterlegal.com.au",
+              "url": "https://www.brookwaterlegal.com.au/",
+              "title": "Welcome To Brookwater Legal | Springfield & Ipswich Lawyers",
+              "text": "Brookwater Legal, serving Greater Springfield, Ipswich, and Brisbane surrounds (Phone: 07 3437 8555). Location: Suite 9F, 118 Augusta Parkway, Augustine Heights QL..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Keane Legal",
+              "domain": "www.keanelegal.com.au",
+              "url": "https://www.keanelegal.com.au/family-lawyer-ipswich-brookwater-springfield",
+              "title": "Divorce & Family Lawyers in Ipswich & Brookwater QLD",
+              "text": "Our family lawyers practice exclusively in family law. Keane Legal is a law firm in Ipswich and Brookwater, Building 5, 22 Magnolia Drive"
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Keane Legal",
+              "domain": "www.keanelegal.com.au",
+              "url": "https://www.keanelegal.com.au/family-law-solicitors-springfield-qld",
+              "title": "Family & Divorce Lawyers Springfield QLD | Offices in Ipswich ...",
+              "text": "Whether you need assistance with separation and divorce, custody disputes or parenting arrangements, our family lawyers in Ipswich … schedule a Fixed fee initial c..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

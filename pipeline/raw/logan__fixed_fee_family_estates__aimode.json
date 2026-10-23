@@ -1,0 +1,243 @@
+{
+  "slug": "logan",
+  "pk": "fixed_fee_family_estates",
+  "plat": "aimode",
+  "text": "Which boutique law firms in Logan and Western Corridor (Ipswich to Brisbane) offer free initial consultations, fixed-fee wills, or deferred-fee options for family law and wills and estates?",
+  "loc": 9112660,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\logan__fixed_fee_family_estates__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:33:20.724Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which boutique law firms in Logan and Western Corridor (Ipswich to Brisbane) offer free initial consultations, fixed-fee wills, or deferred-fee options for family law and wills and estates?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 9112660,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20boutique%20law%20firms%20in%20Logan%20and%20Western%20Corridor%20%28Ipswich%20to%20Brisbane%29%20offer%20free%20initial%20consultations%2C%20fixed-fee%20wills%2C%20or%20deferred-fee%20options%20for%20family%20law%20and%20wills%20and%20estates%3F&udm=50&uule=w+CAIQIFISCcfkSS9POJFrEVYgP_h8diK6&hl=en&gl=AU",
+      "datetime": "2026-10-23 05:33:16 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "`Several boutique law firms operating across the Logan and Western Corridor (stretching from Ipswich to Brisbane) offer accessible structures like free initial consultations, fixed-fee packages, or deferred-fee arrangements for family law and wills and estates`.\n\nHere are notable boutique firms in the region matching these services:\n\n\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLceRfd_uARv6tTXVqlgvAMYymjxKD5PZJsFjaJDhFw1-f4nNfbuoh_8N6uuxTbwB8bMTranQxYqNIRHWLtTcutbhuHKfw_1xNcjUFw6OFbaiLBlZEqBWdkFpqAG_Z_85KG3IuQ=s192-w192-h144-n-k-no)\nMillwater Tyrrell Law 4.8 (107)  \nLegal services  \nOpen Ipswich QLD  \nCall Directions Website\n\n- **Services:** Family Law, Wills & Estates.\n- **Accessible Options:** They offer a **free first consultation** for all matters to outline advice and cost breakdowns. **Fixed fees** are available upon request for most matters, and they accommodate **deferred fee arrangements** (pay-at-the-end) on a case-by-case basis for appropriate family law proceedings. You can review their approach on the [Millwater Tyrrell Law Pricing Structure](https://millwatertyrrell.com.au/pricing).\n\n\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLeqHpzbFQQNUa84W6rwhfeKY0x8SROaFLXlv6ITGbxnLBvJLva5RNETg0tfL3Dik2WD92TIT51foN26J-8Bc5bhkZexiLOmXgdJXPrifD3jNuEE9VBKgA4VysS_SoDEgHXsZ9sM=s192-w192-h144-n-k-no)\nSKC Lawyers 4.8 (67)  \nSolicitor  \nOpen Berrinba QLD  \nCall Directions Website**SKC Lawyers** (Berrinba / Browns Plains, Logan City)\n\n- **Services:** Family Law, Wills & Estates (including powers of attorney and estate litigation), and Commercial Law.\n- **Accessible Options:** They provide a **free initial 20-minute consultation** by appointment with their solicitors, which is completely obligation-free to evaluate your documents and map out prospective costs. Details are available via [SKC Lawyers Free Consultation](https://skclawyers.com.au/free-consultation/).\n\n\n\n---\n\n![](https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vKK6qGkGyKgMG-9mxaUeRw&cb_client=search.gws-prod.grass&yaw=90.38047&pitch=3.3208673&thumbfov=100&w=82&h=82)\nRyder Lawyers 4.9 (42)  \nSolicitor  \nOpen Daisy Hill QLD  \nCall Directions Website**Ryder Lawyers** (Daisy Hill/Loganholme & Booval/Ipswich)\n\n- **Services:** Family Law (parenting, property) and Wills & Estates (testamentary trusts, probate, estate disputes).\n- **Accessible Options:** They offer a **free initial phone consultation** (15 to 30 minutes depending on the specific family law/Ipswich-Logan intake stream) and transparent tiered estate planning package structures. Learn more at [Ryder Lawyers](https://ryderlawyers.com.au/).[[1]](https://millwatertyrrell.com.au/pricing)[[2]](https://skclawyers.com.au/free-consultation/)[[3]](https://skclawyers.com.au/)[[4]](https://ryderlawyers.com.au/locations/family-lawyers-ipswich/)[[5]](https://ryderlawyers.com.au/)\n\nIf you'd like, let me know:\n\n- Whether you are leaning towards **Family Law** or **Wills & Estates** \n- If you specifically need a **deferred fee / payment-at-settlement** structure for property/family law\n\nI can help narrow down the firm best suited to your exact legal needs and location.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Several boutique law firms operating across the Logan and Western Corridor (stretching from Ipswich to Brisbane) offer accessible structures like free initial consultations, fixed-fee packages, or deferred-fee arrangements for family law and wills and estates.",
+              "markdown": "`Several boutique law firms operating across the Logan and Western Corridor (stretching from Ipswich to Brisbane) offer accessible structures like free initial consultations, fixed-fee packages, or deferred-fee arrangements for family law and wills and estates`.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Here are notable boutique firms in the region matching these services:",
+              "markdown": "Here are notable boutique firms in the region matching these services:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Millwater Tyrrell Law 4.8 (107) Legal services Open Ipswich QLD Call Directions WebsiteServices: Family Law, Wills & Estates.\nAccessible Options: They offer a free first consultation for all matters to outline advice and cost breakdowns. Fixed fees are available upon request for most matters, and they accommodate deferred fee arrangements (pay-at-the-end) on a case-by-case basis for appropriate family law proceedings. You can review their approach on the Millwater Tyrrell Law Pricing Structure.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLceRfd_uARv6tTXVqlgvAMYymjxKD5PZJsFjaJDhFw1-f4nNfbuoh_8N6uuxTbwB8bMTranQxYqNIRHWLtTcutbhuHKfw_1xNcjUFw6OFbaiLBlZEqBWdkFpqAG_Z_85KG3IuQ=s192-w192-h144-n-k-no)\nMillwater Tyrrell Law 4.8 (107)  \nLegal services  \nOpen Ipswich QLD  \nCall Directions Website\n\n- **Services:** Family Law, Wills & Estates.\n- **Accessible Options:** They offer a **free first consultation** for all matters to outline advice and cost breakdowns. **Fixed fees** are available upon request for most matters, and they accommodate **deferred fee arrangements** (pay-at-the-end) on a case-by-case basis for appropriate family law proceedings. You can review their approach on the [Millwater Tyrrell Law Pricing Structure](https://millwatertyrrell.com.au/pricing).",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Millwater Tyrrell Law Pricing Structure",
+                  "description": null,
+                  "url": "https://millwatertyrrell.com.au/pricing",
+                  "domain": "millwatertyrrell.com.au"
+                }
+              ],
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLceRfd_uARv6tTXVqlgvAMYymjxKD5PZJsFjaJDhFw1-f4nNfbuoh_8N6uuxTbwB8bMTranQxYqNIRHWLtTcutbhuHKfw_1xNcjUFw6OFbaiLBlZEqBWdkFpqAG_Z_85KG3IuQ=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "SKC Lawyers 4.8 (67) Solicitor Open Berrinba QLD Call Directions Website SKC Lawyers (Berrinba / Browns Plains, Logan City)Services: Family Law, Wills & Estates (including powers of attorney and estate litigation), and Commercial Law.\nAccessible Options: They provide a free initial 20-minute consultation by appointment with their solicitors, which is completely obligation-free to evaluate your documents and map out prospective costs. Details are available via SKC Lawyers Free Consultation.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLeqHpzbFQQNUa84W6rwhfeKY0x8SROaFLXlv6ITGbxnLBvJLva5RNETg0tfL3Dik2WD92TIT51foN26J-8Bc5bhkZexiLOmXgdJXPrifD3jNuEE9VBKgA4VysS_SoDEgHXsZ9sM=s192-w192-h144-n-k-no)\nSKC Lawyers 4.8 (67)  \nSolicitor  \nOpen Berrinba QLD  \nCall Directions Website**SKC Lawyers** (Berrinba / Browns Plains, Logan City)\n\n- **Services:** Family Law, Wills & Estates (including powers of attorney and estate litigation), and Commercial Law.\n- **Accessible Options:** They provide a **free initial 20-minute consultation** by appointment with their solicitors, which is completely obligation-free to evaluate your documents and map out prospective costs. Details are available via [SKC Lawyers Free Consultation](https://skclawyers.com.au/free-consultation/).",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "SKC Lawyers Free Consultation",
+                  "description": null,
+                  "url": "https://skclawyers.com.au/free-consultation/",
+                  "domain": "skclawyers.com.au"
+                }
+              ],
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeqHpzbFQQNUa84W6rwhfeKY0x8SROaFLXlv6ITGbxnLBvJLva5RNETg0tfL3Dik2WD92TIT51foN26J-8Bc5bhkZexiLOmXgdJXPrifD3jNuEE9VBKgA4VysS_SoDEgHXsZ9sM=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Ryder Lawyers 4.9 (42) Solicitor Open Daisy Hill QLD Call Directions Website Ryder Lawyers (Daisy Hill/Loganholme & Booval/Ipswich)Services: Family Law (parenting, property) and Wills & Estates (testamentary trusts, probate, estate disputes).\nAccessible Options: They offer a free initial phone consultation (15 to 30 minutes depending on the specific family law/Ipswich-Logan intake stream) and transparent tiered estate planning package structures. Learn more at Ryder Lawyers.",
+              "markdown": "---\n\n![](https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vKK6qGkGyKgMG-9mxaUeRw&cb_client=search.gws-prod.grass&yaw=90.38047&pitch=3.3208673&thumbfov=100&w=82&h=82)\nRyder Lawyers 4.9 (42)  \nSolicitor  \nOpen Daisy Hill QLD  \nCall Directions Website**Ryder Lawyers** (Daisy Hill/Loganholme & Booval/Ipswich)\n\n- **Services:** Family Law (parenting, property) and Wills & Estates (testamentary trusts, probate, estate disputes).\n- **Accessible Options:** They offer a **free initial phone consultation** (15 to 30 minutes depending on the specific family law/Ipswich-Logan intake stream) and transparent tiered estate planning package structures. Learn more at [Ryder Lawyers](https://ryderlawyers.com.au/).[[1]](https://millwatertyrrell.com.au/pricing)[[2]](https://skclawyers.com.au/free-consultation/)[[3]](https://skclawyers.com.au/)[[4]](https://ryderlawyers.com.au/locations/family-lawyers-ipswich/)[[5]](https://ryderlawyers.com.au/)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Ryder Lawyers",
+                  "description": null,
+                  "url": "https://ryderlawyers.com.au/",
+                  "domain": "ryderlawyers.com.au"
+                }
+              ],
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vKK6qGkGyKgMG-9mxaUeRw&cb_client=search.gws-prod.grass&yaw=90.38047&pitch=3.3208673&thumbfov=100&w=82&h=82"
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Millwater Tyrrell Law",
+                  "domain": "millwatertyrrell.com.au",
+                  "url": "https://millwatertyrrell.com.au/pricing",
+                  "title": "First consult free - Millwater Tyrrell Law - Ipswich Family ...",
+                  "text": "We offer a free initial consultation for all matters to give you advice and a breakdown of all legal costs"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "SKC Lawyers",
+                  "domain": "skclawyers.com.au",
+                  "url": "https://skclawyers.com.au/free-consultation/",
+                  "title": "Free Legal Consultation in Logan City, QLD - SKC Lawyers",
+                  "text": "We offer new clients an initial free 20 minute consultation by appointment with our solicitors. info@skclawyers.com.au. PO BOX 440..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "SKC Lawyers",
+                  "domain": "skclawyers.com.au",
+                  "url": "https://skclawyers.com.au/",
+                  "title": "Navigate Family Law and Estates Seamlessly in Qld",
+                  "text": "Family Law: Divorce, separation, property settlements, child custody, and parenting arrangements. Wills and Estates: Estate planni..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Ryder Lawyers",
+                  "domain": "ryderlawyers.com.au",
+                  "url": "https://ryderlawyers.com.au/locations/family-lawyers-ipswich/",
+                  "title": "Family Lawyers Ipswich",
+                  "text": "Contact us 07 3709 1330 Shop 10, 23-25 Daisy Hill Road Daisy Hill ・ info@ryderlawyers.com.au ・ book a free 30-minute phone consult..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Ryder Lawyers",
+                  "domain": "ryderlawyers.com.au",
+                  "url": "https://ryderlawyers.com.au/",
+                  "title": "Family Law | Wills And Estates | Ryder Lawyers | Logan & Ipswich",
+                  "text": "Family Law (separation, property, parenting), Free 15-minute phone consultation for new family law clients; Estate planning packag..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you'd like, let me know:",
+              "markdown": "If you'd like, let me know:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Whether you are leaning towards Family Law or Wills & Estates If you specifically need a deferred fee / payment-at-settlement structure for property/family law",
+              "markdown": "- Whether you are leaning towards **Family Law** or **Wills & Estates** \n- If you specifically need a **deferred fee / payment-at-settlement** structure for property/family law",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "I can help narrow down the firm best suited to your exact legal needs and location.",
+              "markdown": "I can help narrow down the firm best suited to your exact legal needs and location.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Millwater Tyrrell Law",
+              "domain": "millwatertyrrell.com.au",
+              "url": "https://millwatertyrrell.com.au/pricing",
+              "title": "First consult free - Millwater Tyrrell Law - Ipswich Family ...",
+              "text": "We offer a free initial consultation for all matters to give you advice and a breakdown of all legal costs"
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "SKC Lawyers",
+              "domain": "skclawyers.com.au",
+              "url": "https://skclawyers.com.au/",
+              "title": "Navigate Family Law and Estates Seamlessly in Qld",
+              "text": "Family Law: Divorce, separation, property settlements, child custody, and parenting arrangements. Wills and Estates: Estate planning, wills, enduring powers of att..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Ryder Lawyers",
+              "domain": "ryderlawyers.com.au",
+              "url": "https://ryderlawyers.com.au/locations/family-lawyers-ipswich/",
+              "title": "Family Lawyers Ipswich",
+              "text": "Contact us 07 3709 1330 Shop 10, 23-25 Daisy Hill Road Daisy Hill ・ info@ryderlawyers.com.au ・ book a free 30-minute phone consultation"
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

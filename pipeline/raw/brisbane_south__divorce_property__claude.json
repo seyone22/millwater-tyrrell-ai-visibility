@@ -1,0 +1,254 @@
+{
+  "slug": "brisbane_south",
+  "pk": "divorce_property",
+  "plat": "claude",
+  "text": "I am going through a separation and complex property settlement in Brisbane Southside (Mount Gravatt & Sunnybank). Which family law firms have the strongest track record for property division and binding financial agreements?",
+  "loc": 9060851,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_south__divorce_property__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:28:48.191Z",
+  "cost": 0.064885,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 9745,
+      "output_tokens": 1670,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.064285,
+      "datetime": "2026-10-23 05:28:44 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a comprehensive guide to the strongest family law firms for property settlements and binding financial agreements (BFAs) in the Brisbane Southside area, particularly around Mount Gravatt and Sunnybank:\n\n---\n\n## 🏛️ Top Family Law Firms for Property Settlement & BFAs – Brisbane Southside\n\n---\n\n### 1. 🥇 Bennett Carroll Solicitors – Upper Mount Gravatt\n**📍 33 Sanders St, Upper Mount Gravatt | ☎ 1300 33 4566**\n\nThis is arguably the standout firm for complex property matters on Brisbane's southside. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Bennett Carroll Solicitors provide legal advice on divorce, parenting arrangements, property settlements, and domestic violence matters across Brisbane, Ipswich, Kawana, Mermaid Beach, Stafford, and **Upper Mount Gravatt**.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Across Queensland",
+                  "url": "https://www.bcglaw.com.au/family-law/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Critically for complex cases, ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "family law matters can become significantly more complex when a business is part of the asset pool — and Bennett Carroll has the experience and resources to handle property settlements involving business ownership, partnerships, or company shares, working alongside trusted accountants to accurately assess business value and ensure a fair division of assets.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Across Queensland",
+                  "url": "https://www.bcglaw.com.au/family-law/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 2. 🥈 Arora Legal – Greenslopes (Near Mount Gravatt)\n**📍 Greenslopes, Brisbane**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Arora Legal in Greenslopes specialises in family law, mediation, and collaborative practice, helping clients separate, divorce, and create sustainable parenting and property agreements. They offer face-to-face and nationwide video consultations with fixed-fee options, and with over 25 years' experience, 85% of their cases settle without court through negotiation, mediation, or collaboration.",
+              "annotations": [
+                {
+                  "title": "Find Family Lawyers in Mount Gravatt QLD - Lawconnect",
+                  "url": "https://lawconnect.com/en-au/find/family-law/qld/mount-gravatt-4122",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " This is a major advantage for keeping costs down in a complex property settlement.\n\n---\n\n### 3. 🥉 Ashri Legal – Eight Mile Plains (Near Sunnybank)\n**📍 Eight Mile Plains, QLD | ⭐ 5 stars from 12 reviews**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Ashri Legal in Brisbane, led by Principal Solicitor Ashika Jacques, offers a client-centred approach to family law. The firm provides compassionate, transparent, and strategic legal support, specialising in divorce, parenting arrangements, consent orders, and **binding financial agreements**. It also handles child protection, domestic violence, mediation, and property settlements.",
+              "annotations": [
+                {
+                  "title": "Property and Financial Settlement Lawyers near Sunnybank Hills, QLD",
+                  "url": "https://lawconnect.com/en-au/find/property-and-financial-settlement/qld/sunnybank-hills-4109",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 4. AusLaw Partners – Eight Mile Plains\n**📍 Eight Mile Plains, QLD | ⭐ 4.9 stars from 438 reviews**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "AusLaw Partners is based in Eight Mile Plains (near Sunnybank Hills) and holds an impressive 4.9-star rating from 438 reviews",
+              "annotations": [
+                {
+                  "title": "Property and Financial Settlement Lawyers near Sunnybank Hills, QLD",
+                  "url": "https://lawconnect.com/en-au/find/property-and-financial-settlement/qld/sunnybank-hills-4109",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " — one of the highest-rated firms in the area, indicating a strong and consistent track record.\n\n---\n\n### 5. Michael Lynch Family Lawyers – Brisbane (Serving Southside)\n**📍 Brisbane CBD (serving all southside suburbs)**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their family lawyers are experienced in documenting complex property matters and can also assist with the splitting of superannuation, which is treated like any other asset in a property settlement agreement.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Brisbane",
+                  "url": "https://www.michaellynchfamilylawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their family law solicitors assist with the full process, from the application and interim hearing through to the consent order and eventual **binding financial agreement**.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Brisbane",
+                  "url": "https://www.michaellynchfamilylawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They even have a testimonial from a client in ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Mt Gravatt who appreciated their lawyer's professional approach.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Brisbane",
+                  "url": "https://www.michaellynchfamilylawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 6. Campbells Legal – Upper Mount Gravatt\n**📍 6B/46 Mount Gravatt-Capalaba Road, Upper Mount Gravatt**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Campbells Legal is a small, family-run law firm based in Upper Mount Gravatt on Brisbane's southside, conveniently located for clients from Mount Gravatt, Mansfield, Wishart, Holland Park, Carindale, Coorparoo, Sunnybank, Eight Mile Plains, Rochedale, and the Logan corridor.",
+              "annotations": [
+                {
+                  "title": "Solicitors in Upper Mt Gravatt - Campbells Legal Services",
+                  "url": "https://campbellslegal.com.au/solicitors-in-upper-mt-gravatt/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They have been acting for Queensland families and businesses since 1986.",
+              "annotations": [
+                {
+                  "title": "Solicitors in Upper Mt Gravatt - Campbells Legal Services",
+                  "url": "https://campbellslegal.com.au/solicitors-in-upper-mt-gravatt/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Their longevity and local presence make them a solid choice for straightforward to moderately complex property matters.\n\n---\n\n### 7. CG Legal Group – Greenslopes\n**📍 Greenslopes, Brisbane**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "CG Legal Group, based in Greenslopes, Brisbane, provides clear, pragmatic legal advice to individuals, families, and small businesses across Brisbane and South East Queensland. Their experienced team handles family law, property and conveyancing, domestic violence, and commercial law.",
+              "annotations": [
+                {
+                  "title": "Find Family Lawyers in Mount Gravatt QLD - Lawconnect",
+                  "url": "https://lawconnect.com/en-au/find/family-law/qld/mount-gravatt-4122",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 8. Times Lawyers – Sunnybank Square\n**📍 Level 3, 09 Mains Rd, Sunnybank | ☎ 07 3344 2888**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Times Lawyers is conveniently located at Sunnybank Square",
+              "annotations": [
+                {
+                  "title": "10 BEST ⚖️ Lawyers in Brisbane Southside QLD",
+                  "url": "https://www.localsearch.com.au/find/lawyers/brisbane-southside-qld",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", making them one of the most geographically accessible firms for Sunnybank residents dealing with family law and property matters.\n\n---\n\n## 💡 Key Tips for Choosing Your Firm\n\n| Factor | What to Look For |\n|---|---|\n| **Complex Assets** | Firms with business valuation experience (e.g., Bennett Carroll) |\n| **BFAs** | Ensure the firm specifically lists BFAs as a specialty |\n| **Cost Control** | Consider fixed-fee or mediation-first firms (e.g., Arora Legal) |\n| **Local Presence** | Upper Mount Gravatt and Eight Mile Plains firms offer southside convenience |\n| **Reviews** | AusLaw Partners (438 reviews, 4.9⭐) shows strong client satisfaction |\n\n---\n\n> ⚠️ **Important:** Always book an initial consultation (many firms offer free or low-cost first consultations) to assess whether the lawyer's style, experience, and fee structure suit your specific situation. For a **binding financial agreement**, both parties must have independent legal advice — so your partner will also need their own solicitor.",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "best family law firms property settlement Brisbane Southside Mount Gravatt Sunnybank",
+        "family law firms binding financial agreements property division Brisbane south"
+      ]
+    }
+  ]
+}

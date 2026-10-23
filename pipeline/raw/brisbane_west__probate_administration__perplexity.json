@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane_west",
+  "pk": "probate_administration",
+  "plat": "perplexity",
+  "text": "I am an executor handling probate and deceased estate administration in Brisbane Western Suburbs (Indooroopilly & Centenary). Which law firms specialise in Queensland probate and estate administration?",
+  "loc": 9192539,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_west__probate_administration__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:27:13.419Z",
+  "cost": 0.006135,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 46,
+      "output_tokens": 489,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005535,
+      "datetime": "2026-10-23 05:27:09 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For an executor in Indooroopilly or the Centenary suburbs, these Queensland firms appear particularly relevant for **probate, executor advice and deceased-estate administration**:\n\n- **Bennett Carroll Solicitors** — handles probate applications, asset collection, debts, distributions and executor obligations across Queensland. It lists Brisbane South and Brisbane Central service locations, with electronic and appointment-based options.[1]\n- **A.L.F. Lawyers** — assists Brisbane executors with Supreme Court of Queensland probate applications, letters of administration, estate administration and estate disputes.[2]\n- **QLD Estate Lawyers** — focuses on Queensland wills and estates, including preparing and lodging probate applications, identifying assets and liabilities, and advising executors.[3][9]\n- **Turner Freeman Lawyers** — Brisbane wills-and-estates team covering probate, letters of administration, executor duties, estate administration and potential disputes.[4]\n- **The Estate Lawyers** — specialist Queensland wills and estate practice dealing with grants of probate, executor assistance, intestate estates and both contested and uncontested administrations.[5]\n- **MacDonald Law** — assists executors and administrators with probate or letters of administration, asset and liability collection, property, businesses and testamentary trusts; it has Brisbane and Toowoomba estate services.[8]\n- **Thynne + Macartney** — established Brisbane firm with a dedicated Wills, Estates and Succession Planning team covering executor duties, grants of probate, letters of administration and estate assets and liabilities.[10]\n- **GLG Legal** — a stronger option where the estate involves disagreement, a will challenge or litigation; it assists with probate and administration but focuses primarily on estate disputes.[6]\n\n**Practical shortlist:** for a straightforward estate, start with Bennett Carroll, A.L.F. Lawyers, QLD Estate Lawyers, Turner Freeman or The Estate Lawyers. For a complex estate involving a business, trust, significant property or a dispute, consider MacDonald Law, Thynne + Macartney or GLG Legal.\n\nWhen contacting firms, ask whether they will handle the full administration—including collecting assets, dealing with banks and property, tax/accounting coordination, estate accounts and final distribution—or only prepare the probate application. Also request a written estimate, because probate filing work and full estate administration are usually priced differently.",
+              "annotations": [
+                {
+                  "title": "Estate Administration & Probate Lawyers in Queensland",
+                  "url": "https://www.bcglaw.com.au/estate-administration/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Probate Lawyers Brisbane | Apply for Grant of Probate",
+                  "url": "https://www.alflawyers.com.au/probate-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "QLD Probate Lawyers | Estate Administration | QLD Estate Lawyers",
+                  "url": "https://qldestatelawyers.com.au/probate-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estates Lawyers Brisbane - Probate Law",
+                  "url": "https://www.turnerfreeman.com.au/wills-estates-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The Estate Lawyers",
+                  "url": "https://theestatelawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Estate Lawyers Brisbane | GLG Legal",
+                  "url": "https://www.glglegal.com.au/disputes/estate-litigation/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Brisbane Estate Lawyers",
+                  "url": "https://willandestatelawyers.com.au/wills-and-estate-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills and Estates lawyers Toowoomba and Brisbane",
+                  "url": "https://www.macdonaldlaw.com.au/will-estates",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "QLD Estate Lawyers | Experts in Probate, Executor Help and ...",
+                  "url": "https://qldestatelawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Leading Wills and Estates Lawyers",
+                  "url": "https://www.thymac.com.au/expertises/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane_north",
+  "pk": "contesting_wills",
+  "plat": "perplexity",
+  "text": "Which wills and estates law firms in Brisbane Northside (Chermside & North Lakes) specialise in contesting a will, Family Provision Applications (FPA), and estate litigation?",
+  "loc": 9060852,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_north__contesting_wills__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:30:20.132Z",
+  "cost": 0.006306,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 46,
+      "output_tokens": 660,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005706,
+      "datetime": "2026-10-23 05:30:16 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For **Brisbane Northside, including Chermside and North Lakes**, the strongest matches based on their published practice areas are:\n\n| Firm | Why it fits | Northside relevance |\n|---|---|---|\n| **The Estate Lawyers** | Specialises exclusively in Queensland wills and estates, including contesting a will, Family Provision Applications, executor disputes, will interpretation and estate litigation.[3] | Brisbane office; handles Queensland matters statewide. |\n| **Armstrong Legal** | Dedicated contested-wills team handling challenges and defences, capacity, undue influence, fraud, FPAs, executor removal and estate-administration disputes.[2] | Brisbane service; suitable for North Lakes and Chermside clients. |\n| **Maurice Blackburn** | Handles inheritance and will disputes, with Brisbane lawyers and a listed North Lakes office/practitioner.[4] | Particularly convenient if a local North Lakes consultation is important. |\n| **Go To Court Lawyers** | Connects clients with wills-and-estates lawyers serving North Lakes and Moreton Bay; advertised matters include FPAs, invalid-will challenges, undue influence, lack of capacity and executor-removal applications.[8] | Direct North Lakes coverage, although it operates as a lawyer-matching service rather than a single dedicated local firm. |\n| **Thynne + Macartney** | Handles estate litigation, FPAs, testamentary-capacity disputes, undue influence and suspicious circumstances; it also has Queensland-accredited succession-law expertise.[1] | Brisbane CBD rather than Northside, but a strong specialist option for complex litigation. |\n| **Aitken Whyte Lawyers** | Acts in will challenges, FPAs and estate litigation, including preparing claims, mediation and trial representation; it specifically services surrounding areas including Redcliffe and Caboolture.[7] | Brisbane-based and relevant to Brisbane’s northern suburbs. |\n| **Ryan Murdoch O’Regan** | Handles will-validity challenges, further-provision claims/FPAs, will interpretation and broader deceased-estate litigation, including court proceedings and mediation.[6] | Brisbane firm; confirm current Northside appointment arrangements. |\n| **Rostron Carlyle Lawyers** | Advertises contesting wills, family-provision claims, will-validity disputes, mediation and estate litigation.[5] | Brisbane CBD office; accessible from Chermside and North Lakes. |\n\n**Best shortlist:**  \n- For a **specialist contested-estates practice**: **The Estate Lawyers** or **Armstrong Legal**.  \n- For a **North Lakes option**: **Maurice Blackburn** or **Go To Court Lawyers**.  \n- For **complex Supreme Court litigation**: **Thynne + Macartney**, **Ryan Murdoch O’Regan**, or **Aitken Whyte**.\n\nWhen contacting firms, ask specifically whether the solicitor regularly handles **Queensland Succession Act 1981 Family Provision Applications**, will-validity challenges, mediation and Supreme Court proceedings—not merely standard estate planning. Also ask about limitation dates, costs, conditional/no-win-no-fee availability and whether the firm acts for claimants, executors or both.",
+              "annotations": [
+                {
+                  "title": "Estate Litigation | Thynne + Macartney Lawyers | Brisbane",
+                  "url": "https://www.thymac.com.au/your-estate-litigation/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Provision Law Firms Brisbane",
+                  "url": "https://www.armstronglegal.com.au/pages/cmcw-family-provision-law-firms-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The Estate Lawyers",
+                  "url": "https://theestatelawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Inheritance dispute lawyers",
+                  "url": "https://www.mauriceblackburn.com.au/wills/inheritance-disputes/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Brisbane Wills and Estates | Rostron Carlyle Lawyers",
+                  "url": "https://rclaw.com.au/practice/brisbane-wills-and-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Estate Dispute & Litigation Lawyers in Brisbane",
+                  "url": "https://rmolaw.com.au/practice-areas/will-estate-dispute-litigation/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Will Dispute Lawyers Brisbane",
+                  "url": "https://www.awbrisbanelawyers.com.au/will-dispute-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estates Lawyers North Lakes QLD",
+                  "url": "https://www.gotocourt.com.au/qld/north-lakes-lawyers/wills-and-estates",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Estate Litigation Lawyers | Attwood Marshall Lawyers",
+                  "url": "https://attwoodmarshall.com.au/estate-litigation-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills and Estates lawyers Toowoomba and Brisbane",
+                  "url": "https://www.macdonaldlaw.com.au/will-estates",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

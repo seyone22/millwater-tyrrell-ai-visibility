@@ -1,0 +1,328 @@
+{
+  "slug": "brisbane_north",
+  "pk": "parenting_custody",
+  "plat": "claude",
+  "text": "Which family lawyers in Brisbane Northside (Chermside & North Lakes) are best for parenting arrangements, child custody disputes, and accredited family dispute resolution (mediation)?",
+  "loc": 9060852,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_north__parenting_custody__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:30:17.812Z",
+  "cost": 0.116503,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 25061,
+      "output_tokens": 2048,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.115903,
+      "datetime": "2026-10-23 05:30:13 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a comprehensive guide to the best family lawyers and dispute resolution services in **Brisbane Northside (Chermside & North Lakes)** for parenting arrangements, child custody disputes, and accredited family dispute resolution (mediation):\n\n---\n\n## 👨‍👩‍👧 Best Family Lawyers – Brisbane Northside (Chermside & North Lakes)\n\n---\n\n### 1. 🏆 Barton Family Lawyers – Chermside\n**📍 Chermside (opposite Westfield) | 📞 (07) 3465 9332**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Barton Family Lawyers specialises in property settlements and child custody disputes, operating as a family-owned business with offices in Chermside and Petrie.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Brisbane Northside & Chermside I Barton Family Lawyers",
+                  "url": "https://bartonfamilylaw.com.au/family-lawyers-brisbane-northside/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their experienced Brisbane family lawyers provide practical, strategic and solution-focused advice across divorce, property settlements, parenting matters and complex family law disputes.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Brisbane - Family Law Solicitors",
+                  "url": "https://bartonfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Services include:**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Property settlements, child custody disputes, spousal maintenance, Protection Orders, divorce, family mediation representation, child relocation, parental kidnapping, child support, and binding financial agreements.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Brisbane Northside & Chermside I Barton Family Lawyers",
+                  "url": "https://bartonfamilylaw.com.au/family-lawyers-brisbane-northside/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n⭐ **Rating:** ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "4.9 stars from 55 recommendations on LawConnect.",
+              "annotations": [
+                {
+                  "title": "Parenting and Child Support Lawyers in Chermside, QLD",
+                  "url": "https://lawconnect.com/en-au/find/parenting-and-child-support/qld/chermside-4032",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 2. 🏅 Northside Family Law Centre – Chermside & Sandgate\n**📍 Chermside & Sandgate**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Northside Family Law Centre is a dedicated and experienced legal firm of Brisbane family lawyers located at Chermside and Sandgate on Brisbane Northside, with years of experience covering all aspects of family law, divorce, separation, child custody matters, conveyancing, wills and estate planning.",
+              "annotations": [
+                {
+                  "title": "Experienced Brisbane Family Lawyers",
+                  "url": "https://northsidefamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The team, led by Rebekah, provides a personalised service focused on individual needs, with accurate advice, respect and understanding, supporting clients through all their family law needs.",
+              "annotations": [
+                {
+                  "title": "Experienced Brisbane Family Lawyers",
+                  "url": "https://northsidefamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Services include:** Divorce, separation, de facto relationships, consent orders, and parenting arrangements.\n\n> Also listed in a **Top 10 Brisbane Family Lawyers** roundup as ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "a \"family-focused practice providing tailored support for custody, divorce, domestic violence and property settlement disputes.\"",
+              "annotations": [
+                {
+                  "title": "Top 10 Family & Divorce Lawyers in Brisbane",
+                  "url": "https://fantasticlawyers.com/top-10-family-divorce-lawyers-in-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. ⚖️ Pennisi Zia Lawyers – Chermside\n**📍 Chermside**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Families navigating custody arrangements and support obligations receive comprehensive guidance grounded in five decades of legal expertise. The firm emphasises building strong client relationships while delivering clear advice on parenting agreements, child support modifications, and custody disputes throughout Chermside.",
+              "annotations": [
+                {
+                  "title": "Parenting and Child Support Lawyers in Chermside, QLD",
+                  "url": "https://lawconnect.com/en-au/find/parenting-and-child-support/qld/chermside-4032",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their practical approach combines extensive family law knowledge with transparent fixed-fee arrangements, ensuring cost-effective solutions for complex parenting matters.",
+              "annotations": [
+                {
+                  "title": "Parenting and Child Support Lawyers in Chermside, QLD",
+                  "url": "https://lawconnect.com/en-au/find/parenting-and-child-support/qld/chermside-4032",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n⭐ **Rating:** ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "4.3 stars from 21 recommendations on LawConnect.",
+              "annotations": [
+                {
+                  "title": "Parenting and Child Support Lawyers in Chermside, QLD",
+                  "url": "https://lawconnect.com/en-au/find/parenting-and-child-support/qld/chermside-4032",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 4. 📋 Lewis and McNamara Solicitors – Chermside\n**📍 Chermside**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Families navigating custody arrangements and child support calculations in Chermside benefit from Lewis and McNamara Solicitors' comprehensive family law expertise. The firm guides parents through complex parenting arrangements while ensuring children's best interests remain the priority.",
+              "annotations": [
+                {
+                  "title": "Parenting and Child Support Lawyers in Chermside, QLD",
+                  "url": "https://lawconnect.com/en-au/find/parenting-and-child-support/qld/chermside-4032",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their solicitors provide clear guidance on child support obligations, custody modifications, and co-parenting agreements without overwhelming legal jargon.",
+              "annotations": [
+                {
+                  "title": "Parenting and Child Support Lawyers in Chermside, QLD",
+                  "url": "https://lawconnect.com/en-au/find/parenting-and-child-support/qld/chermside-4032",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n⭐ **Rating:** ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "4.8 stars from 48 recommendations on LawConnect.",
+              "annotations": [
+                {
+                  "title": "Parenting and Child Support Lawyers in Chermside, QLD",
+                  "url": "https://lawconnect.com/en-au/find/parenting-and-child-support/qld/chermside-4032",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 5. 🏢 CG Legal Group – Chermside\n**📍 Chermside**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "CG Legal Group's legal practice is committed to helping clients resolve family law matters efficiently while minimising stress and uncertainty, providing reliable support and practical solutions tailored to individual situations.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Chermside QLD - CG Legal Group",
+                  "url": "https://cglegalgroup.com.au/family-law/family-lawyers-chermside-qld/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Parenting & child custody services include:**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Comprehensive support for all parenting and child custody family law matters, ensuring the best interests of each child are prioritised, including establishing parenting arrangements, preparing parenting plans, and resolving parenting disputes.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Chermside QLD - CG Legal Group",
+                  "url": "https://cglegalgroup.com.au/family-law/family-lawyers-chermside-qld/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 🤝 Family Dispute Resolution (Mediation) – Brisbane Northside\n\nWhen it comes to **accredited family dispute resolution (FDR)**, it's important to know that under Australian law, most parenting disputes require a **Section 60I Certificate** from an accredited FDR Practitioner before you can apply to the Federal Circuit and Family Court. Here are your key options:\n\n### Key Tips for Finding Accredited FDR Practitioners in Chermside/North Lakes:\n- **Relationships Australia Queensland** – Has offices across Brisbane and offers accredited FDR services for parenting disputes. Their North Brisbane locations are a go-to for Northside families.\n- **Centacare Brisbane** – Provides family dispute resolution services across Brisbane Northside.\n- **Legal Aid Queensland** – Offers free or low-cost FDR services and can refer you to accredited practitioners near North Lakes and Chermside.\n- **Barton Family Lawyers** – As noted above, ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "they offer family mediation representation and family mediation Brisbane services",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Brisbane Northside & Chermside I Barton Family Lawyers",
+                  "url": "https://bartonfamilylaw.com.au/family-lawyers-brisbane-northside/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", and can assist you through the FDR process.\n\n---\n\n## 📊 Quick Comparison Table\n\n| Firm | Location | Parenting/Custody | Mediation | Rating |\n|---|---|---|---|---|\n| **Barton Family Lawyers** | Chermside | ✅ | ✅ | ⭐ 4.9/5 |\n| **Lewis & McNamara Solicitors** | Chermside | ✅ | ✅ | ⭐ 4.8/5 |\n| **Northside Family Law Centre** | Chermside/Sandgate | ✅ | ✅ | Top 10 listed |\n| **Pennisi Zia Lawyers** | Chermside | ✅ | ✅ | ⭐ 4.3/5 |\n| **CG Legal Group** | Chermside | ✅ | ✅ | N/A |\n\n---\n\n## 💡 Tips When Choosing a Family Lawyer on Brisbane Northside\n\n1. **Look for accreditation** – Check if the lawyer or firm has an accredited FDR practitioner on staff or can refer you to one.\n2. **Fixed-fee options** – Firms like Pennisi Zia offer transparent fixed-fee arrangements, which can help manage costs.\n3. **Children's best interests** – Ensure the firm explicitly prioritises the child's best interests in parenting and custody matters.\n4. **Free initial consultation** – Most of the above firms offer a free or low-cost first consultation.\n5. **Check the Attorney-General's FDR Register** – Visit the Australian Government",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "best family lawyers Brisbane Northside Chermside parenting arrangements child custody",
+        "accredited family dispute resolution mediators Brisbane Northside North Lakes",
+        "family dispute resolution mediators North Lakes Brisbane Northside accredited",
+        "accredited family dispute resolution North Lakes Chermside Brisbane mediator"
+      ]
+    }
+  ]
+}

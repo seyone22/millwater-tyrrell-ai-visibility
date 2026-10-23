@@ -1,0 +1,99 @@
+{
+  "slug": "logan",
+  "pk": "parenting_custody",
+  "plat": "perplexity",
+  "text": "Which family lawyers in Logan and Western Corridor (Ipswich to Brisbane) are best for parenting arrangements, child custody disputes, and accredited family dispute resolution (mediation)?",
+  "loc": 9112660,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\logan__parenting_custody__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:32:33.499Z",
+  "cost": 0.00627,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 42,
+      "output_tokens": 628,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.00567,
+      "datetime": "2026-10-23 05:32:29 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For parenting arrangements, child-custody disputes and mediation in the Logan–Ipswich–Brisbane corridor, the strongest options to shortlist are:\n\n| Firm/practitioner | Best suited to | Relevant credentials or services |\n|---|---|---|\n| **Daykin Family Law — Ipswich** | Ipswich and western-corridor parenting disputes | Led by **Shannon Daykin, an Accredited Family Law Specialist**; handles parenting arrangements and offers mediation and alternative dispute resolution.[7] |\n| **Avokah Legal — Woolloongabba/Logan service area** | Logan clients wanting negotiation, mediation or court representation | Handles parenting plans, consent orders, relocation and court proceedings; the firm includes **Nicole Mackenzie, an NMAS-accredited mediator**, and services Logan and Greater Brisbane.[1][2] |\n| **Australian Family Lawyers — Logan** | Parenting disputes requiring a larger specialist team | Assists with child-care arrangements, decision-making, mediation and court matters; its national network includes numerous **Accredited Family Law Specialists**.[3] |\n| **Best Wilson Buckley Family Law — Brisbane** | Complex parenting disputes and specialist representation | A specialist family-law firm specifically offering parenting-dispute advice and mediation/FDR services.[4] |\n| **The Law People — Brisbane** | High-conflict or high-stakes parenting matters | Led by **Jill Johnstone, an Accredited Family Law Specialist**; handles parenting orders, enforcement, FDR and court proceedings.[5] |\n| **MacDonald Law — Brisbane** | Complex parenting matters and post-order issues | Led by **Sarah-Jane MacDonald, an Accredited Specialist in Family Law**; offers mediation, collaborative resolution and parenting-coordination assistance.[9] |\n\n### Best practical shortlist\n\n- **Closest to Ipswich:** Daykin Family Law.\n- **Closest to Logan with an identified accredited mediator:** Avokah Legal.\n- **For a large specialist family-law practice:** Australian Family Lawyers.\n- **For complex litigation or high-conflict parenting cases:** The Law People or Best Wilson Buckley.\n- **For mediation and ongoing post-order parenting coordination:** MacDonald Law.\n\nBefore engaging anyone, ask three specific questions:\n\n1. **Is the individual lawyer an Accredited Family Law Specialist, or is the firm merely describing itself as specialist?**\n2. **Is the mediator accredited as a Family Dispute Resolution Practitioner under the Attorney-General’s Department scheme, and can they issue a section 60I certificate if required?**\n3. **Will the firm handle urgent safety issues, family violence, relocation, contravention applications and interim parenting hearings?**\n\nFDR is generally a mediation process used to try to resolve parenting disputes before court, and an accredited practitioner may issue a **section 60I certificate** if the matter does not resolve.[5] It may not be appropriate where there are serious safety concerns or family violence; in those circumstances, obtain urgent legal advice rather than treating mediation as the first step.[5]",
+              "annotations": [
+                {
+                  "title": "Family Court Lawyers Brisbane - Book A Free Discovery Call",
+                  "url": "https://www.avokahlegal.com.au/family-court-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Ashika Jacques - Solicitor",
+                  "url": "https://www.avokahlegal.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Lawyer Logan",
+                  "url": "https://www.australianfamilylawyers.com.au/cm-family-lawyer-logan",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Our Legal Services - Best Wilson",
+                  "url": "https://bwbfamilylaw.com.au/how-we-help",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Child Custody Lawyers Brisbane",
+                  "url": "https://thelawpeople.com.au/parenting-arrangements/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Lawyers in Australia for Family Law",
+                  "url": "https://www.bestlawyers.com/australia/family-law",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Lawyers Servicing Ipswich",
+                  "url": "https://daykinfamilylaw.com.au/family-law-ipswich/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Logan - Family Mediation Australia",
+                  "url": "https://www.mediationforfamilies.com.au/location/qld/brisbane/logan/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Lawyers Toowoomba and Brisbane",
+                  "url": "https://www.macdonaldlaw.com.au/family-law",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

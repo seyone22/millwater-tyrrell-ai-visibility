@@ -1,0 +1,106 @@
+{
+  "slug": "springfield",
+  "pk": "parenting_custody",
+  "plat": "perplexity",
+  "text": "Which family lawyers in Springfield and Greater Springfield, QLD are best for parenting arrangements, child custody disputes, and accredited family dispute resolution (mediation)?",
+  "loc": 9191413,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\springfield__parenting_custody__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:24:28.112Z",
+  "cost": 0.006268,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 36,
+      "output_tokens": 632,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005668,
+      "datetime": "2026-10-23 05:24:24 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For parenting arrangements, contested parenting matters and mediation in Springfield/Greater Springfield, the strongest shortlist is:\n\n- **VM Family Law** — a specialist family-law practice serving Springfield and Ipswich. Principal Kath Manby is a **Family Law Accredited Specialist**, and the firm handles parenting arrangements, consent orders, court orders, dispute resolution and mediation.[3]\n- **Brookwater Legal** — a local firm serving Greater Springfield and Ipswich, with specific services for parenting and children’s matters, negotiation, mediation and support in domestic- and family-violence situations.[1]\n- **Stanford Legal** — based in Springfield Central and reported to assist with parenting agreements, consent orders, parenting disputes and domestic-violence issues.[2]\n- **McNamara Law** — an established Ipswich/Springfield Central practice that handles parenting disputes, prioritises children’s best interests and offers mediation among its family-law services.[2]\n- **Australian Family Lawyers** — a larger specialist network serving Springfield, with parenting, child-support and family-mediation services and access to numerous Accredited Family Law Specialists.[4]\n\n### Best fit by situation\n\n| Situation | Suggested first calls |\n|---|---|\n| You specifically want an **Accredited Family Law Specialist** | **VM Family Law**; Australian Family Lawyers[3][4] |\n| You want a **local Greater Springfield firm** | **Brookwater Legal**; Stanford Legal[1][2] |\n| You need negotiation or mediation before court | **VM Family Law**; Brookwater Legal; Australian Family Lawyers[1][3][4] |\n| You expect a strongly contested parenting case | **VM Family Law** or Australian Family Lawyers, while confirming the individual solicitor’s court experience and availability[3][4] |\n| Family violence or urgent safety concerns are involved | Brookwater Legal or Australian Family Lawyers, and ask immediately about urgent parenting orders and safety arrangements[1][4] |\n\nIn Queensland, family dispute resolution is generally required before starting a parenting case, unless an exception applies—for example, family violence, child abuse, urgency or impracticality. Ask whether the proposed mediator is an **accredited Family Dispute Resolution Practitioner (FDRP)**, rather than assuming that every lawyer who offers “mediation” is personally accredited.\n\nBefore retaining anyone, ask:\n\n- Is the solicitor a Queensland Law Society **Family Law Accredited Specialist**?\n- Is the mediator an accredited **FDRP** and able to issue a section 60I certificate?\n- How much experience do they have with contested parenting hearings, recovery orders and family violence?\n- Who will actually conduct the mediation or court work?\n- What are the hourly rates, likely stages, fixed-fee options and total estimate?\n- Can they offer an urgent appointment and remote mediation if needed?\n\nThe most targeted starting point appears to be **VM Family Law** for accredited specialist family-law expertise, with **Brookwater Legal** as a particularly convenient local option for Greater Springfield matters.[1][3]",
+              "annotations": [
+                {
+                  "title": "Local Family Lawyers",
+                  "url": "https://www.brookwaterlegal.com.au/family-lawyers",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Find Trusted Family Lawyers near Springfield QLD",
+                  "url": "https://lawconnect.com/en-au/find/family-law/qld/springfield-4300",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "VM Family Law: Best Family Lawyers Ipswich & Springfield",
+                  "url": "https://www.vmfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Lawyer For Divorce Springfield",
+                  "url": "https://www.australianfamilylawyers.com.au/cm-lawyer-for-divorce-springfield",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Children",
+                  "url": "https://pharmaciscanning.com/children/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Find the best family lawyers in Springfield Lakes",
+                  "url": "https://www.bark.com/en/au/family-lawyers/queensland/springfield-lakes/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Lawyers for Parenting Agreements, Family Mediation and ...",
+                  "url": "https://landers.com.au/legal-service/parenting",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Family Lawyers Studio Village | We Can Help",
+                  "url": "https://www.vmfamilylaw.com.au/services/family-lawyers-studio-village/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Child Custody & Parenting Matters | Cairns Family Law Group",
+                  "url": "https://cairnsfamilylawgroup.com.au/what-we-do/child-parenting-matters/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Our Services - Evans Brandon Family Lawyers",
+                  "url": "https://www.evansbrandonfamilylawyers.com.au/family-law-services/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

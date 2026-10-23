@@ -1,0 +1,217 @@
+{
+  "slug": "brisbane",
+  "pk": "probate_administration",
+  "plat": "gemini",
+  "text": "I am an executor handling probate and deceased estate administration in Brisbane. Which law firms specialise in Queensland probate and estate administration?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane__probate_administration__gemini.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:26:25.198Z",
+  "cost": 0,
+  "result": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "When managing probate and estate administration in Queensland, engaging a firm with specific expertise in **Succession Law** is essential. Executors are personally liable to administer the estate according to the *Succession Act 1981* (Qld) and the *Uniform Civil Procedure Rules 1999* (QCPR).\n\nDepending on the complexity of the estate (e.g., standard domestic assets vs. private company shares, family trusts, or potential disputes), Brisbane offers several reputable firms across different tiers:\n\n---\n\n### 1. Dedicated Wills & Estate Law Boutiques\nThese firms practice exclusively (or almost exclusively) in succession, probate, and estate administration. They are well-suited for both standard and complex estates where you want direct attention from pure succession lawyers.\n\n* **de Groots Wills + Estate Lawyers (Brisbane CBD)**  \n  One of Australia’s longest-running specialist succession law firms. They focus solely on wills, probate, estate administration, and trusts, with deep expertise in managing intricate executor responsibilities.\n* **Cornford-Scott Lawyers (Brisbane / Toowong)**  \n  Consistently ranked by *Doyle’s Guide* as a top-tier Queensland succession law firm. They have multiple QLS Accredited Specialists who handle day-to-day estate administration as well as complex legal problems.\n* **Estate First Lawyers (Milton)**  \n  A boutique firm that concentrates strictly on estate planning and deceased estate administration. They frequently work on fixed-fee structures for probate applications and asset distribution.\n* **The Estate Lawyers (Brisbane CBD)**  \n  Specialises purely in Queensland estate law, handling grants of probate, letters of administration, and distribution. They are transparent with fixed-fee models for executors.\n* **Resolve Estate Law & Nurture Law**  \n  Modern boutique firms founded by senior estate practitioners with a focus on compassionate, executor-focused administration and estate settlements.\n\n---\n\n### 2. Leading Mid-Tier & Private Client Practices\nThese firms are recommended if the deceased estate involves **commercial businesses, SMSFs, private corporate structures, multi-generational family trusts, or high-net-worth assets**:\n\n* **Cooper Grace Ward (CGW) Lawyers (Brisbane CBD)**  \n  Widely considered one of Queensland's premier private wealth and succession teams. They excel in navigating the intersection of deceased estate administration, tax compliance, and SMSF death benefit payouts.\n* **McCullough Robertson (Brisbane CBD)**  \n  A major Queensland commercial firm with a tier-one Estates and Private Client team. Ideal for large rural/agricultural estates, family-owned businesses, or complex cross-jurisdictional assets.\n* **Thynne + Macartney (Brisbane CBD)**  \n  A historic Brisbane firm with an experienced private client division, renowned for guiding executors through both probate and estate tax/asset realization.\n* **HopgoodGanim Lawyers (Brisbane CBD)**  \n  Strong private enterprise and estate administration department, frequently assisting executors with sophisticated asset portfolios and family governance structures.\n* **McInnes Wilson Lawyers (Brisbane CBD)**  \n  A full-service firm with a heavily awarded wills and estates practice that handles both contentious and non-contentious estate administration.\n\n---\n\n### Key Questions to Ask When Choosing a Firm\n\n1. **Do they have a QLS Accredited Specialist?**  \n   The Queensland Law Society runs a formal accreditation scheme. Look for firms with lawyers designated as **Accredited Specialists in Succession Law**.\n2. **\"Grant-Only\" vs. \"Full Estate Administration\":**  \n   * **Grant-only:** The firm simply publishes the required statutory notice (via the Queensland Law Reporter / Supreme Court portal), prepares the probate affidavit materials, and secures the Grant of Probate. You (the executor) handle contacting the banks, transferring property, and paying beneficiaries.\n   * **Full administration:** The firm manages the entire process from asset discovery to tax clearance and final distributions. Clarify which service model you need.\n3. **Fee Structure:**  \n   Ask whether they offer a **fixed fee** for the probate application itself versus an hourly rate for administration. Under Queensland law, reasonable legal fees incurred by the executor are reimbursable from the estate funds before distributions are made.\n4. **Timeframes & Risk Windows:**  \n   Ensure the firm advises you on Queensland-specific statutory deadlines, such as the **6-month notice period** and **9-month deadline** for Family Provision Applications (claims contesting the will) under the *Succession Act 1981* (Qld), to protect you from distributing the estate too early.",
+              "thoughtSignature": "EoAaCv0ZAWkUfRPHgJEkPaS3rU2HMmkKeFLdJCBKPrKir//IkF/Tr7z90458O4EclFiVJ+3wpBbEXK2NRgEztkdb2w3QgA1YMOWEem0j/N0ZIQmbFrtu7g/V4eQwUM85tAepNxkBu8BsJoA079ukoRMXvQ07wlrWYr9kNCxAhE41TViAu2IKnCWdg+KLZn1Zd4qrr1bkCFWPvDYvD0kL8b/3mAiXExrn5UbszthIpItx9ZpibPc99PdP7EN1SzqzXwp0z46BKgNl742UTtENbw8Hl4Hmt4F6xm6ZGBFlT3+iZYhhPYX1sIsX0CjE/Ex+Zz0kWORJhqSc2OF0MFmbvXnTRadFKk4dgwV3/XZ/99ENwzX2ruLknUU2WlpPhnejkttJHSwtaCTBb5n3ssB6f3sL3ut9jUAXdcpkRA4CqRaH7aNTDIE/OCr7bne9TM4p+9dHNhTfAn80egMf63EEdKcTgV4Q5+gQvzZ0jhRP/b8/kJ0OoEQ3+BEOn/t8wXc/LPW0nHIJxj4V0rJPofYY9QWfCnOxBxWCndjukS/W/dfWS59d9BdAfLdjxgmkPdZPfr0gVhqrAKZhO2ATT4OTTDOfS+0JhalWRI4zy6e+c2AFT21qxdZqJJMdzfS86YEnxeYtMStC0Sl5Oam5BqqRAzRVmh53hTjlMUMMbWcAGRNiUdtjZxXUO7/L/rF841qntutQudAiW06eejx2uTbv004tuUdDzG7i/bms3M5Co8AtdcS2GzvmEDCyf++a930502TXPCL6xlFEyZuu80h4+Gv/pkeL/T5WNEeFlYzZngBQ/U06ZF0s8kOd2dDTxemS5fZlCa2siyHouyj2ZN88oqdES73d3axK7nYpECq7WCoC3VjDADkjt8j6KWxZFe8pnci3sLfnFes/ePn3bqoCXK4xTDtwtG80fPucHmErWi/NnDg1sjssSwiHnvhJnDiP8FQY6AYXhk4eYaniw0A+MkDKc8HO3GPUqDU8AbizS1LXy4tI2OBlEXqE7H31tmWBgh5lY/tKaud1h4a/TnLeP+CeCRuNgXrTR7q+NqytZ3liTbr2aJdR/ImSW9zRn+HRv2QnatWGqZk70cGpz3Q/LuEKQGU1ZkaqbU4b8vYQMpSVQuw0Rhwn4GgN8yWkuu3EQ1skFUJLVxYXGg0S+Bv+Cc1aZURfurV9+V5hliex3EA+5OSf9MttP4JISbtUhdPXgdf0CeC6eblJsu8mXFDbl3EovVDy+t1kInum9lUlspSpF3q5PPNY/+2gFWv79+wZ+IGIqjqaPERHtAtyCGJnSwqUAdbEZzQcfKiocdyox19UQh0u+ESkFrDgxENS/HQlUqAwYLhhIoHgsgo4bB3nR5Pol+iPz6+RWI635p5WLiJgVZrptqlhOE8I4BszQMZEqyfBwdwvFlRoWC4zZ6zfNfbkRGkduxtrPcH3TdIa520+vFVATicD607kOCeDyeZGwLC5z3y1HSAkEYsttrzzPPRfVLsoYvmvjPI24jDhnt1fSr3URpCLhdOnWhK5v4OiURxZqc1tqkyNCutSgDn7GUmGlpE6jYnd1ZYzQHSM0DKN2Q9ycAPAI42uNkCeb32Gcm7gf9rBDcTCSIAdSxN4XTlkb4qR7S5Q9u7iGCD5Q+QYAporemThwWsCunLbpJVD7JSFyykuiSRt9SpJAIt8CSMEJckCAo5ws4TVDy8yN3DwaNW0jGCg0JTSk1F0MTe+65e50dBlwbLPiv2FsM/QNfLyRR7eqXq9WpLlVakL+CDh49dP2qoxgLLyOYG1N8G9gXmUHZn/T+D4aNAUsSvx4CkiVGV4p+jdYtlxbjOHu8iA0zvI7jd+4hMaALPLfbwrG4U5ehYf62zY+mYHcJkuGMeU/n884W3aJUdZun5nd52s5o+ICtbzQVCJvOITlXHo+d//rTaJjM8cYDiNCfsO6dzgNgFGdVWxtGY5WBPzkmTxiYFnJNtHcyeW5ibHLF6ojO3/UXqtavmfGLMAiwwHIx3LtWrBLPLhpcji/IcgTfc6Ap+XLrbQ3QWhjJAMfhl/FTCRaHRHpk6EJLA5/b0cllFlUrIPIZEbxyKVHByHLPgBbpzxyc5AuUuY35tRsB1K62HKKviOK6Lo1zvDN+2XedFs+sC+yhy0VIGXIp9whqVkl4NMZ6RWfjtofmaF8YfIpdohb+Ol/oF6qFuH1w1aoa/0uRtFBF2a9YpOTdJXk6l1+LEnRykym3GCCIqZTWESG2ZeuaH4MmBgVVdH7gz03OPioKgGVBErCvcNyMjNX0pT5u3OkBtO2CQaqx/QQ4bx2pH9bT1VWsTcFDr0/IAOaCLNeueG1CjCwQtjrKqDSBMIvan4pJi70c6C39TMFJfwHvm/VCaX1lbv0Ogu7VzV/7ksI0gLqRvuhknSEAgPcLYzxUYalIn/IpiLdFqko3tiFMKRJP8B3QK21pUSziq2IwmY1p39AhjZmYC2LIt/XQGRoF0zv8VTQHI4knultBz6scIWrY5xCo7gDWLlQC3zLL3tAawR0RmKczJZ7ved9+5qUU0NaqehsDLw+cayAfwH/jrWNU3Ep3VjjXIeBWnavK1l+IXZbga/1xyfliP/8gkV5ma1dzkwrRG3BAUMdPgGPR8S0QiYi0/9CUuxqnc7pr9xidFtGK12nq/EM0HKSdNm8Z+H+0dAVN3DHt6clyBG+KOlSBCKgmCBgf/qcECvHVyFtcLFFZXZwXoXNZROg9pKQjg8qfIZ6g6eux6BNa69Re2pTB9Qau3TGRSVhwwlXsK99612XE/zI3ySIUxIHGal7enXgsxCasC1QKNpaN+YJNOZseUOFaSi5DMPYxlhQokAwbej8mwmcfL3I7AcO2gaowcAyCmEFN2DLZe4IlPOsfwz0Q3A9bF8oXY1HxUMQd1iWo8VhhkrkD16PtXt4OV8ff4vzApuOZBlYgig+3MbRCW26iXIVj78UBXEL0oDwoIOtp0qp8XNRbR69IYdkJrN56VlqSPzJ/Uxt+V1FDWCgZnrr6CtyASakB7V83zp93fLNt3NamYx7Mt/1X5I617hqulmzr7t+ZxYpwNauhwT4YiPULDgWO7Rzqgnj7yLy9SXqExkUggTYelOuymbqjxKPIXRKDmEq+lWm1SUmiSBruIyXRfrXusuLrkrdnuqHxUSJwtBGTYK1OcfmwJDrHfun9mdHe6XLjvM8yeVZmNU7OEVRqvVC8ZuQgstc8vM4wBdULmXYF65e7W9Zl+m5gbslMctteTxAm4ah7po5+4vr9Te/oACAiXYJqt6aeca7E9IXJIrKYGKA0gQZ8JSu/RuCzGJzPeCPQR2K4dI9CIjCZ4DjgTxvntl7mFA+7FQs4JilmjFpYRP2lcUU6oBTLCgrcW5sA+02eS7YKqHR7o7CYj4owClyKKDroq9KgvPY1rLaKqiFjYOnwK3X+q55ftRbYLXpAyZW244G7keILk06Z9ERe4CHTPa8mFgsp5HFCc49WeQO6s5fnetGZn77P1ycU5kX0LwneF8m/9vKP1ksiuHCv3HxCX/u0ZQM85XpS8oeATzS5FVktHfOXh94XwyrKMHUHE+4H2wadXiEn2ldDd9dbC5SUU3jjzwQhuF3aUPtkUKkkoR4SVDA6FjpbaGXaU2SPEV62Xq5+7KqOqsXv8FmnnM8grU0fU461WRprkaWBdXwMyr12morajVGUpKGWU1R6U+J3xJuRgjsnIcbaXFoyPWCTCHhISW9Wy2k06b4rHlgC20sTogQPZTf5964qA5dDf+22aeie7x05gDsx1nbRMOnrUwkemnCzh2kWXCbzKygNoGzCkA4OnkaY9zsofrPckxUrvDeF9Kzc9q3TqQc6B13dOFrkPEhwrfDfH1AcL44mGhUsZoucfCwc/rZgNT2BsXXz2ZMm7CsvNppNwPG6tET+ahvz/5JVUGnzYDrOGInaiV5AroXAaGNew51VghMYrm9kb3WpwQoHUI/hp2BwgYLeo9S68ztPW1uTdSfvun2oCTzQZgbuwg4ehHeP7CJSiVqhVr6K4MBDoG1K1XY5iT+s6A6qF7SS1Uo7D5QNXj8XPBKmwKroAHZlzyKS9wqQ5EwdYIB3qvpwskTaVUhhv7z8x/7toOcGOjRhY8vt0fI+43yJlYkaV+38qovb8uuxbC4mD/ftT48gpv9aNhzxVUw/yTyTr9hodYNq5daEaz9vXmb69pPhhjAoAuJxdmL7rXYc1GgxonxAljC8CpL2c63E5J5Y6QzNDPcttF4WXumse4EhqZYXKWJZq9OAOsC++AZm4jItgICHhl21mZ6I5n14Rv5wm3WTsp+aABzB8Bx8VMC6OqV8eIhStd1NM0q/bsuCYiiHIID1jnhsBgK8kyWcbCxAaqFLTpL7FwGa4ZhHdx7ldnK5+j4YKlA0Jsx985JmaaWHGvBcdn9aKjZ0wDD65O8oEEef3xouIPFg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=probate+estate+administration+lawyers+Brisbane+QLD&client=app-vertex-grounding&safesearch=active\">probate estate administration lawyers Brisbane QLD</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=top+wills+and+estates+law+firms+Brisbane+Doyles+Guide&client=app-vertex-grounding&safesearch=active\">top wills and estates law firms Brisbane Doyles Guide</a>\n  </div>\n</div>"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVn3ZgJhe6FmuMogji8gmCuuuL6ybJpS911FMRCBBrEdNbcEEsfl_3NKMdAMGrAN4VIpmajqbQ1sOTUoQDhhm-h5JTgnnTzON8uEfYqaRsIxIA9IwXbw==",
+                "title": "degroots.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeN4OttNu7hAsvHKhSOxmQVwVpwY1z8uf7oW9kkJYUhdMIe9CUv_FoGqq3bGXSiWnbm2Z3WV9fJF_BenxMChUKhU4B0jY5zLM4AbtQGU9w8Zep6R-TDkb1k-m8k7qoLOvvUwTFg8aaXhy_CIL0NAjU7CcfvNQxKich56WytTXFOaBv",
+                "title": "doylesguide.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJiPgr_I2uzNFHgkuxpGov7H4tlDWfVpi8y1lfhIR5wjkJChGmKLDqBc7790Qeg0at0bfdWvnjQPr-wcQO1BJwZo3Q1pW10VRiNtIMGBt3zEHXLMHJ",
+                "title": "theestatelawyers.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtvlKr5SgNoJJIVSD59MKFasBC-FrameBTW9uM0L8pPdfOFgFMP5K0jq5Q81Tb9hI69VluwzZcMKe63uc-Tsi2PuTgbcGsKz4Bj5VMWez_q06u39vuq5idoQzrxvxUNtXjrD9t-zDyZRfpCkf7Nzb1Yw==",
+                "title": "nurturelaw.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwecqlXba1puiCx6OEowQx1_gxMdU3nP7U4_mrRctyjA59OmcD5-OD_g9lLsXtFk9cRfpG-k1ulE5UI_-Wk_KM4385OTmdaQEd1AbR_7GUSOv4s9f-qXl78YyIxEBMBZnjKvegiAJHyApzfOUFdLBmCnBnpuFtgp2CvJNmpZNcLBeHGfZVzIjU8Fo1Fq9IqHk-i9C8euml9lFZ_nsJJaaGVgrUZa_5x2cMn9mLS_esqYLWVw==",
+                "title": "cgw.com.au"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "startIndex": 840,
+                "endIndex": 908,
+                "text": "One of Australia’s longest-running specialist succession law firms"
+              },
+              "groundingChunkIndices": [
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 910,
+                "endIndex": 980,
+                "text": "They focus solely on wills, probate, estate administration, and trusts"
+              },
+              "groundingChunkIndices": [
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1105,
+                "endIndex": 1190,
+                "text": "Consistently ranked by *Doyle’s Guide* as a top-tier Queensland succession law firm"
+              },
+              "groundingChunkIndices": [
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1357,
+                "endIndex": 1453,
+                "text": "A boutique firm that concentrates strictly on estate planning and deceased estate administration"
+              },
+              "groundingChunkIndices": [
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1593,
+                "endIndex": 1709,
+                "text": "Specialises purely in Queensland estate law, handling grants of probate, letters of administration, and distribution"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1711,
+                "endIndex": 1767,
+                "text": "They are transparent with fixed-fee models for executors"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1812,
+                "endIndex": 1958,
+                "text": "Modern boutique firms founded by senior estate practitioners with a focus on compassionate, executor-focused administration and estate settlements"
+              },
+              "groundingChunkIndices": [
+                1,
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2259,
+                "endIndex": 2340,
+                "text": "Widely considered one of Queensland's premier private wealth and succession teams"
+              },
+              "groundingChunkIndices": [
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2342,
+                "endIndex": 2465,
+                "text": "They excel in navigating the intersection of deceased estate administration, tax compliance, and SMSF death benefit payouts"
+              },
+              "groundingChunkIndices": [
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2513,
+                "endIndex": 2595,
+                "text": "A major Queensland commercial firm with a tier-one Estates and Private Client team"
+              },
+              "groundingChunkIndices": [
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2750,
+                "endIndex": 2818,
+                "text": "A historic Brisbane firm with an experienced private client division"
+              },
+              "groundingChunkIndices": [
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2952,
+                "endIndex": 3014,
+                "text": "Strong private enterprise and estate administration department"
+              },
+              "groundingChunkIndices": [
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3165,
+                "endIndex": 3234,
+                "text": "A full-service firm with a heavily awarded wills and estates practice"
+              },
+              "groundingChunkIndices": [
+                1
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "probate estate administration lawyers Brisbane QLD",
+            "top wills and estates law firms Brisbane Doyles Guide"
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 511,
+      "candidatesTokenCount": 1059,
+      "totalTokenCount": 2758,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 511
+        }
+      ],
+      "thoughtsTokenCount": 1188,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.8-flash",
+    "responseId": "4u_aaqG7H_G5juMPw9DpQA"
+  }
+}

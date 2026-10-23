@@ -1,0 +1,272 @@
+{
+  "slug": "brisbane_south",
+  "pk": "wills_estate_planning",
+  "plat": "claude",
+  "text": "Who are the best wills and estates lawyers in Brisbane Southside (Mount Gravatt & Sunnybank) for drafting wills, testamentary trusts, and enduring powers of attorney?",
+  "loc": 9060851,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_south__wills_estate_planning__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:29:07.498Z",
+  "cost": 0.067933,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10666,
+      "output_tokens": 1689,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.067333,
+      "datetime": "2026-10-23 05:29:03 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a guide to some of the **best wills and estates lawyers in Brisbane Southside (Mount Gravatt & Sunnybank)** for drafting wills, testamentary trusts, and enduring powers of attorney (EPOAs):\n\n---\n\n## ⚖️ Top Wills & Estates Lawyers – Brisbane Southside\n\n---\n\n### 1. 🏆 **Bennett Carroll Solicitors** – Upper Mount Gravatt\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Bennett Carroll Solicitors help Queenslanders protect their future with experienced legal advice in all aspects of Wills and Estates.",
+              "annotations": [
+                {
+                  "title": "Wills & Estate Planning Lawyers Queensland",
+                  "url": "https://www.bcglaw.com.au/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They have an office in Upper Mount Gravatt and are well-regarded across the southside. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their services include wills, enduring powers of attorney (EPOAs), and estate administration.",
+              "annotations": [
+                {
+                  "title": "Wills & Estate Planning Lawyers Queensland",
+                  "url": "https://www.bcglaw.com.au/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They can assist fully electronically via phone, email, or video call, or in-person if preferred.",
+              "annotations": [
+                {
+                  "title": "Wills & Estate Planning Lawyers Queensland",
+                  "url": "https://www.bcglaw.com.au/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n📍 Upper Mount Gravatt | 📞 1300 334 566 | 🌐 bcglaw.com.au\n\n---\n\n### 2. ⭐ **Denovo Lawyers** – Sunnybank Hills *(5 stars / 110 reviews)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Denovo Lawyers Pty Ltd is a boutique law firm in Sunnybank Hills, Brisbane, offering personalised, cost-effective legal services.",
+              "annotations": [
+                {
+                  "title": "Deceased Estates Lawyers in Sunnybank, QLD",
+                  "url": "https://lawconnect.com/en-au/find/deceased-estates/qld/sunnybank-4109",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They practise in wills and estates (including probates and powers of attorney), conveyancing, family law, and litigation.",
+              "annotations": [
+                {
+                  "title": "Denovo Lawyers",
+                  "url": "https://www.denovolawyers.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are particularly notable for their multilingual capabilities, making them a great choice for Brisbane's diverse Sunnybank community.\n\n📍 3 Cranfield Street, Sunnybank Hills QLD 4109 | 📞 (07) 3344 7247 | 🌐 denovolaw.com.au\n\n---\n\n### 3. ⭐ **Hefferan & Co** – Sunnybank Hills *(4.5 stars / 81 reviews)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Hefferan & Co Solicitors, established in Queensland in 1993, specialise in property conveyancing and estate law, with offices in Browns Plains and Sunnybank Hills, offering personalised legal solutions.",
+              "annotations": [
+                {
+                  "title": "Find Wills and Estates Lawyers in Sunnybank QLD - Lawconnect",
+                  "url": "https://lawconnect.com/en-au/find/wills-and-estates/qld/sunnybank-4109",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their services include wills and enduring powers of attorney, and they guide clients through will drafting and estate administration with compassion, ensuring compliance with Queensland law.",
+              "annotations": [
+                {
+                  "title": "Find Wills and Estates Lawyers in Sunnybank QLD - Lawconnect",
+                  "url": "https://lawconnect.com/en-au/find/wills-and-estates/qld/sunnybank-4109",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n📍 Sunnybank Hills QLD | 📞 1800 441... (available on Lawconnect) | 🌐 hefferanlaw.com.au\n\n---\n\n### 4. ⭐ **Ebenezer Legal** – Upper Mount Gravatt *(4.6 stars / 102 reviews)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Ebenezer Legal is located in Upper Mount Gravatt, QLD",
+              "annotations": [
+                {
+                  "title": "Find Wills and Estates Lawyers in Sunnybank QLD - Lawconnect",
+                  "url": "https://lawconnect.com/en-au/find/wills-and-estates/qld/sunnybank-4109",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", and has earned a strong reputation with over 100 client reviews. They are a well-reviewed southside firm for wills and estate matters.\n\n📍 Upper Mount Gravatt QLD | 📞 (07) 334... (available on Lawconnect)\n\n---\n\n### 5. ⭐ **AGP Lawyers** – Algester *(4.8 stars / 45 reviews)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "AGP Lawyers, led by Aurora Gebana Porras, is based in Algester QLD (4.4 km from Sunnybank)",
+              "annotations": [
+                {
+                  "title": "Estate Planning Lawyers in Sunnybank, QLD",
+                  "url": "https://lawconnect.com/en-au/find/estate-planning/qld/sunnybank-4109",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", and has a strong rating for estate planning services in the broader southside area.\n\n📍 Algester QLD | 📞 0425 106... (available on Lawconnect)\n\n---\n\n### 6. ⭐ **Kanoon Law Group** – Mount Gravatt\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Kanoon Law Group Pty Ltd, led by Ms Hazra Ahmed with over 20 years of experience, specialises in family law, personal injury, wills and estates, and criminal law, providing personalised attention and regular updates.",
+              "annotations": [
+                {
+                  "title": "Estate Planning Lawyers in Sunnybank, QLD",
+                  "url": "https://lawconnect.com/en-au/find/estate-planning/qld/sunnybank-4109",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n📍 Mount Gravatt QLD | 🌐 Available on Lawconnect\n\n---\n\n### 7. ⭐ **New Wave Law** – Sunnybank (Online/Mobile)\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "New Wave Law offers Sunnybank clients a modern, compassionate, and jargon-free approach to securing their legacy, catering to busy business owners, entrepreneurs, and families planning for the future.",
+              "annotations": [
+                {
+                  "title": "Wills & Estate Lawyer Sunnybank",
+                  "url": "https://newwavelaw.com.au/wills-estate-lawyer/sunnybank/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their focus is on empowering clients with confidence and clarity, ensuring wishes are legally binding and family futures are secure.",
+              "annotations": [
+                {
+                  "title": "Wills & Estate Lawyer Sunnybank",
+                  "url": "https://newwavelaw.com.au/wills-estate-lawyer/sunnybank/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n📍 Sunnybank QLD | 🌐 newwavelaw.com.au\n\n---\n\n### 8. ⭐ **Life Law Solutions** – Mount Gravatt East\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Life Law Solutions is located in Mount Gravatt East, QLD",
+              "annotations": [
+                {
+                  "title": "Deceased Estates Lawyers in Sunnybank, QLD",
+                  "url": "https://lawconnect.com/en-au/find/deceased-estates/qld/sunnybank-4109",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", and is listed as a trusted deceased estates and estate planning firm in the Sunnybank/Mount Gravatt area. Their team includes Elizabeth Fairon, Nathan Macdonald, and Fraser Murray.\n\n📍 Mount Gravatt East QLD | 📞 (07) 334... (available on Lawconnect)\n\n---\n\n## 💡 Tips for Choosing the Right Lawyer\n\n| Need | Recommended Focus |\n|---|---|\n| **Simple Will** | Denovo Lawyers, Hefferan & Co, New Wave Law |\n| **Testamentary Trusts** | Bennett Carroll Solicitors, Ebenezer Legal, Life Law Solutions |\n| **Enduring Power of Attorney** | Bennett Carroll Solicitors, Hefferan & Co, Denovo Lawyers |\n| **Multilingual (Chinese/Asian languages)** | Denovo Lawyers |\n| **Estate Disputes/Litigation** | The Estate Lawyers (Brisbane CBD) |\n\n---\n\n> 📌 **Pro Tip:** Always book a **free initial consultation** (offered by most of the above firms) to discuss your specific needs before committing. For complex testamentary trusts, look for firms with dedicated estate planning experience rather than generalist practices.",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "best wills estates lawyers Brisbane Southside Mount Gravatt Sunnybank",
+        "testamentary trusts enduring power of attorney lawyers Mount Gravatt Sunnybank Brisbane"
+      ]
+    }
+  ]
+}

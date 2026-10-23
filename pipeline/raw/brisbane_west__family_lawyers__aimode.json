@@ -1,0 +1,168 @@
+{
+  "slug": "brisbane_west",
+  "pk": "family_lawyers",
+  "plat": "aimode",
+  "text": "Who are the best family lawyers in Brisbane Western Suburbs (Indooroopilly & Centenary)? Give me a shortlist of reputable family law firms with reasons.",
+  "loc": 9192539,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_west__family_lawyers__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:26:34.750Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Who are the best family lawyers in Brisbane Western Suburbs (Indooroopilly & Centenary)? Give me a shortlist of reputable family law firms with reasons.",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 9192539,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Who%20are%20the%20best%20family%20lawyers%20in%20Brisbane%20Western%20Suburbs%20%28Indooroopilly%20%26%20Centenary%29%3F%20Give%20me%20a%20shortlist%20of%20reputable%20family%20law%20firms%20with%20reasons.&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCd0K1hBZUJFrEfCL3vNaowIF",
+      "datetime": "2026-10-23 05:26:30 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "When looking for reputable family law representation in Brisbane’s Western Suburbs (covering Indooroopilly, Taringa, Kenmore, and the Centenary suburbs like Jindalee and Mount Ommaney), `local boutique firms and specialized practitioners` often provide the ideal balance of high-level expertise and localized, accessible care.\n\nA curated shortlist of reputable options servicing these areas includes:\n\n- **James Black Family Law Mediation Arbitration** *(Indooroopilly)* \n\t- **Location:** Suite 1E, 49 Station Road, Indooroopilly\n\t- **Why them:** Highly regarded for client-focused, practical resolutions. James Black brings extensive commercial and family law experience with a heavy emphasis on minimizing unnecessary legal fees and reducing emotional animosity. Clients frequently note his compassionate, realistic guidance, particularly in mediation and child-centric parenting matters.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdNMlkzRnNkelF3GAo)\n- **Littles Family Lawyers** *(Indooroopilly)* \n\t- **Location:** Suite 2C, Lantos Place, 80 Stamford Road (Cnr Station Rd), Indooroopilly\n\t- **Why them:** Littles is a dedicated boutique practice focusing exclusively on family law. They are known for providing structured, strategic, and supportive guidance through complex financial and parenting transitions. They offer transparent introductory appointment structures tailored specifically to dissecting a client's unique position without unnecessary delay.[[1]](https://www.littlesfl.com.au/)[[2]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdJNGREWTJPV05zGAo)\n- **Jindalee Lawyers / Lawyers Mount Ommaney** *(Centenary Suburbs)* \n\t- **Location:** Serving the Centenary and Western Suburbs community\n\t- **Why them:** Ideal if you prefer a well-rooted community firm with decades of combined local practice rather than travelling into the CBD. They pride themselves on avoiding dense legal jargon in favor of plain-English advice, transparent fixed-fee structures for standard services, and flexible appointment options (including remote consultations) covering family law and property settlements.[[1]](https://jindaleelaw.com.au/lawyers-mount-ommaney/)\n- **Terra Australis Legal** *(Kenmore / Inner West)* \n\t- **Location:** Servicing Indooroopilly and the inner west from nearby Kenmore\n\t- **Why them:** Frequently utilized by western suburb residents for localized, accessible counsel dealing with family disputes, domestic violence protection orders, and matters tied to the Federal Circuit and Family Court registries. They provide pragmatic, localized advice without the corporate overhead of larger city firms.[[1]](https://terraaustralislegal.com.au/indooroopilly-lawyers/)\n\nTo help narrow down this list, could you tell me:\n\n- Are you looking primarily for **amicable mediation/settlement** or **litigation representation**?\n- Is your matter focused more on **property/financial division** or **parenting/custody arrangements**?",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "When looking for reputable family law representation in Brisbane’s Western Suburbs (covering Indooroopilly, Taringa, Kenmore, and the Centenary suburbs like Jindalee and Mount Ommaney), local boutique firms and specialized practitioners often provide the ideal balance of high-level expertise and localized, accessible care.",
+              "markdown": "When looking for reputable family law representation in Brisbane’s Western Suburbs (covering Indooroopilly, Taringa, Kenmore, and the Centenary suburbs like Jindalee and Mount Ommaney), `local boutique firms and specialized practitioners` often provide the ideal balance of high-level expertise and localized, accessible care.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "A curated shortlist of reputable options servicing these areas includes:",
+              "markdown": "A curated shortlist of reputable options servicing these areas includes:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "James Black Family Law Mediation Arbitration (Indooroopilly) James Black Family Law Mediation Arbitration James Black Family Law Mediation Arbitration Location: Suite 1E, 49 Station Road, Indooroopilly Why them: Highly regarded for client-focused, practical resolutions. James Black brings extensive commercial and family law experience with a heavy emphasis on minimizing unnecessary legal fees and reducing emotional animosity. Clients frequently note his compassionate, realistic guidance, particularly in mediation and child-centric parenting matters. Littles Family Lawyers (Indooroopilly) Littles Family Lawyers Littles Family Lawyers Location: Suite 2C, Lantos Place, 80 Stamford Road (Cnr Station Rd), Indooroopilly Why them: Littles is a dedicated boutique practice focusing exclusively on family law. They are known for providing structured, strategic, and supportive guidance through complex financial and parenting transitions. They offer transparent introductory appointment structures tailored specifically to dissecting a client's unique position without unnecessary delay. Jindalee Lawyers / Lawyers Mount Ommaney (Centenary Suburbs) Jindalee Lawyers / Lawyers Mount Ommaney Location: Serving the Centenary and Western Suburbs community Why them: Ideal if you prefer a well-rooted community firm with decades of combined local practice rather than travelling into the CBD. They pride themselves on avoiding dense legal jargon in favor of plain-English advice, transparent fixed-fee structures for standard services, and flexible appointment options (including remote consultations) covering family law and property settlements. Terra Australis Legal (Kenmore / Inner West) Terra Australis Legal Location: Servicing Indooroopilly and the inner west from nearby Kenmore Why them: Frequently utilized by western suburb residents for localized, accessible counsel dealing with family disputes, domestic violence protection orders, and matters tied to the Federal Circuit and Family Court registries. They provide pragmatic, localized advice without the corporate overhead of larger city firms.",
+              "markdown": "- **James Black Family Law Mediation Arbitration** *(Indooroopilly)* \n\t- **Location:** Suite 1E, 49 Station Road, Indooroopilly\n\t- **Why them:** Highly regarded for client-focused, practical resolutions. James Black brings extensive commercial and family law experience with a heavy emphasis on minimizing unnecessary legal fees and reducing emotional animosity. Clients frequently note his compassionate, realistic guidance, particularly in mediation and child-centric parenting matters.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdNMlkzRnNkelF3GAo)\n- **Littles Family Lawyers** *(Indooroopilly)* \n\t- **Location:** Suite 2C, Lantos Place, 80 Stamford Road (Cnr Station Rd), Indooroopilly\n\t- **Why them:** Littles is a dedicated boutique practice focusing exclusively on family law. They are known for providing structured, strategic, and supportive guidance through complex financial and parenting transitions. They offer transparent introductory appointment structures tailored specifically to dissecting a client's unique position without unnecessary delay.[[1]](https://www.littlesfl.com.au/)[[2]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdJNGREWTJPV05zGAo)\n- **Jindalee Lawyers / Lawyers Mount Ommaney** *(Centenary Suburbs)* \n\t- **Location:** Serving the Centenary and Western Suburbs community\n\t- **Why them:** Ideal if you prefer a well-rooted community firm with decades of combined local practice rather than travelling into the CBD. They pride themselves on avoiding dense legal jargon in favor of plain-English advice, transparent fixed-fee structures for standard services, and flexible appointment options (including remote consultations) covering family law and property settlements.[[1]](https://jindaleelaw.com.au/lawyers-mount-ommaney/)\n- **Terra Australis Legal** *(Kenmore / Inner West)* \n\t- **Location:** Servicing Indooroopilly and the inner west from nearby Kenmore\n\t- **Why them:** Frequently utilized by western suburb residents for localized, accessible counsel dealing with family disputes, domestic violence protection orders, and matters tied to the Federal Circuit and Family Court registries. They provide pragmatic, localized advice without the corporate overhead of larger city firms.[[1]](https://terraaustralislegal.com.au/indooroopilly-lawyers/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdNMlkzRnNkelF3GAo",
+                  "title": "James Black Family Law Mediation Arbitration",
+                  "text": "Ste 1E/49 Station Rd, Indooroopilly QLD 4068 · What We Are About\nWe focus on your needs.\nWe show you ways to minimise your legal f..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Littles Family Lawyers",
+                  "domain": "www.littlesfl.com.au",
+                  "url": "https://www.littlesfl.com.au/",
+                  "title": "Littles Family Lawyers",
+                  "text": "Suite 2C Lantos Place, 80 Stamford Road (cnr 49 Station Road) Indooroopilly QLD 4068 | 07 3378 8644 | admin@littlesfl.com.au."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdJNGREWTJPV05zGAo",
+                  "title": "Littles Family Lawyers",
+                  "text": "Lantos Place Suite 2C / 49 Station Road (Cnr, 80 Stamford Rd, Indooroopilly QLD 4068 · Littles Family Lawyers is a dedicated famil..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Jindalee Lawyers",
+                  "domain": "jindaleelaw.com.au",
+                  "url": "https://jindaleelaw.com.au/lawyers-mount-ommaney/",
+                  "title": "Lawyers Mount Ommaney | Jindalee Lawyers",
+                  "text": "Jindalee Lawyers is a full-service community law firm located in the heart of Brisbane's western suburbs. located near Mount Omman..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Terra Australis Legal",
+                  "domain": "terraaustralislegal.com.au",
+                  "url": "https://terraaustralislegal.com.au/indooroopilly-lawyers/",
+                  "title": "Lawyers in Indooroopilly, Brisbane - Terra Australis Legal",
+                  "text": "We act for clients throughout Brisbane's inner west, including Indooroopilly, from our base at nearby Kenmore. Call 1300 165 767 t..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "To help narrow down this list, could you tell me:",
+              "markdown": "To help narrow down this list, could you tell me:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Are you looking primarily for amicable mediation/settlement or litigation representation ? Is your matter focused more on property/financial division or parenting/custody arrangements ?",
+              "markdown": "- Are you looking primarily for **amicable mediation/settlement** or **litigation representation**?\n- Is your matter focused more on **property/financial division** or **parenting/custody arrangements**?",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Littles Family Lawyers",
+              "domain": "www.littlesfl.com.au",
+              "url": "https://www.littlesfl.com.au/",
+              "title": "Littles Family Lawyers",
+              "text": "Suite 2C Lantos Place, 80 Stamford Road (cnr 49 Station Road) Indooroopilly QLD 4068 | 07 3378 8644 | admin@littlesfl.com.au."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Terra Australis Legal",
+              "domain": "terraaustralislegal.com.au",
+              "url": "https://terraaustralislegal.com.au/indooroopilly-lawyers/",
+              "title": "Lawyers in Indooroopilly, Brisbane - Terra Australis Legal",
+              "text": "We act for clients throughout Brisbane's inner west, including Indooroopilly, from our base at nearby Kenmore. Call 1300 165 767 to arrange a time and to confirm h..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Jindalee Lawyers",
+              "domain": "jindaleelaw.com.au",
+              "url": "https://jindaleelaw.com.au/lawyers-mount-ommaney/",
+              "title": "Lawyers Mount Ommaney | Jindalee Lawyers",
+              "text": "Jindalee Lawyers is a full-service community law firm located in the heart of Brisbane's western suburbs. located near Mount Ommaney"
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

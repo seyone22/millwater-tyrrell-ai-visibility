@@ -1,0 +1,106 @@
+{
+  "slug": "logan",
+  "pk": "probate_administration",
+  "plat": "perplexity",
+  "text": "I am an executor handling probate and deceased estate administration in Logan and Western Corridor (Ipswich to Brisbane). Which law firms specialise in Queensland probate and estate administration?",
+  "loc": 9112660,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\logan__probate_administration__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:32:54.844Z",
+  "cost": 0.006201,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 44,
+      "output_tokens": 557,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005601,
+      "datetime": "2026-10-23 05:32:50 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For an executor in **Logan or the Ipswich–Brisbane corridor**, these firms appear particularly relevant for Queensland probate and deceased-estate administration:\n\n| Firm | Best fit | Local relevance |\n|---|---|---|\n| **Bennett Carroll Solicitors** | Probate applications, executor advice, asset collection, debts, tax issues and distribution | Queensland-wide service, with Brisbane and Ipswich access; also offers remote appointments[1][6] |\n| **Fallu McMillan Lawyers** | Probate, Letters of Administration, deceased-estate and trust administration, and estate disputes | Based in **Ipswich**, making it a strong option for the Western Corridor[2] |\n| **QLD Estate Lawyers** | Specialist probate applications and post-probate administration, including asset distribution | Dedicated Queensland probate and estate-administration practice; confirm availability for an in-person Logan appointment[3][9] |\n| **A.L.F. Lawyers** | Grant of Probate, Letters of Administration, executor support, estate administration and disputes | Services executors throughout Brisbane and South-East Queensland[5] |\n| **GLG Legal** | Estates involving disputes, contested wills, beneficiary conflicts or court proceedings | Brisbane-based estate-litigation practice that also assists with probate and administration[4] |\n| **Go To Court Lawyers** | Logan-focused wills and estates assistance, including probate and intestacy matters | Specifically services **Logan** and can connect clients with Queensland practitioners familiar with Brisbane Registry filings[7] |\n| **MacDonald Law** | Straightforward or complex deceased estates, business assets, testamentary trusts and litigation | Brisbane and Toowoomba practice with substantial probate and estate-administration work[8] |\n\n**Most geographically suitable starting points:**\n\n- **Ipswich / Western Corridor:** Fallu McMillan Lawyers or Bennett Carroll Solicitors.\n- **Logan:** Go To Court Lawyers for a local referral, or Bennett Carroll for a broader Queensland practice.\n- **Brisbane / complex or disputed estates:** A.L.F. Lawyers, GLG Legal or QLD Estate Lawyers.\n\nIn Queensland, probate and Letters of Administration applications are generally filed in the **Supreme Court of Queensland’s Brisbane Registry**, even when the executor lives in Logan or Ipswich[7]. When contacting firms, ask whether they handle the complete process: confirming the will, preparing the court application, collecting assets, paying debts and tax, communicating with beneficiaries, transferring or selling property, and final distribution.\n\nThe Queensland Public Trustee is another option if you want professional assistance with all or selected parts of administration, although it is not a private law firm[10].",
+              "annotations": [
+                {
+                  "title": "Estate Administration & Probate Lawyers in Queensland",
+                  "url": "https://www.bcglaw.com.au/estate-administration/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills and Estate Lawyers Ipswich | Fallu McMillan Lawyers",
+                  "url": "https://www.fmlaw.com.au/practice-areas/wills-estate-law/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "QLD Probate Lawyers | Estate Administration | QLD Estate Lawyers",
+                  "url": "https://qldestatelawyers.com.au/probate-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Estate Lawyers Brisbane | GLG Legal",
+                  "url": "https://www.glglegal.com.au/disputes/estate-litigation/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Probate Lawyers Brisbane | Apply for Grant of Probate",
+                  "url": "https://www.alflawyers.com.au/probate-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estate Planning Lawyers Queensland",
+                  "url": "https://www.bcglaw.com.au/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estates Lawyers Logan QLD",
+                  "url": "https://www.gotocourt.com.au/qld/logan-lawyers/wills-and-estates",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills and Estates lawyers Toowoomba and Brisbane",
+                  "url": "https://www.macdonaldlaw.com.au/will-estates",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Estate Administration Lawyers QLD | QLD Estate Lawyers",
+                  "url": "https://qldestatelawyers.com.au/estate-administration-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Find help to administer a deceased estate",
+                  "url": "https://www.pt.qld.gov.au/wills-powers-of-attorney-estates/deceased-estates/find-help-to-administer-a-deceased-estate",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

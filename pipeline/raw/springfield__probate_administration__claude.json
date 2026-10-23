@@ -1,0 +1,308 @@
+{
+  "slug": "springfield",
+  "pk": "probate_administration",
+  "plat": "claude",
+  "text": "I am an executor handling probate and deceased estate administration in Springfield and Greater Springfield, QLD. Which law firms specialise in Queensland probate and estate administration?",
+  "loc": 9191413,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\springfield__probate_administration__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:25:19.311Z",
+  "cost": 0.061303,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10091,
+      "output_tokens": 1362,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.060703,
+      "datetime": "2026-10-23 05:25:15 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is an overview of law firms that specialise in probate and deceased estate administration in Springfield, Greater Springfield, and the broader Queensland region:\n\n---\n\n## 🏛️ Law Firms Specialising in Queensland Probate & Estate Administration\n\n### 1. **Brookwater Legal** *(Greater Springfield & Ipswich — Local Specialist)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Brookwater Legal is a community-first practice helping individuals and families across Greater Springfield and Ipswich with wills, powers of attorney, probate and estate matters.",
+              "annotations": [
+                {
+                  "title": "Local Wills And Estates Lawyers",
+                  "url": "https://www.brookwaterlegal.com.au/wills-estates-lawyers",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " As an executor, this firm is particularly relevant to you — ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "they guide executors and families through probate, including applications for a grant of probate or letters of administration, transfer of land and property after death, and dealing with an estate where there's no valid will.",
+              "annotations": [
+                {
+                  "title": "Local Wills And Estates Lawyers",
+                  "url": "https://www.brookwaterlegal.com.au/wills-estates-lawyers",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their services also cover disputes over the deceased's estate or will, assistance for executors during the administration of the estate, matters dealing with trustee companies, and applications for a grant of probate or letters of administration.",
+              "annotations": [
+                {
+                  "title": "Wills & Estate Planning Ipswich",
+                  "url": "https://brookwaterlegal.com.au/income-protection-and-succession-planning/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 2. **Stanford Legal** *(Springfield Central — Local)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Stanford Legal is a Queensland law practice based in Springfield Central, acting for clients across Ipswich, Brisbane and South East Queensland in property law and conveyancing, family law, wills and estates, and commercial law.",
+              "annotations": [
+                {
+                  "title": "Contact Stanford Legal",
+                  "url": "https://stanfordlegal.com.au/springfield-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their wills and estates services include drafting and managing legal wills, succession planning, estate disputes, enduring power of attorney, and deceased estate administration.",
+              "annotations": [
+                {
+                  "title": "Contact Stanford Legal",
+                  "url": "https://stanfordlegal.com.au/springfield-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are physically located at ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Level 8, Springfield Tower, 145 Sinnathamby Blvd, Springfield Central QLD 4300.",
+              "annotations": [
+                {
+                  "title": "Contact Stanford Legal",
+                  "url": "https://stanfordlegal.com.au/springfield-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. **New Wave Law** *(Springfield)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "New Wave Law offers compassionate and efficient estate administration and probate services to families in Springfield, covering wills, estate planning and probate for Springfield families and business owners.",
+              "annotations": [
+                {
+                  "title": "Wills & Estate Lawyer Springfield",
+                  "url": "https://newwavelaw.com.au/wills-estate-lawyer/springfield/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They offer clear fixed-fee pricing, plain English advice, and a free initial consultation.",
+              "annotations": [
+                {
+                  "title": "Wills & Estate Lawyer Springfield",
+                  "url": "https://newwavelaw.com.au/wills-estate-lawyer/springfield/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They guide executors and beneficiaries through every step, from applying for probate or letters of administration, to managing estate assets, settling debts, and distributing inheritances.",
+              "annotations": [
+                {
+                  "title": "Wills & Estate Lawyer Springfield",
+                  "url": "https://newwavelaw.com.au/wills-estate-lawyer/springfield/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 4. **The Estate Lawyers** *(Queensland-Wide Specialist)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The Estate Lawyers do not accept instructions in any area of law unless they relate to a will or estate plan, a deceased estate administration, or a will or other form of estate or power of attorney dispute in Queensland",
+              "annotations": [
+                {
+                  "title": "The Estate Lawyers",
+                  "url": "https://theestatelawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " — making them a dedicated specialist firm. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They also represent selected clients in deceased estate administration matters and will and estate disputes on a deferred fee basis, meaning no fees are required until you receive money from the estate.",
+              "annotations": [
+                {
+                  "title": "The Estate Lawyers",
+                  "url": "https://theestatelawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 5. **Attwood Marshall Lawyers** *(Queensland & NSW)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Attwood Marshall Lawyers' experienced team specialise in the complex areas of estate planning and probate, with state-specific knowledge and expertise to assist with all aspects of deceased estate administration in both Queensland and New South Wales.",
+              "annotations": [
+                {
+                  "title": "Estate Administration",
+                  "url": "https://attwoodmarshall.com.au/wills-and-estates/estate-administration/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 6. **Qld Law Group** *(Goodna — Near Springfield)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Based in Goodna, Queensland, Qld Law Group offers extensive legal services including family law matters such as wills, powers of attorney, and estate disputes.",
+              "annotations": [
+                {
+                  "title": "Find Estate Planning Lawyers in Springfield QLD - Lawconnect",
+                  "url": "https://lawconnect.com/en-au/find/estate-planning/qld/springfield-4300",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 7. **George Lawyers** *(Brisbane/Regents Park)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "George Lawyers, located in Brisbane, provides professional legal advice and supports clients with wills and estate planning, excelling in will planning and execution, powers of attorney, and deceased estate administration, including probate and wills disputes.",
+              "annotations": [
+                {
+                  "title": "Find Estate Planning Lawyers in Springfield Lakes QLD - Lawconnect",
+                  "url": "https://lawconnect.com/en-au/find/estate-planning/qld/springfield-lakes-4300",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 8. **LadyBird Wills & Estates Pty Ltd** *(Queensland)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "LadyBird Wills & Estates Pty Ltd is a reputable Queensland law firm specialising in wills, estate planning, estate administration, and property conveyancing.",
+              "annotations": [
+                {
+                  "title": "Find Estate Planning Lawyers in Springfield QLD - Lawconnect",
+                  "url": "https://lawconnect.com/en-au/find/estate-planning/qld/springfield-4300",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 💡 Tips for Choosing the Right Firm as an Executor\n\n- **Local firms** like **Brookwater Legal**, **Stanford Legal**, and **New Wave Law** are ideal if you prefer face-to-face consultations in the Springfield/Greater Springfield area.\n- **Specialist-only firms** like **The Estate Lawyers** focus exclusively on estates and may offer deeper expertise for complex matters.\n- Consider firms offering **fixed fees** or **deferred payment** options if estate liquidity is a concern.\n- Always check whether the firm has experience with **Queensland Supreme Court probate applications**, as this is a key part of the executor's role.\n\nWould you like more detail on any of these firms, or guidance on the probate process in Queensland?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "law firms specialising in probate deceased estate administration Springfield Queensland",
+        "Queensland probate estate administration law firms Greater Springfield QLD"
+      ]
+    }
+  ]
+}

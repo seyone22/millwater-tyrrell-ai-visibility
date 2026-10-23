@@ -1,0 +1,152 @@
+{
+  "clientName": "Millwater Tyrrell Law",
+  "shortName": "Millwater Tyrrell",
+  "legalName": "Millwater Tyrrell Law",
+  "founder": "David Millwater & Matthew Tyrrell (Partners)",
+  "domain": "millwatertyrrell.com.au",
+  "targetRegex": "\\bMillwater\\s*Tyrrell(?:\\s+Law|\\s+Lawyers|\\s+Solicitors)?\\b|millwatertyrrell\\.com\\.au",
+  "vertical": "Family Law & Wills and Estates Law Firm (Ipswich & Brisbane)",
+  "primaryMarket": "ipswich",
+  "cities": [
+    {
+      "id": "ipswich",
+      "name": "Ipswich, QLD",
+      "displayLoc": "Ipswich Central & CBD (HQ)",
+      "state": "QLD",
+      "locationCode": 9060853,
+      "mapsQuery": "family and wills estates lawyers Ipswich QLD"
+    },
+    {
+      "id": "springfield",
+      "name": "Springfield and Greater Springfield, QLD",
+      "displayLoc": "Springfield & Greater Springfield",
+      "state": "QLD",
+      "locationCode": 9191413,
+      "mapsQuery": "family and wills estates lawyers Springfield Lakes Brookwater QLD"
+    },
+    {
+      "id": "brisbane",
+      "name": "Brisbane",
+      "displayLoc": "Brisbane CBD & Inner Metro",
+      "state": "QLD",
+      "locationCode": 1000339,
+      "mapsQuery": "family and wills estates lawyers Brisbane CBD"
+    },
+    {
+      "id": "brisbane_west",
+      "name": "Brisbane Western Suburbs (Indooroopilly & Centenary)",
+      "displayLoc": "Brisbane West (Indooroopilly & Centenary)",
+      "state": "QLD",
+      "locationCode": 9192539,
+      "mapsQuery": "family and wills estates lawyers Indooroopilly Kenmore Brisbane West"
+    },
+    {
+      "id": "brisbane_south",
+      "name": "Brisbane Southside (Mount Gravatt & Sunnybank)",
+      "displayLoc": "Brisbane South (Mt Gravatt & Sunnybank)",
+      "state": "QLD",
+      "locationCode": 9060851,
+      "mapsQuery": "family and wills estates lawyers Mount Gravatt Sunnybank Brisbane South"
+    },
+    {
+      "id": "brisbane_north",
+      "name": "Brisbane Northside (Chermside & North Lakes)",
+      "displayLoc": "Brisbane North (Chermside & North Lakes)",
+      "state": "QLD",
+      "locationCode": 9060852,
+      "mapsQuery": "family and wills estates lawyers Chermside North Lakes Brisbane"
+    },
+    {
+      "id": "brisbane_east",
+      "name": "Brisbane East and Bayside (Carindale & Wynnum)",
+      "displayLoc": "Brisbane East & Bayside (Carindale & Wynnum)",
+      "state": "QLD",
+      "locationCode": 9194035,
+      "mapsQuery": "family and wills estates lawyers Carindale Wynnum Brisbane East"
+    },
+    {
+      "id": "logan",
+      "name": "Logan and Western Corridor (Ipswich to Brisbane)",
+      "displayLoc": "Logan & Western Corridor",
+      "state": "QLD",
+      "locationCode": 9112660,
+      "mapsQuery": "family and wills estates lawyers Logan Springwood Ipswich Brisbane"
+    }
+  ],
+  "prompts": [
+    {
+      "id": "family_lawyers",
+      "title": "Best Family Lawyers",
+      "category": "Family Law — Best Firm Shortlist",
+      "serpKeyword": "best family lawyers {city}",
+      "template": "Who are the best family lawyers in {city}? Give me a shortlist of reputable family law firms with reasons."
+    },
+    {
+      "id": "divorce_property",
+      "title": "Divorce & Property Settlement",
+      "category": "Family Law — Divorce & Property Settlement",
+      "serpKeyword": "divorce property settlement lawyers {city}",
+      "template": "I am going through a separation and complex property settlement in {city}. Which family law firms have the strongest track record for property division and binding financial agreements?"
+    },
+    {
+      "id": "parenting_custody",
+      "title": "Parenting, Custody & Mediation (FDRP)",
+      "category": "Family Law — Parenting & Mediation",
+      "serpKeyword": "child custody parenting family dispute resolution lawyers {city}",
+      "template": "Which family lawyers in {city} are best for parenting arrangements, child custody disputes, and accredited family dispute resolution (mediation)?"
+    },
+    {
+      "id": "wills_estate_planning",
+      "title": "Wills, EPOA & Testamentary Trusts",
+      "category": "Wills & Estates — Estate Planning & EPOA",
+      "serpKeyword": "wills and estates lawyers {city}",
+      "template": "Who are the best wills and estates lawyers in {city} for drafting wills, testamentary trusts, and enduring powers of attorney?"
+    },
+    {
+      "id": "probate_administration",
+      "title": "Probate & Deceased Estate Administration",
+      "category": "Wills & Estates — Probate & Deceased Estates",
+      "serpKeyword": "probate deceased estate administration lawyers {city}",
+      "template": "I am an executor handling probate and deceased estate administration in {city}. Which law firms specialise in Queensland probate and estate administration?"
+    },
+    {
+      "id": "contesting_wills",
+      "title": "Contesting a Will & Estate Litigation (FPA)",
+      "category": "Wills & Estates — Contesting a Will & FPA",
+      "serpKeyword": "contesting a will family provision estate litigation lawyers {city}",
+      "template": "Which wills and estates law firms in {city} specialise in contesting a will, Family Provision Applications (FPA), and estate litigation?"
+    },
+    {
+      "id": "fixed_fee_family_estates",
+      "title": "Fixed-Fee Wills, Free Consult & Deferred Fees",
+      "category": "Commercial Offer — Free Consult & Fixed/Deferred Fees",
+      "serpKeyword": "fixed fee family and wills lawyers free consultation {city}",
+      "template": "Which boutique law firms in {city} offer free initial consultations, fixed-fee wills, or deferred-fee options for family law and wills and estates?"
+    }
+  ],
+  "aiKeywordCluster": [
+    "family lawyer brisbane",
+    "family lawyer ipswich",
+    "wills and estates lawyer brisbane",
+    "divorce lawyer brisbane",
+    "property settlement lawyer",
+    "probate lawyer brisbane",
+    "contesting a will queensland",
+    "child custody lawyer brisbane",
+    "estate planning lawyer brisbane",
+    "enduring power of attorney qld",
+    "binding financial agreement lawyer",
+    "deceased estate lawyer"
+  ],
+  "trackedDomains": [
+    "millwatertyrrell.com.au",
+    "bwbfamilylaw.com.au",
+    "degroots.com.au",
+    "phillipsfamilylaw.com.au",
+    "qldestatelawyers.com.au",
+    "mcna.com.au",
+    "walkerpender.com.au",
+    "fmlaw.com.au",
+    "hopgoodganim.com.au"
+  ]
+}

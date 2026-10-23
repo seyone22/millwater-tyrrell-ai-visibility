@@ -1,0 +1,106 @@
+{
+  "slug": "ipswich",
+  "pk": "wills_estate_planning",
+  "plat": "perplexity",
+  "text": "Who are the best wills and estates lawyers in Ipswich for drafting wills, testamentary trusts, and enduring powers of attorney?",
+  "loc": 9060853,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\ipswich__wills_estate_planning__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:23:38.118Z",
+  "cost": 0.006036,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 34,
+      "output_tokens": 402,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005436,
+      "datetime": "2026-10-23 05:23:33 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For **Ipswich, Queensland**, the strongest shortlist is:\n\n- **Walker Pender Group** — Full estate-planning service covering wills, testamentary trusts, enduring powers of attorney and asset protection; it has an Ipswich office at 28 Nicholas Street. [4][5]\n- **Turner Freeman Lawyers** — Ipswich team handles wills, powers of attorney, estate planning, superannuation and estate disputes; **Krystal Bellamy** is listed as Special Counsel in wills and estates. [6]\n- **Millwater Tyrrell Law** — Local Ipswich practice offering wills and enduring powers of attorney, with fixed-fee options and Matthew Tyrrell identified as its wills-and-estates lawyer. [7]\n- **Fallu McMillan** — Specifically advertises Ipswich wills and estate planning, including wills, enduring powers of attorney and testamentary trusts. [2]\n- **Bennett Carroll Solicitors** — Queensland-wide service covering Ipswich and offering wills, enduring powers of attorney and estate administration, including electronic appointments. [9]\n\n**Best fit by need:**\n\n| Need | Suggested first enquiries |\n|---|---|\n| Testamentary trust and complex family or tax planning | Walker Pender, Fallu McMillan |\n| Straightforward will and enduring power of attorney | Millwater Tyrrell |\n| Will plus possible future dispute or family-provision issue | Turner Freeman |\n| Remote consultation or flexible electronic service | Bennett Carroll |\n\nWhen comparing quotes, ask whether the fee includes **a detailed estate-planning consultation, testamentary-trust provisions, superannuation and binding-death-benefit advice, enduring power of attorney, advance health directive, execution meeting, and future document storage or revisions**. A testamentary trust is not automatically appropriate, so the lawyer should explain its tax, control, administration and family-law implications rather than simply insert a template clause.",
+              "annotations": [
+                {
+                  "title": "Wills Solicitors",
+                  "url": "https://www.ashtonslegal.co.uk/your-life/wills-solicitors/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills and Estate Planning Ipswich",
+                  "url": "https://www.fmlaw.com.au/practice-areas/wills-estate-law/wills-and-estate-planning/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills and Probate Solicitors in Ipswich",
+                  "url": "https://www.solicitors.com/probate+ipswich.html",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills Lawyers",
+                  "url": "https://walkerpender.com.au/will/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills and Estate Planning Lawyers - Walker Pender",
+                  "url": "https://walkerpender.com.au/will/estate-planning/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estate Lawyers Ipswich",
+                  "url": "https://www.turnerfreeman.com.au/wills-estates-lawyers-ipswich/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills and Estates Lawyers Ipswich - Millwater Tyrrell Law",
+                  "url": "https://millwatertyrrell.com.au/wills-and-estates",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills, Trusts and Probate Solicitors Ipswich - Ellisons",
+                  "url": "https://ellisons.com/services/wills-trusts-and-probate-solicitors-in-ipswich/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estate Planning Lawyers in Queensland",
+                  "url": "https://www.bcglaw.com.au/wills-estates-planning/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills, Trust & Probate Solicitors in Ipswich - Gardner Champion",
+                  "url": "https://www.gardnerchampion.co.uk/solicitors/ipswich/wills-trust-probate",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

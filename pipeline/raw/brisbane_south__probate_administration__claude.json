@@ -1,0 +1,333 @@
+{
+  "slug": "brisbane_south",
+  "pk": "probate_administration",
+  "plat": "claude",
+  "text": "I am an executor handling probate and deceased estate administration in Brisbane Southside (Mount Gravatt & Sunnybank). Which law firms specialise in Queensland probate and estate administration?",
+  "loc": 9060851,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_south__probate_administration__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:29:14.723Z",
+  "cost": 0.064792,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10109,
+      "output_tokens": 1591,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.064192,
+      "datetime": "2026-10-23 05:29:10 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a comprehensive overview of law firms that specialise in Queensland probate and deceased estate administration, with a focus on Brisbane Southside (Mount Gravatt & Sunnybank):\n\n---\n\n## ⚖️ Law Firms Specialising in Queensland Probate & Estate Administration\n\n### 🏢 Brisbane Southside / Local Area Firms\n\n1. **Law Empire** *(Upper Mount Gravatt)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Law Empire provides comprehensive Wills, Estates & Probate services to individuals and families across Queensland, helping clients navigate the administration of deceased estates. Their office is located at **2072 Logan Road, Upper Mount Gravatt, QLD 4122** — right in your local area.",
+              "annotations": [
+                {
+                  "title": "Wills, Estates and Probate -",
+                  "url": "https://lawempire.com.au/wills-estates-and-probate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n2. **Hefferan & Co Solicitors** *(Sunnybank Hills)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Hefferan & Co, established in Queensland in 1993, specialise in property conveyancing and estate law. With offices in Browns Plains and **Sunnybank Hills**, they offer personalised legal solutions for estate planning, wills, and enduring powers of attorney, guiding clients through estate administration with compassion and ensuring compliance with Queensland law.",
+              "annotations": [
+                {
+                  "title": "Find Wills and Estates Lawyers in Sunnybank QLD - Lawconnect",
+                  "url": "https://lawconnect.com/en-au/find/wills-and-estates/qld/sunnybank-4109",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n3. **Life Law Solutions** *(Mount Gravatt East)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Life Law Solutions is located in **Mount Gravatt East, QLD** — just 5.8 km from Sunnybank",
+              "annotations": [
+                {
+                  "title": "Deceased Estates Lawyers in Sunnybank, QLD",
+                  "url": "https://lawconnect.com/en-au/find/deceased-estates/qld/sunnybank-4109",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " — making them a conveniently local option for estate matters.\n\n4. **Mitchells Solicitors / Burns Law** *(Moorooka)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Operating as Legal Protection Pty Ltd, Burns Law has supported Brisbane's Southside since 1993. Their services include Wills & Estates, offering support in drafting wills, estate plans, and managing probate.",
+              "annotations": [
+                {
+                  "title": "Deceased Estates Lawyers in Sunnybank, QLD",
+                  "url": "https://lawconnect.com/en-au/find/deceased-estates/qld/sunnybank-4109",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n5. **Aston Lawyers** *(Eight Mile Plains)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Aston Lawyers is located in **Eight Mile Plains, QLD**, approximately 3.3 km from Sunnybank",
+              "annotations": [
+                {
+                  "title": "Deceased Estates Lawyers in Sunnybank, QLD",
+                  "url": "https://lawconnect.com/en-au/find/deceased-estates/qld/sunnybank-4109",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", making them another nearby option for estate administration matters.\n\n---\n\n### 🏢 Broader Brisbane / South East Queensland Firms\n\n6. **Bennett Carroll Solicitors**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Bennett Carroll Solicitors help Queenslanders with experienced legal advice in all aspects of Wills and Estates. They specifically serve clients in Brisbane, Stafford, **Upper Mount Gravatt**, the Sunshine Coast, Gold Coast, and Ipswich, and can assist fully electronically via phone, email, or video call, or in person.",
+              "annotations": [
+                {
+                  "title": "Wills & Estate Planning Lawyers Queensland",
+                  "url": "https://www.bcglaw.com.au/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n7. **A.L.F. Lawyers**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "A.L.F. Lawyers are expert probate lawyers supporting executors across Brisbane and South East Queensland, assisting with probate applications and estate administration at every stage of the process — from the initial assessment of the estate through to the issue of the grant and broader administration.",
+              "annotations": [
+                {
+                  "title": "Probate Lawyers Brisbane",
+                  "url": "https://www.alflawyers.com.au/wills-estates-lawyers-brisbane/probate-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Probate Lawyers Brisbane",
+                  "url": "https://www.alflawyers.com.au/wills-estates-lawyers-brisbane/probate-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They are a Queensland Law Society member firm and have been independently recognised as one of Brisbane's top property and estate law firms across multiple years.",
+              "annotations": [
+                {
+                  "title": "Probate Lawyers Brisbane",
+                  "url": "https://www.alflawyers.com.au/wills-estates-lawyers-brisbane/probate-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n8. **Attwood Marshall Lawyers**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Attwood Marshall Lawyers is a leading Wills and Estates law firm in Brisbane, serving the community since 1946 and helping thousands of families across Brisbane protect their legacy.",
+              "annotations": [
+                {
+                  "title": "Wills and Estate Lawyers Brisbane",
+                  "url": "https://attwoodmarshall.com.au/brisbane/wills-and-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their practice areas include estate planning, testamentary trusts, superannuation and life insurance policies, probate, estate administration, Will disputes, and retirement planning.",
+              "annotations": [
+                {
+                  "title": "Wills and Estate Lawyers Brisbane",
+                  "url": "https://attwoodmarshall.com.au/brisbane/wills-and-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n9. **Will and Estate Lawyers Australia**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They provide probate services throughout Queensland from offices in Brisbane (Milton and Ashgrove) and the Sunshine Coast (Sippy Downs), with a service area including Brisbane, Gold Coast, Sunshine Coast, Ipswich, Logan, Toowoomba, and all other Queensland locations.",
+              "annotations": [
+                {
+                  "title": "Probate Lawyers Brisbane - Expert Help for Executors",
+                  "url": "https://willandestatelawyers.com.au/probate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They offer fixed-fee probate, wills, and estate services with transparent pricing, including a $1,490 fixed-fee probate service.",
+              "annotations": [
+                {
+                  "title": "Probate Lawyers Brisbane - Expert Help for Executors",
+                  "url": "https://willandestatelawyers.com.au/probate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n10. **Queensland Probate**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Queensland Probate lawyers have been practising law for over 65 years combined, with a legal team consisting of four solicitors and one paralegal.",
+              "annotations": [
+                {
+                  "title": "Estate Planning Brisbane",
+                  "url": "https://qldprobate.com.au/estate-planning-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They specialise in wills and estates services, estate planning, administration of deceased estates, real estate transactions in deceased estates, and contesting a Will.",
+              "annotations": [
+                {
+                  "title": "Estate Planning Brisbane",
+                  "url": "https://qldprobate.com.au/estate-planning-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n11. **PCL Lawyers**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "PCL Lawyers in Brisbane have an experienced Wills & Estates team that provides quality advice on all types of estate planning and probate services.",
+              "annotations": [
+                {
+                  "title": "Wills, Estates, Succession Planning Lawyers",
+                  "url": "https://www.pcllawyers.com.au/brisbane/wills-and-estate-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They can assist executors in obtaining probate, which is the court's recognition that the Will is legally valid.",
+              "annotations": [
+                {
+                  "title": "Wills, Estates, Succession Planning Lawyers",
+                  "url": "https://www.pcllawyers.com.au/brisbane/wills-and-estate-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 💡 Tips for Choosing the Right Firm as an Executor\n\n- **Location:** For convenience, firms in Upper Mount Gravatt, Sunnybank Hills, Eight Mile Plains, or Mount Gravatt East are closest to you.\n- **Fixed Fees:** Some firms (e.g., Will and Estate Lawyers Australia, Hefferan & Co) offer transparent fixed-fee pricing, which can help with budgeting.\n- **Specialist Focus:** Look for firms that specifically mention **executor support**, **Grants of Probate**, **Letters of Administration**, and **deceased estate administration** in Queensland.\n- **Reviews:** Check Google Reviews and platforms like LawConnect to compare ratings and client experiences.\n\nWould you like more detail on any specific firm, or guidance on the probate process in Queensland?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "probate estate administration law firms Brisbane Southside Mount Gravatt Sunnybank Queensland",
+        "Queensland probate estate administration specialist law firms Brisbane 2024"
+      ]
+    }
+  ]
+}

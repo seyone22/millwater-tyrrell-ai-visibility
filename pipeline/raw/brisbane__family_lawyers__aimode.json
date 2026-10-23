@@ -1,0 +1,275 @@
+{
+  "slug": "brisbane",
+  "pk": "family_lawyers",
+  "plat": "aimode",
+  "text": "Who are the best family lawyers in Brisbane? Give me a shortlist of reputable family law firms with reasons.",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane__family_lawyers__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:25:24.599Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Who are the best family lawyers in Brisbane? Give me a shortlist of reputable family law firms with reasons.",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000339,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Who%20are%20the%20best%20family%20lawyers%20in%20Brisbane%3F%20Give%20me%20a%20shortlist%20of%20reputable%20family%20law%20firms%20with%20reasons.&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCbsg9lwEWpFrEcCE3vNaowIF",
+      "datetime": "2026-10-23 05:25:20 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "The **best family law firms in Brisbane** are consistently recognized through peer-reviewed legal rankings like **Doyle’s Guide** , known for handling complex property settlements, high-net-worth divorces, and sensitive parenting matters.[[1]](https://doylesguide.com/leading-family-divorce-law-firms-brisbane-2026/)[[2]](https://doylesguide.com/leading-family-divorce-lawyers-brisbane-2026/)\n\n| Firm Name | Tier / Recognition (Doyle's Guide) | Key Focus Areas |\n|---|---|---|\n| **Phillips Family Law** | First Tier (2026) | Complex property, prenuptial agreements, divorce |\n| **Barry Nilsson** | First Tier (2026) | Matrimonial law, high-value disputes, parenting |\n| **[HopgoodGanim](https://www.hopgoodganim.com.au/)** | First Tier (2026) | Family law, complex property, commercial ties |\n| **Damien Greer Lawyers** | Leading Firm (2026) | Preeminent family and divorce litigation |\n| **Stewart Family Law** | Recommended Firm (2024–2026) | QLS accredited specialists, collaborative law, mediation |\n\n### Reputable Brisbane Family Law Firms & Why They Stand Out\n\n- **Phillips Family Law** \n\t- **Recognition:** Ranked as a First Tier Family & Divorce Law Firm in Brisbane and nationally by [Doyle's Guide](https://doylesguide.com/).\n\t- **Why choose them:** Founder [Tony Phillips](https://www.phillipsfamilylaw.com.au/) and senior team members are consistently rated among Australia's leading authorities in prenuptial agreements, complex financial structures, and contested separations.[[1]](https://www.phillipsfamilylaw.com.au/)\n- **[Barry Nilsson](https://www.bnlaw.com.au/)** \n\t- **Recognition:** First Tier Family & Divorce Law Firm in Brisbane.\n\t- **Why choose them:** Senior practitioners like [Geoff Sinclair](https://doylesguide.com/leading-family-divorce-law-firms-brisbane-2026/) and James Steel are widely recognized by industry peers for managing multi-layered commercial property pools and difficult parenting disputes.[[1]](https://doylesguide.com/leading-family-divorce-law-firms-brisbane-2026/)[[2]](https://doylesguide.com/leading-family-divorce-lawyers-brisbane-2026/)\n- **HopgoodGanim** \n\t- **Recognition:** First Tier Family & Divorce Law Firm in Brisbane.\n\t- **Why choose them:** Ideal for high-net-worth individuals where family law intersects with corporate structures, trusts, and business valuations.[[1]](https://doylesguide.com/leading-family-divorce-law-firms-brisbane-2026/)[[2]](https://doylesguide.com/leading-family-divorce-lawyers-brisbane-2026/)\n- **[Damien Greer Lawyers](https://damiengreer.com.au/)** \n\t- **Recognition:** Preeminent Family and Divorce Law practice; founder [Damien Greer](https://damiengreer.com.au/) rated as a Preeminent Brisbane family lawyer.\n\t- **Why choose them:** Known for aggressive yet strategic advocacy in tough courtroom litigation, specialized children's matters, and complex property settlements.[[1]](https://damiengreer.com.au/)[[2]](https://doylesguide.com/leading-family-divorce-lawyers-brisbane-2026/)\n- **Stewart Family Law** \n\t- **Recognition:** Recommended by Doyle's Guide; features [Queensland Law Society](https://www.qls.com.au/) Accredited Family Law Specialists.\n\t- **Why choose them:** Well-suited for clients looking for focused, boutique attention, alternative dispute resolution, collaborative law, and mediation rather than immediate court battles.[[1]](https://stewartfamilylaw.com.au/)\n- **Michael Lynch Family Lawyers** \n\t- **Recognition:** Over 25 years of dedicated practice in Brisbane CBD with a large combined pool of practitioner experience.\n\t- **Why choose them:** Offers structured, fixed-price initial consultations and handles broad matters including divorce, international family law, and domestic violence protection orders.[[1]](https://www.michaellynchfamilylawyers.com.au/)\n\nIf you'd like to narrow this down, please share:\n\n- Are you dealing with **property/financial division** or **parenting/custody**?\n- Do you prefer a **collaborative/mediation-focused** approach or **strong court representation**?",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "The best family law firms in Brisbane are consistently recognized through peer-reviewed legal rankings like Doyle’s Guide, known for handling complex property settlements, high-net-worth divorces, and sensitive parenting matters.",
+              "markdown": "The **best family law firms in Brisbane** are consistently recognized through peer-reviewed legal rankings like **Doyle’s Guide** , known for handling complex property settlements, high-net-worth divorces, and sensitive parenting matters.[[1]](https://doylesguide.com/leading-family-divorce-law-firms-brisbane-2026/)[[2]](https://doylesguide.com/leading-family-divorce-lawyers-brisbane-2026/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Doyle's Guide",
+                  "domain": "doylesguide.com",
+                  "url": "https://doylesguide.com/leading-family-divorce-law-firms-brisbane-2026/",
+                  "title": "Leading Family & Divorce Law Firms - Brisbane, 2026 - Doyle's Guide",
+                  "text": "First Tier: Barry Nilsson, HopgoodGanim, Phillips Family Law. Second Tier: Mills Oakley. Third Tier: DA Family Lawyers, Damien Gre..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Doyle's Guide",
+                  "domain": "doylesguide.com",
+                  "url": "https://doylesguide.com/leading-family-divorce-lawyers-brisbane-2026/",
+                  "title": "Leading Family & Divorce Lawyers",
+                  "text": "The 2026 listing of leading Brisbane Family & Divorce Lawyers details solicitors practising within the areas of family law, matrim..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_table_element",
+              "position": "left",
+              "markdown": "| Firm Name | Tier / Recognition (Doyle's Guide) | Key Focus Areas |\n|---|---|---|\n| **Phillips Family Law** | First Tier (2026) | Complex property, prenuptial agreements, divorce |\n| **Barry Nilsson** | First Tier (2026) | Matrimonial law, high-value disputes, parenting |\n| **[HopgoodGanim](https://www.hopgoodganim.com.au/)** | First Tier (2026) | Family law, complex property, commercial ties |\n| **Damien Greer Lawyers** | Leading Firm (2026) | Preeminent family and divorce litigation |\n| **Stewart Family Law** | Recommended Firm (2024–2026) | QLS accredited specialists, collaborative law, mediation |",
+              "table": {
+                "table_header": [
+                  "Firm Name",
+                  "Tier / Recognition (Doyle's Guide)",
+                  "Key Focus Areas"
+                ],
+                "table_content": [
+                  [
+                    "Phillips Family Law",
+                    "First Tier (2026)",
+                    "Complex property, prenuptial agreements, divorce"
+                  ],
+                  [
+                    "Barry Nilsson",
+                    "First Tier (2026)",
+                    "Matrimonial law, high-value disputes, parenting"
+                  ],
+                  [
+                    "HopgoodGanim",
+                    "First Tier (2026)",
+                    "Family law, complex property, commercial ties"
+                  ],
+                  [
+                    "Damien Greer Lawyers",
+                    "Leading Firm (2026)",
+                    "Preeminent family and divorce litigation"
+                  ],
+                  [
+                    "Stewart Family Law",
+                    "Recommended Firm (2024–2026)",
+                    "QLS accredited specialists, collaborative law, mediation"
+                  ]
+                ]
+              }
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Reputable Brisbane Family Law Firms & Why They Stand Out",
+              "text": "Phillips Family Law Phillips Family Law Phillips Family Law Recognition: Ranked as a First Tier Family & Divorce Law Firm in Brisbane and nationally by Doyle's Guide. Why choose them: Founder Tony Phillips and senior team members are consistently rated among Australia's leading authorities in prenuptial agreements, complex financial structures, and contested separations. Barry Nilsson Recognition: First Tier Family & Divorce Law Firm in Brisbane. Why choose them: Senior practitioners like Geoff Sinclair and James Steel are widely recognized by industry peers for managing multi-layered commercial property pools and difficult parenting disputes. HopgoodGanim HopgoodGanim Recognition: First Tier Family & Divorce Law Firm in Brisbane. Why choose them: Ideal for high-net-worth individuals where family law intersects with corporate structures, trusts, and business valuations. Damien Greer Lawyers Recognition: Preeminent Family and Divorce Law practice; founder Damien Greer rated as a Preeminent Brisbane family lawyer. Why choose them: Known for aggressive yet strategic advocacy in tough courtroom litigation, specialized children's matters, and complex property settlements. Stewart Family Law Stewart Family Law Stewart Family Law Recognition: Recommended by Doyle's Guide; features Queensland Law Society Accredited Family Law Specialists. Why choose them: Well-suited for clients looking for focused, boutique attention, alternative dispute resolution, collaborative law, and mediation rather than immediate court battles. Michael Lynch Family Lawyers Michael Lynch Family Lawyers Michael Lynch Family Lawyers Recognition: Over 25 years of dedicated practice in Brisbane CBD with a large combined pool of practitioner experience. Why choose them: Offers structured, fixed-price initial consultations and handles broad matters including divorce, international family law, and domestic violence protection orders.",
+              "markdown": "- **Phillips Family Law** \n\t- **Recognition:** Ranked as a First Tier Family & Divorce Law Firm in Brisbane and nationally by [Doyle's Guide](https://doylesguide.com/).\n\t- **Why choose them:** Founder [Tony Phillips](https://www.phillipsfamilylaw.com.au/) and senior team members are consistently rated among Australia's leading authorities in prenuptial agreements, complex financial structures, and contested separations.[[1]](https://www.phillipsfamilylaw.com.au/)\n- **[Barry Nilsson](https://www.bnlaw.com.au/)** \n\t- **Recognition:** First Tier Family & Divorce Law Firm in Brisbane.\n\t- **Why choose them:** Senior practitioners like [Geoff Sinclair](https://doylesguide.com/leading-family-divorce-law-firms-brisbane-2026/) and James Steel are widely recognized by industry peers for managing multi-layered commercial property pools and difficult parenting disputes.[[1]](https://doylesguide.com/leading-family-divorce-law-firms-brisbane-2026/)[[2]](https://doylesguide.com/leading-family-divorce-lawyers-brisbane-2026/)\n- **HopgoodGanim** \n\t- **Recognition:** First Tier Family & Divorce Law Firm in Brisbane.\n\t- **Why choose them:** Ideal for high-net-worth individuals where family law intersects with corporate structures, trusts, and business valuations.[[1]](https://doylesguide.com/leading-family-divorce-law-firms-brisbane-2026/)[[2]](https://doylesguide.com/leading-family-divorce-lawyers-brisbane-2026/)\n- **[Damien Greer Lawyers](https://damiengreer.com.au/)** \n\t- **Recognition:** Preeminent Family and Divorce Law practice; founder [Damien Greer](https://damiengreer.com.au/) rated as a Preeminent Brisbane family lawyer.\n\t- **Why choose them:** Known for aggressive yet strategic advocacy in tough courtroom litigation, specialized children's matters, and complex property settlements.[[1]](https://damiengreer.com.au/)[[2]](https://doylesguide.com/leading-family-divorce-lawyers-brisbane-2026/)\n- **Stewart Family Law** \n\t- **Recognition:** Recommended by Doyle's Guide; features [Queensland Law Society](https://www.qls.com.au/) Accredited Family Law Specialists.\n\t- **Why choose them:** Well-suited for clients looking for focused, boutique attention, alternative dispute resolution, collaborative law, and mediation rather than immediate court battles.[[1]](https://stewartfamilylaw.com.au/)\n- **Michael Lynch Family Lawyers** \n\t- **Recognition:** Over 25 years of dedicated practice in Brisbane CBD with a large combined pool of practitioner experience.\n\t- **Why choose them:** Offers structured, fixed-price initial consultations and handles broad matters including divorce, international family law, and domestic violence protection orders.[[1]](https://www.michaellynchfamilylawyers.com.au/)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Doyle's Guide",
+                  "description": null,
+                  "url": "https://doylesguide.com/",
+                  "domain": "doylesguide.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Tony Phillips",
+                  "description": null,
+                  "url": "https://www.phillipsfamilylaw.com.au/",
+                  "domain": "www.phillipsfamilylaw.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Barry Nilsson",
+                  "description": null,
+                  "url": "https://www.bnlaw.com.au/",
+                  "domain": "www.bnlaw.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Geoff Sinclair",
+                  "description": null,
+                  "url": "https://doylesguide.com/leading-family-divorce-law-firms-brisbane-2026/",
+                  "domain": "doylesguide.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Damien Greer Lawyers",
+                  "description": null,
+                  "url": "https://damiengreer.com.au/",
+                  "domain": "damiengreer.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Damien Greer",
+                  "description": null,
+                  "url": "https://damiengreer.com.au/",
+                  "domain": "damiengreer.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Queensland Law Society",
+                  "description": null,
+                  "url": "https://www.qls.com.au/",
+                  "domain": "www.qls.com.au"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Phillips Family Law",
+                  "domain": "www.phillipsfamilylaw.com.au",
+                  "url": "https://www.phillipsfamilylaw.com.au/",
+                  "title": "Phillips Family Law: Award Winning Family Lawyers Brisbane",
+                  "text": "Phillips Family Law is proud to be recognised as a Leading Queensland and Australian Law Firm. First Tier Queensland Family Law Fi..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Doyle's Guide",
+                  "domain": "doylesguide.com",
+                  "url": "https://doylesguide.com/leading-family-divorce-law-firms-brisbane-2026/",
+                  "title": "Leading Family & Divorce Law Firms - Brisbane, 2026 - Doyle's Guide",
+                  "text": "First Tier: Barry Nilsson, HopgoodGanim, Phillips Family Law. Second Tier: Mills Oakley. Third Tier: DA Family Lawyers, Damien Gre..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Doyle's Guide",
+                  "domain": "doylesguide.com",
+                  "url": "https://doylesguide.com/leading-family-divorce-lawyers-brisbane-2026/",
+                  "title": "Leading Family & Divorce Lawyers",
+                  "text": "Brisbane Family & Divorce Lawyers details solicitors practising within the areas of family law, matrimonial, parenting, property and spousal maintenance matters..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Damien Greer Lawyers",
+                  "domain": "damiengreer.com.au",
+                  "url": "https://damiengreer.com.au/",
+                  "title": "Damien Greer Lawyers: Brisbane's Family Law Experts",
+                  "text": "Damien Greer Best Lawyers 2027. Award Winner Lawyer of the Year 2024. Leading Family & Divorce Law Firm 2026"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Stewart Family Law",
+                  "domain": "stewartfamilylaw.com.au",
+                  "url": "https://stewartfamilylaw.com.au/",
+                  "title": "Family Lawyers Brisbane | Stewart Family Law",
+                  "text": "Recognition: Doyle's Guide Recommended Family & Divorce Law Firm (2024-2026); Services: Divorce and separation, parenting arrangem..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Michael Lynch Family Lawyers",
+                  "domain": "www.michaellynchfamilylawyers.com.au",
+                  "url": "https://www.michaellynchfamilylawyers.com.au/",
+                  "title": "Family Lawyers Brisbane | Michael Lynch Family Lawyers",
+                  "text": "Michael Lynch Family Lawyers (Brisbane CBD; 25+ years experience, 100+ years combined expertise). Services: Divorce and separation..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you'd like to narrow this down, please share:",
+              "markdown": "If you'd like to narrow this down, please share:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Are you dealing with property/financial division or parenting/custody ? Do you prefer a collaborative/mediation-focused approach or strong court representation ?",
+              "markdown": "- Are you dealing with **property/financial division** or **parenting/custody**?\n- Do you prefer a **collaborative/mediation-focused** approach or **strong court representation**?",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Phillips Family Law",
+              "domain": "www.phillipsfamilylaw.com.au",
+              "url": "https://www.phillipsfamilylaw.com.au/",
+              "title": "Phillips Family Law: Award Winning Family Lawyers Brisbane",
+              "text": "Phillips Family Law is proud to be recognised as a Leading Queensland and Australian Law Firm. First Tier Queensland Family Law Firm, First Tier Family & Divorce L..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Doyle's Guide",
+              "domain": "doylesguide.com",
+              "url": "https://doylesguide.com/leading-family-divorce-lawyers-brisbane-2026/",
+              "title": "Leading Family & Divorce Lawyers",
+              "text": "Brisbane Family & Divorce Lawyers details solicitors practising within the areas of family law, matrimonial, parenting, property and spousal maintenance matters..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Michael Lynch Family Lawyers",
+              "domain": "www.michaellynchfamilylawyers.com.au",
+              "url": "https://www.michaellynchfamilylawyers.com.au/",
+              "title": "Family Lawyers Brisbane | Michael Lynch Family Lawyers",
+              "text": "Michael Lynch Family Lawyers (Brisbane CBD; 25+ years experience, 100+ years combined expertise). Services: Divorce and separation, family mediation, domestic viol..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

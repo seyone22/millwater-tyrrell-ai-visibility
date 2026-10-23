@@ -1,0 +1,106 @@
+{
+  "slug": "springfield",
+  "pk": "contesting_wills",
+  "plat": "perplexity",
+  "text": "Which wills and estates law firms in Springfield and Greater Springfield, QLD specialise in contesting a will, Family Provision Applications (FPA), and estate litigation?",
+  "loc": 9191413,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\springfield__contesting_wills__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:24:59.339Z",
+  "cost": 0.006267,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 40,
+      "output_tokens": 627,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005667,
+      "datetime": "2026-10-23 05:24:55 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "In **Springfield and Greater Springfield**, the clearest local options are:\n\n- **GLG Legal Springfield** — Springfield-based and expressly advertises help to “dispute, contest or challenge” a will, including cases where someone was excluded or received an unfair share. Its broader practice includes wills and estates.[1]\n- **Stanford Legal Pty Ltd** — Based in Ipswich and serving Springfield and Brisbane, with wills and estate services and litigation capability. The available listing does not clearly confirm a dedicated FPA or contested-estates specialisation, so confirm this directly before instructing them.[2]\n- **Dare Lawyers** — Serves the Greater Springfield area and handles wills-and-estates disputes, including Family Provision claims. Its listing describes the firm as a boutique practice, but does not establish that it is physically located in Springfield.[2]\n\nFor a **specialist estate-litigation firm willing to act for a Springfield client**, these Queensland firms appear particularly relevant:\n\n- **The Estate Lawyers** — Practices solely in Queensland wills and estate law and specifically handles contested wills, Family Provision Applications, executor disputes, estate administration and related litigation.[7]\n- **QLD Estate Lawyers** — Advertises specialist assistance with will disputes, undue influence, lack of capacity, Family Provision and heir disputes, executor disputes and estate litigation.[3][4]\n- **Thynne + Macartney Lawyers** — Brisbane firm with accredited wills-and-estates specialists handling estate litigation, FPAs and will disputes; Queensland Law Society accreditation and leading-firm recognition are noted on its site.[5]\n- **CWE Lawyers** — Handles contested wills, evidence gathering, mediation and court representation, and serves clients throughout Queensland.[6]\n- **Enlight Lawyers** — Brisbane practice offering contested-will, estate-litigation and family-provision services under Queensland law.[9]\n\n### Practical shortlist\n\nFor a matter specifically involving **contesting a will, an FPA, or litigation**, the strongest initial shortlist is:\n\n1. **GLG Legal Springfield** — convenient local option.[1]\n2. **The Estate Lawyers** — dedicated Queensland wills-and-estates practice.[7]\n3. **QLD Estate Lawyers** — explicitly focused on will disputes and FPAs.[3][4]\n4. **Thynne + Macartney** — established Brisbane litigation and succession practice.[5]\n5. **CWE Lawyers** — contested-will litigation and court representation across Queensland.[6]\n\nWhen making enquiries, ask whether the solicitor regularly conducts **Succession Act 1981 (Qld)** proceedings, whether they act for applicants or executors, their limitation-date advice, likely costs, and whether the case will be handled in the Supreme or District Court. An FPA generally concerns inadequate provision for an eligible person, while a will challenge may involve issues such as testamentary capacity, undue influence, fraud or improper execution.[4][5][9]",
+              "annotations": [
+                {
+                  "title": "GLG Legal Springfield: Springfield and Ipswich Legal Experts",
+                  "url": "https://www.springfieldlegals.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Provision Claims Lawyers Serving Browns Plains ...",
+                  "url": "https://lawconnect.com/en-au/find/family-provision-claims/qld/browns-plains-4118",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "QLD Estate Lawyers | Experts in Probate, Executor Help and ...",
+                  "url": "https://qldestatelawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Will Dispute Lawyers QLD | Wills & Estates | QLD Estate Lawyers",
+                  "url": "https://qldestatelawyers.com.au/will-dispute-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Estate Litigation | Thynne + Macartney Lawyers | Brisbane",
+                  "url": "https://www.thymac.com.au/your-estate-litigation/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "CWE Lawyers | Home",
+                  "url": "https://www.cwelawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The Estate Lawyers",
+                  "url": "https://theestatelawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estate Planning",
+                  "url": "https://www.spglawyers.com.au/services/wills-and-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Probate Solicitors Queensland",
+                  "url": "https://www.enlightlawyers.com.au/practice-areas/wills-and-probate",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Contest a Will | Trusted Estate Litigation Lawyers - Sunshine Coast",
+                  "url": "https://www.greenhalghpickard.com.au/legal/wills-epas-estates/estate-litigation-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

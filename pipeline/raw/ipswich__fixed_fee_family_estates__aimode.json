@@ -1,0 +1,149 @@
+{
+  "slug": "ipswich",
+  "pk": "fixed_fee_family_estates",
+  "plat": "aimode",
+  "text": "Which boutique law firms in Ipswich offer free initial consultations, fixed-fee wills, or deferred-fee options for family law and wills and estates?",
+  "loc": 9060853,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\ipswich__fixed_fee_family_estates__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:24:28.713Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which boutique law firms in Ipswich offer free initial consultations, fixed-fee wills, or deferred-fee options for family law and wills and estates?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 9060853,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20boutique%20law%20firms%20in%20Ipswich%20offer%20free%20initial%20consultations%2C%20fixed-fee%20wills%2C%20or%20deferred-fee%20options%20for%20family%20law%20and%20wills%20and%20estates%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCRfJziPLtZZrERCM3vNaowIF",
+      "datetime": "2026-10-23 05:24:24 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "**Millwater Tyrrell Law** is a prominent boutique law firm in Ipswich that matches all three criteria—offering a **free initial consultation**, **fixed fees** upon request (including for wills and powers of attorney), and **deferred-fee (\"pay at the end\") options** for eligible family law matters.[[1]](https://www.mycommunitydirectory.com.au/Queensland/Ipswich/Legal_Assistance___Information_Services/General_Legal_Assistance___Information/72742/203294/Millwater_Tyrrell_Law)[[2]](https://millwatertyrrell.com.au/pricing)[[3]](https://millwatertyrrell.com.au/wills-and-estates)\n\n#### Additional Ipswich Boutique Firm Options\n\n\n\n---\n\nStanford Legal Pty Ltd**Stanford Legal Pty Ltd** *(Springfield Central / Ipswich region)* : Offers a complimentary initial consultation alongside wills, estate planning, and family law services.\n\n---\n\nRichard Zande & Associates Charges a $99 initial consultation fee and typically utilizes time-billed or select fixed arrangements for family law and estate matters.[[1]](https://richardzande.com.au/faqs/)[[2]](https://lawconnect.com/en-au/find/wills-and-estates/qld/ipswich-4305)\n\nIf you'd like, let me know whether you need assistance with **family law (property/parenting)** or **wills and estate planning** , and I can help you prepare questions for your initial consultation.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Millwater Tyrrell Law is a prominent boutique law firm in Ipswich that matches all three criteria—offering a free initial consultation, fixed fees upon request (including for wills and powers of attorney), and deferred-fee (\"pay at the end\") options for eligible family law matters.",
+              "markdown": "**Millwater Tyrrell Law** is a prominent boutique law firm in Ipswich that matches all three criteria—offering a **free initial consultation**, **fixed fees** upon request (including for wills and powers of attorney), and **deferred-fee (\"pay at the end\") options** for eligible family law matters.[[1]](https://www.mycommunitydirectory.com.au/Queensland/Ipswich/Legal_Assistance___Information_Services/General_Legal_Assistance___Information/72742/203294/Millwater_Tyrrell_Law)[[2]](https://millwatertyrrell.com.au/pricing)[[3]](https://millwatertyrrell.com.au/wills-and-estates)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "My Community Directory",
+                  "domain": "www.mycommunitydirectory.com.au",
+                  "url": "https://www.mycommunitydirectory.com.au/Queensland/Ipswich/Legal_Assistance___Information_Services/General_Legal_Assistance___Information/72742/203294/Millwater_Tyrrell_Law",
+                  "title": "Millwater Tyrrell Law - Ipswich - My Community Directory",
+                  "text": "Millwater Tyrrell Law are an Ipswich based law firm who are experts in Family Law, Commercial Law, and Criminal/Traffic Law. over ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Millwater Tyrrell Law",
+                  "domain": "millwatertyrrell.com.au",
+                  "url": "https://millwatertyrrell.com.au/pricing",
+                  "title": "First consult free - Millwater Tyrrell Law - Ipswich Family ...",
+                  "text": "Millwater Tyrrell Law - Ipswich Family Lawyers and Commercial Lawyers. We offer a free initial consultation for all matters. Conta..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Millwater Tyrrell Law",
+                  "domain": "millwatertyrrell.com.au",
+                  "url": "https://millwatertyrrell.com.au/wills-and-estates",
+                  "title": "Wills and Estates Lawyers Ipswich — Millwater Tyrrell Law",
+                  "text": "Wills and Estates law practice by Millwater Tyrrell Law in Ipswich, free, no-obligation"
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Additional Ipswich Boutique Firm Options",
+              "text": "Richard Zande & Associates Charges a $99 initial consultation fee and typically utilizes time-billed or select fixed arrangements for family law and estate matters.",
+              "markdown": "---\n\nRichard Zande & Associates Charges a $99 initial consultation fee and typically utilizes time-billed or select fixed arrangements for family law and estate matters.[[1]](https://richardzande.com.au/faqs/)[[2]](https://lawconnect.com/en-au/find/wills-and-estates/qld/ipswich-4305)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Richard Zande & Associates",
+                  "domain": "richardzande.com.au",
+                  "url": "https://richardzande.com.au/faqs/",
+                  "title": "FAQs - Richard Zande & Associates",
+                  "text": "We offer a $99 initial consultation wherein you will be given initial advice about the issue and if appropriate a cost's estimate ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "LawConnect",
+                  "domain": "lawconnect.com",
+                  "url": "https://lawconnect.com/en-au/find/wills-and-estates/qld/ipswich-4305",
+                  "title": "Compare 5 Wills and Estates Lawyers in Ipswich, QLD",
+                  "text": "Stanford Legal Pty Ltd, based in Ipswich and serving Springfield and Brisbane, specialises in family, property, commercial, and wi..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you'd like, let me know whether you need assistance with family law (property/parenting) or wills and estate planning, and I can help you prepare questions for your initial consultation.",
+              "markdown": "If you'd like, let me know whether you need assistance with **family law (property/parenting)** or **wills and estate planning** , and I can help you prepare questions for your initial consultation.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Millwater Tyrrell Law",
+              "domain": "millwatertyrrell.com.au",
+              "url": "https://millwatertyrrell.com.au/pricing",
+              "title": "First consult free - Millwater Tyrrell Law - Ipswich Family ...",
+              "text": "Millwater Tyrrell Law - Ipswich Family Lawyers and Commercial Lawyers. We offer a free initial consultation for all matters. Contact us for a free consultation. Le..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Richard Zande & Associates",
+              "domain": "richardzande.com.au",
+              "url": "https://richardzande.com.au/faqs/",
+              "title": "FAQs - Richard Zande & Associates",
+              "text": "We offer a $99 initial consultation wherein you will be given initial advice about the issue and if appropriate a cost's estimate to proceed. We do offer some matt..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Millwater Tyrrell Law",
+              "domain": "millwatertyrrell.com.au",
+              "url": "https://millwatertyrrell.com.au/wills-and-estates",
+              "title": "Wills and Estates Lawyers Ipswich — Millwater Tyrrell Law",
+              "text": "Wills and Estates law practice by Millwater Tyrrell Law in Ipswich, free, no-obligation"
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

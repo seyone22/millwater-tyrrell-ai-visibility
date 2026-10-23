@@ -1,0 +1,218 @@
+{
+  "slug": "brisbane_north",
+  "pk": "divorce_property",
+  "plat": "aimode",
+  "text": "I am going through a separation and complex property settlement in Brisbane Northside (Chermside & North Lakes). Which family law firms have the strongest track record for property division and binding financial agreements?",
+  "loc": 9060852,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_north__divorce_property__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:30:52.794Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "I am going through a separation and complex property settlement in Brisbane Northside (Chermside & North Lakes). Which family law firms have the strongest track record for property division and binding financial agreements?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 9060852,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=I%20am%20going%20through%20a%20separation%20and%20complex%20property%20settlement%20in%20Brisbane%20Northside%20%28Chermside%20%26%20North%20Lakes%29.%20Which%20family%20law%20firms%20have%20the%20strongest%20track%20record%20for%20property%20division%20and%20binding%20financial%20agreements%3F&udm=50&uule=w+CAIQIFISCV_fhDGw4pNrEXCE3vNaowIF&hl=en&gl=AU",
+      "datetime": "2026-10-23 05:30:48 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "Navigating a separation with a complex property pool (such as corporate entities, trusts, or high-value real estate) requires specialized expertise, particularly when drafting ironclad Binding Financial Agreements (BFAs) or litigating property division.\n\nSeveral well-regarded family law firms service the Brisbane Northside corridor (including Chermside, Aspley, and surrounding northern suburbs extending toward North Lakes):\n\n\n\n---\n\n![](https://api.dataforseo.com/cdn/i/10230530-2877-0139-0000-d95a4692bdd8:16)\nCudmore Legal 4.8 (131)  \nFamily law attorney  \nOpen Suite 34, Mezzanine Level, 59, Albany Creek Rd  \nCall Directions Website Cudmore Legal (Aspley) – Located right on Albany Creek Road, this women-led and award-winning local firm practices exclusively in family law. They are known for strategic, assertive property settlement representation and litigation, handling everything from standard asset pools to intricate financial disputes across the northside.\n\n---\n\n![](https://api.dataforseo.com/cdn/i/10230530-2877-0139-0000-d95a4692bdd8:17)\nBarton Family Lawyers 4.9 (27)  \nFamily law attorney  \nOpen 818 Gympie Rd  \nCall Directions Website Barton Family Lawyers (Chermside) – Situated on Gympie Road right in the heart of Chermside, they feature accredited family law specialists highly experienced in complex financial settlements, asset protection, and structuring Binding Financial Agreements.\n\n---\n\n![](https://api.dataforseo.com/cdn/i/10230530-2877-0139-0000-d95a4692bdd8:18)\nNorthside Family Law Centre 4.9 (8)  \nSolicitor  \nOpen 89 Brighton Rd  \nCall Directions Website Northside Family Law Centre (Chermside & Sandgate) – Operating with a footprint spanning the northern suburbs, they bring extensive experience in property law divisions, consent orders, and financial agreements, balancing localized convenience with robust negotiation.\n\n---\n\n![](https://api.dataforseo.com/cdn/i/10230530-2877-0139-0000-d95a4692bdd8:19)\nVicca Law 5.0 (82)  \nLaw firm  \nOpen Suite 43, Mezzanine Level, 59 Albany Creek Rd  \nCall Directions Website Vicca Law (Aspley) – Also stationed along the Albany Creek Road professional precinct, they have a strong reputation for meticulous asset structuring, estate integration, and preventative legal steps like BFAs to safeguard long-term financial security post-separation.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdSNWJUUnFZMmR0GAo)[[2]](https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4Y0hSM2RHTjVOWEUYCg)\n\nTo help narrow down the best fit for your situation, could you share:\n\n- Roughly how **complex** the asset pool is (e.g., does it involve a family trust, business/company structures, or superannuation splitting)?\n- Whether you are aiming for an **amicable BFA/Consent Order** or expecting a **contested court battle**?",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Navigating a separation with a complex property pool (such as corporate entities, trusts, or high-value real estate) requires specialized expertise, particularly when drafting ironclad Binding Financial Agreements (BFAs) or litigating property division.",
+              "markdown": "Navigating a separation with a complex property pool (such as corporate entities, trusts, or high-value real estate) requires specialized expertise, particularly when drafting ironclad Binding Financial Agreements (BFAs) or litigating property division.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Several well-regarded family law firms service the Brisbane Northside corridor (including Chermside, Aspley, and surrounding northern suburbs extending toward North Lakes):",
+              "markdown": "Several well-regarded family law firms service the Brisbane Northside corridor (including Chermside, Aspley, and surrounding northern suburbs extending toward North Lakes):",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Cudmore Legal 4.8 (131) Family law attorney Open Suite 34, Mezzanine Level, 59, Albany Creek Rd Call Directions Website Cudmore Legal (Aspley) – Located right on Albany Creek Road, this women-led and award-winning local firm practices exclusively in family law. They are known for strategic, assertive property settlement representation and litigation, handling everything from standard asset pools to intricate financial disputes across the northside.",
+              "markdown": "---\n\n![](https://api.dataforseo.com/cdn/i/10230530-2877-0139-0000-d95a4692bdd8:8)\nCudmore Legal 4.8 (131)  \nFamily law attorney  \nOpen Suite 34, Mezzanine Level, 59, Albany Creek Rd  \nCall Directions Website Cudmore Legal (Aspley) – Located right on Albany Creek Road, this women-led and award-winning local firm practices exclusively in family law. They are known for strategic, assertive property settlement representation and litigation, handling everything from standard asset pools to intricate financial disputes across the northside.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/10230530-2877-0139-0000-d95a4692bdd8:9"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Barton Family Lawyers 4.9 (27) Family law attorney Open 818 Gympie Rd Call Directions Website Barton Family Lawyers (Chermside) – Situated on Gympie Road right in the heart of Chermside, they feature accredited family law specialists highly experienced in complex financial settlements, asset protection, and structuring Binding Financial Agreements.",
+              "markdown": "---\n\n![](https://api.dataforseo.com/cdn/i/10230530-2877-0139-0000-d95a4692bdd8:10)\nBarton Family Lawyers 4.9 (27)  \nFamily law attorney  \nOpen 818 Gympie Rd  \nCall Directions Website Barton Family Lawyers (Chermside) – Situated on Gympie Road right in the heart of Chermside, they feature accredited family law specialists highly experienced in complex financial settlements, asset protection, and structuring Binding Financial Agreements.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/10230530-2877-0139-0000-d95a4692bdd8:11"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Northside Family Law Centre 4.9 (8) Solicitor Open 89 Brighton Rd Call Directions Website Northside Family Law Centre (Chermside & Sandgate) – Operating with a footprint spanning the northern suburbs, they bring extensive experience in property law divisions, consent orders, and financial agreements, balancing localized convenience with robust negotiation.",
+              "markdown": "---\n\n![](https://api.dataforseo.com/cdn/i/10230530-2877-0139-0000-d95a4692bdd8:12)\nNorthside Family Law Centre 4.9 (8)  \nSolicitor  \nOpen 89 Brighton Rd  \nCall Directions Website Northside Family Law Centre (Chermside & Sandgate) – Operating with a footprint spanning the northern suburbs, they bring extensive experience in property law divisions, consent orders, and financial agreements, balancing localized convenience with robust negotiation.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/10230530-2877-0139-0000-d95a4692bdd8:13"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Vicca Law 5.0 (82) Law firm Open Suite 43, Mezzanine Level, 59 Albany Creek Rd Call Directions Website Vicca Law (Aspley) – Also stationed along the Albany Creek Road professional precinct, they have a strong reputation for meticulous asset structuring, estate integration, and preventative legal steps like BFAs to safeguard long-term financial security post-separation.",
+              "markdown": "---\n\n![](https://api.dataforseo.com/cdn/i/10230530-2877-0139-0000-d95a4692bdd8:14)\nVicca Law 5.0 (82)  \nLaw firm  \nOpen Suite 43, Mezzanine Level, 59 Albany Creek Rd  \nCall Directions Website Vicca Law (Aspley) – Also stationed along the Albany Creek Road professional precinct, they have a strong reputation for meticulous asset structuring, estate integration, and preventative legal steps like BFAs to safeguard long-term financial security post-separation.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdSNWJUUnFZMmR0GAo)[[2]](https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4Y0hSM2RHTjVOWEUYCg)",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/10230530-2877-0139-0000-d95a4692bdd8:15"
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdSNWJUUnFZMmR0GAo",
+                  "title": "Cudmore Legal",
+                  "text": "Suite 34, Mezzanine Level, 59, Albany Creek Rd, Aspley QLD 4034 · Cudmore Legal delivers powerful, strategic family law representa..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4Y0hSM2RHTjVOWEUYCg",
+                  "title": "Northside Family Law Centre",
+                  "text": "Experienced Divorce & Family Lawyers on Brisbane Northside"
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "To help narrow down the best fit for your situation, could you share:",
+              "markdown": "To help narrow down the best fit for your situation, could you share:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Roughly how complex the asset pool is (e.g., does it involve a family trust, business/company structures, or superannuation splitting)? Whether you are aiming for an amicable BFA/Consent Order or expecting a contested court battle ?",
+              "markdown": "- Roughly how **complex** the asset pool is (e.g., does it involve a family trust, business/company structures, or superannuation splitting)?\n- Whether you are aiming for an **amicable BFA/Consent Order** or expecting a **contested court battle**?",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_paid",
+              "position": "left",
+              "text": "To connect with a family lawyer in your area, you can use the service below.",
+              "markdown": "To connect with a family lawyer in your area, you can use the service below.",
+              "items": [
+                {
+                  "type": "ai_overview_paid_element",
+                  "title": "Top Rated Family Lawyers - Family Lawyers Brisbane",
+                  "url": null,
+                  "domain": null,
+                  "ad_aclk": "DChsSEwikidTCtM-XAxWrBQYAHWPJDicYACICCAIQABoCd3M",
+                  "website_name": "lawconnect.com",
+                  "breadcrumb": null,
+                  "snippet": "LawConnect is the fast and easy way to connect to a trusted family lawyer in mins.",
+                  "images": null
+                }
+              ]
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Google",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdSNWJUUnFZMmR0GAo",
+              "title": "Cudmore Legal",
+              "text": "Suite 34, Mezzanine Level, 59, Albany Creek Rd, Aspley QLD 4034 · Cudmore Legal delivers powerful, strategic family law representation to Brisbane families. Led by Principal Lawyer Luke Cudmore, our firm has built a team of experienced solicitors committed to achieving results, not just processing cases. Our Aspley office serves families throughout northern Brisbane and North Lakes with aggressive advocacy in divorce litigation, parenting disputes, and property settlement matters. We don't settle for less than what you deserve. Our approach combines thorough legal strategy with relentless pursuit of favourable outcomes - protecting your parental rights, securing your financial future, and defending your interests. FREE 20-minute initial consultation. LGBTQ+ friendly. Women-led practice."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Google",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4Y0hSM2RHTjVOWEUYCg",
+              "title": "Northside Family Law Centre",
+              "text": "Experienced Divorce & Family Lawyers on Brisbane Northside"
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Google",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhCak9XbzViVGwyGAo",
+              "title": "Martens Legal",
+              "text": "Martens Legal was created with a clear goal: to change the way people experience family law. We saw too many people walking into law firms feeling scared, confused, or shut down — and walking out with more questions than answers. In our eyes, that isn’t good enough. So, we built something different. A place where you’re supported with warmth and clarity. Where legal strategy feels accessible. And where your goals are at the centre of everything. Over the years, we’ve helped hundreds of clients across Brisbane and beyond resolve their legal matters with confidence and calm. And we do it all without the legal ego, intimidation, or overwhelm."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

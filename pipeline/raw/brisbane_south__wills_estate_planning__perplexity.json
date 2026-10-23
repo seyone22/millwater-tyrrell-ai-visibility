@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane_south",
+  "pk": "wills_estate_planning",
+  "plat": "perplexity",
+  "text": "Who are the best wills and estates lawyers in Brisbane Southside (Mount Gravatt & Sunnybank) for drafting wills, testamentary trusts, and enduring powers of attorney?",
+  "loc": 9060851,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_south__wills_estate_planning__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:28:36.112Z",
+  "cost": 0.006234,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 44,
+      "output_tokens": 590,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005634,
+      "datetime": "2026-10-23 05:28:32 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For **Brisbane Southside**, the strongest local shortlist is:\n\n- **Bennett Carroll Solicitors — Upper Mount Gravatt:** A practical full-service option with a Brisbane South office, offering wills, testamentary trusts and enduring powers of attorney. The firm reports more than 50 years of combined wills-and-estates experience.[1][2]\n- **Campbells Legal — Upper Mount Gravatt:** A family-run Southside practice operating since 1986, with a dedicated wills and estates service.[3]\n- **Wheldon & Associates — Sunnybank:** A local firm advertising succession planning and deceased-estate administration, suitable if you want a Sunnybank-based practice that can also assist if complications arise later.[5]\n- **Grasso Searles Romano Lawyers — South-East Brisbane:** Offers estate planning and enduring powers of attorney, with particularly substantial general legal, accounting and tax experience through principal Alfio Romano.[5]\n- **Direct Lawyers — mobile South-East Queensland service:** A good option if home appointments or a highly focused estate-planning practice are useful; services specifically include testamentary trusts, EPOAs, superannuation planning and estate-litigation protection.[6]\n\nFor **complex estates**, especially business ownership, significant tax issues, blended families, vulnerable beneficiaries or asset-protection concerns, also consider a larger Brisbane succession team:\n\n- **Cooper Grace Ward:** Specifically handles wills with testamentary trusts and EPOAs, working alongside tax, superannuation, estate-administration and disputes lawyers.[7]\n- **Thynne + Macartney:** Its wills-and-estates team has more than 50 years’ experience and includes recognised specialists; it covers testamentary trusts, EPOAs, superannuation, incapacity and succession planning.[8]\n\n### Best fit by situation\n\n| Situation | First calls |\n|---|---|\n| Convenient Mount Gravatt appointment | Bennett Carroll; Campbells Legal |\n| Convenient Sunnybank appointment | Wheldon & Associates; Grasso Searles Romano |\n| Home/mobile appointment | Direct Lawyers |\n| Complex trust, tax or business succession | Cooper Grace Ward; Thynne + Macartney |\n| Possible future estate dispute | Thynne + Macartney; Cooper Grace Ward; Wheldon & Associates |\n\nWhen comparing quotes, ask whether the fee includes **individual wills, a testamentary discretionary trust, EPOAs for both financial and personal/health matters, an advance health directive, superannuation-beneficiary advice, execution/witnessing and future document storage**. A testamentary trust should be tailored to the family’s tax, control, asset-protection and beneficiary needs rather than added automatically. Also confirm that the lawyer is currently admitted in Queensland and ask who will review the documents if circumstances change.",
+              "annotations": [
+                {
+                  "title": "Wills & Estate Planning Lawyers Queensland",
+                  "url": "https://www.bcglaw.com.au/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estate Planning Lawyers in Queensland",
+                  "url": "https://www.bcglaw.com.au/wills-estates-planning/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estates Lawyers | Upper Mount Gravatt, Brisbane",
+                  "url": "https://campbellslegal.com.au/wills-and-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Brisbane, Australia Trusts and Estates Lawyers",
+                  "url": "https://www.bestlawyers.com/australia/brisbane/trusts-and-estates",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Find Family Lawyers in Mount Gravatt QLD - Finchly",
+                  "url": "https://finchly.com.au/find/family-law/qld/mount-gravatt-4122",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Estate Planning Lawyers Brisbane | Protect Your Legacy Today",
+                  "url": "https://www.directlawyers.com.au/estate-planning",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills and Estate Lawyers Brisbane - Estate Planning Lawyer",
+                  "url": "https://cgw.com.au/expertise/succession-and-estate-planning/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Leading Wills and Estates Lawyers",
+                  "url": "https://www.thymac.com.au/expertises/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills and Estates Lawyers Queensland",
+                  "url": "https://www.gotocourt.com.au/qld/wills-and-estates",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills, Trusts & Estates - Rigby Cooke Lawyers",
+                  "url": "https://www.rigbycooke.com.au/expertise/wills-trusts-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

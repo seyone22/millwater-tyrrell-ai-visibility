@@ -1,0 +1,340 @@
+{
+  "slug": "ipswich",
+  "pk": "fixed_fee_family_estates",
+  "plat": "claude",
+  "text": "Which boutique law firms in Ipswich offer free initial consultations, fixed-fee wills, or deferred-fee options for family law and wills and estates?",
+  "loc": 9060853,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\ipswich__fixed_fee_family_estates__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:24:29.668Z",
+  "cost": 0.066553,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10611,
+      "output_tokens": 1608,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.065953,
+      "datetime": "2026-10-23 05:24:25 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a breakdown of boutique and smaller law firms in or near Ipswich that offer free initial consultations, fixed-fee wills, or deferred/transparent fee options across family law and wills & estates:\n\n---\n\n## 🏛️ 1. Jacaranda Law *(Wills & Estates Specialist – Ipswich)*\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Jacaranda Law is a boutique legal practice based in Queensland, dedicated solely to wills and estates law, offering services including wills, probate, trusts, and estate disputes.",
+              "annotations": [
+                {
+                  "title": "Our Services",
+                  "url": "https://jacarandalaw.com.au/our-services/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Our Services",
+                  "url": "https://jacarandalaw.com.au/our-services/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- **Free Initial Consultation:** ✅ ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They invite you to book a free initial consultation to discuss your situation with an experienced wills and estate lawyer.",
+              "annotations": [
+                {
+                  "title": "Our Services",
+                  "url": "https://jacarandalaw.com.au/our-services/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- **Fixed Fees:** ✅ ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They aim to offer clear, upfront pricing — often in the form of fixed-fee packages — and will always explain the costs involved before beginning work.",
+              "annotations": [
+                {
+                  "title": "Our Services",
+                  "url": "https://jacarandalaw.com.au/our-services/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- **Practice Areas:** Wills, estate planning, probate, elder law, estate administration, and estate disputes.\n\n---\n\n## 🏛️ 2. Millwater Tyrrell Law *(Family Law, Wills & Estates – Ipswich)*\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "With over 40 years of combined experience, Millwater Tyrrell Law is a local Ipswich firm covering family law, commercial law, conveyancing, wills and estates, and criminal law.",
+              "annotations": [
+                {
+                  "title": "Ipswich Lawyers - Ipswich Expert Family & Commercial Lawyers",
+                  "url": "https://millwatertyrrell.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Ipswich Lawyers - Ipswich Expert Family & Commercial Lawyers",
+                  "url": "https://millwatertyrrell.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- **Free Initial Consultation:** ✅ ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They offer a free, no-obligation 30-minute meeting so they can understand your needs.",
+              "annotations": [
+                {
+                  "title": "Ipswich Lawyers - Ipswich Expert Family & Commercial Lawyers",
+                  "url": "https://millwatertyrrell.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- **Fixed Fees (Wills & Estates):** ✅ ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "For more complex estate structuring, they discuss your needs at a free first initial consultation and then provide a fixed fee once the appropriate structure is determined.",
+              "annotations": [
+                {
+                  "title": "Wills and Estates Lawyers Ipswich — Millwater Tyrrell Law",
+                  "url": "https://millwatertyrrell.com.au/wills-and-estates",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- **Transparent Staging (Deceased Estates):** ✅ ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "In all matters, they offer an initial free consultation and then provide estimates for each stage of the work upfront.",
+              "annotations": [
+                {
+                  "title": "Wills and Estates Lawyers Ipswich — Millwater Tyrrell Law",
+                  "url": "https://millwatertyrrell.com.au/wills-and-estates",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- **Will Disputes:** ✅ ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "If you have an estate litigation dispute or wish to contest a will, you can discuss your situation at a free initial consultation, where they will provide initial advice and outline expected costs.",
+              "annotations": [
+                {
+                  "title": "Wills and Estates Lawyers Ipswich — Millwater Tyrrell Law",
+                  "url": "https://millwatertyrrell.com.au/wills-and-estates",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- **Family Law:** ✅ ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Your first consultation is with a partner of the firm, free of charge, and ends with a roadmap of how to move forward.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Ipswich - Family Law Solicitor Ipswich",
+                  "url": "https://millwatertyrrell.com.au/family-law",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 🏛️ 3. Stanford Legal *(Family Law, Wills & Estates – Springfield Central, serving Ipswich)*\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Stanford Legal is a Queensland law practice based in Springfield Central, acting for clients across Ipswich, Brisbane, and South East Queensland in property law and conveyancing, family law, wills and estates, and commercial law.",
+              "annotations": [
+                {
+                  "title": "Ipswich Lawyers",
+                  "url": "https://stanfordlegal.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- **Free Initial Consultation:** ✅ ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They offer a free first consultation covering family law, wills & estates, and property matters.",
+              "annotations": [
+                {
+                  "title": "Ipswich Lawyers",
+                  "url": "https://stanfordlegal.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- **Practice Areas:** Family law, wills & estates (including drafting wills, succession planning, estate disputes, and enduring power of attorney), property, and commercial law.\n\n---\n\n## 🏛️ 4. Australian Family Lawyers *(Family Law – Ipswich)*\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Australian Family Lawyers is a national, award-winning family law firm with a presence in Ipswich.",
+              "annotations": [
+                {
+                  "title": "Ipswich Family Lawyers",
+                  "url": "https://www.australianfamilylawyers.com.au/cm-ipswich-family-lawyers",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- **Free Initial Consultation:** ✅ ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "When you reach out, you'll start with a no-obligation, free phone appointment so you can ask questions and get straightforward information right away.",
+              "annotations": [
+                {
+                  "title": "Family Law Ipswich",
+                  "url": "https://www.australianfamilylawyers.com.au/cm-family-law-ipswich",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- **Practice Areas:** Separation, divorce, property settlement, parenting disputes, child support, and family trusts.\n\n---\n\n## 🏛️ 5. Ryder Lawyers *(Family Law & Wills – Logan/Ipswich)*\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Ryder Lawyers is an experienced team of family law and wills and estates lawyers serving Logan and Ipswich.",
+              "annotations": [
+                {
+                  "title": "Family Law",
+                  "url": "https://ryderlawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- **Free Initial Consultation:** ✅ ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They offer a no-obligation, free 15-minute phone consultation for all new family law clients.",
+              "annotations": [
+                {
+                  "title": "Family Law",
+                  "url": "https://ryderlawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- **Practice Areas:** Family law and wills & estates, led by ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Carolyn Ryder, their legal practitioner director who has over 20 years of legal experience.",
+              "annotations": [
+                {
+                  "title": "Family Law",
+                  "url": "https://ryderlawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 📋 Summary Table\n\n| Firm | Free Consult | Fixed Fees | Family Law | Wills & Estates |\n|---|---|---|---|---|\n| **Jacaranda Law** | ✅ | ✅ | ❌ | ✅ |\n| **Millwater Tyrrell** | ✅ (30 min) | ✅ | ✅ | ✅ |\n| **Stanford Legal** | ✅ | ❓ | ✅ | ✅ |\n| **Australian Family Lawyers** | ✅ (phone) | ❓ | ✅ | ❌ |\n| **Ryder Lawyers** | ✅ (15 min phone) | ❓ | ✅ | ✅ |\n\n> **Note:** Deferred-fee (also known as \"no win, no fee\") arrangements are less common in family law and wills & estates in Queensland compared to personal injury law. It is worth asking each firm directly whether they offer deferred payment plans, as these may be available on a case-by-case basis but are not always advertised publicly.\n\nWould you like more detail on any of these firms?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "boutique law firms Ipswich family law wills estates free initial consultation",
+        "Ipswich law firms fixed fee wills deferred fee family law"
+      ]
+    }
+  ]
+}

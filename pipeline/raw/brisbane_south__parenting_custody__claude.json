@@ -1,0 +1,185 @@
+{
+  "slug": "brisbane_south",
+  "pk": "parenting_custody",
+  "plat": "claude",
+  "text": "Which family lawyers in Brisbane Southside (Mount Gravatt & Sunnybank) are best for parenting arrangements, child custody disputes, and accredited family dispute resolution (mediation)?",
+  "loc": 9060851,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_south__parenting_custody__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:29:06.659Z",
+  "cost": 0.135352,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 32169,
+      "output_tokens": 1883,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.134752,
+      "datetime": "2026-10-23 05:29:02 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Based on my search results, here is a comprehensive guide to the best family lawyers in Brisbane Southside (Mount Gravatt & Sunnybank) and nearby areas for parenting arrangements, child custody disputes, and accredited family dispute resolution (FDR/mediation):\n\n---\n\n## 👨‍👩‍👧 Best Family Lawyers for Parenting & Child Custody – Brisbane Southside\n\n### 1. 🏆 JP Family Law & Mediation\n**Closest to Mount Gravatt/Sunnybank area**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "JP Family Law & Mediation specialises in child custody disputes, which can be legally complex and emotionally challenging. Their child custody lawyers in Brisbane provide clear and strategic legal guidance to help parents achieve workable parenting arrangements that prioritise the child's best interests.",
+              "annotations": [
+                {
+                  "title": "Child Custody Lawyers Brisbane",
+                  "url": "https://jpflm.com/family-law/child-custody-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Whether you are seeking to formalise an agreement or require legal representation in court, they have the expertise to support you through the process.",
+              "annotations": [
+                {
+                  "title": "Child Custody Lawyers Brisbane",
+                  "url": "https://jpflm.com/family-law/child-custody-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why they stand out:** Their firm name explicitly includes \"Mediation,\" signalling a strong focus on out-of-court resolution — ideal if you need an accredited Family Dispute Resolution (FDR) practitioner.\n\n---\n\n### 2. 🏅 Aston & Unity Lawyers *(formerly Unity Lawyers Australia)*\n📍 **Eight Mile Plains, QLD** — ~3.3 km from Sunnybank\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Aston & Unity Lawyers, previously Unity Lawyers Australia, is a leader in legal expertise providing client-focused services for individuals, families, and businesses. Their family law team adeptly handles the complexities of separations, parenting arrangements, and property settlements, ensuring each client receives a respectful, tailored approach.",
+              "annotations": [
+                {
+                  "title": "Parenting and Child Support Lawyers in Sunnybank, QLD",
+                  "url": "https://lawconnect.com/en-au/find/parenting-and-child-support/qld/sunnybank-4109",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why they stand out:** Located extremely close to Sunnybank and highly rated by local clients.\n\n---\n\n### 3. ⭐ Dare Lawyers\n📍 **Salisbury, QLD** — ~4.0 km from Sunnybank\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Dare Lawyers is a boutique firm specialising in family law and wills, rated 5 stars from client recommendations, located in Salisbury, QLD — just 4.0 km from Sunnybank.",
+              "annotations": [
+                {
+                  "title": "Parenting and Child Support Lawyers in Sunnybank, QLD",
+                  "url": "https://lawconnect.com/en-au/find/parenting-and-child-support/qld/sunnybank-4109",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why they stand out:** A boutique specialist family law firm with excellent local reviews, very close to the Sunnybank/Mount Gravatt corridor.\n\n---\n\n### 4. 🏆 Michael Lynch Family Lawyers\n📍 Brisbane (CBD & surrounds, serving all of Brisbane Southside)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Michael Lynch Family Lawyers assist with all legal matters concerning the welfare of a child, including child custody arrangements and child custody disputes. As part of their Brisbane family law services, they also provide family mediation to help resolve difficult disputes relating to child support disputes and parenting arrangements.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Brisbane",
+                  "url": "https://www.michaellynchfamilylawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "As one of the leading family law firms in Brisbane, Michael Lynch Family Lawyers are experienced lawyers for child custody matters, with solicitors up to date with the Family Law Act who can provide expert legal advice for child custody and legal services relating to the disputed custody of your child.",
+              "annotations": [
+                {
+                  "title": "Child Custody Lawyers Brisbane",
+                  "url": "https://www.michaellynchfamilylawyers.com.au/family-law-services/children/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why they stand out:** Three decades of experience and named among Brisbane's Leading Family & Divorce Law Firms 2026.\n\n---\n\n### 5. 🥇 Damien Greer Lawyers\n📍 Brisbane (serving Southside clients)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their Brisbane-based family lawyers can assist you at any stage of a relationship, whether it be at the beginning, during, or end, and by getting them involved in the early stages, you can avoid conflict should the unexpected happen.",
+              "annotations": [
+                {
+                  "title": "Brisbane’s Family Law Experts",
+                  "url": "https://damiengreer.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Their principal, Damien Greer, is a **Best Lawyers 2027** and **2x Doyles 2026 Award Winner** and **Lawyer of the Year 2024**, and the firm is recognised as a **Leading Family & Divorce Law Firm 2026**.\n\n**Why they stand out:** Award-winning credentials and a dedicated children & parenting practice area.\n\n---\n\n## ⚖️ About Family Dispute Resolution (FDR/Mediation) in Brisbane\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Before initiating court proceedings in the Family Court, parties are generally required to attend FDR with a neutral third party. If the parenting dispute is not going to family law court, then FDR is voluntary. FDR is designed to resolve custody matters out of court.",
+              "annotations": [
+                {
+                  "title": "Child Custody Lawyers Brisbane",
+                  "url": "https://www.michaellynchfamilylawyers.com.au/family-law-services/children/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\nWhen choosing a lawyer or mediator, look for:\n- ✅ **Accredited FDR Practitioners** (registered with the Attorney-General's Department)\n- ✅ Firms that offer **in-house mediation** (like JP Family Law & Mediation)\n- ✅ Experience issuing **Section 60I Certificates** (required to commence court proceedings if mediation fails)\n\n---\n\n## 📋 Quick Comparison Table\n\n| Firm | Location | Custody | Parenting Plans | FDR/Mediation |\n|---|---|---|---|---|\n| JP Family Law & Mediation | Brisbane Southside | ✅ | ✅ | ✅ Specialist |\n| Aston & Unity Lawyers | Eight Mile Plains (3.3km) | ✅ | ✅ | ✅ |\n| Dare Lawyers | Salisbury (4.0km) | ✅ | ✅ | ✅ |\n| Michael Lynch Family Lawyers | Brisbane CBD | ✅ | ✅ | ✅ |\n| Damien Greer Lawyers | Brisbane | ✅ | ✅ | ✅ |\n\n---\n\n## 💡 Tips for Choosing the Right Lawyer\n\n1. **Book a free or fixed-fee initial consultation** — most of these firms offer one.\n2. **Ask if they have an accredited FDR practitioner in-house** — this saves time and cost.\n3. **Check their Doyle's Guide or Best Lawyers rankings** for independent quality verification.\n4. **Proximity matters** — for ongoing meetings, firms in Eight Mile Plains, Salisbury, or Mount Gravatt will be most convenient for Southside residents.\n\nWould you like more details on any specific firm, or help understanding the FDR/mediation process in Queensland?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "best family lawyers Brisbane Southside Mount Gravatt Sunnybank parenting arrangements child custody",
+        "accredited family dispute resolution mediators Brisbane Southside Mount Gravatt Sunnybank",
+        "family lawyers Mount Gravatt Sunnybank Brisbane Southside child custody mediation FDR accredited",
+        "family lawyers Mount Gravatt Sunnybank parenting custody mediation",
+        "JP Family Law Mediation Mount Gravatt Brisbane Southside"
+      ]
+    }
+  ]
+}

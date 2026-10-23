@@ -1,0 +1,252 @@
+{
+  "slug": "logan",
+  "pk": "contesting_wills",
+  "plat": "aimode",
+  "text": "Which wills and estates law firms in Logan and Western Corridor (Ipswich to Brisbane) specialise in contesting a will, Family Provision Applications (FPA), and estate litigation?",
+  "loc": 9112660,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\logan__contesting_wills__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:33:11.382Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which wills and estates law firms in Logan and Western Corridor (Ipswich to Brisbane) specialise in contesting a will, Family Provision Applications (FPA), and estate litigation?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 9112660,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20wills%20and%20estates%20law%20firms%20in%20Logan%20and%20Western%20Corridor%20%28Ipswich%20to%20Brisbane%29%20specialise%20in%20contesting%20a%20will%2C%20Family%20Provision%20Applications%20%28FPA%29%2C%20and%20estate%20litigation%3F&udm=50&uule=w+CAIQIFISCcfkSS9POJFrEVYgP_h8diK6&hl=en&gl=AU",
+      "datetime": "2026-10-23 05:33:06 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "Navigating the legal landscape of contesting a will, Family Provision Applications (FPAs), and estate litigation in the Brisbane-to-Ipswich Western Corridor and Logan regions requires firms experienced in `Queensland succession law`.\n\nSeveral dedicated practices service these exact geographic corridors:\n\n\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLdEH0UVi1TP6DC3lt6Pg50og4Yx3FcMES-05nRESRo98wwxxkCDM_yJ6tRUfBZ8K-IFrQ4F9p8X8LTNtG2LUfvpFHKH6HeEw_pvrpol3cnY0vd0mqbuOxKgJyEoq6OfaCh3U6HDag=s192-w192-h144-n-k-no)\nMillwater Tyrrell Law 4.8 (107)  \nLegal services  \nOpen Ipswich QLD  \nCall Directions Website\n\n- **Focus:** Located centrally in Ipswich, they explicitly handle contesting wills, family provision applications, and validity disputes, providing both cost-effective dispute resolution and court representation.\n- **Service Area:** Ipswich, Springfield, and the greater Western Corridor.\n- **Contact & Info:** Details available via [Millwater Tyrrell Law Wills and Estates](https://millwatertyrrell.com.au/wills-and-estates).\n\n\n\n---\n\n![](https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vKK6qGkGyKgMG-9mxaUeRw&cb_client=search.gws-prod.grass&yaw=90.38047&pitch=3.3208673&thumbfov=100&w=82&h=82)\nRyder Lawyers 4.9 (42)  \nSolicitor  \nOpen Daisy Hill QLD  \nCall Directions Website\n\n- **Focus:** Led by Director Carolyn Ryder (20+ years of experience), this firm handles estate administration, probate, and estate disputes alongside family law matters for families across the corridor.\n- **Service Area:** Offices in Logan City (Daisy Hill/Loganholme) and Booval (Ipswich), servicing clients locally and remotely.\n- **Contact & Info:** Details and booking options are available at [Ryder Lawyers](https://ryderlawyers.com.au/).\n\n\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLdMzInc59XHkxB4O1WXzuoyavMl9HGyga0gcmiQNCXPSPhEE0yRwV7To3C0sn-vH8i3jLu-eo7KXbKhS2Z8-Esv0sXDdzV_N4Agw5REM2h77t9LWshXphsFHV7LdQXrSW98Gw8h4A=s192-w192-h144-n-k-no)\nNurture Law 4.9 (51)  \nEstate planning attorney  \nOpen Brisbane City QLD  \nCall Directions Website**Nurture Law** (Brisbane, Logan & Ipswich Corridor)\n\n- **Focus:** Directed by Principal Lawyer Kelly Gatehouse, this practice specialises heavily in wills and estate disputes—including inadequate provision for dependents (FPAs), lack of testamentary capacity, undue influence, and superannuation death benefit claims. They offer flexible pricing models (fixed fees, deferred fees, and No Win No Fee options depending on the matter).\n- **Service Area:** Greater Brisbane, Logan, Ipswich, Forest Lake, and Brookwater.\n- **Contact & Info:** Read more about their approach on the [Nurture Law Estate Disputes Guide](https://nurturelaw.com.au/wills-and-estate-disputes/).[[1]](https://millwatertyrrell.com.au/wills-and-estates)[[2]](https://millwatertyrrell.com.au/)[[3]](https://ryderlawyers.com.au/)[[4]](https://ryderlawyers.com.au/locations/family-lawyers-ipswich/)[[5]](https://nurturelaw.com.au/wills-and-estate-disputes/)[[6]](https://nurturelaw.com.au/)\n\nIf you would like, let me know:\n\n- Whether you are looking to **make a claim (FPA)** or **defend an estate** as an executor\n- If there is an **approximate value** or timeline of the estate involved\n\nI can provide more tailored guidance on **time limits** and **next steps** under Queensland succession law.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Navigating the legal landscape of contesting a will, Family Provision Applications (FPAs), and estate litigation in the Brisbane-to-Ipswich Western Corridor and Logan regions requires firms experienced in Queensland succession law.",
+              "markdown": "Navigating the legal landscape of contesting a will, Family Provision Applications (FPAs), and estate litigation in the Brisbane-to-Ipswich Western Corridor and Logan regions requires firms experienced in `Queensland succession law`.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Several dedicated practices service these exact geographic corridors:",
+              "markdown": "Several dedicated practices service these exact geographic corridors:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Millwater Tyrrell Law 4.8 (107) Legal services Open Ipswich QLD Call Directions WebsiteFocus: Located centrally in Ipswich, they explicitly handle contesting wills, family provision applications, and validity disputes, providing both cost-effective dispute resolution and court representation.\nService Area: Ipswich, Springfield, and the greater Western Corridor.\nContact & Info: Details available via Millwater Tyrrell Law Wills and Estates.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLdEH0UVi1TP6DC3lt6Pg50og4Yx3FcMES-05nRESRo98wwxxkCDM_yJ6tRUfBZ8K-IFrQ4F9p8X8LTNtG2LUfvpFHKH6HeEw_pvrpol3cnY0vd0mqbuOxKgJyEoq6OfaCh3U6HDag=s192-w192-h144-n-k-no)\nMillwater Tyrrell Law 4.8 (107)  \nLegal services  \nOpen Ipswich QLD  \nCall Directions Website\n\n- **Focus:** Located centrally in Ipswich, they explicitly handle contesting wills, family provision applications, and validity disputes, providing both cost-effective dispute resolution and court representation.\n- **Service Area:** Ipswich, Springfield, and the greater Western Corridor.\n- **Contact & Info:** Details available via [Millwater Tyrrell Law Wills and Estates](https://millwatertyrrell.com.au/wills-and-estates).",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Millwater Tyrrell Law Wills and Estates",
+                  "description": null,
+                  "url": "https://millwatertyrrell.com.au/wills-and-estates",
+                  "domain": "millwatertyrrell.com.au"
+                }
+              ],
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdEH0UVi1TP6DC3lt6Pg50og4Yx3FcMES-05nRESRo98wwxxkCDM_yJ6tRUfBZ8K-IFrQ4F9p8X8LTNtG2LUfvpFHKH6HeEw_pvrpol3cnY0vd0mqbuOxKgJyEoq6OfaCh3U6HDag=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Ryder Lawyers 4.9 (42) Solicitor Open Daisy Hill QLD Call Directions WebsiteFocus: Led by Director Carolyn Ryder (20+ years of experience), this firm handles estate administration, probate, and estate disputes alongside family law matters for families across the corridor.\nService Area: Offices in Logan City (Daisy Hill/Loganholme) and Booval (Ipswich), servicing clients locally and remotely.\nContact & Info: Details and booking options are available at Ryder Lawyers.",
+              "markdown": "---\n\n![](https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vKK6qGkGyKgMG-9mxaUeRw&cb_client=search.gws-prod.grass&yaw=90.38047&pitch=3.3208673&thumbfov=100&w=82&h=82)\nRyder Lawyers 4.9 (42)  \nSolicitor  \nOpen Daisy Hill QLD  \nCall Directions Website\n\n- **Focus:** Led by Director Carolyn Ryder (20+ years of experience), this firm handles estate administration, probate, and estate disputes alongside family law matters for families across the corridor.\n- **Service Area:** Offices in Logan City (Daisy Hill/Loganholme) and Booval (Ipswich), servicing clients locally and remotely.\n- **Contact & Info:** Details and booking options are available at [Ryder Lawyers](https://ryderlawyers.com.au/).",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Ryder Lawyers",
+                  "description": null,
+                  "url": "https://ryderlawyers.com.au/",
+                  "domain": "ryderlawyers.com.au"
+                }
+              ],
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vKK6qGkGyKgMG-9mxaUeRw&cb_client=search.gws-prod.grass&yaw=90.38047&pitch=3.3208673&thumbfov=100&w=82&h=82"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Nurture Law 4.9 (51) Estate planning attorney Open Brisbane City QLD Call Directions Website Nurture Law (Brisbane, Logan & Ipswich Corridor)Focus: Directed by Principal Lawyer Kelly Gatehouse, this practice specialises heavily in wills and estate disputes—including inadequate provision for dependents (FPAs), lack of testamentary capacity, undue influence, and superannuation death benefit claims. They offer flexible pricing models (fixed fees, deferred fees, and No Win No Fee options depending on the matter).\nService Area: Greater Brisbane, Logan, Ipswich, Forest Lake, and Brookwater.\nContact & Info: Read more about their approach on the Nurture Law Estate Disputes Guide.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLdMzInc59XHkxB4O1WXzuoyavMl9HGyga0gcmiQNCXPSPhEE0yRwV7To3C0sn-vH8i3jLu-eo7KXbKhS2Z8-Esv0sXDdzV_N4Agw5REM2h77t9LWshXphsFHV7LdQXrSW98Gw8h4A=s192-w192-h144-n-k-no)\nNurture Law 4.9 (51)  \nEstate planning attorney  \nOpen Brisbane City QLD  \nCall Directions Website**Nurture Law** (Brisbane, Logan & Ipswich Corridor)\n\n- **Focus:** Directed by Principal Lawyer Kelly Gatehouse, this practice specialises heavily in wills and estate disputes—including inadequate provision for dependents (FPAs), lack of testamentary capacity, undue influence, and superannuation death benefit claims. They offer flexible pricing models (fixed fees, deferred fees, and No Win No Fee options depending on the matter).\n- **Service Area:** Greater Brisbane, Logan, Ipswich, Forest Lake, and Brookwater.\n- **Contact & Info:** Read more about their approach on the [Nurture Law Estate Disputes Guide](https://nurturelaw.com.au/wills-and-estate-disputes/).[[1]](https://millwatertyrrell.com.au/wills-and-estates)[[2]](https://millwatertyrrell.com.au/)[[3]](https://ryderlawyers.com.au/)[[4]](https://ryderlawyers.com.au/locations/family-lawyers-ipswich/)[[5]](https://nurturelaw.com.au/wills-and-estate-disputes/)[[6]](https://nurturelaw.com.au/)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Nurture Law Estate Disputes Guide",
+                  "description": null,
+                  "url": "https://nurturelaw.com.au/wills-and-estate-disputes/",
+                  "domain": "nurturelaw.com.au"
+                }
+              ],
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdMzInc59XHkxB4O1WXzuoyavMl9HGyga0gcmiQNCXPSPhEE0yRwV7To3C0sn-vH8i3jLu-eo7KXbKhS2Z8-Esv0sXDdzV_N4Agw5REM2h77t9LWshXphsFHV7LdQXrSW98Gw8h4A=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Millwater Tyrrell Law",
+                  "domain": "millwatertyrrell.com.au",
+                  "url": "https://millwatertyrrell.com.au/wills-and-estates",
+                  "title": "Wills and Estates Lawyers Ipswich - Millwater Tyrrell Law",
+                  "text": "We can assist with contesting Wills, family provision applications, disputes regarding the validity of Wills, and other claims reg..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Millwater Tyrrell Law",
+                  "domain": "millwatertyrrell.com.au",
+                  "url": "https://millwatertyrrell.com.au/",
+                  "title": "Ipswich Lawyers - Ipswich Expert Family & Commercial Lawyers",
+                  "text": "Services: Family law, divorce, commercial law, conveyancing, estates, criminal law. Service Areas: Ipswich, Brisbane, Springfield."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Ryder Lawyers",
+                  "domain": "ryderlawyers.com.au",
+                  "url": "https://ryderlawyers.com.au/",
+                  "title": "Family Law | Wills And Estates | Ryder Lawyers | Logan & Ipswich",
+                  "text": "Free 15-minute phone consultation for new family law clients; Estate planning packages start at $1,320 for individuals and $1,920 ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Ryder Lawyers",
+                  "domain": "ryderlawyers.com.au",
+                  "url": "https://ryderlawyers.com.au/locations/family-lawyers-ipswich/",
+                  "title": "Family Lawyers Ipswich",
+                  "text": "We enjoy supporting families in Ipswich with complex family law negotiations and estate disputes or probate. Contact us 07 3709 13..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Nurture Law",
+                  "domain": "nurturelaw.com.au",
+                  "url": "https://nurturelaw.com.au/wills-and-estate-disputes/",
+                  "title": "Wills and Estate Disputes - Will Dispute Lawyers Brisbane | Nurture Law",
+                  "text": "Services: Wills, estate planning, administration, probate, and dispute resolution for executors and beneficiaries. Common Dispute."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Nurture Law",
+                  "domain": "nurturelaw.com.au",
+                  "url": "https://nurturelaw.com.au/",
+                  "title": "Wills and Estate Lawyers Brisbane - Estate Lawyers | Nurture Law",
+                  "text": "Nurture Law is a Brisbane-based wills and estate law firm directed by Principal Lawyer Kelly Gatehouse, Core services include will..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you would like, let me know:",
+              "markdown": "If you would like, let me know:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Whether you are looking to make a claim (FPA) or defend an estate as an executor If there is an approximate value or timeline of the estate involved",
+              "markdown": "- Whether you are looking to **make a claim (FPA)** or **defend an estate** as an executor\n- If there is an **approximate value** or timeline of the estate involved",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "I can provide more tailored guidance on time limits and next steps under Queensland succession law.",
+              "markdown": "I can provide more tailored guidance on **time limits** and **next steps** under Queensland succession law.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Nurture Law",
+              "domain": "nurturelaw.com.au",
+              "url": "https://nurturelaw.com.au/",
+              "title": "Wills and Estate Lawyers Brisbane - Estate Lawyers | Nurture Law",
+              "text": "Nurture Law is a Brisbane-based wills and estate law firm directed by Principal Lawyer Kelly Gatehouse, Core services include wills and estate disputes, superannua..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Nurture Law",
+              "domain": "nurturelaw.com.au",
+              "url": "https://nurturelaw.com.au/wills-and-estate-disputes/",
+              "title": "Wills and Estate Disputes - Will Dispute Lawyers Brisbane | Nurture Law",
+              "text": "Services: Wills, estate planning, administration, probate, and dispute resolution for executors and beneficiaries. Common Dispute. Lack of testamentary capacity, c..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Millwater Tyrrell Law",
+              "domain": "millwatertyrrell.com.au",
+              "url": "https://millwatertyrrell.com.au/",
+              "title": "Ipswich Lawyers - Ipswich Expert Family & Commercial Lawyers",
+              "text": "Services: Family law, divorce, commercial law, conveyancing, estates, criminal law. Service Areas: Ipswich, Brisbane, Springfield. Hours: Monday - Friday, 8.30am"
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

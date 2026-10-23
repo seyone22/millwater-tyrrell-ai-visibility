@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane_north",
+  "pk": "divorce_property",
+  "plat": "perplexity",
+  "text": "I am going through a separation and complex property settlement in Brisbane Northside (Chermside & North Lakes). Which family law firms have the strongest track record for property division and binding financial agreements?",
+  "loc": 9060852,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_north__divorce_property__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:29:20.163Z",
+  "cost": 0.006364,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 47,
+      "output_tokens": 717,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005764,
+      "datetime": "2026-10-23 05:29:16 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For a complex property settlement involving real estate, businesses, trusts, superannuation or disputed contributions, the strongest **northside-focused shortlist** is:\n\n- **Best Wilson Buckley Family Law** — a specialist family-law practice with offices serving North Lakes and Brisbane’s northside. Its stated services include complex property settlements, superannuation splitting and binding financial agreements; it specifically identifies North Lakes, Aspley and Chermside among the areas it serves.[1][6]\n- **Barton Family Lawyers** — particularly convenient for Chermside and North Lakes, with offices in Chermside and Petrie. It handles property settlements involving businesses, trusts and multiple properties, as well as BFAs and consent orders.[2][3][4]\n- **Australian Family Lawyers – Northside Brisbane** — a larger specialist family-law network offering property settlements involving businesses and family trusts, plus BFA preparation and advice.[5]\n- **Daykin Family Law** — a Brisbane family-law practice that advises on negotiation, mediation, consent orders and BFAs, including which form of documentation is most suitable.[9]\n- **Chamberlains Law Firm** — worth considering where the matter involves substantial or complicated assets, because it expressly lists real estate, superannuation, business interests, trusts, property disputes and BFAs among its services.[8]\n\n### Best fit by situation\n\n| Situation | Firms to interview first |\n|---|---|\n| You want a genuinely local Chermside/North Lakes office | Barton; Best Wilson Buckley |\n| Complex asset pool, trusts or businesses | Best Wilson Buckley; Chamberlains; Australian Family Lawyers |\n| BFA drafting or review | Barton; Daykin; Chamberlains; Best Wilson Buckley |\n| Negotiation or mediation preferred | Daykin; Barton; Best Wilson Buckley |\n| Likely litigation or urgent asset-protection steps | Ask each shortlisted firm specifically about court representation, injunctions and freezing orders |\n\nThere is no reliable public ranking proving which firm has the “strongest track record”; firms’ websites generally describe their services rather than independently verified win rates or settlement outcomes. Treat the list as a shortlist for consultations, not a definitive ranking.\n\nWhen comparing them, ask for:\n\n- The proposed solicitor’s experience with **businesses, trusts, property portfolios and superannuation**.\n- Examples of comparable matters, described without breaching confidentiality.\n- Whether the firm regularly handles **property cases in the Federal Circuit and Family Court**.\n- Their approach to asset disclosure, valuations, tracing contributions and suspected dissipation of assets.\n- Whether they recommend **consent orders or a BFA**, and why.\n- A written estimate separating solicitor fees, barrister fees, valuation costs, forensic-accounting costs and mediation expenses.\n- Who will actually run the matter and their hourly rates.\n\nFor a BFA, both parties generally need **independent legal advice** before signing; a poorly drafted or improperly advised agreement can later be challenged. Daykin specifically distinguishes BFAs from consent orders and notes the independent-advice requirement.[9] If there is a risk that assets may be sold, transferred or hidden, raise that at the first appointment—urgent court measures may be available.[7]\n\nFor your location, booking initial consultations with **Barton and Best Wilson Buckley**, then comparing one larger or litigation-oriented option such as **Australian Family Lawyers or Chamberlains**, would give a practical three-firm comparison.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Brisbane",
+                  "url": "https://bwbfamilylaw.com.au/lps/family-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Lawyers Brisbane Northside & Chermside",
+                  "url": "https://bartonfamilylaw.com.au/family-lawyers-brisbane-northside/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Lawyer North Lakes",
+                  "url": "https://bartonfamilylaw.com.au/family-lawyer-north-lakes/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Barton Family Lawyers",
+                  "url": "https://bartonfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Lawyers Northside Brisbane",
+                  "url": "https://www.australianfamilylawyers.com.au/cm-family-lawyers-northside-brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Lawyers North Lakes",
+                  "url": "https://bwbfamilylaw.com.au/lps/family-lawyers-north-lakes",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Separation Lawyers Brisbane",
+                  "url": "https://www.avokahlegal.com.au/separation-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Law Brisbane | Contact Us - Chamberlains Law Firm",
+                  "url": "https://chamberlains.com.au/expertise/family-law/brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Property Settlement Lawyers Brisbane | Divorce & Separation",
+                  "url": "https://daykinfamilylaw.com.au/ending-a-relationship/property-settlement-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Property Settlement Lawyers in Brisbane",
+                  "url": "https://www.unifiedlawyers.com.au/family-lawyers-brisbane/property-settlement/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

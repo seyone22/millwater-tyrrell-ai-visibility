@@ -1,0 +1,254 @@
+{
+  "slug": "brisbane_south",
+  "pk": "contesting_wills",
+  "plat": "claude",
+  "text": "Which wills and estates law firms in Brisbane Southside (Mount Gravatt & Sunnybank) specialise in contesting a will, Family Provision Applications (FPA), and estate litigation?",
+  "loc": 9060851,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_south__contesting_wills__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:29:27.468Z",
+  "cost": 0.070738,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 11341,
+      "output_tokens": 1741,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.070138,
+      "datetime": "2026-10-23 05:29:23 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a roundup of law firms serving the **Brisbane Southside (Mount Gravatt & Sunnybank)** area that specialise in **contesting a will, Family Provision Applications (FPA), and estate litigation**:\n\n---\n\n## ⚖️ Wills & Estates Law Firms – Brisbane Southside (Mount Gravatt & Sunnybank)\n\n---\n\n### 1. 🏢 Bennett Carroll Solicitors – Upper Mount Gravatt\n**📍 Location:** Upper Mount Gravatt (Brisbane South office)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Bennett Carroll Solicitors provide legal advice on wills, enduring powers of attorney (EPOAs), and estate administration in Brisbane, with an office in Upper Mount Gravatt.",
+              "annotations": [
+                {
+                  "title": "Wills & Estate Planning Lawyers Queensland",
+                  "url": "https://www.bcglaw.com.au/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Whether you need a new Will, an Enduring Power of Attorney, assistance administering an estate, or legal support in a dispute, their experienced team is ready to help.",
+              "annotations": [
+                {
+                  "title": "Wills & Estate Planning Lawyers Queensland",
+                  "url": "https://www.bcglaw.com.au/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Services include:** Wills & estate planning, estate disputes, probate, and estate administration.\n\n> ✅ **Best for:** Clients in Mount Gravatt and Sunnybank wanting a **local, southside office** for estate matters.\n\n---\n\n### 2. 🏢 Attwood Marshall Lawyers – Brisbane (with southside reach)\n**📍 Location:** Brisbane (multiple offices)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "When a loved one passes away, disputes over their Will or estate can quickly escalate. At Attwood Marshall Lawyers, their experienced estate litigation lawyers in Brisbane are there to guide clients through these difficult situations with sensitivity, strategic advice, and clear direction.",
+              "annotations": [
+                {
+                  "title": "Estate Litigation Lawyers Brisbane",
+                  "url": "https://attwoodmarshall.com.au/brisbane/estate-litigation/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their services include Family Provision Claims (contesting a Will), defending claims on behalf of executors/beneficiaries, challenging Wills (capacity, undue influence), Public Trustee disputes, resolving executor and beneficiary disputes, and Statutory Wills.",
+              "annotations": [
+                {
+                  "title": "Estate Litigation Lawyers Brisbane",
+                  "url": "https://attwoodmarshall.com.au/brisbane/estate-litigation/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "As a nationally recognised law firm with specialist expertise in Succession Law and estate litigation, they have helped hundreds of clients across the country navigate estate disputes with confidence.",
+              "annotations": [
+                {
+                  "title": "Estate Litigation Lawyers Brisbane",
+                  "url": "https://attwoodmarshall.com.au/brisbane/estate-litigation/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n> ✅ **Best for:** Complex, multi-jurisdictional estate disputes and FPAs.\n\n---\n\n### 3. 🏢 Will and Estate Lawyers Australia – Brisbane\n**📍 Location:** Brisbane (serving southside clients)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "For will disputes and family provision applications, they work on a **no win, no fee basis**. Estate disputes are increasingly common in Brisbane, and their experienced litigation team represents clients in contested will matters, family provision applications, and executor disputes.",
+              "annotations": [
+                {
+                  "title": "Wills and Estate Lawyers Brisbane",
+                  "url": "https://willandestatelawyers.com.au/wills-and-estate-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their will dispute lawyers handle a wide range of estate matters including family provision applications, challenges to will validity, executor removal proceedings, breach of fiduciary duty claims, and estate administration conflicts.",
+              "annotations": [
+                {
+                  "title": "Will Dispute Lawyers Brisbane",
+                  "url": "https://willandestatelawyers.com.au/will-dispute-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n> ✅ **Best for:** FPAs and estate disputes with a **no win, no fee** arrangement and fixed-fee pricing transparency.\n\n---\n\n### 4. 🏢 Armstrong Legal – Brisbane\n**📍 Location:** Brisbane (multiple offices, serving southside)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "If you want to challenge or contest a will, Armstrong Legal can assess whether you may be eligible to make a family provision claim, as well as review concerns about capacity, pressure, fraud or the way the will was made. If you must defend a will, they can assist in responding to the claim and safeguarding the estate's interests.",
+              "annotations": [
+                {
+                  "title": "Estate Litigation Lawyers Brisbane",
+                  "url": "https://www.armstronglegal.com.au/pages/cmcw-estate-litigation-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their dedicated Contested Wills & Estates team has been highlighted in Doyle's Guide as a Recommended Wills & Estates Litigation Law Firm every year from 2021 to 2025.",
+              "annotations": [
+                {
+                  "title": "Estate Litigation Lawyers Brisbane",
+                  "url": "https://www.armstronglegal.com.au/pages/cmcw-estate-litigation-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "For some family provision claims, a \"No Win No Fee\" agreement may be offered, subject to a case-by-case assessment.",
+              "annotations": [
+                {
+                  "title": "Estate Litigation Lawyers Brisbane",
+                  "url": "https://www.armstronglegal.com.au/pages/cmcw-estate-litigation-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n> ✅ **Best for:** Clients who want a **Doyle's Guide-recognised** firm with a strong track record in contested wills.\n\n---\n\n### 5. 🏢 de Groots Wills & Estate Lawyers – Brisbane\n**📍 Location:** Brisbane CBD (serving all Brisbane areas)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "De Groots is Australia's specialist wills and estate lawyers firm, established in 1986, with offices in Brisbane, Sydney and Melbourne, and expertise in contesting wills, estate litigation, and executor services.",
+              "annotations": [
+                {
+                  "title": "Estate Lawyers Australia",
+                  "url": "https://degroots.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Disputes over estates can arise due to Will contests, family disagreements, or unclear asset distribution. Their legal team provides strategic advice to resolve conflicts through mediation, negotiation, or court proceedings, protecting clients' rights and working towards fair outcomes.",
+              "annotations": [
+                {
+                  "title": "Estate Lawyers Australia",
+                  "url": "https://degroots.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n> ✅ **Best for:** Clients seeking a **long-established specialist** estate law firm with deep expertise in succession law.\n\n---\n\n## 📝 Summary Table\n\n| Firm | Local Southside Office | FPA/Contesting Wills | Estate Litigation | No Win No Fee |\n|---|---|---|---|---|\n| **Bennett Carroll Solicitors** | ✅ Upper Mount Gravatt | ✅ | ✅ | ❓ |\n| **Attwood Marshall Lawyers** | ⚠️ Brisbane-wide | ✅ | ✅ | ❓ |\n| **Will & Estate Lawyers Australia** | ⚠️ Brisbane-wide | ✅ | ✅ | ✅ |\n| **Armstrong Legal** | ⚠️ Brisbane-wide | ✅ | ✅ | ✅ (case-by-case) |\n| **de Groots** | ⚠️ Brisbane CBD | ✅ | ✅ | ❓ |\n\n---\n\n### 💡 Tips When Choosing a Firm:\n- **Local office:** If having a nearby office in Mount Gravatt or Sunnybank is important, **Bennett Carroll Solicitors** (Upper Mount Gravatt) is the most locally positioned.\n- **No Win No Fee:** If cost is a concern, ask about no win, no fee arrangements for FPAs — Armstrong Legal and Will & Estate Lawyers Australia both offer this.\n- **Complexity:** For highly complex or multi-jurisdictional disputes, Attwood Marshall or de Groots may be best suited.\n\nIt's always recommended to book a **free initial consultation** with your shortlisted firms to discuss your specific circumstances before committing.",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "wills estates law firms Brisbane Southside Mount Gravatt Sunnybank contesting will family provision application estate litigation",
+        "estate litigation lawyers Mount Gravatt Sunnybank Brisbane FPA specialists"
+      ]
+    }
+  ]
+}

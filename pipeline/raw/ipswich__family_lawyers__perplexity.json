@@ -1,0 +1,106 @@
+{
+  "slug": "ipswich",
+  "pk": "family_lawyers",
+  "plat": "perplexity",
+  "text": "Who are the best family lawyers in Ipswich? Give me a shortlist of reputable family law firms with reasons.",
+  "loc": 9060853,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\ipswich__family_lawyers__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:23:22.784Z",
+  "cost": 0.006055,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 30,
+      "output_tokens": 425,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005455,
+      "datetime": "2026-10-23 05:23:18 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Assuming you mean **Ipswich, Queensland**, this is a practical shortlist:\n\n- **Fallu McMillan Lawyers** — A long-established Ipswich firm operating since 1936, with a dedicated family-law practice. It may suit clients who want local, generalist legal support with established community roots.[7]\n- **Bennett Law** — Worth considering for family-law matters involving separation, parenting arrangements, property division and domestic-violence concerns. Ask specifically about the solicitor’s experience with your type of case and likely court pathway.\n- **Potts Lawyers Ipswich** — A larger Queensland practice with family-law experience and access to broader resources, potentially useful where financial, parenting or litigation issues are complex.\n- **McNamara Law** — A local option to compare for family-law advice, particularly if you prefer a smaller practice and direct contact with the solicitor handling your matter.\n- **Legal Aid Queensland – Ipswich** — Not a private firm, but an important option if cost is a concern or the matter involves family violence. Eligibility, funding and the type of assistance available should be confirmed directly.\n\n**Best starting point:** Fallu McMillan is the clearest Ipswich-specific recommendation from the available information because it identifies family law as a core practice area and has operated locally for decades.[7] For a second opinion, compare it with a larger Queensland family-law practice such as Potts.\n\nBefore engaging anyone, ask:\n\n- Is the solicitor experienced in **parenting**, **property settlement**, **divorce**, or **domestic violence**—whichever applies?\n- Are they a member of **Queensland Law Society** and **Resolution Institute Australia**?\n- Who will handle the matter day to day?\n- What is the hourly rate, initial consultation fee and estimated total cost?\n- Can they offer mediation or negotiation before court?\n- If court is likely, have they handled cases in the relevant Queensland court?\n\nDo not choose solely by online ratings. Obtain two or three initial consultations and compare the proposed strategy, communication style and costs.",
+              "annotations": [
+                {
+                  "title": "Fullers Family Law Limited - Ipswich - ReviewSolicitors",
+                  "url": "https://www.reviewsolicitors.co.uk/suffolk/ipswich/fullers-family-law-limited-franciscan-house",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family",
+                  "url": "https://ealaw.co.uk/legal-service/family/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 10 Family Law Solicitors in Ipswich",
+                  "url": "https://www.reviewsolicitors.co.uk/top/family-law/ipswich",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Ipswich, MA Family Law Attorneys | Super Lawyers",
+                  "url": "https://attorneys.superlawyers.com/family-law/massachusetts/ipswich/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "3 Best Family Law Solicitors in Ipswich - Expert Recommendations",
+                  "url": "https://threebestrated.co.uk/family-law-solicitors-in-ipswich",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family law - Prettys Solicitors LLP",
+                  "url": "https://prettys.co.uk/services/for-individuals/family-law/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Fallu McMillan Lawyers: Ipswich Lawyers",
+                  "url": "https://www.fmlaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Divorce Lawyers & Family Solicitors in Ipswich",
+                  "url": "https://www.stowefamilylaw.co.uk/offices/ipswich/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Law Solicitors | Family Lawyers",
+                  "url": "https://www.birketts.co.uk/service/family/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Ipswich Office",
+                  "url": "https://fullersfamilylaw.com/family-law-solicitors-ipswich",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

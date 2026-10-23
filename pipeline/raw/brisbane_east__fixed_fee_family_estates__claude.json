@@ -1,0 +1,294 @@
+{
+  "slug": "brisbane_east",
+  "pk": "fixed_fee_family_estates",
+  "plat": "claude",
+  "text": "Which boutique law firms in Brisbane East and Bayside (Carindale & Wynnum) offer free initial consultations, fixed-fee wills, or deferred-fee options for family law and wills and estates?",
+  "loc": 9194035,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_east__fixed_fee_family_estates__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:32:43.263Z",
+  "cost": 0.174982,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 43749,
+      "output_tokens": 2209,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.174382,
+      "datetime": "2026-10-23 05:32:39 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Based on the search results gathered, here is a detailed breakdown of boutique and community-focused law firms in the **Brisbane East and Bayside (Carindale & Wynnum)** area that offer **free initial consultations, fixed-fee wills, or deferred/flexible fee options** for family law and wills & estates:\n\n---\n\n## 🏛️ Boutique Law Firms in Brisbane East & Bayside\n\n### 1. 🏆 **DBL Solicitors** *(Wynnum, Carina, Morningside & Brisbane CBD)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "DBL Solicitors started with their Carina office in 1991 and now have 4 offices – Carina, Morningside, Wynnum and Brisbane CBD.",
+              "annotations": [
+                {
+                  "title": "Home - DBL Solicitors Property & Conveyancing Family Law Litigation",
+                  "url": "https://www.dbl.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their practice areas include Property Law, Conveyancing, Commercial Law & Litigation, Family & Relationships Law, and Wills & Estate Administration.",
+              "annotations": [
+                {
+                  "title": "Home - DBL Solicitors Property & Conveyancing Family Law Litigation",
+                  "url": "https://www.dbl.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "DBL Solicitors offer a friendly, personalised approach with clear, reliable legal advice, and have been trusted in Brisbane for over 25 years, covering property, business, family, wills, estate disputes, deceased estate administration, and more.",
+              "annotations": [
+                {
+                  "title": "Find Lawyers in Carindale QLD - LawConnect",
+                  "url": "https://lawconnect.com/en-au/find/lawyers/qld/carindale-4152",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n> **Fee options:** Their website emphasises affordability and personalised service. Contact them directly to confirm free consultation availability.\n> 📞 Multiple offices including **Wynnum** and **Carina**\n\n---\n\n### 2. ✅ **Brisbane City Lawyers** *(Wynnum)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Brisbane City Lawyers provide affordable legal services and court representation in Brisbane. Their Wynnum lawyers provide advice on commercial disputes, business law, family law (including separation, division of assets, arrangements for children & financial agreements), property law, criminal law, traffic offences, succession planning & estates.",
+              "annotations": [
+                {
+                  "title": "Wynnum Lawyers",
+                  "url": "https://brisbanecitylawyers.com.au/qld/wynnum-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their Wynnum Estate Planning Lawyers provide estate planning advice and prepare Wills, Power of Attorney & Advance Health Directive documents.",
+              "annotations": [
+                {
+                  "title": "Wynnum Lawyers",
+                  "url": "https://brisbanecitylawyers.com.au/qld/wynnum-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "**\"The first consultation is on us!\"** — They offer a **FREE 20-minute telephone consultation** for anyone wishing to chat with a Wynnum Lawyer.",
+              "annotations": [
+                {
+                  "title": "Wynnum Lawyers",
+                  "url": "https://brisbanecitylawyers.com.au/qld/wynnum-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n> **Fee options:** ✅ Free 20-minute initial consultation confirmed.\n\n---\n\n### 3. ✅ **Connor Hunter Law Firm** *(Wynnum)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Connor Hunter Lawyers Brisbane has been providing trusted legal services since 1971, committed to client privacy and high standards. Founded by John Connor and Peter Hunter, the firm values community ties and modern practices.",
+              "annotations": [
+                {
+                  "title": "Find Estate Administration Lawyers in Wynnum, QLD",
+                  "url": "https://lawconnect.com/en-au/find/estate-administration/qld/wynnum-4178",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They prioritise amicable solutions, fast turnaround, extensive experience, and affordable support.",
+              "annotations": [
+                {
+                  "title": "Find Estate Administration Lawyers in Wynnum, QLD",
+                  "url": "https://lawconnect.com/en-au/find/estate-administration/qld/wynnum-4178",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n> **Fee options:** Known for affordability and community focus. Contact directly to confirm free consultation or fixed-fee wills options.\n> ⭐ Rated 4.8 from 111 reviews on LawConnect.\n\n---\n\n### 4. ✅ **Piccardi Legal** *(Wynnum / Morningside)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Piccardi Legal is a Wynnum/Morningside law firm known for its modern approach to legal matters. The firm excels in Family Law, focusing on collaborative solutions for divorce, property settlement, and parenting plans, often resolving matters without court. Their expertise extends to Conveyancing, Estate Planning, and Commercial Law.",
+              "annotations": [
+                {
+                  "title": "Find Lawyers in Wynnum QLD - LawConnect",
+                  "url": "https://lawconnect.com/en-au/find/lawyers/qld/wynnum-4178",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n> **Fee options:** Boutique and collaborative approach — contact directly to inquire about free consultations or fixed-fee estate planning packages.\n\n---\n\n### 5. ✅ **Middleton Turner Lawyers** *(Wynnum area)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Middleton Turner Lawyers is a dedicated team offering exceptional legal services without traditional billing constraints. Principal Emma Turner, who joined in 2006, took over leadership in 2015, enhancing the firm's focus on family law and estate administration.",
+              "annotations": [
+                {
+                  "title": "Find Estate Administration Lawyers in Wynnum, QLD",
+                  "url": "https://lawconnect.com/en-au/find/estate-administration/qld/wynnum-4178",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n> **Fee options:** The phrase \"without traditional billing constraints\" suggests flexible or fixed-fee arrangements — confirm directly.\n\n---\n\n### 6. ✅ **Fulljames Law** *(Wynnum area)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Fulljames Law is a family-run practice offering personalised, practical legal services in estate planning, deceased estates, and commercial law. They support individuals, families, entrepreneurs, SMEs, and community organisations with compassionate guidance during difficult times. Their tailored estate planning secures your assets and wishes.",
+              "annotations": [
+                {
+                  "title": "Find Estate Administration Lawyers in Wynnum, QLD",
+                  "url": "https://lawconnect.com/en-au/find/estate-administration/qld/wynnum-4178",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Director Romy, with experience across Brisbane and Sunshine Coast firms, also lectures in Business and Corporate Law.",
+              "annotations": [
+                {
+                  "title": "Find Estate Administration Lawyers in Wynnum, QLD",
+                  "url": "https://lawconnect.com/en-au/find/estate-administration/qld/wynnum-4178",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n> **Fee options:** Boutique and family-run — contact directly to confirm consultation and fee arrangements.\n\n---\n\n### 7. ✅ **CNG Law Pty Ltd** *(Camp Hill — near Carindale)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "CNG Law Pty Ltd is a reputable Queensland-based firm with offices in Camp Hill and Maroochydore, offering comprehensive legal services across Brisbane and the Sunshine Coast. Their services cover family law, criminal and traffic matters, estate planning, property and conveyancing, commercial law, and employment law.",
+              "annotations": [
+                {
+                  "title": "Find Lawyers in Carindale QLD - LawConnect",
+                  "url": "https://lawconnect.com/en-au/find/lawyers/qld/carindale-4152",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n> **Fee options:** Located very close to Carindale. Contact directly to confirm free consultation or fixed-fee options.\n\n---\n\n### 8. ✅ **Hall & Co Solicitors** *(Mt Gravatt — near Carindale)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Hall & Co Solicitors, located in the Mt Gravatt Showgrounds since 2012, was founded by Guy McEntyre to provide a unique, personalised legal service. This boutique practice focuses on high-quality, affordable legal solutions while prioritising client needs. They offer services in family law, criminal law, and litigation.",
+              "annotations": [
+                {
+                  "title": "Find Lawyers in Carindale QLD - LawConnect",
+                  "url": "https://lawconnect.com/en-au/find/lawyers/qld/carindale-4152",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n> **Fee options:** Explicitly described as a **boutique** firm with an **affordable** focus — worth contacting for fixed-fee wills.\n\n---\n\n## 💡 Summary Table\n\n| Firm | Location | Family Law | Wills & Estates | Free Consult | Fixed/Flexible Fee |\n|---|---|---|---|---|---|\n| **Brisbane City Lawyers** | Wynnum | ✅ | ✅ | ✅ 20 min FREE | Confirm directly |\n| **DBL Solicitors** | Wynnum, Carina | ✅ | ✅ | Confirm directly | Confirm directly |\n| **Connor Hunter Law** | Wynnum | ✅ | ✅ | Confirm directly | ✅ Affordable |\n| **Piccardi Legal** | Wynnum/Morningside | ✅ | ✅ | Confirm directly | Confirm directly |\n| **Middleton Turner** | Wynnum area | ✅ | ✅ | Confirm directly | ✅ Non-traditional billing |\n| **Fulljames Law** | Wynnum area | — | ✅ | Confirm directly | Confirm directly |\n| **CNG Law** | Camp Hill (near Carindale) |",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "boutique law firms Brisbane East Carindale Wynnum family law wills estates free consultation",
+        "fixed fee wills deferred fee family law Wynnum Carindale Brisbane bayside solicitor",
+        "DBL Solicitors Wynnum Carina free consultation fixed fee wills family law",
+        "Connor Hunter Lawyers Wynnum free consultation fixed fee wills family law",
+        "Piccardi Legal Wynnum Morningside free consultation fixed fee family law wills",
+        "Middleton Turner Lawyers Wynnum family law wills estates fixed fee deferred payment"
+      ]
+    }
+  ]
+}

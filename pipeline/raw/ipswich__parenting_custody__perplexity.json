@@ -1,0 +1,106 @@
+{
+  "slug": "ipswich",
+  "pk": "parenting_custody",
+  "plat": "perplexity",
+  "text": "Which family lawyers in Ipswich, QLD are best for parenting arrangements, child custody disputes, and accredited family dispute resolution (mediation)?",
+  "loc": 9060853,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\ipswich__parenting_custody__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:44:51.447Z",
+  "cost": 0.006269,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 34,
+      "output_tokens": 635,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005669,
+      "datetime": "2026-10-23 05:44:47 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For parenting arrangements, contested child-care disputes, and mediation in Ipswich, the strongest local shortlist is:\n\n- **Best Wilson Buckley Family Law** — a specialist Ipswich practice at 205 Brisbane Street offering parenting disputes, court representation, mediation, collaborative law, and child-focused advice. Its team includes a **Family Dispute Resolution Practitioner**, Natalia Hutchison.[4][5]\n- **Walker Pender** — an Ipswich office at 28 Nicholas Street handling parenting arrangements, parenting orders, child support, and mediation; its published case example describes resolving a disputed-care matter through mediation rather than litigation.[2]\n- **Ipswich Family Lawyers** — a local practice assisting with parenting plans, relocation, parental responsibility, schooling decisions, mediation, and court proceedings where agreement is not possible.[3]\n- **Australian Family Lawyers Ipswich** — a national specialist family-law firm offering child-custody advice, parenting disputes, negotiation, mediation, and representation in contested matters; it states that its broader team includes Queensland Accredited Family Law Specialists.[1]\n- **Fallu McMillan** — an Ipswich-based firm offering parenting and child-related advice, court preparation, and dispute resolution for parenting issues such as schooling, holidays, and changeovers.[8]\n\n### Best fit by situation\n\n| Situation | Strongest options |\n|---|---|\n| You specifically want **accredited family dispute resolution/mediation** | Best Wilson Buckley; also ask Australian Family Lawyers or Walker Pender which practitioner will conduct the mediation and what accreditation they hold.[1][2][4] |\n| You expect a ** contested parenting case or court proceedings** | Best Wilson Buckley, Australian Family Lawyers, or Walker Pender.[1][2][5] |\n| You prefer a **local, settlement-focused boutique firm** | Ipswich Family Lawyers or Fallu McMillan.[3][8] |\n| You want a **specialist lawyer with recognised accreditation** | Consider Daykin Family Law, which serves Ipswich and identifies Shannon Daykin as an Accredited Family Law Specialist while offering mediation and alternative dispute resolution.[7] |\n\nBefore booking, ask each firm:\n\n1. Is the individual mediator a **Family Dispute Resolution Practitioner (FDRP)** listed on the Australian Attorney-General’s Department register?\n2. Is the lawyer a **Queensland Law Society Accredited Family Law Specialist**?\n3. Will the firm represent you if mediation fails and parenting proceedings become necessary?\n4. What are the initial consultation fee, hourly rates, likely total costs, and options for a staged or fixed-fee engagement?\n5. Can they deal with urgent issues involving family violence, recovery of a child, relocation, or an existing parenting order?\n\nIn Australia, “custody” is generally discussed as **parenting arrangements**, including where a child lives, time with each parent, and parental decision-making. If there is family violence, immediate safety risk, or a risk that a child will be removed, obtain urgent legal advice rather than relying on ordinary mediation.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Ipswich Qld",
+                  "url": "https://www.australianfamilylawyers.com.au/cm-family-lawyers-ipswich-qld",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Lawyers Ipswich QLD",
+                  "url": "https://walkerpender.com.au/family-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "About Us",
+                  "url": "https://familylawipswich.com.au/about-us/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Local Family Lawyers for Brisbane, Toowoomba, Ipswich & North Lakes",
+                  "url": "https://www.bwbfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Lawyers Ipswich",
+                  "url": "https://bwbfamilylaw.com.au/lps/ipswich-family-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "10+ Parenting Matters in Ipswich, QLD (2026)",
+                  "url": "https://comparedivorcelawyers.com.au/parenting-lawyer-ipswich/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Lawyers Servicing Ipswich",
+                  "url": "https://daykinfamilylaw.com.au/family-law-ipswich/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "How We Help",
+                  "url": "https://www.fmlaw.com.au/practice-areas/family-law/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Law Lawyers Ipswich QLD",
+                  "url": "https://www.gotocourt.com.au/qld/ipswich-lawyers/family",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Law Solicitors in Ipswich - Ashtons Legal",
+                  "url": "https://www.ashtonslegal.co.uk/contact-us/solicitors-in-ipswich/family-law-solicitors-in-ipswich/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

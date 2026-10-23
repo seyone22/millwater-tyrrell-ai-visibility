@@ -1,0 +1,292 @@
+{
+  "slug": "brisbane_west",
+  "pk": "contesting_wills",
+  "plat": "claude",
+  "text": "Which wills and estates law firms in Brisbane Western Suburbs (Indooroopilly & Centenary) specialise in contesting a will, Family Provision Applications (FPA), and estate litigation?",
+  "loc": 9192539,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_west__contesting_wills__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:28:14.086Z",
+  "cost": 0.114706,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 25247,
+      "output_tokens": 1891,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.114106,
+      "datetime": "2026-10-23 05:28:10 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a summary of law firms in and around the **Brisbane Western Suburbs (Indooroopilly & Centenary)** area that specialise in **contesting a will, Family Provision Applications (FPA), and estate litigation**. Some are locally based in the western suburbs, while others are Brisbane-wide firms with strong expertise in these specific areas of law:\n\n---\n\n## 🏛️ Wills & Estates Law Firms – Brisbane Western Suburbs & Greater Brisbane\n\n---\n\n### 1. **Clear Legal** *(Indooroopilly – Local)*\n- **Location:** Indooroopilly, QLD\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Clear Legal, located in Indooroopilly, offers personalised services without unnecessary legal jargon, with a boutique firm focus on understanding clients' unique goals to deliver practical outcomes while minimising time and costs.",
+              "annotations": [
+                {
+                  "title": "Wills and Estates Lawyers in Indooroopilly, QLD",
+                  "url": "https://lawconnect.com/en-au/find/wills-and-estates/qld/indooroopilly-4068",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- They handle Wills and Probate matters and are a locally based option for western suburbs residents.\n- **Best for:** Wills, probate, and estate matters with a local, personal touch.\n\n---\n\n### 2. **Atherton Lawyers** *(Toowong – Near Indooroopilly)*\n- **Location:** Toowong, QLD (approx. 2.1 km from Indooroopilly)\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Atherton Lawyers, founded in 1979 by Chris Atherton, is a Brisbane-based law firm serving all of Australia. Initially specialising in Family Law, Property Law, and Wills, it now focuses on comprehensive Will and Estate services, offering personalised solutions.",
+              "annotations": [
+                {
+                  "title": "Wills and Estates Lawyers in Indooroopilly, QLD",
+                  "url": "https://lawconnect.com/en-au/find/wills-and-estates/qld/indooroopilly-4068",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- **Best for:** Wills and estate services with decades of experience, conveniently close to the western suburbs.\n\n---\n\n### 3. **Will and Estate Lawyers Australia** *(Brisbane-Wide, serving Western Suburbs)*\n- **Location:** Brisbane, Sunshine Coast & Gold Coast\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Will and Estate Lawyers Australia handles will disputes, family provision claims, executor conflicts, and estate administration litigation across Queensland, including family provision applications, challenges to will validity, executor removal proceedings, breach of fiduciary duty claims, and estate administration conflicts.",
+              "annotations": [
+                {
+                  "title": "Will Dispute Lawyers Brisbane",
+                  "url": "https://willandestatelawyers.com.au/will-dispute-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They offer no-win-no-fee representation for eligible Family Provision Claims, and note that you must act within 9 months of the date of death.",
+              "annotations": [
+                {
+                  "title": "Will and Estate Lawyers Australia",
+                  "url": "https://willandestatelawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- **Contact:** (07) 3073 2405\n- **Best for:** FPAs, estate litigation, no-win-no-fee options, and affordable fixed-fee services.\n\n---\n\n### 4. **Armstrong Legal** *(Brisbane CBD, serving Western Suburbs)*\n- **Location:** Level 5/95 North Quay, Brisbane QLD 4000\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Armstrong Legal offers deep expertise in will disputes with a focused Wills and Estates team — professionals who work exclusively in this area of law to navigate the nuances of family provision claims, challenges to wills and estate disputes.",
+              "annotations": [
+                {
+                  "title": "Brisbane Contested Wills Lawyers",
+                  "url": "https://www.armstronglegal.com.au/qld/brisbane-lawyers/contested-wills/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They can also help with a range of other estate disputes, such as will construction, rectification, executor removal, statutory wills, estate administration disputes and most other disputes involving deceased estates.",
+              "annotations": [
+                {
+                  "title": "Contesting Will Lawyers Brisbane",
+                  "url": "https://www.armstronglegal.com.au/pages/cmcw-contesting-will-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "For certain family provision claims, they may provide a \"No Win No Fee\" agreement assessed on a case-by-case basis, and offer obligation-free initial consultations.",
+              "annotations": [
+                {
+                  "title": "Contesting Will Lawyers Brisbane",
+                  "url": "https://www.armstronglegal.com.au/pages/cmcw-contesting-will-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- **Contact:** (07) 3229 4448\n- **Best for:** Comprehensive estate litigation, FPAs, and contested wills with specialist dedicated teams.\n\n---\n\n### 5. **Aitken Whyte Lawyers** *(Brisbane CBD, serving Western Suburbs)*\n- **Location:** 2/414 Upper Roma Street, Brisbane QLD 4000\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Aitken Whyte Lawyers are experienced Brisbane solicitors for contesting a Will, challenging a Will, and Family Provision Claims.",
+              "annotations": [
+                {
+                  "title": "Will Dispute Lawyers Brisbane",
+                  "url": "https://www.awbrisbanelawyers.com.au/will-dispute-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "A Family Provision Application can be brought before the District or Supreme Court if you feel that adequate provision has not been made for your proper maintenance and support from the deceased's estate, under a Will or upon intestacy.",
+              "annotations": [
+                {
+                  "title": "Will Dispute Lawyers Brisbane",
+                  "url": "https://www.awbrisbanelawyers.com.au/will-dispute-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "If a Family Provision Claim is not resolved through mediation, a Court will determine the outcome following a hearing, and the firm regularly assists clients in resolving conflicts arising from litigation disputes and other estate disputes.",
+              "annotations": [
+                {
+                  "title": "Will Dispute Lawyers Brisbane",
+                  "url": "https://www.awbrisbanelawyers.com.au/will-dispute-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- **Contact:** (07) 3229 4459\n- **Best for:** Will disputes, FPAs, estate litigation, and court representation.\n\n---\n\n### 6. **O'Connor, Ruddy & Garrett (ORG Law)** *(Brisbane-Wide)*\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "O'Connor, Ruddy & Garrett is a QLD Wills and Estate law firm focused on providing clients with security, peace of mind, and protection.",
+              "annotations": [
+                {
+                  "title": "Wills and Estate Lawyers Brisbane",
+                  "url": "https://orglaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "If you feel you've been unfairly left out of a will, missed out on what you thought you were entitled to, or have not received what you were promised, their Estate Litigation lawyers are available to help you claim what you deserve.",
+              "annotations": [
+                {
+                  "title": "Wills and Estate Lawyers Brisbane",
+                  "url": "https://orglaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- **Best for:** Contesting wills and estate litigation with a client-focused approach.\n\n---\n\n## 📌 Key Things to Know (Queensland Law)\n\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Queensland's *Succession Act 1981* states that only a spouse, de facto partner, child, or other dependant of the deceased person can contest a Will.",
+              "annotations": [
+                {
+                  "title": "Brisbane Contested Wills Lawyers",
+                  "url": "https://www.armstronglegal.com.au/qld/brisbane-lawyers/contested-wills/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Family provision claims represent the most common form of will dispute in Queensland. Under Section 41 of the *Succession Act 1981*, eligible persons can apply to the Supreme Court for adequate provision from a deceased estate when the will (or intestacy rules) fails to provide for their proper maintenance and support.",
+              "annotations": [
+                {
+                  "title": "Will Dispute Lawyers Brisbane",
+                  "url": "https://willandestatelawyers.com.au/will-dispute-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- **Time limits apply** — you generally must act within **9 months** of the date of death in Queensland.\n\n---\n\n> 💡 **Tip:** For the most convenient local service, **Clear Legal** (Indooroopilly) and **Atherton Lawyers** (Toowong) are closest to the western suburbs. For highly specialised estate litigation and FPA expertise, **Armstrong Legal**, **Aitken Whyte Lawyers**, and **Will and Estate Lawyers Australia** are well-regarded Brisbane-wide options. Always seek an initial consultation (many are free or obligation-free) to assess your specific circumstances.",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "wills estates law firms Indooroopilly Brisbane contesting will family provision application",
+        "estate litigation lawyers Centenary suburbs Brisbane western suburbs will dispute",
+        "wills estates lawyers Indooroopilly Centenary Brisbane contesting will FPA estate litigation",
+        "law firms Indooroopilly Centenary Kenmore Jindalee estate litigation family provision"
+      ]
+    }
+  ]
+}

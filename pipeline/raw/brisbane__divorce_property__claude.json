@@ -1,0 +1,344 @@
+{
+  "slug": "brisbane",
+  "pk": "divorce_property",
+  "plat": "claude",
+  "text": "I am going through a separation and complex property settlement in Brisbane. Which family law firms have the strongest track record for property division and binding financial agreements?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane__divorce_property__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:25:57.397Z",
+  "cost": 0.061678,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 9706,
+      "output_tokens": 1464,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.061078,
+      "datetime": "2026-10-23 05:25:53 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "I'm sorry to hear you're going through a separation — it's a very stressful time. Here is an overview of some of Brisbane's most well-regarded family law firms with strong track records in property settlements and binding financial agreements (BFAs):\n\n---\n\n## 🏛️ Top Brisbane Family Law Firms for Property Settlement & BFAs\n\n---\n\n### 1. **Cooper Grace Ward**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Cooper Grace Ward is one of Brisbane's leading law firms with a dedicated team of family lawyers, providing expert advice on all areas of family law, including tax, superannuation, corporate and property considerations.",
+              "annotations": [
+                {
+                  "title": "Family Law Brisbane - Divorce Lawyers",
+                  "url": "https://cgw.com.au/expertise/family-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their services include property settlements and spousal maintenance for de facto and married couples, as well as binding financial agreements for de facto and married couples (including prenuptial agreements).",
+              "annotations": [
+                {
+                  "title": "Family Law Brisbane - Divorce Lawyers",
+                  "url": "https://cgw.com.au/expertise/family-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are particularly well-regarded for complex, high-value matters.\n\n---\n\n### 2. **Phillips Family Law**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Phillips Family Law specialises in separation and divorce, financial settlements, parenting and children arrangements, prenuptial and financial agreements, de facto and same sex relationships, and other family law matters, including international family law matters.",
+              "annotations": [
+                {
+                  "title": "Award Winning Family Lawyers Brisbane",
+                  "url": "https://www.phillipsfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Notably, ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "their principal Tony Phillips was named Best Family Lawyer by Best Lawyers 2024.",
+              "annotations": [
+                {
+                  "title": "Award Winning Family Lawyers Brisbane",
+                  "url": "https://www.phillipsfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their highly experienced team has helped thousands of people with pre-separation and post-separation advice, prenuptial agreement advice, complex property settlements, and parenting arrangements.",
+              "annotations": [
+                {
+                  "title": "Award Winning Family Lawyers Brisbane",
+                  "url": "https://www.phillipsfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. **Cudmore Legal Family Lawyers**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Known in Brisbane for their superior guidance and advice in elite financial settlements and complex parenting matters, Cudmore Legal has a motto to give honest, frank, and commercially wise family law advice that sets them apart.",
+              "annotations": [
+                {
+                  "title": "Top 10 Family Lawyers Brisbane",
+                  "url": "https://www.top10lawyers.com.au/family-lawyer-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "At Cudmore Legal, each lawyer, each matter, and each client are brought together to create tailored and creative family law solutions, covering property, divorce, binding financial agreements, consent orders, mediation, and beyond.",
+              "annotations": [
+                {
+                  "title": "Top 10 Family Lawyers Brisbane",
+                  "url": "https://www.top10lawyers.com.au/family-lawyer-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 4. **Emerson Family Law**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Emerson Family Law is a boutique firm of expert family lawyers in Brisbane, excelling in divorce, child custody, and property settlements.",
+              "annotations": [
+                {
+                  "title": "Best Family Lawyers in Brisbane",
+                  "url": "https://emfl.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They specialise in divorce, separation, complex property settlements, domestic & family violence, international family law, and binding financial agreements for both married and de facto couples — whether pre-cohabitation, during cohabitation, or after separation.",
+              "annotations": [
+                {
+                  "title": "Best Family Lawyers in Brisbane",
+                  "url": "https://emfl.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They also resolve over 95% of cases out of court, protecting your assets and your children's well-being.",
+              "annotations": [
+                {
+                  "title": "Best Family Lawyers in Brisbane",
+                  "url": "https://emfl.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 5. **Australian Family Lawyers**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Australian Family Lawyers is a specialist family law firm with offices across Queensland, New South Wales, Victoria, Western Australia, the ACT and the Northern Territory.",
+              "annotations": [
+                {
+                  "title": "Leading Family & Divorce Lawyers Brisbane",
+                  "url": "https://www.australianfamilylawyers.com.au/locations/brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They report that more than 95% of matters are settled before a final hearing, achieved through strategic negotiation, helping clients resolve parenting and property issues without a drawn-out process — meaning fewer costs, delays, and stress.",
+              "annotations": [
+                {
+                  "title": "Leading Family & Divorce Lawyers Brisbane",
+                  "url": "https://www.australianfamilylawyers.com.au/locations/brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 6. **PCL Lawyers**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "A binding financial agreement (BFA) clearly sets out the details of a property settlement and how the assets of a relationship are to be divided, covering the division of property, superannuation and, if required, spousal maintenance",
+              "annotations": [
+                {
+                  "title": "Family Property Settlement Lawyers in Brisbane",
+                  "url": "https://www.pcllawyers.com.au/brisbane/family-lawyers/property-settlement-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " — and PCL Lawyers' property settlement team is experienced in drafting and advising on these. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They ensure that any agreement is properly recorded so that it is enforceable and protects your rights.",
+              "annotations": [
+                {
+                  "title": "Family Property Settlement Lawyers in Brisbane",
+                  "url": "https://www.pcllawyers.com.au/brisbane/family-lawyers/property-settlement-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 7. **Franklin Family Law**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Franklin Family Law is based in Coorparoo and Bulimba, providing specialist advice on separation, divorce, parenting arrangements and property settlements.",
+              "annotations": [
+                {
+                  "title": "Franklin Family Law — Family Lawyers & Solicitors, Brisbane",
+                  "url": "https://franklinfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They also draft binding financial agreements with precision to protect your future.",
+              "annotations": [
+                {
+                  "title": "Franklin Family Law — Family Lawyers & Solicitors, Brisbane",
+                  "url": "https://franklinfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 8. **Michael Lynch Family Lawyers**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Michael Lynch Family Lawyers, based in the Brisbane CBD, help clients every step of the way through the family law process, from the application and interim hearing through to the consent order and eventual binding financial agreement.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Brisbane",
+                  "url": "https://www.michaellynchfamilylawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They offer a comprehensive range of services including property settlement and superannuation splitting.\n\n---\n\n## 💡 Key Tips When Choosing a Firm\n\n- **Complexity matters**: If your matter involves business interests, trusts, significant superannuation, or high-value assets, prioritise firms with demonstrated experience in complex property settlements (e.g., Cooper Grace Ward, Cudmore Legal, Emerson Family Law).\n- **BFA expertise**: Ensure your chosen firm has specific experience drafting and advising on Binding Financial Agreements, as these must meet strict legal requirements to be enforceable.\n- **Out-of-court resolution**: Firms that favour negotiation and mediation can save you significant time and money.\n- **Initial consultations**: Most of these firms offer initial consultations — use these to assess their approach and whether they're the right fit for your situation.\n\n> ⚠️ *This is general information only and not legal advice. Please consult a qualified family lawyer directly to discuss your specific circumstances.*",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "best family law firms Brisbane property settlement binding financial agreements",
+        "top rated Brisbane family lawyers property division 2024 2025"
+      ]
+    }
+  ]
+}

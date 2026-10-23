@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane_east",
+  "pk": "wills_estate_planning",
+  "plat": "perplexity",
+  "text": "Who are the best wills and estates lawyers in Brisbane East and Bayside (Carindale & Wynnum) for drafting wills, testamentary trusts, and enduring powers of attorney?",
+  "loc": 9194035,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_east__wills_estate_planning__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:31:29.005Z",
+  "cost": 0.006382,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 46,
+      "output_tokens": 736,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005782,
+      "datetime": "2026-10-23 05:31:24 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For **Carindale, Wynnum and Brisbane’s eastern suburbs**, the strongest shortlist is:\n\n- **Thynne + Macartney** — A leading Brisbane succession-planning practice with more than 50 years’ experience. It handles wills, testamentary trusts, enduring powers of attorney, superannuation and complex succession matters. Ashleigh Poole, Cathy Piccolo and Vicky Martin are recognised in current legal directories.[7]\n- **Cornford-Scott Lawyers** — Angela Cornford-Scott is listed as a Queensland market leader for wills, estates and succession planning, while Prue Poole is listed as pre-eminent.[8]\n- **HopgoodGanim** — A suitable choice for high-value, complex or family-business estates. Gregory Cox has more than 25 years’ experience in estate planning, including wills, powers of attorney and estate disputes.[3]\n- **Cooper Grace Ward** — Appropriate where estate planning intersects with tax, trusts, business ownership or significant assets. Its Brisbane trusts-and-estates lawyers include practitioners recognised by Best Lawyers and Doyle’s Guide.[3][8]\n- **Gullickson Lawyers** — A more cost-conscious Brisbane option advertising wills, testamentary trusts, enduring powers of attorney and estate planning for clients in Carindale and Bayside suburbs including Wynnum and Manly.[1]\n- **KSA Law / Khoury Scott & Associates** — Offers tailored wills, testamentary trusts and enduring powers of attorney, with particular attention to blended families, asset structures and vulnerable beneficiaries.[5]\n- **Empire Legal** — Provides fixed-fee wills and powers of attorney and services clients across Brisbane’s Bayside area.[4]\n- **Direct Lawyers** — A practical option if a mobile appointment is useful; it advertises home, office and local-meeting appointments across South-East Queensland and covers wills, testamentary trusts and enduring powers of attorney.[10]\n\n## Best fit by situation\n\n| Situation | Shortlist |\n|---|---|\n| Complex assets, business interests or tax structuring | Thynne + Macartney, HopgoodGanim, Cooper Grace Ward |\n| Highest directory recognition | Cornford-Scott Lawyers, Thynne + Macartney |\n| Straightforward family estate | Gullickson, KSA Law, Empire Legal |\n| Blended family or vulnerable beneficiary | KSA Law, Thynne + Macartney, HopgoodGanim |\n| Home or mobile appointment | Direct Lawyers |\n| Fixed-fee or budget-sensitive work | Gullickson, Empire Legal |\n\nFor most families seeking **all three documents—will with testamentary-trust provisions, enduring power of attorney and related estate advice—Thynne + Macartney or KSA Law would be strong first calls**. For a complex or high-value estate, obtain proposals from two specialist firms and compare the lawyer’s experience, scope of advice, fixed-fee inclusions and whether superannuation, tax, trusts and advance health directives are addressed.\n\nBefore instructing anyone, verify the solicitor’s current practising status with the Queensland Law Society and ask:\n\n- Who will personally draft and review the documents?\n- Is the testamentary trust genuinely needed, and what ongoing administration will it create?\n- Are superannuation death benefits, jointly owned assets and company/trust interests included in the advice?\n- Does the fee include signing, witnessing, safe storage and future updates?\n- Will the firm advise on capacity and undue-influence risks if an elderly or ill person is signing?",
+              "annotations": [
+                {
+                  "title": "Standard Wills Brisbane from $485 | Affordable Estate ...",
+                  "url": "https://www.gullicksonlawyers.com.au/brisbane-wills-estate-lawyers",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estate Planning Lawyers in Queensland",
+                  "url": "https://www.bcglaw.com.au/wills-estates-planning/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Brisbane, Australia Trusts and Estates Lawyers",
+                  "url": "https://www.bestlawyers.com/australia/brisbane/trusts-and-estates",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estates Lawyers Brisbane & QLD",
+                  "url": "https://empirelegal.com.au/services/wills-and-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estate Lawyers Brisbane",
+                  "url": "https://ksalaw.com.au/services/wills-and-estates",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estate Planning Lawyers Queensland",
+                  "url": "https://www.bcglaw.com.au/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Leading Wills and Estates Lawyers",
+                  "url": "https://www.thymac.com.au/expertises/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Leading Wills, Estates & Succession Planning Lawyers – Queensland",
+                  "url": "https://doylesguide.com/rankings/wills-estates-succession-planning-lawyers-queensland/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills and Estates Lawyers | Brisbane & Sydney",
+                  "url": "https://rclaw.com.au/practice/wills-and-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Estate Planning Lawyers Brisbane | Protect Your Legacy Today",
+                  "url": "https://www.directlawyers.com.au/estate-planning",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

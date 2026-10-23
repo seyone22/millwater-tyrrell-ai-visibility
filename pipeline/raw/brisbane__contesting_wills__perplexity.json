@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane",
+  "pk": "contesting_wills",
+  "plat": "perplexity",
+  "text": "Which wills and estates law firms in Brisbane specialise in contesting a will, Family Provision Applications (FPA), and estate litigation?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane__contesting_wills__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:26:07.447Z",
+  "cost": 0.006166,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 35,
+      "output_tokens": 531,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005566,
+      "datetime": "2026-10-23 05:26:03 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Brisbane firms that specifically advertise expertise in **contesting wills, Family Provision Applications (FPAs), and deceased-estate litigation** include:\n\n- **The Estate Lawyers** — Specialist Queensland wills and estates practice handling contested wills, FPAs, executor disputes, probate and estate litigation. Brisbane office at 69 Ann Street.[1]\n- **Thynne + Macartney** — Acts in estate litigation, FPAs, will disputes and dispute resolution; the firm notes Queensland Law Society-accredited succession-law expertise within its team.[5]\n- **McCullough Robertson** — Larger Brisbane practice with dedicated contested-estate lawyers handling FPAs, equitable claims, will validity, trustee and beneficiary disputes, and complex estates.[3]\n- **McCarthy Durie Lawyers** — Estate litigation team handling contested wills, FPAs and challenges to will validity, with a Brisbane CBD office.[4]\n- **Armstrong Legal** — Dedicated contested-wills lawyers assisting with challenging, contesting and defending wills, including assessing and pursuing FPAs.[2]\n- **Ryan Murdoch O’Regan Lawyers** — Handles will-validity challenges, further-provision claims/FPAs, estate litigation, mediations and court proceedings; approved matters may be offered on a “no win, no fee” basis.[7]\n- **Aitken Whyte Lawyers** — Brisbane lawyers handling contested and challenged wills, FPAs, estate disputes, mediation and trial preparation.[9]\n- **Aptum Legal** — Brisbane estate-litigation practice focused on substantial estates, FPAs, will-validity challenges, and executor/trustee disputes.[8]\n- **MacDonald Law** — Handles further-and-better-provision claims, will-validity challenges and other Succession Act litigation, acting for both applicants and estates.[6]\n\nFor an additional indicator of specialist recognition, the 2026 Doyle’s Guide Queensland listing identifies Brisbane practitioners in disputed wills, FPAs and contested-estate matters from firms including **Thynne + Macartney, McCullough Robertson, The Estate Lawyers, Mullins, McInnes Wilson, Cornford-Scott, Nurture Law, Turner Freeman, Resolve Estate Law, HopgoodGanim, Cooper Grace Ward and others**.[10]\n\nWhen comparing firms, ask whether the solicitor regularly appears in the **Supreme Court of Queensland**, acts for both claimants and executors, offers an initial merits assessment, and explains the strict deadlines and likely costs for an FPA or will challenge.",
+              "annotations": [
+                {
+                  "title": "The Estate Lawyers",
+                  "url": "https://theestatelawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Provision Law Firm Brisbane",
+                  "url": "https://www.armstronglegal.com.au/pages/cmcw-family-provision-law-firm-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills, Estates and Trusts – McCullough Robertson Lawyers",
+                  "url": "https://mccullough.com.au/expertise_page/wills-estates-trusts/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estates — McCarthy Durie Lawyers",
+                  "url": "http://www.mdl.com.au/wills-and-estates",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Estate Litigation | Thynne + Macartney Lawyers | Brisbane",
+                  "url": "https://www.thymac.com.au/your-estate-litigation/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills and Estates lawyers Toowoomba and Brisbane",
+                  "url": "https://www.macdonaldlaw.com.au/will-estates",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Estate Dispute & Litigation Lawyers in Brisbane",
+                  "url": "https://rmolaw.com.au/practice-areas/will-estate-dispute-litigation/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Estate Litigation Lawyers Brisbane - Aptum Legal",
+                  "url": "https://aptumlegal.com.au/brisbane/estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Will Dispute Lawyers Brisbane",
+                  "url": "https://www.awbrisbanelawyers.com.au/will-dispute-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "doylesguide.com › rankings › estates-litigation-lawyers-queenslandLeading Wills & Estates Litigation Lawyers – Queensland",
+                  "url": "https://doylesguide.com/rankings/estates-litigation-lawyers-queensland/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

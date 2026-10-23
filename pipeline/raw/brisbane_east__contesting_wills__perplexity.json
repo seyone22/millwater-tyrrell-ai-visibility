@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane_east",
+  "pk": "contesting_wills",
+  "plat": "perplexity",
+  "text": "Which wills and estates law firms in Brisbane East and Bayside (Carindale & Wynnum) specialise in contesting a will, Family Provision Applications (FPA), and estate litigation?",
+  "loc": 9194035,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_east__contesting_wills__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:31:49.410Z",
+  "cost": 0.006319,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 48,
+      "output_tokens": 671,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005719,
+      "datetime": "2026-10-23 05:31:45 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For **Brisbane East and Bayside clients in Carindale, Wynnum and surrounding suburbs**, the strongest specialist options identified are:\n\n- **The Estate Lawyers** — Brisbane-based firm practising solely in Queensland wills and estate law. Handles contested wills, unfair-will claims/FPA, executor disputes, suspicious wills, probate and estate litigation. The firm states it acts for clients across Queensland, so it may be suitable for Carindale and Wynnum residents.[1]\n- **Thynne + Macartney** — Brisbane CBD firm with accredited wills-and-estates specialists. Its estate-litigation practice specifically covers Family Provision Applications, testamentary capacity, undue influence, suspicious circumstances, informal wills, executor breaches and will rectification.[5][7]\n- **Turner Freeman Lawyers** — Brisbane wills-and-estates team handling estate litigation, will disputes, contested or challenged wills, and family provision claims.[3]\n- **Rostron Carlyle Lawyers** — Brisbane firm assisting with will disputes, family provision claims, challenges to will validity, mediation and court proceedings. Its office is in Brisbane City rather than Carindale or Wynnum.[6]\n- **Armstrong Legal** — contested-wills lawyers handling challenges and defences of wills, Family Provision Applications, capacity, undue influence, fraud, executor removal, rectification and estate-administration disputes.[2]\n- **Bennett Carroll Solicitors** — Queensland-wide firm with Brisbane-area service, including contested wills, estate disputes and family provision claims; it offers in-person and remote appointments.[4]\n- **Attwood Marshall Lawyers** — specialist estate-litigation practice handling contested or defended wills, Family Provision Applications and will-validity disputes, with service across Brisbane and South East Queensland.[8]\n- **MacDonald Law** — assists with estate litigation, further-and-better-provision/FPA claims, will-validity challenges, informal wills, executor removal and related Supreme Court proceedings.[10]\n\n### Best local-fit shortlist\n\nFor a matter specifically arising in **Carindale or Wynnum**, the most directly relevant choices appear to be:\n\n1. **The Estate Lawyers** — dedicated Queensland wills-and-estates practice.\n2. **Thynne + Macartney** — Brisbane-based specialist litigation team with Queensland Law Society succession-law accreditation within the team.\n3. **Turner Freeman** — Brisbane-based estate-litigation and family-provision practice.\n4. **Rostron Carlyle** — Brisbane representation for mediation and court proceedings.\n5. **Armstrong Legal or Attwood Marshall** — specialist contested-estate practices that service Brisbane remotely or through broader South East Queensland offices.\n\nA **Family Provision Application** is different from challenging the validity of a will: an eligible person seeks a larger or adequate share, whereas a validity challenge may allege lack of testamentary capacity, undue influence, fraud or improper execution. Ask each firm whether it has recent Queensland Supreme or District Court experience with the specific type of claim, and confirm limitation dates before proceeding. Thynne + Macartney notes that FPA proceedings may be brought in the Supreme or District Court depending on the estate’s value.[5]",
+              "annotations": [
+                {
+                  "title": "The Estate Lawyers",
+                  "url": "https://theestatelawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Provision Law Firms Brisbane",
+                  "url": "https://www.armstronglegal.com.au/pages/cmcw-family-provision-law-firms-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estates Lawyers Brisbane - Probate Law",
+                  "url": "https://www.turnerfreeman.com.au/wills-estates-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estate Planning Lawyers Queensland",
+                  "url": "https://www.bcglaw.com.au/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Estate Litigation | Thynne + Macartney Lawyers | Brisbane",
+                  "url": "https://www.thymac.com.au/your-estate-litigation/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Brisbane Wills and Estates | Rostron Carlyle Lawyers",
+                  "url": "https://rclaw.com.au/practice/brisbane-wills-and-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Leading Wills and Estates Lawyers",
+                  "url": "https://www.thymac.com.au/expertises/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Estate Litigation Lawyers | Attwood Marshall Lawyers",
+                  "url": "https://attwoodmarshall.com.au/estate-litigation-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estates Lawyers in Wynnum, Queensland",
+                  "url": "https://www.gotocourt.com.au/qld/wynnum-lawyers/wills-and-estates",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills and Estates lawyers Toowoomba and Brisbane",
+                  "url": "https://www.macdonaldlaw.com.au/will-estates",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

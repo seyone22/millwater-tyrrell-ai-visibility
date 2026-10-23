@@ -1,0 +1,271 @@
+{
+  "slug": "ipswich",
+  "pk": "contesting_wills",
+  "plat": "claude",
+  "text": "Which wills and estates law firms in Ipswich specialise in contesting a will, Family Provision Applications (FPA), and estate litigation?",
+  "loc": 9060853,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\ipswich__contesting_wills__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:24:19.911Z",
+  "cost": 0.061246,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 9927,
+      "output_tokens": 1391,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.060646,
+      "datetime": "2026-10-23 05:24:15 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is an overview of wills and estates law firms in **Ipswich, Queensland** that specialise in contesting a will, Family Provision Applications (FPA), and estate litigation:\n\n---\n\n### 1. 🏛️ **Turner Freeman Lawyers**\n📍 10 Churchill Street, Ipswich\n📞 13 43 63\n🌐 [turnerfreeman.com.au](https://www.turnerfreeman.com.au/wills-estates-lawyers-ipswich/)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Turner Freeman Lawyers have an experienced team of wills and estate lawyers servicing the Ipswich area. Their services include Family Provision Claims, Will Disputes & Estate Litigation, drafting and updating wills, probate and estate administration, as well as resolving estate disputes.",
+              "annotations": [
+                {
+                  "title": "Wills & Estate Lawyers Ipswich",
+                  "url": "https://www.turnerfreeman.com.au/wills-estates-lawyers-ipswich/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They offer a comprehensive, cost-effective, and sensitive approach to Estate Planning, Estate Administration, and Estate Litigation.",
+              "annotations": [
+                {
+                  "title": "Wills & Estate Lawyers Australia",
+                  "url": "https://www.turnerfreeman.com.au/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 2. 🏛️ **Millwater Tyrrell Law**\n📍 Ipswich, QLD\n🌐 [millwatertyrrell.com.au](https://millwatertyrrell.com.au/wills-and-estates)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Millwater Tyrrell Law can assist with contesting wills, family provision applications, disputes regarding the validity of wills, and other claims regarding deceased estates. In some cases, dispute resolution is a cost-effective possibility for resolving an estate dispute; in other situations, a Court Application will be necessary to protect the interests of you and your family. In either situation, they will investigate and provide advice tailored to your needs.",
+              "annotations": [
+                {
+                  "title": "Wills and Estates Lawyers Ipswich — Millwater Tyrrell Law",
+                  "url": "https://millwatertyrrell.com.au/wills-and-estates",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "If you have an estate litigation dispute or wish to contest a will, you can contact their office to discuss your situation at a free initial consultation.",
+              "annotations": [
+                {
+                  "title": "Wills and Estates Lawyers Ipswich — Millwater Tyrrell Law",
+                  "url": "https://millwatertyrrell.com.au/wills-and-estates",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. 🏛️ **Jacaranda Law**\n📍 77 Roderick Street, Ipswich QLD 4305 *(by appointment only)*\n📞 (07) 3812 2667\n📧 mail@jacarandalaw.com.au\n🌐 [jacarandalaw.com.au](https://jacarandalaw.com.au/will-disputes/)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Disputes over a will or deceased estate can be emotionally challenging, especially when family members are involved. At Jacaranda Law, they offer clear, compassionate, and experienced advice to help you navigate these sensitive matters with confidence — whether you believe you've been unfairly left out of a will, suspect the will isn't legally valid, or you're an executor dealing with a challenge to the estate.",
+              "annotations": [
+                {
+                  "title": "Will Disputes Ipswich",
+                  "url": "https://jacarandalaw.com.au/will-disputes/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They provide advice to executors, beneficiaries, and family members involved in contested estates or family provision claims.",
+              "annotations": [
+                {
+                  "title": "Wills & Estates Lawyer Ipswich",
+                  "url": "https://jacarandalaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 4. 🏛️ **FM Law**\n📍 Ipswich, QLD\n🌐 [fmlaw.com.au](https://www.fmlaw.com.au/practice-areas/wills-estate-law/)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "FM Law offers assistance to individuals or family members who believe that someone has either made a mistake in a will or left them out of a will in an unfair or unjust way.",
+              "annotations": [
+                {
+                  "title": "Wills and Estate Lawyers Ipswich",
+                  "url": "https://www.fmlaw.com.au/practice-areas/wills-estate-law/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They also provide Estate Dispute Resolution and Litigation services, with a skilled team ready to provide support and legal expertise to navigate these challenges with confidence.",
+              "annotations": [
+                {
+                  "title": "Wills and Estate Lawyers Ipswich",
+                  "url": "https://www.fmlaw.com.au/practice-areas/wills-estate-law/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "FM Law has been serving the community with excellence for over 80 years.",
+              "annotations": [
+                {
+                  "title": "Wills and Estate Lawyers Ipswich",
+                  "url": "https://www.fmlaw.com.au/practice-areas/wills-estate-law/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 5. 🏛️ **Brookwater Legal**\n📍 Augustine Heights, QLD (servicing Ipswich & Greater Springfield)\n🌐 [brookwaterlegal.com.au](https://brookwaterlegal.com.au/income-protection-and-succession-planning/)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Brookwater Legal offers tailored advice across a wide range of estate matters, including disputes over a deceased's estate or will, disputes over a will seen as unfair, reviews of suspicious wills, protection over inheritance in cases of wills and estates disputes, and assistance for executors during the administration of the estate.",
+              "annotations": [
+                {
+                  "title": "Wills & Estate Planning Ipswich",
+                  "url": "https://brookwaterlegal.com.au/income-protection-and-succession-planning/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Brookwater Legal is an experienced local law firm practising in estate planning and succession planning, servicing Greater Springfield, Ipswich, and surrounding suburbs.",
+              "annotations": [
+                {
+                  "title": "Wills & Estate Planning Ipswich",
+                  "url": "https://brookwaterlegal.com.au/income-protection-and-succession-planning/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 📌 Key Things to Know\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "When disputes arise, such as a family member making an Eligible Person claim for further provision under the *Succession Act 1981*, a wills and estates lawyer can advise on prospects, negotiate with other parties, and if necessary, prepare for litigation in the Supreme Court.",
+              "annotations": [
+                {
+                  "title": "Wills & Estates Lawyers Ipswich QLD",
+                  "url": "https://www.gotocourt.com.au/qld/ipswich-lawyers/wills-and-estates",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Most wills and estates matters in Ipswich are ultimately processed through the Supreme Court of Queensland, located in Brisbane, which exercises exclusive jurisdiction over probate applications, Letters of Administration, and contested estate litigation under Queensland law.",
+              "annotations": [
+                {
+                  "title": "Wills & Estates Lawyers Ipswich QLD",
+                  "url": "https://www.gotocourt.com.au/qld/ipswich-lawyers/wills-and-estates",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\nIt is recommended to contact these firms directly to discuss your specific circumstances, as many offer free initial consultations.",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "wills estates law firms Ipswich contesting will Family Provision Application estate litigation"
+      ]
+    }
+  ]
+}

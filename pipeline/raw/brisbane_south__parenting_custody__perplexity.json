@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane_south",
+  "pk": "parenting_custody",
+  "plat": "perplexity",
+  "text": "Which family lawyers in Brisbane Southside (Mount Gravatt & Sunnybank) are best for parenting arrangements, child custody disputes, and accredited family dispute resolution (mediation)?",
+  "loc": 9060851,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_south__parenting_custody__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:28:25.262Z",
+  "cost": 0.006231,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 42,
+      "output_tokens": 589,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005631,
+      "datetime": "2026-10-23 05:28:21 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For Brisbane’s southside, the strongest apparent matches are:\n\n- **Stewart Family Law** — particularly strong for parenting disputes and mediation. Judy Stewart is identified as an **Accredited Family Law Specialist**, an **AMDRAS Advanced Mediator**, and a registered **Family Dispute Resolution Practitioner**. The firm handles parenting plans, consent orders, child-inclusive mediation, FDR and court disputes.[1][9]\n- **Australian Family Lawyers Mount Gravatt** — a convenient local option offering parenting and custody advice, negotiation, mediation and dispute resolution. The firm says it uses a settlement-first approach and has a substantial team including Accredited Family Law Specialists.[2][3]\n- **The Law People** — a strong choice for complex parenting litigation or matters needing specialist advice. Principal Jill Johnstone is described as a Queensland Law Society **Accredited Specialist in Family Law**, with services including parenting arrangements, negotiation, mediation and court representation.[7][10]\n- **Michael Lynch Family Lawyers** — suitable for parenting disputes, child support, family mediation and child-welfare issues; its Brisbane team includes accredited family-law specialists such as Debra Effeney and Sarah Flower.[5]\n- **Enlight Lawyers** — offers parenting arrangements, child custody matters, parenting plans, consent orders, mediation, ADR and FDR across Brisbane, although the available information is less specific about individual mediator accreditations.[6]\n\n### Best fit by need\n\n| Need | Shortlist |\n|---|---|\n| Accredited FDR practitioner or mediator | **Stewart Family Law** |\n| Local Mount Gravatt access | **Australian Family Lawyers Mount Gravatt** |\n| Complex or high-conflict court dispute | **The Law People** or **Michael Lynch Family Lawyers** |\n| Negotiated parenting plan or consent orders | **Stewart Family Law**, **Australian Family Lawyers**, or **Enlight Lawyers** |\n| Safety concerns, family violence or urgent court orders | **The Law People**, **Michael Lynch**, or **Stewart Family Law** |\n\nIn Australia, “child custody” is generally addressed through **parenting arrangements**, including where a child lives, time with each parent and parental decision-making. FDR is often expected before applying for parenting orders, but exceptions can apply where there is family violence, abuse, urgency or another recognised risk.[8][10]\n\nBefore booking, confirm three points directly:\n\n- Whether the individual mediator is a registered **FDR Practitioner** and what accreditation they hold.\n- Whether the firm regularly handles parenting litigation, contravention applications and urgent/interim hearings.\n- Whether the initial consultation, mediation preparation and court representation are charged separately.\n\nIf there is an immediate risk to a child, family violence or a risk of removal from Australia, obtain urgent legal advice rather than treating ordinary mediation as the first step.",
+              "annotations": [
+                {
+                  "title": "Child Custody Lawyers Brisbane | Free 15-Minute Consult",
+                  "url": "https://stewartfamilylaw.com.au/child-custody-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Lawyers Mount Gravatt",
+                  "url": "https://www.australianfamilylawyers.com.au/cm-family-lawyers-mount-gravatt",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Lawyer Mount Gravatt",
+                  "url": "https://www.australianfamilylawyers.com.au/cm-family-lawyer-mount-gravatt",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Find Family Lawyers in Mount Gravatt QLD - Finchly",
+                  "url": "https://finchly.com.au/find/family-law/qld/mount-gravatt-4122",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Michael Lynch Family Lawyers: Family Lawyers Brisbane",
+                  "url": "https://www.michaellynchfamilylawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Law Lawyer Brisbane | Family Law Solicitors Queensland — Enlight Lawyers",
+                  "url": "https://www.enlightlawyers.com.au/practice-areas/family-law",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The Law People: Family Lawyers Brisbane | Family Law Firm",
+                  "url": "https://thelawpeople.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Lawyers for Parenting Agreements, Family Mediation and ...",
+                  "url": "https://landers.com.au/legal-service/parenting",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Parenting Matters Brisbane - Free 15-Minute Consult",
+                  "url": "https://stewartfamilylaw.com.au/parenting-matters-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Child Custody Lawyers Brisbane",
+                  "url": "https://thelawpeople.com.au/parenting-arrangements/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "slug": "springfield",
+  "pk": "probate_administration",
+  "plat": "perplexity",
+  "text": "I am an executor handling probate and deceased estate administration in Springfield and Greater Springfield, QLD. Which law firms specialise in Queensland probate and estate administration?",
+  "loc": 9191413,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\springfield__probate_administration__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:24:47.746Z",
+  "cost": 0.006054,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 39,
+      "output_tokens": 415,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005454,
+      "datetime": "2026-10-23 05:24:43 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For an executor in Springfield or Greater Springfield, these firms appear most relevant:\n\n- **Brookwater Legal — Greater Springfield/Ipswich:** Local practice specifically advertising probate applications, letters of administration, deceased-estate administration and executor assistance. It may be the most convenient option for in-person local advice.[2]\n- **Bennett Carroll Solicitors:** Handles Queensland probate and full estate administration, including asset collection, debts, tax, beneficiary communication and distribution. It advertises an Ipswich office and Queensland-wide service.[5]\n- **QLD Estate Lawyers:** Specialist Queensland wills-and-estates practice offering probate applications, letters of administration, executor guidance and end-to-end estate administration.[1][3][8]\n- **The Estate Lawyers:** Practices exclusively in Queensland wills and estate law, including grants of probate, executor assistance and uncontested or contested deceased-estate administration. It operates from Brisbane and the Gold Coast but covers Queensland matters.[9]\n- **National Probate and Estates Group:** Probate-focused firm that prepares applications for the Supreme Court of Queensland and handles estates ranging from straightforward to complex.[4]\n- **Queensland Public Trustee:** A government alternative that can fully administer an estate or assist with particular tasks, including court applications, for a fee.[6]\n\n**Practical shortlist:** Start with **Brookwater Legal** for a local Springfield/Greater Springfield consultation, and obtain a comparison quote from **Bennett Carroll Solicitors** or **QLD Estate Lawyers** for broader Queensland estate-administration support. Consider **The Estate Lawyers** if there is a family provision claim, will challenge or other dispute.\n\nWhen contacting a firm, ask whether the quote covers only the probate application or the complete administration process—asset searches and transfers, debts and tax, sale of property, beneficiary communications, estate accounts and final distribution. Also ask about fixed-fee versus hourly billing and whether the solicitor will act for the executor personally or for the estate.",
+              "annotations": [
+                {
+                  "title": "QLD Probate Lawyers | Estate Administration | QLD Estate Lawyers",
+                  "url": "https://qldestatelawyers.com.au/probate-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills And Estate Planning Ipswich Lawyer - Brookwater Legal",
+                  "url": "https://brookwaterlegal.com.au/income-protection-and-succession-planning/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "QLD Estate Lawyers | Experts in Probate, Executor Help and ...",
+                  "url": "https://qldestatelawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "National Probate and Estates Group - Probate and Letters of Administration Experts",
+                  "url": "https://www.nationalprobate.com.au/qld/probate?ref=footer",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Estate Administration & Probate Lawyers in Queensland",
+                  "url": "https://www.bcglaw.com.au/estate-administration/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Find help to administer a deceased estate",
+                  "url": "https://www.pt.qld.gov.au/wills-powers-of-attorney-estates/deceased-estates/find-help-to-administer-a-deceased-estate",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Executor of Will Duties QLD | Estate Administration",
+                  "url": "https://qldestatelawyers.com.au/executor-of-will-duties/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Estate Administration Lawyers QLD | QLD Estate Lawyers",
+                  "url": "https://qldestatelawyers.com.au/estate-administration-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The Estate Lawyers",
+                  "url": "https://theestatelawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Probate Lawyers | Letters of Administration | RobertsLaw",
+                  "url": "https://robertslaw.com.au/service/probate-letters-of-administration/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane",
+  "pk": "family_lawyers",
+  "plat": "perplexity",
+  "text": "Who are the best family lawyers in Brisbane? Give me a shortlist of reputable family law firms with reasons.",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane__family_lawyers__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:25:20.023Z",
+  "cost": 0.0063,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 29,
+      "output_tokens": 671,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.0057,
+      "datetime": "2026-10-23 05:25:15 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "There is no single “best” family lawyer for every matter, but these Brisbane firms stand out based on specialist credentials, peer-recognition rankings, experience and client focus:\n\n- **Stewart Family Law** — A strong choice for complex parenting, property and separation matters. It has Queensland Law Society Accredited Family Law Specialists, is recognised by Doyle’s Guide, and Judy Stewart was named Best Lawyers’ 2027 Brisbane Family Law “Lawyer of the Year.”[2]\n- **Barry Nilsson** — A leading larger-firm option, particularly where substantial assets, complex disputes or broader commercial expertise are involved. Doyle’s Guide places it in the first tier of Brisbane family and divorce firms, and Best Law Firms also lists it as Brisbane Tier 1.[7][8]\n- **HopgoodGanim** — Suitable for high-value or complicated matters requiring sophisticated dispute-resolution and mediation expertise. It is ranked first tier by Doyle’s Guide and Brisbane Tier 1 by Best Law Firms.[7][8]\n- **Phillips Family Law** — A specialist family-law practice with strong peer recognition. Doyle’s Guide places it in the first tier for Brisbane family and divorce law, while Best Law Firms lists it as Brisbane Tier 1.[7][8]\n- **Michael Lynch Family Lawyers** — Worth considering for clients wanting a dedicated family-law firm with substantial experience: it has operated for more than 25 years, reports more than 100 years of combined professional experience, and says most of its lawyers are accredited specialists.[5]\n- **Daykin Family Law** — A boutique option led by Accredited Family Law Specialist Shannon Daykin. It offers advice on separation, divorce, parenting and property matters and has received repeated Doyle’s Guide recognition.[6]\n- **Damien Greer Lawyers** — A good fit for clients prioritising negotiation, mediation, arbitration or collaborative law. The firm is listed as Brisbane Tier 1 by Best Law Firms, and its lawyers include an accredited family-law specialist and arbitrator.[7][10]\n- **Cudmore Legal** — Particularly relevant to complex financial settlements and parenting disputes. Its public profile highlights specialist work in those areas, and it appears highly in a Brisbane solicitor ranking based on review volume, rating quality and recency.[3][4]\n\n## How to choose\n\nBefore retaining a firm, ask:\n\n- Does the proposed lawyer hold **Queensland Law Society Accredited Specialist** status?\n- How much experience do they have with your specific issue—parenting, property, domestic violence, relocation or financial agreements?\n- Will the matter be handled by a senior solicitor or delegated to another lawyer?\n- What are the hourly rates, likely total range, retainers and costs of barrister or expert involvement?\n- Can the firm offer mediation or negotiated settlement before litigation?\n\nFor a high-value or highly contested matter, start with **Stewart Family Law, Barry Nilsson, HopgoodGanim or Phillips Family Law**. For a more personal specialist-firm experience, compare **Michael Lynch, Daykin, Cudmore or Damien Greer**. Rankings and reviews are useful screening tools, but the best choice depends on the facts, urgency, budget and lawyer’s experience with the particular dispute.",
+              "annotations": [
+                {
+                  "title": "Find the best family lawyers in Brisbane",
+                  "url": "https://www.bark.com/en/au/family-lawyers/queensland/brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Stewart Family Law: Family Lawyers Brisbane",
+                  "url": "https://stewartfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Family Law Solicitors in Brisbane",
+                  "url": "https://bestsolicitors.com/rankings/australia/queensland/brisbane/family-law",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The Best 12 Family Lawyers In Brisbane (Updated 2026) | ⚖️ ...",
+                  "url": "https://familylawyerfinder.com/au/best-family-lawyers-brisbane-qld-4000/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Michael Lynch Family Lawyers: Family Lawyers Brisbane",
+                  "url": "https://www.michaellynchfamilylawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Daykin Family Law: Family & Divorce Lawyers Brisbane",
+                  "url": "https://daykinfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Brisbane, Family Law Firms",
+                  "url": "https://www.bestlawfirms.com/australia/family-law/brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Leading Family & Divorce Law Firms - Brisbane, 2026 - Doyle's Guide",
+                  "url": "https://doylesguide.com/rankings/family-divorce-law-firms-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Leading Family & Divorce Lawyers Brisbane",
+                  "url": "https://www.australianfamilylawyers.com.au/locations/brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Lawyers Near You in Brisbane, Australia for Family Law",
+                  "url": "https://www.bestlawyers.com/australia/brisbane/family-law",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

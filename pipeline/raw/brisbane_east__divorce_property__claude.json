@@ -1,0 +1,309 @@
+{
+  "slug": "brisbane_east",
+  "pk": "divorce_property",
+  "plat": "claude",
+  "text": "I am going through a separation and complex property settlement in Brisbane East and Bayside (Carindale & Wynnum). Which family law firms have the strongest track record for property division and binding financial agreements?",
+  "loc": 9194035,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_east__divorce_property__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:31:38.915Z",
+  "cost": 0.087682,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 16554,
+      "output_tokens": 1828,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.087082,
+      "datetime": "2026-10-23 05:31:34 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a detailed overview of the strongest family law firms serving Brisbane East and Bayside (Carindale & Wynnum) for property division and Binding Financial Agreements (BFAs):\n\n---\n\n## 🏛️ Top Family Law Firms for Property Settlement & BFAs – Brisbane East & Bayside\n\n---\n\n### 1. 🔹 CG Legal Group – Carindale / Greenslopes (Closest to Carindale & Bayside)\n**Best for: Local presence, property settlement, BFAs, and mediation**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Carindale is located in Brisbane's south-east, with convenient access to CG Legal Group's Greenslopes head office.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Carindale QLD - CG Legal Group",
+                  "url": "https://cglegalgroup.com.au/family-law/family-lawyers-carindale-qld/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " This makes them one of the most geographically convenient firms for residents of Carindale and the Bayside area.\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They assist Carindale residents who need advice about parenting arrangements, property settlement, financial agreements, domestic violence, mediation and other issues arising from a relationship breakdown — including Binding Financial Agreements and Consent Orders.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Carindale QLD - CG Legal Group",
+                  "url": "https://cglegalgroup.com.au/family-law/family-lawyers-carindale-qld/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Depending on the circumstances, a property settlement may involve the family home, investment properties, bank accounts and savings, superannuation, shares and investments, business interests, vehicles and other assets, and mortgages, loans and other liabilities.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Carindale QLD - CG Legal Group",
+                  "url": "https://cglegalgroup.com.au/family-law/family-lawyers-carindale-qld/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They provide practical legal advice throughout negotiations, mediation, court proceedings, and the preparation of legally binding agreements. Where agreement is reached, they can assist in preparing Consent Orders or a Binding Financial Agreement to formalise the outcome and provide long-term legal certainty.",
+              "annotations": [
+                {
+                  "title": "Property Settlement Lawyers Brisbane",
+                  "url": "https://cglegalgroup.com.au/family-law/property-settlement-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 2. 🔹 Daykin Family Law – Services Carindale (HQ: Fortitude Valley)\n**Best for: Complex BFAs, de facto separation, full-service family law**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Daykin Family Law offers legal support to the residents of Carindale. Their family lawyers specialise in simplifying difficult family law situations, turning them into coherent, manageable plans — whether you are going through a divorce, seeking guidance on property settlement or parenting arrangements, or need assistance with any other family law matters.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Carindale",
+                  "url": "https://daykinfamilylaw.com.au/carindale/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Whether you're navigating a separation, handling parenting arrangements, property settlements or binding financial agreements, their lawyers have the expertise to manage these issues efficiently. They handle both litigation and non-litigation aspects of family law, leveraging years of experience in both courtroom cases and out-of-court negotiations.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Carindale",
+                  "url": "https://daykinfamilylaw.com.au/carindale/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their Carindale family law services include binding financial agreements, divorce & separation, de facto separation, child custody, child support, property settlement, domestic violence, surrogacy agreements, and adoption.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Carindale",
+                  "url": "https://daykinfamilylaw.com.au/carindale/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. 🔹 Phillips Family Law – Brisbane (Award-Winning, City-Wide)\n**Best for: High-value and complex property matters, prenuptial/BFAs, recognised excellence**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Phillips Family Law has been listed as a 2026 Leading Family Law Firm & Lawyers in Australia, offering services across property settlements, prenuptial & binding financial agreements, separation & divorce, children & parenting, de facto relationships, same sex relationships, and international family law.",
+              "annotations": [
+                {
+                  "title": "Award Winning Family Lawyers Brisbane",
+                  "url": "https://www.phillipsfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\nThis is an excellent choice if your property settlement involves complex assets, business interests, trusts, or high-net-worth considerations.\n\n---\n\n### 4. 🔹 Emerson Family Law – Brisbane\n**Best for: Complex property divisions, BFAs, high-value matters**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Emerson Family Law specialises in divorce, separation, complex property settlements, domestic & family violence, international family law, and binding financial agreements for both married and de facto couples — whether pre-cohabitation, during cohabitation, or after separation — with a focus on achieving the best possible outcomes.",
+              "annotations": [
+                {
+                  "title": "Best Family Lawyers in Brisbane",
+                  "url": "https://emfl.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their key areas of strength include high-value and complex property divisions, contested parenting proceedings, urgent domestic violence applications, binding financial agreements, and enforcement and contravention matters.",
+              "annotations": [
+                {
+                  "title": "Best Family Lawyers in Brisbane",
+                  "url": "https://emfl.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 5. 🔹 Cooper Grace Ward – Brisbane CBD\n**Best for: Sophisticated, multi-layered property matters (tax, super, corporate structures)**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Cooper Grace Ward is one of Brisbane's leading law firms with a dedicated team of family lawyers, providing expert advice on all areas of family law, including tax, superannuation, corporate and property considerations. Their lawyers are experienced in negotiation, mediation, collaborative law and litigation.",
+              "annotations": [
+                {
+                  "title": "Family Law Brisbane - Divorce Lawyers",
+                  "url": "https://cgw.com.au/expertise/family-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their areas of expertise include complex property settlements, trusts and corporate structures, binding financial agreements, and high-net-worth matters.",
+              "annotations": [
+                {
+                  "title": "Family Law Brisbane - Divorce Lawyers",
+                  "url": "https://cgw.com.au/expertise/family-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " This firm is particularly well-suited if your property pool includes business interests, family trusts, or complex superannuation arrangements.\n\n---\n\n### 6. 🔹 Michael Lynch Family Lawyers – Brisbane CBD\n**Best for: Superannuation splitting, complex documentation, end-to-end process**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "A property settlement can be done at any time after separation, however time runs out 12 months after a Divorce Order is made for divorced couples and within 24 months after the relationship ends for a de facto couple.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Brisbane",
+                  "url": "https://www.michaellynchfamilylawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their family lawyers in Brisbane are experienced in documenting complex property matters and can also assist with the splitting of superannuation, which is treated like any other asset in a property settlement agreement.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Brisbane",
+                  "url": "https://www.michaellynchfamilylawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## ⚖️ Key Tips for Your Situation\n\n1. **Act promptly** – As noted above, strict time limits apply (12 months post-divorce for married couples; 24 months post-separation for de facto couples).\n2. **BFA vs. Consent Orders** – ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Where partners have agreed on how their property and assets are to be divided, that agreement is commonly recorded in a binding financial agreement. In addition, you can apply for a consent order made by the Family Court. It is essential that this agreement is properly recorded so that it is enforceable.",
+              "annotations": [
+                {
+                  "title": "Family Property Settlement Lawyers in Brisbane",
+                  "url": "https://www.pcllawyers.com.au/brisbane/family-lawyers/property-settlement-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n3. **For local convenience** – CG Legal Group (Greenslopes) and Daykin Family Law are the most directly accessible for Carindale and Wynnum/Bayside residents.\n4. **For complex/high-value matters** – Phillips Family Law, Emerson Family Law, or Cooper Grace Ward are nationally recognised specialists.\n\n---\n\nWould you like help narrowing down which firm best suits your specific circumstances (e.g., business assets, investment properties, superannuation, de facto vs. married)?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "family law firms Brisbane East Carindale property settlement binding financial agreements",
+        "family law firms Wynnum Bayside Brisbane property division specialists",
+        "family law firm Wynnum Brisbane Bayside property settlement specialists"
+      ]
+    }
+  ]
+}

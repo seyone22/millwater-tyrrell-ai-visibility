@@ -1,0 +1,203 @@
+{
+  "slug": "springfield",
+  "pk": "wills_estate_planning",
+  "plat": "claude",
+  "text": "Who are the best wills and estates lawyers in Springfield and Greater Springfield, QLD for drafting wills, testamentary trusts, and enduring powers of attorney?",
+  "loc": 9191413,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\springfield__wills_estate_planning__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:25:06.344Z",
+  "cost": 0.126178,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 31356,
+      "output_tokens": 1434,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.125578,
+      "datetime": "2026-10-23 05:25:02 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Based on the search results, here is a summary of some of the best-known wills and estates lawyers serving Springfield and Greater Springfield, QLD, particularly for drafting wills, testamentary trusts, and enduring powers of attorney:\n\n---\n\n## 🏛️ Best Wills & Estates Lawyers in Springfield & Greater Springfield, QLD\n\n---\n\n### 1. **Brookwater Legal**\n📍 Greater Springfield & Ipswich area\n📞 Available via their website: [brookwaterlegal.com.au](https://www.brookwaterlegal.com.au)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Brookwater Legal is a community-first practice helping individuals and families across Greater Springfield and Ipswich with wills, powers of attorney, probate, and estate matters — so your wishes are clear, your assets go where you intend, and your loved ones are spared unnecessary stress and expense.",
+              "annotations": [
+                {
+                  "title": "Local Wills And Estates Lawyers",
+                  "url": "https://www.brookwaterlegal.com.au/wills-estates-lawyers",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They offer local, flexible, economical, and accessible legal services for the Greater Springfield and Ipswich area.",
+              "annotations": [
+                {
+                  "title": "Local Wills And Estates Lawyers",
+                  "url": "https://www.brookwaterlegal.com.au/wills-estates-lawyers",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " This makes them a strong first port of call for locals seeking wills, testamentary trusts, and enduring powers of attorney.\n\n---\n\n### 2. **Stanford Legal Pty Ltd**\n📍 Springfield Central, QLD\n📞 0483 980...\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Stanford Legal Pty Ltd is based in Springfield Central, QLD, and has a 4.9-star rating from 100 client recommendations",
+              "annotations": [
+                {
+                  "title": "Find Estate Planning Lawyers in Springfield Central, QLD",
+                  "url": "https://lawconnect.com/en-au/find/estate-planning/qld/springfield-central-4300",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " — making them one of the highest-rated estate planning firms in the immediate Springfield Central area.\n\n---\n\n### 3. **Fallu McMillan Lawyers**\n📍 Springfield, QLD 4300\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Fallu McMillan Lawyers offer services in Family Law, Wills & Estates, Personal Injury Law, and Conveyancing",
+              "annotations": [
+                {
+                  "title": "30 Best Local Lawyers Solicitors in Springfield, QLD 4300",
+                  "url": "https://www.yellowpages.com.au/springfield-qld-4300/lawyers-solicitors",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " and are listed as a local Springfield-based firm, making them convenient for residents in the area.\n\n---\n\n### 4. **Landmark Lawyers**\n📍 Unit 14, 21 Technology Drive, Augustine Heights, QLD 4300\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Landmark Lawyers are located at Augustine Heights, QLD 4300",
+              "annotations": [
+                {
+                  "title": "30 Best Local Lawyers Solicitors in Springfield, QLD 4300",
+                  "url": "https://www.yellowpages.com.au/springfield-qld-4300/lawyers-solicitors",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " — right in the heart of Greater Springfield — and are listed among local Springfield solicitors and lawyers.\n\n---\n\n### 5. **LadyBird Wills & Estates Pty Ltd**\n📍 Queensland (serving Springfield area)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "LadyBird Wills & Estates Pty Ltd is a reputable Queensland law firm specialising in wills, estate planning, estate administration, and property conveyancing.",
+              "annotations": [
+                {
+                  "title": "Find Estate Planning Lawyers in Springfield QLD - Lawconnect",
+                  "url": "https://lawconnect.com/en-au/find/estate-planning/qld/springfield-4300",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They appear on LawConnect as a trusted estate planning firm near Springfield.\n\n---\n\n### 6. **Qld Law Group**\n📍 Queensland (serving Springfield area)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Qld Law Group offers extensive legal services across personal and business law, emphasising a client-centred approach and prioritising collaboration and support. Their expertise includes family law (wills, powers of attorney, estate disputes) and guidance for businesses on incorporation and corporate law.",
+              "annotations": [
+                {
+                  "title": "Find Estate Planning Lawyers in Springfield QLD - Lawconnect",
+                  "url": "https://lawconnect.com/en-au/find/estate-planning/qld/springfield-4300",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 7. **McLaughlin & Associates**\n📍 18 Carol Avenue, Springwood, QLD 4127\n📞 (07) 3808 7777\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "McLaughlin & Associates has been in business for 54 years",
+              "annotations": [
+                {
+                  "title": "28 Best Local Wills Probates Estates in Springfield, QLD 4300",
+                  "url": "https://www.whereis.com/springfield-qld-4300/wills-probates-estates",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " and is consistently listed among the top wills, probates, and estates firms serving the Springfield region, offering significant experience and longevity.\n\n---\n\n## 💡 Tips for Choosing the Right Lawyer\n\n- **Local presence matters**: Firms like **Brookwater Legal**, **Stanford Legal**, **Fallu McMillan**, and **Landmark Lawyers** are physically located in or very close to Greater Springfield, making in-person consultations easy.\n- **Specialisation**: Look for firms that specifically mention **testamentary trusts** and **enduring powers of attorney** (EPAs) in their practice areas, as these require specialist knowledge.\n- **Reviews**: ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Estate planning lawyers near Springfield QLD have an average rating of 4.8 stars from 872 client reviews on LawConnect",
+              "annotations": [
+                {
+                  "title": "Find Estate Planning Lawyers in Springfield QLD - Lawconnect",
+                  "url": "https://lawconnect.com/en-au/find/estate-planning/qld/springfield-4300",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " — a useful platform for comparing and reading reviews.\n- **Free consultations**: Many estate planning firms offer a free or low-cost initial consultation — always ask before booking.\n\nWould you like more detail on any of these firms, or help with what questions to ask when choosing a wills and estates lawyer?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "best wills and estates lawyers Springfield QLD",
+        "wills estates lawyers Greater Springfield Queensland testamentary trusts enduring power of attorney",
+        "Landmark Lawyers Springfield QLD wills estates testamentary trusts",
+        "Fallu McMillan Lawyers Springfield wills estates",
+        "Stanford Legal Springfield Central wills estates testamentary trusts power of attorney"
+      ]
+    }
+  ]
+}

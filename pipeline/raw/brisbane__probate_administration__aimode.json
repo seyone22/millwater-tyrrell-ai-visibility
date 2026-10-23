@@ -1,0 +1,243 @@
+{
+  "slug": "brisbane",
+  "pk": "probate_administration",
+  "plat": "aimode",
+  "text": "I am an executor handling probate and deceased estate administration in Brisbane. Which law firms specialise in Queensland probate and estate administration?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane__probate_administration__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:26:14.419Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "I am an executor handling probate and deceased estate administration in Brisbane. Which law firms specialise in Queensland probate and estate administration?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000339,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=I%20am%20an%20executor%20handling%20probate%20and%20deceased%20estate%20administration%20in%20Brisbane.%20Which%20law%20firms%20specialise%20in%20Queensland%20probate%20and%20estate%20administration%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCbsg9lwEWpFrEcCE3vNaowIF",
+      "datetime": "2026-10-23 05:26:10 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "As an executor in Brisbane, navigating the *Succession Act 1981 (Qld)* and Supreme Court probate requirements is much easier with a specialised `succession law firm` . Several dedicated firms in Brisbane focus specifically on probate, deceased estate administration, and estate disputes:[[1]](https://degroots.com.au/brisbane/)\n\n\n\n---\n\n![](https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DlSFbktsb8eZoFpdeQ_LdQ&cb_client=search.gws-prod.grass&yaw=345.24228&pitch=0&thumbfov=100&w=82&h=82)\nGenerations Law 5.0 (41)  \nProbate attorney  \nOpen Santos Place, Level 27/32 Turbot St  \nCall Directions Website Generations Law - Located at Turbot Street in Brisbane City [1.2.], they specialise heavily in streamlined, fixed-fee probate and letters of administration applications, offering remote or in-person services across Queensland.\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLdyqgsgjhH0ILoCMwOeuxBTZK4NBl1zy3oEm0L0wG5bTDYO_vTkLsrrJJeAr5XZtf-YSvAewIcd1wr3J9jS4xXbK5twqaAQbHjFHO631nLv2_StUl5CDP9ObafLoqF-rlvsmbvk6BiD5KQ=s192-w192-h144-n-k-no)\nde Groots 4.6 (28)  \nLegal services  \nOpen River Quarter, Level 6/46 Edward St  \nCall Directions Website de Groots - A well-established specialist wills and estate law firm in Brisbane focusing entirely on estate planning, complex estate administration, and disputed estates.\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLfRu1AY2n4CIMxGmPrHIfmJfpgY9SGqn3xvpWgD2XAwhMmMfienUkut5mS73k57y91yx4Ji7zaH7JZuyCCERfDHq7hiSESNh2AsnEErk5nZJeA7XJ-boyoxbdAE-VSO7ec493TsnfscHKUX=s108-w108-h144-n-k-no)\nKate Redman & Associates 4.9 (93)  \nLegal services  \nOpen Level 10/95 N Quay  \nCall Directions Website Kate Redman & Associates - A boutique, specialized succession law practice operating across the Brisbane region that handles estate administration, executor support, and mobile consultations.\n\n---\n\n![](https://api.dataforseo.com/cdn/i/10230525-2877-0139-0000-923d9a5c7473:8)\nThe Estate Lawyers 4.9 (88)  \nLaw firm  \nOpen 22/69 Ann St  \nCall Directions Website The Estate Lawyers - A dedicated Brisbane and Gold Coast-based firm focusing exclusively on deceased estate administration, contentious probate, and will disputes.\n\n---\n\n![](https://api.dataforseo.com/cdn/i/10230525-2877-0139-0000-923d9a5c7473:9)\nQueensland Probate 4.9 (157)  \nEstate litigation attorney  \nOpen 345 Ann St  \nCall Directions Website Queensland Probate - A dedicated probate service provider in QLD offering tiered fixed-fee structures for assisted or fully managed Supreme Court grant applications.[[1]](https://qldprobate.com.au/)[[2]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdadE5YZDRjRzF3GAo)[[3]](https://degroots.com.au/brisbane/)[[4]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVcwMmVtZHJkM1kyGAo)[[5]](https://theestatelawyers.com.au/)\n\nIf you'd like to narrow this down, please tell me:\n\n- Is the estate **straightforward (with a clear Will)** or **complex (disputed, intestate, or overseas assets)**?\n- Are you looking for a **fully managed administration service** or just assistance with the **Grant of Probate**?",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "As an executor in Brisbane, navigating the Succession Act 1981 (Qld) and Supreme Court probate requirements is much easier with a specialised succession law firm. Several dedicated firms in Brisbane focus specifically on probate, deceased estate administration, and estate disputes:",
+              "markdown": "As an executor in Brisbane, navigating the *Succession Act 1981 (Qld)* and Supreme Court probate requirements is much easier with a specialised `succession law firm` . Several dedicated firms in Brisbane focus specifically on probate, deceased estate administration, and estate disputes:[[1]](https://degroots.com.au/brisbane/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "de Groots Wills and Estate Lawyers",
+                  "domain": "degroots.com.au",
+                  "url": "https://degroots.com.au/brisbane/",
+                  "title": "Wills & Estate Lawyers Brisbane | de Groots",
+                  "text": "In Queensland, estate matters are governed by the Succession Act 1981 (QLD), Specific legal requirements govern the execution and ..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Generations Law 5.0 (41) Probate attorney Open Santos Place, Level 27/32 Turbot St Call Directions Website Generations Law - Located at Turbot Street in Brisbane City [1.2.], they specialise heavily in streamlined, fixed-fee probate and letters of administration applications, offering remote or in-person services across Queensland.",
+              "markdown": "---\n\n![](https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DlSFbktsb8eZoFpdeQ_LdQ&cb_client=search.gws-prod.grass&yaw=345.24228&pitch=0&thumbfov=100&w=82&h=82)\nGenerations Law 5.0 (41)  \nProbate attorney  \nOpen Santos Place, Level 27/32 Turbot St  \nCall Directions Website Generations Law - Located at Turbot Street in Brisbane City [1.2.], they specialise heavily in streamlined, fixed-fee probate and letters of administration applications, offering remote or in-person services across Queensland.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DlSFbktsb8eZoFpdeQ_LdQ&cb_client=search.gws-prod.grass&yaw=345.24228&pitch=0&thumbfov=100&w=82&h=82"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "de Groots 4.6 (28) Legal services Open River Quarter, Level 6/46 Edward St Call Directions Website de Groots - A well-established specialist wills and estate law firm in Brisbane focusing entirely on estate planning, complex estate administration, and disputed estates.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLdyqgsgjhH0ILoCMwOeuxBTZK4NBl1zy3oEm0L0wG5bTDYO_vTkLsrrJJeAr5XZtf-YSvAewIcd1wr3J9jS4xXbK5twqaAQbHjFHO631nLv2_StUl5CDP9ObafLoqF-rlvsmbvk6BiD5KQ=s192-w192-h144-n-k-no)\nde Groots 4.6 (28)  \nLegal services  \nOpen River Quarter, Level 6/46 Edward St  \nCall Directions Website de Groots - A well-established specialist wills and estate law firm in Brisbane focusing entirely on estate planning, complex estate administration, and disputed estates.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdyqgsgjhH0ILoCMwOeuxBTZK4NBl1zy3oEm0L0wG5bTDYO_vTkLsrrJJeAr5XZtf-YSvAewIcd1wr3J9jS4xXbK5twqaAQbHjFHO631nLv2_StUl5CDP9ObafLoqF-rlvsmbvk6BiD5KQ=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Kate Redman & Associates 4.9 (93) Legal services Open Level 10/95 N Quay Call Directions Website Kate Redman & Associates - A boutique, specialized succession law practice operating across the Brisbane region that handles estate administration, executor support, and mobile consultations.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLfRu1AY2n4CIMxGmPrHIfmJfpgY9SGqn3xvpWgD2XAwhMmMfienUkut5mS73k57y91yx4Ji7zaH7JZuyCCERfDHq7hiSESNh2AsnEErk5nZJeA7XJ-boyoxbdAE-VSO7ec493TsnfscHKUX=s108-w108-h144-n-k-no)\nKate Redman & Associates 4.9 (93)  \nLegal services  \nOpen Level 10/95 N Quay  \nCall Directions Website Kate Redman & Associates - A boutique, specialized succession law practice operating across the Brisbane region that handles estate administration, executor support, and mobile consultations.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfRu1AY2n4CIMxGmPrHIfmJfpgY9SGqn3xvpWgD2XAwhMmMfienUkut5mS73k57y91yx4Ji7zaH7JZuyCCERfDHq7hiSESNh2AsnEErk5nZJeA7XJ-boyoxbdAE-VSO7ec493TsnfscHKUX=s108-w108-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "The Estate Lawyers 4.9 (88) Law firm Open 22/69 Ann St Call Directions Website The Estate Lawyers - A dedicated Brisbane and Gold Coast-based firm focusing exclusively on deceased estate administration, contentious probate, and will disputes.",
+              "markdown": "---\n\n![](https://api.dataforseo.com/cdn/i/10230525-2877-0139-0000-923d9a5c7473:4)\nThe Estate Lawyers 4.9 (88)  \nLaw firm  \nOpen 22/69 Ann St  \nCall Directions Website The Estate Lawyers - A dedicated Brisbane and Gold Coast-based firm focusing exclusively on deceased estate administration, contentious probate, and will disputes.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/10230525-2877-0139-0000-923d9a5c7473:5"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Queensland Probate 4.9 (157) Estate litigation attorney Open 345 Ann St Call Directions Website Queensland Probate - A dedicated probate service provider in QLD offering tiered fixed-fee structures for assisted or fully managed Supreme Court grant applications.",
+              "markdown": "---\n\n![](https://api.dataforseo.com/cdn/i/10230525-2877-0139-0000-923d9a5c7473:6)\nQueensland Probate 4.9 (157)  \nEstate litigation attorney  \nOpen 345 Ann St  \nCall Directions Website Queensland Probate - A dedicated probate service provider in QLD offering tiered fixed-fee structures for assisted or fully managed Supreme Court grant applications.[[1]](https://qldprobate.com.au/)[[2]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdadE5YZDRjRzF3GAo)[[3]](https://degroots.com.au/brisbane/)[[4]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVcwMmVtZHJkM1kyGAo)[[5]](https://theestatelawyers.com.au/)",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/10230525-2877-0139-0000-923d9a5c7473:7"
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Probate Lawyers Brisbane",
+                  "domain": "qldprobate.com.au",
+                  "url": "https://qldprobate.com.au/",
+                  "title": "Queensland Probate",
+                  "text": "We offer a low fixed fee of $769 for assisted probate application and $1,772.40 for managed probate application to ease the pressu..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdadE5YZDRjRzF3GAo",
+                  "title": "Generations Law",
+                  "text": "Santos Place, Level 27/32 Turbot St, Brisbane City QLD 4000 · Generations Law is a Brisbane-based law firm specialising in probate..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "de Groots Wills and Estate Lawyers",
+                  "domain": "degroots.com.au",
+                  "url": "https://degroots.com.au/brisbane/",
+                  "title": "Wills & Estate Lawyers Brisbane | de Groots",
+                  "text": "Our experienced estate planning lawyers in Brisbane provide tailored solutions to craft your will most suitably, ensuring all legal requirements are met."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVcwMmVtZHJkM1kyGAo",
+                  "title": "Kate Redman & Associates",
+                  "text": "Level 10/95 N Quay, Brisbane City QLD 4000 · Professional succession law firm providing convenient in-home estate planning and wil..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "The Estate Lawyers",
+                  "domain": "theestatelawyers.com.au",
+                  "url": "https://theestatelawyers.com.au/",
+                  "title": "The Estate Lawyers",
+                  "text": "We act in all Will and Deceased estate matters with a Queensland connection covering all areas of litigation, administration and e..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you'd like to narrow this down, please tell me:",
+              "markdown": "If you'd like to narrow this down, please tell me:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Is the estate straightforward (with a clear Will) or complex (disputed, intestate, or overseas assets) ? Are you looking for a fully managed administration service or just assistance with the Grant of Probate ?",
+              "markdown": "- Is the estate **straightforward (with a clear Will)** or **complex (disputed, intestate, or overseas assets)**?\n- Are you looking for a **fully managed administration service** or just assistance with the **Grant of Probate**?",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Probate Lawyers Brisbane",
+              "domain": "qldprobate.com.au",
+              "url": "https://qldprobate.com.au/",
+              "title": "Queensland Probate",
+              "text": "We offer a low fixed fee of $769 for assisted probate application and $1,772.40 for managed probate application to ease the pressure."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "The Estate Lawyers",
+              "domain": "theestatelawyers.com.au",
+              "url": "https://theestatelawyers.com.au/",
+              "title": "The Estate Lawyers",
+              "text": "We act in all Will and Deceased estate matters with a Queensland connection covering all areas of litigation, administration and estate planning."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "de Groots Wills and Estate Lawyers",
+              "domain": "degroots.com.au",
+              "url": "https://degroots.com.au/brisbane/",
+              "title": "Wills & Estate Lawyers Brisbane | de Groots",
+              "text": "Our experienced estate planning lawyers in Brisbane provide tailored solutions to craft your will most suitably, ensuring all legal requirements are met."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

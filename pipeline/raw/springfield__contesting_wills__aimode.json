@@ -1,0 +1,272 @@
+{
+  "slug": "springfield",
+  "pk": "contesting_wills",
+  "plat": "aimode",
+  "text": "Which wills and estates law firms in Springfield and Greater Springfield, QLD specialise in contesting a will, Family Provision Applications (FPA), and estate litigation?",
+  "loc": 9191413,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\springfield__contesting_wills__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:25:04.896Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which wills and estates law firms in Springfield and Greater Springfield, QLD specialise in contesting a will, Family Provision Applications (FPA), and estate litigation?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 9191413,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20wills%20and%20estates%20law%20firms%20in%20Springfield%20and%20Greater%20Springfield%2C%20QLD%20specialise%20in%20contesting%20a%20will%2C%20Family%20Provision%20Applications%20%28FPA%29%2C%20and%20estate%20litigation%3F&udm=50&uule=w+CAIQIFISCRFktRYbSpFrEUDb3vNaowIF&hl=en&gl=AU",
+      "datetime": "2026-10-23 05:25:00 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "In Springfield and the Greater Springfield region, `local law firms` handle wills, estate administration, and dispute resolution, including Family Provision Applications (FPAs) and estate litigation.[[1]](https://www.brookwaterlegal.com.au/contesting-a-will-in-queensland-the-guide)[[2]](https://www.brookwaterlegal.com.au/wills-estates-lawyers)\n\n\n\n---\n\n![](https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QurfQ83WEnqjU5YZaWmO8A&cb_client=search.gws-prod.grass&yaw=94.6419&pitch=-11.619396&thumbfov=100&w=82&h=82)\nBrookwater Legal 4.8 (326)  \nLegal services  \nOpen Augustine Heights QLD  \nCall Directions Website\n\n- **Location & Contact:** Suite 9F, 118 Augusta Parkway, Augustine Heights QLD 4300 (serves Greater Springfield, Brookwater, and surrounding areas). You can view their service scope directly on the [Brookwater Legal Wills and Estates](https://www.brookwaterlegal.com.au/wills-estates-lawyers) page.\n- **Specialisation:** They explicitly handle estate disputes, inheritance protection, contested wills, and managing complex or contested estate administration matters under Queensland's *Succession Act*.\n\n\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLdpgAxphuWRyLxMV8hpJ8vMB03DOFUvLEcxzVXDqsUm9zSUVUnuB_rjg0KunMgbmhHGOgHXaZGn5ZmlpFx_5OqGChnzVCjsbX_4fr3xqv_g3zJDSAo_lPEo6qneGwtOu1mGmUQ=s192-w192-h144-n-k-no)\nLake Law (Springfield Legal Services)4.7 (43)  \nLegal services  \nClosed Forest Lake QLD  \nCall Directions Website\n\n- **Location & Contact:** Close neighbor serving the Springfield and Greater Springfield residential corridor (nearby office located at 40 Glorious Way, Forest Lake QLD 4078). Details can be found via [Lake Law Springfield Legal Services](https://www.lakelaw.com.au/springfield-legal-service/).\n- **Specialisation:** Offers designated assistance for contesting wills, defending deceased estates, deceased estate claims, and general estate litigation alongside standard probate and drafting services.\n\n\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLfrBNkiYIFfclh2EK8TIp_jNQvxzM24gz4Ha5EiaR_beyE1vf89qPW256ZFDLeJuZsiBmAl389xO2kb0Q9ueXzge27YC_O_qNIbZqmI8JJTWBQ2Wfxa6NewxMsRBfdmGSGOJZCz=s108-w108-h144-n-k-no)\nStanford Legal 4.9 (103)  \nLaw firm  \nOpen Springfield Central QLD  \nCall Directions Website\n\n- **Location & Contact:** Springfield Central QLD. Profile and consultation scheduling are available via [Stanford Legal on LawConnect](https://lawconnect.com/en-au/find/estate-planning/qld/springfield-central-4300).\n- **Specialisation:** While covering a broad commercial and family practice, they feature dedicated wills and estate planning provisions with initial complimentary consultations.[[1]](https://www.brookwaterlegal.com.au/how-long-does-an-estate-take-to-finalise-queensland)[[2]](https://www.brookwaterlegal.com.au/)[[3]](https://www.brookwaterlegal.com.au/wills-estates-lawyers)[[4]](https://www.lakelaw.com.au/springfield-legal-service/)[[5]](https://lawconnect.com/en-au/find/estate-planning/qld/springfield-central-4300)\n\n*Note: For complex or contested Family Provision Applications (FPAs), proceedings ultimately run through the Supreme Court of Queensland, and strict limitation periods apply (such as giving written notice within 6 months of the date of passing).* [[1]](https://www.brookwaterlegal.com.au/contesting-a-will-in-queensland-the-guide)\n\nIf you would like, I can provide:\n\n- The **strict timeframes and eligibility criteria** for filing a Family Provision Application in Queensland\n- What **documentation** you should gather before an initial consultation\n\nLet me know how you would like to **proceed**.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "In Springfield and the Greater Springfield region, local law firms handle wills, estate administration, and dispute resolution, including Family Provision Applications (FPAs) and estate litigation.",
+              "markdown": "In Springfield and the Greater Springfield region, `local law firms` handle wills, estate administration, and dispute resolution, including Family Provision Applications (FPAs) and estate litigation.[[1]](https://www.brookwaterlegal.com.au/contesting-a-will-in-queensland-the-guide)[[2]](https://www.brookwaterlegal.com.au/wills-estates-lawyers)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Brookwater Legal",
+                  "domain": "www.brookwaterlegal.com.au",
+                  "url": "https://www.brookwaterlegal.com.au/contesting-a-will-in-queensland-the-guide",
+                  "title": "Contesting a Will in Queensland, the Guide - Brookwater Legal",
+                  "text": "Lawyers in Springfield and Ipswich help clients across Greater Springfield and Ipswich understand where they stand when a will see..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Brookwater Legal",
+                  "domain": "www.brookwaterlegal.com.au",
+                  "url": "https://www.brookwaterlegal.com.au/wills-estates-lawyers",
+                  "title": "Local Wills And Estates Lawyers | Brookwater Legal",
+                  "text": "Brookwater Legal serves Greater Springfield and Ipswich as a community-first practice offering wills and estate services."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Brookwater Legal 4.8 (326) Legal services Open Augustine Heights QLD Call Directions WebsiteLocation & Contact: Suite 9F, 118 Augusta Parkway, Augustine Heights QLD 4300 (serves Greater Springfield, Brookwater, and surrounding areas). You can view their service scope directly on the Brookwater Legal Wills and Estates page.\nSpecialisation: They explicitly handle estate disputes, inheritance protection, contested wills, and managing complex or contested estate administration matters under Queensland's Succession Act.",
+              "markdown": "---\n\n![](https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QurfQ83WEnqjU5YZaWmO8A&cb_client=search.gws-prod.grass&yaw=94.6419&pitch=-11.619396&thumbfov=100&w=82&h=82)\nBrookwater Legal 4.8 (326)  \nLegal services  \nOpen Augustine Heights QLD  \nCall Directions Website\n\n- **Location & Contact:** Suite 9F, 118 Augusta Parkway, Augustine Heights QLD 4300 (serves Greater Springfield, Brookwater, and surrounding areas). You can view their service scope directly on the [Brookwater Legal Wills and Estates](https://www.brookwaterlegal.com.au/wills-estates-lawyers) page.\n- **Specialisation:** They explicitly handle estate disputes, inheritance protection, contested wills, and managing complex or contested estate administration matters under Queensland's *Succession Act*.",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Brookwater Legal Wills and Estates",
+                  "description": null,
+                  "url": "https://www.brookwaterlegal.com.au/wills-estates-lawyers",
+                  "domain": "www.brookwaterlegal.com.au"
+                }
+              ],
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QurfQ83WEnqjU5YZaWmO8A&cb_client=search.gws-prod.grass&yaw=94.6419&pitch=-11.619396&thumbfov=100&w=82&h=82"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Lake Law (Springfield Legal Services) 4.7 (43) Legal services Closed Forest Lake QLD Call Directions WebsiteLocation & Contact: Close neighbor serving the Springfield and Greater Springfield residential corridor (nearby office located at 40 Glorious Way, Forest Lake QLD 4078). Details can be found via Lake Law Springfield Legal Services.\nSpecialisation: Offers designated assistance for contesting wills, defending deceased estates, deceased estate claims, and general estate litigation alongside standard probate and drafting services.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLdpgAxphuWRyLxMV8hpJ8vMB03DOFUvLEcxzVXDqsUm9zSUVUnuB_rjg0KunMgbmhHGOgHXaZGn5ZmlpFx_5OqGChnzVCjsbX_4fr3xqv_g3zJDSAo_lPEo6qneGwtOu1mGmUQ=s192-w192-h144-n-k-no)\nLake Law (Springfield Legal Services)4.7 (43)  \nLegal services  \nClosed Forest Lake QLD  \nCall Directions Website\n\n- **Location & Contact:** Close neighbor serving the Springfield and Greater Springfield residential corridor (nearby office located at 40 Glorious Way, Forest Lake QLD 4078). Details can be found via [Lake Law Springfield Legal Services](https://www.lakelaw.com.au/springfield-legal-service/).\n- **Specialisation:** Offers designated assistance for contesting wills, defending deceased estates, deceased estate claims, and general estate litigation alongside standard probate and drafting services.",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Lake Law Springfield Legal Services",
+                  "description": null,
+                  "url": "https://www.lakelaw.com.au/springfield-legal-service/",
+                  "domain": "www.lakelaw.com.au"
+                }
+              ],
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdpgAxphuWRyLxMV8hpJ8vMB03DOFUvLEcxzVXDqsUm9zSUVUnuB_rjg0KunMgbmhHGOgHXaZGn5ZmlpFx_5OqGChnzVCjsbX_4fr3xqv_g3zJDSAo_lPEo6qneGwtOu1mGmUQ=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Stanford Legal 4.9 (103) Law firm Open Springfield Central QLD Call Directions WebsiteLocation & Contact: Springfield Central QLD. Profile and consultation scheduling are available via Stanford Legal on LawConnect.\nSpecialisation: While covering a broad commercial and family practice, they feature dedicated wills and estate planning provisions with initial complimentary consultations.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLfrBNkiYIFfclh2EK8TIp_jNQvxzM24gz4Ha5EiaR_beyE1vf89qPW256ZFDLeJuZsiBmAl389xO2kb0Q9ueXzge27YC_O_qNIbZqmI8JJTWBQ2Wfxa6NewxMsRBfdmGSGOJZCz=s108-w108-h144-n-k-no)\nStanford Legal 4.9 (103)  \nLaw firm  \nOpen Springfield Central QLD  \nCall Directions Website\n\n- **Location & Contact:** Springfield Central QLD. Profile and consultation scheduling are available via [Stanford Legal on LawConnect](https://lawconnect.com/en-au/find/estate-planning/qld/springfield-central-4300).\n- **Specialisation:** While covering a broad commercial and family practice, they feature dedicated wills and estate planning provisions with initial complimentary consultations.[[1]](https://www.brookwaterlegal.com.au/how-long-does-an-estate-take-to-finalise-queensland)[[2]](https://www.brookwaterlegal.com.au/)[[3]](https://www.brookwaterlegal.com.au/wills-estates-lawyers)[[4]](https://www.lakelaw.com.au/springfield-legal-service/)[[5]](https://lawconnect.com/en-au/find/estate-planning/qld/springfield-central-4300)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Stanford Legal on LawConnect",
+                  "description": null,
+                  "url": "https://lawconnect.com/en-au/find/estate-planning/qld/springfield-central-4300",
+                  "domain": "lawconnect.com"
+                }
+              ],
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfrBNkiYIFfclh2EK8TIp_jNQvxzM24gz4Ha5EiaR_beyE1vf89qPW256ZFDLeJuZsiBmAl389xO2kb0Q9ueXzge27YC_O_qNIbZqmI8JJTWBQ2Wfxa6NewxMsRBfdmGSGOJZCz=s108-w108-h144-n-k-no"
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Brookwater Legal",
+                  "domain": "www.brookwaterlegal.com.au",
+                  "url": "https://www.brookwaterlegal.com.au/how-long-does-an-estate-take-to-finalise-queensland",
+                  "title": "How Long Does an Estate Take to Finalise in QLD? (2026)",
+                  "text": "Most estates take around 12 months to finalise, routinely take longer. six month notice window … managing a contested matter"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Brookwater Legal",
+                  "domain": "www.brookwaterlegal.com.au",
+                  "url": "https://www.brookwaterlegal.com.au/",
+                  "title": "Welcome To Brookwater Legal | Springfield & Ipswich Lawyers",
+                  "text": "Location: Suite 9F, 118 Augusta Parkway, Augustine Heights QLD 4300 (near Orion Shopping Centre). Practice Areas: Property and Bus..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Brookwater Legal",
+                  "domain": "www.brookwaterlegal.com.au",
+                  "url": "https://www.brookwaterlegal.com.au/wills-estates-lawyers",
+                  "title": "Local Wills And Estates Lawyers | Brookwater Legal",
+                  "text": "Brookwater Legal serves Greater Springfield and Ipswich as a community-first practice offering wills and estate services."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Lake Law",
+                  "domain": "www.lakelaw.com.au",
+                  "url": "https://www.lakelaw.com.au/springfield-legal-service/",
+                  "title": "Springfield legal service",
+                  "text": "In our office Lake law has an office (40 Glorious Way Forest Lake, Qld 4078) on Brisbane Southside. It's very close to Springfield..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "LawConnect",
+                  "domain": "lawconnect.com",
+                  "url": "https://lawconnect.com/en-au/find/estate-planning/qld/springfield-central-4300",
+                  "title": "Find Estate Planning Lawyers in Springfield Central, QLD",
+                  "text": "Springfield Central, QLD 0483 980.. based in Ipswich and serving Springfield and Brisbane, specialises in family, property, commer..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Note: For complex or contested Family Provision Applications (FPAs), proceedings ultimately run through the Supreme Court of Queensland, and strict limitation periods apply (such as giving written notice within 6 months of the date of passing).",
+              "markdown": "*Note: For complex or contested Family Provision Applications (FPAs), proceedings ultimately run through the Supreme Court of Queensland, and strict limitation periods apply (such as giving written notice within 6 months of the date of passing).* [[1]](https://www.brookwaterlegal.com.au/contesting-a-will-in-queensland-the-guide)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Brookwater Legal",
+                  "domain": "www.brookwaterlegal.com.au",
+                  "url": "https://www.brookwaterlegal.com.au/contesting-a-will-in-queensland-the-guide",
+                  "title": "Contesting a Will in Queensland, the Guide - Brookwater Legal",
+                  "text": "Contesting a will is a family provision claim: an application arguing that the deceased did not make adequate provision for someone who was entitled to be consider..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you would like, I can provide:",
+              "markdown": "If you would like, I can provide:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "The strict timeframes and eligibility criteria for filing a Family Provision Application in Queensland What documentation you should gather before an initial consultation",
+              "markdown": "- The **strict timeframes and eligibility criteria** for filing a Family Provision Application in Queensland\n- What **documentation** you should gather before an initial consultation",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Let me know how you would like to proceed.",
+              "markdown": "Let me know how you would like to **proceed**.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Brookwater Legal",
+              "domain": "www.brookwaterlegal.com.au",
+              "url": "https://www.brookwaterlegal.com.au/how-long-does-an-estate-take-to-finalise-queensland",
+              "title": "How Long Does an Estate Take to Finalise in QLD? (2026)",
+              "text": "Most estates take around 12 months to finalise, routinely take longer. six month notice window … managing a contested matter"
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Brookwater Legal",
+              "domain": "www.brookwaterlegal.com.au",
+              "url": "https://www.brookwaterlegal.com.au/contesting-a-will-in-queensland-the-guide",
+              "title": "Contesting a Will in Queensland, the Guide - Brookwater Legal",
+              "text": "Contesting a will is a family provision claim: an application arguing that the deceased did not make adequate provision for someone who was entitled to be consider..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Brookwater Legal",
+              "domain": "www.brookwaterlegal.com.au",
+              "url": "https://www.brookwaterlegal.com.au/",
+              "title": "Welcome To Brookwater Legal | Springfield & Ipswich Lawyers",
+              "text": "Location: Suite 9F, 118 Augusta Parkway, Augustine Heights QLD 4300 (near Orion Shopping Centre). Practice Areas: Property and Business Conveyancing. Family Law an..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

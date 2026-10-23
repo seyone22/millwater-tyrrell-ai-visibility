@@ -1,0 +1,225 @@
+{
+  "slug": "springfield",
+  "pk": "divorce_property",
+  "plat": "aimode",
+  "text": "I am going through a separation and complex property settlement in Springfield and Greater Springfield, QLD. Which family law firms have the strongest track record for property division and binding financial agreements?",
+  "loc": 9191413,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\springfield__divorce_property__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:24:29.277Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "I am going through a separation and complex property settlement in Springfield and Greater Springfield, QLD. Which family law firms have the strongest track record for property division and binding financial agreements?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 9191413,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=I%20am%20going%20through%20a%20separation%20and%20complex%20property%20settlement%20in%20Springfield%20and%20Greater%20Springfield%2C%20QLD.%20Which%20family%20law%20firms%20have%20the%20strongest%20track%20record%20for%20property%20division%20and%20binding%20financial%20agreements%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCRFktRYbSpFrEUDb3vNaowIF",
+      "datetime": "2026-10-23 05:24:24 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "`Local and regional law firms` serving Springfield, Springfield Central, and Greater Springfield have established strong capabilities in handling **complex property settlements** and **Binding Financial Agreements (BFAs)** . While boutique local practices provide hands-on regional court experience (Ipswich and Brisbane registries), clients with high-net-worth or complex commercial/trust structures often leverage regional firms or extended networks into Brisbane.[[1]](https://www.springfieldlegals.com.au/areas-of-practice/family-law/)[[2]](https://mcna.com.au/family-law/)[[3]](https://lawconnect.com/en-au/find/family-law/qld/springfield-central-4300)\n\n### Prominent Family Law Firms Serving Springfield & Greater Springfield\n\n| Firm Name | Local Presence / Office | Key Family Law Focus & Capabilities |\n|---|---|---|\n| **McNamara Law** | Offices in Springfield, Ipswich, and Brisbane | Full-service regional firm with dedicated Special Counsel and senior associates handling **property settlements, BFAs, child support, and mediation** , plus JustFund options. |\n| **GLG Legal Springfield** (Affiliated with Michael Lynch Family Lawyers) | Springfield, QLD | Combines local Springfield reach with direct backing and specialist expertise from **Michael Lynch Family Lawyers** (a prominent Brisbane family law group) for complex asset pools. |\n| **Stanford Legal** | Springfield Central, QLD | High client-rated local practice handling **consent orders, property distributions, and family law disputes** with strong community standing in Greater Springfield. |\n\n### Key Considerations for Complex Property & BFAs in QLD\n\n- **Independent Legal Advice (ILA) for BFAs:** Under the *Family Law Act* , a Binding Financial Agreement is strictly **invalid** unless both parties have received independent legal advice from separate practitioners before signing, and each lawyer provides a signed certificate to that effect. You and your ex-partner cannot use the same firm.[[1]](https://www.legalaid.qld.gov.au/Find-legal-information/Relationships-and-children/Dividing-your-property/Property-and-financial-agreements)\n- **Complex Assets & Entities:** If your property pool involves family trusts, company structures, commercial property, or superannuation splitting , look for firms that integrate commercial and family law experience (such as McNamara Law or GLG Legal's access to specialist Brisbane family lawyers).[[1]](https://www.familyrelationships.gov.au/separation/money-property)[[2]](https://mcna.com.au/family-law/)[[3]](https://www.springfieldlegals.com.au/areas-of-practice/family-law/)\n- **Time Limits:** Keep strict statutory deadlines in mind: property settlement applications for married couples must be filed within **12 months of a divorce order** , and for de facto couples within **2 years of separation**.[[1]](https://www.legalaid.qld.gov.au/Find-legal-information/Relationships-and-children/Dividing-your-property/Property-and-financial-agreements)\n\nTo help narrow down the right fit, could you share:\n\n- Whether you are **married or in a de facto relationship**?\n- Whether the complexity involves **business entities, trusts, or superannuation splitting**?\n- Whether you are aiming for an **amicable BFA/consent order** or facing **litigation**?",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Local and regional law firms serving Springfield, Springfield Central, and Greater Springfield have established strong capabilities in handling complex property settlements and Binding Financial Agreements (BFAs). While boutique local practices provide hands-on regional court experience (Ipswich and Brisbane registries), clients with high-net-worth or complex commercial/trust structures often leverage regional firms or extended networks into Brisbane.",
+              "markdown": "`Local and regional law firms` serving Springfield, Springfield Central, and Greater Springfield have established strong capabilities in handling **complex property settlements** and **Binding Financial Agreements (BFAs)** . While boutique local practices provide hands-on regional court experience (Ipswich and Brisbane registries), clients with high-net-worth or complex commercial/trust structures often leverage regional firms or extended networks into Brisbane.[[1]](https://www.springfieldlegals.com.au/areas-of-practice/family-law/)[[2]](https://mcna.com.au/family-law/)[[3]](https://lawconnect.com/en-au/find/family-law/qld/springfield-central-4300)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "GLG Legal Springfield",
+                  "domain": "www.springfieldlegals.com.au",
+                  "url": "https://www.springfieldlegals.com.au/areas-of-practice/family-law/",
+                  "title": "Divorce Lawyers Springfield | Family Law Experts | GLG Legal",
+                  "text": "At GLG Legal Springfield, we provide trusted family law services to clients across Springfield, Ipswich and surrounding areas. As ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "McNamara Law",
+                  "domain": "mcna.com.au",
+                  "url": "https://mcna.com.au/family-law/",
+                  "title": "Family Law | McNamara Law | Ipswich | Springfield",
+                  "text": "Services: Property settlements, divorce, parenting disputes, child support, financial agreements, mediation, paternity, domestic v..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "LawConnect",
+                  "domain": "lawconnect.com",
+                  "url": "https://lawconnect.com/en-au/find/family-law/qld/springfield-central-4300",
+                  "title": "Family Lawyers in Springfield Central, QLD - LawConnect",
+                  "text": "Family Lawyers in Springfield Central QLD. Stanford Legal Pty Ltd. Stanford Legal Pty Ltd has 4.9 stars from 100 recommendations 4..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Prominent Family Law Firms Serving Springfield & Greater Springfield",
+              "text": null,
+              "markdown": "### Prominent Family Law Firms Serving Springfield & Greater Springfield",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_table_element",
+              "position": "left",
+              "markdown": "| Firm Name | Local Presence / Office | Key Family Law Focus & Capabilities |\n|---|---|---|\n| **McNamara Law** | Offices in Springfield, Ipswich, and Brisbane | Full-service regional firm with dedicated Special Counsel and senior associates handling **property settlements, BFAs, child support, and mediation** , plus JustFund options. |\n| **GLG Legal Springfield** (Affiliated with Michael Lynch Family Lawyers) | Springfield, QLD | Combines local Springfield reach with direct backing and specialist expertise from **Michael Lynch Family Lawyers** (a prominent Brisbane family law group) for complex asset pools. |\n| **Stanford Legal** | Springfield Central, QLD | High client-rated local practice handling **consent orders, property distributions, and family law disputes** with strong community standing in Greater Springfield. |",
+              "table": {
+                "table_header": [
+                  "Firm Name",
+                  "Local Presence / Office",
+                  "Key Family Law Focus & Capabilities"
+                ],
+                "table_content": [
+                  [
+                    "McNamara Law",
+                    "Offices in Springfield, Ipswich, and Brisbane",
+                    "Full-service regional firm with dedicated Special Counsel and senior associates handling property settlements, BFAs, child support, and mediation, plus JustFund options."
+                  ],
+                  [
+                    "GLG Legal Springfield (Affiliated with Michael Lynch Family Lawyers)",
+                    "Springfield, QLD",
+                    "Combines local Springfield reach with direct backing and specialist expertise from Michael Lynch Family Lawyers (a prominent Brisbane family law group) for complex asset pools."
+                  ],
+                  [
+                    "Stanford Legal",
+                    "Springfield Central, QLD",
+                    "High client-rated local practice handling consent orders, property distributions, and family law disputes with strong community standing in Greater Springfield."
+                  ]
+                ]
+              }
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Key Considerations for Complex Property & BFAs in QLD",
+              "text": "Independent Legal Advice (ILA) for BFAs: Under the Family Law Act, a Binding Financial Agreement is strictly invalid unless both parties have received independent legal advice from separate practitioners before signing, and each lawyer provides a signed certificate to that effect. You and your ex-partner cannot use the same firm. Complex Assets & Entities: If your property pool involves family trusts, company structures, commercial property, or superannuation splitting, look for firms that integrate commercial and family law experience (such as McNamara Law or GLG Legal's access to specialist Brisbane family lawyers ). , look for firms that integrate commercial and family law experience (such as McNamara Law McNamara Law or GLG Legal's access to specialist Brisbane family lawyers GLG Legal's Time Limits: Keep strict statutory deadlines in mind: property settlement applications for married couples must be filed within 12 months of a divorce order, and for de facto couples within 2 years of separation.",
+              "markdown": "- **Independent Legal Advice (ILA) for BFAs:** Under the *Family Law Act* , a Binding Financial Agreement is strictly **invalid** unless both parties have received independent legal advice from separate practitioners before signing, and each lawyer provides a signed certificate to that effect. You and your ex-partner cannot use the same firm.[[1]](https://www.legalaid.qld.gov.au/Find-legal-information/Relationships-and-children/Dividing-your-property/Property-and-financial-agreements)\n- **Complex Assets & Entities:** If your property pool involves family trusts, company structures, commercial property, or superannuation splitting , look for firms that integrate commercial and family law experience (such as McNamara Law or GLG Legal's access to specialist Brisbane family lawyers).[[1]](https://www.familyrelationships.gov.au/separation/money-property)[[2]](https://mcna.com.au/family-law/)[[3]](https://www.springfieldlegals.com.au/areas-of-practice/family-law/)\n- **Time Limits:** Keep strict statutory deadlines in mind: property settlement applications for married couples must be filed within **12 months of a divorce order** , and for de facto couples within **2 years of separation**.[[1]](https://www.legalaid.qld.gov.au/Find-legal-information/Relationships-and-children/Dividing-your-property/Property-and-financial-agreements)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Legal Aid Queensland",
+                  "domain": "www.legalaid.qld.gov.au",
+                  "url": "https://www.legalaid.qld.gov.au/Find-legal-information/Relationships-and-children/Dividing-your-property/Property-and-financial-agreements",
+                  "title": "Property and financial agreements - Legal Aid Queensland",
+                  "text": "Rights: De facto and same-sex couples share identical property division rights as married couples. Agreements: Informal agreements..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Family Relationships Online",
+                  "domain": "www.familyrelationships.gov.au",
+                  "url": "https://www.familyrelationships.gov.au/separation/money-property",
+                  "title": "Money and property | Family Relationships Online",
+                  "text": "Property Definition: Includes all combined assets (home, cash, investments, superannuation, inheritances) and debts (mortgages, lo..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "McNamara Law",
+                  "domain": "mcna.com.au",
+                  "url": "https://mcna.com.au/family-law/",
+                  "title": "Family Law | McNamara Law | Ipswich | Springfield",
+                  "text": "Services: Property settlements, divorce, parenting disputes, child support, financial agreements, mediation, paternity, domestic violence. Funding: Flexible legal ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "GLG Legal Springfield",
+                  "domain": "www.springfieldlegals.com.au",
+                  "url": "https://www.springfieldlegals.com.au/areas-of-practice/family-law/",
+                  "title": "Divorce Lawyers Springfield | Family Law Experts | GLG Legal",
+                  "text": "At GLG Legal Springfield, we provide trusted family law services to clients across Springfield, Ipswich and surrounding areas. As part of the Galleon Law Group, we..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "To help narrow down the right fit, could you share:",
+              "markdown": "To help narrow down the right fit, could you share:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Whether you are married or in a de facto relationship ? Whether the complexity involves business entities, trusts, or superannuation splitting ? Whether you are aiming for an amicable BFA/consent order or facing litigation ?",
+              "markdown": "- Whether you are **married or in a de facto relationship**?\n- Whether the complexity involves **business entities, trusts, or superannuation splitting**?\n- Whether you are aiming for an **amicable BFA/consent order** or facing **litigation**?",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "GLG Legal Springfield",
+              "domain": "www.springfieldlegals.com.au",
+              "url": "https://www.springfieldlegals.com.au/areas-of-practice/family-law/",
+              "title": "Divorce Lawyers Springfield | Family Law Experts | GLG Legal",
+              "text": "At GLG Legal Springfield, we provide trusted family law services to clients across Springfield, Ipswich and surrounding areas. As part of the Galleon Law Group, we..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "McNamara Law",
+              "domain": "mcna.com.au",
+              "url": "https://mcna.com.au/family-law/",
+              "title": "Family Law | McNamara Law | Ipswich | Springfield",
+              "text": "Services: Property settlements, divorce, parenting disputes, child support, financial agreements, mediation, paternity, domestic violence. Funding: Flexible legal ..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "LawConnect",
+              "domain": "lawconnect.com",
+              "url": "https://lawconnect.com/en-au/find/family-law/qld/springfield-central-4300",
+              "title": "Family Lawyers in Springfield Central, QLD - LawConnect",
+              "text": "Family Lawyers in Springfield Central QLD. Stanford Legal Pty Ltd. Stanford Legal Pty Ltd has 4.9 stars from 100 recommendations 4.9. 100 ratings. Springfield Cent..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "McNamara Law",
+              "domain": "mcna.com.au",
+              "url": "https://mcna.com.au/",
+              "title": "McNamara Law",
+              "text": "WHO WE ARE McNamara Law have been looking after all your legal needs in the Ipswich and Lockyer Valley region for nearly 100 years. Today we're one of the largest ..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

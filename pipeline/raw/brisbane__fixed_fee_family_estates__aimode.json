@@ -1,0 +1,313 @@
+{
+  "slug": "brisbane",
+  "pk": "fixed_fee_family_estates",
+  "plat": "aimode",
+  "text": "Which boutique law firms in Brisbane offer free initial consultations, fixed-fee wills, or deferred-fee options for family law and wills and estates?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane__fixed_fee_family_estates__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:26:30.015Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which boutique law firms in Brisbane offer free initial consultations, fixed-fee wills, or deferred-fee options for family law and wills and estates?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000339,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20boutique%20law%20firms%20in%20Brisbane%20offer%20free%20initial%20consultations%2C%20fixed-fee%20wills%2C%20or%20deferred-fee%20options%20for%20family%20law%20and%20wills%20and%20estates%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCbsg9lwEWpFrEcCE3vNaowIF",
+      "datetime": "2026-10-23 05:26:25 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "When looking for boutique law firms in Brisbane that cater to **family law** and **wills and estates** with flexible financial arrangements (such as free initial advice, fixed pricing, or deferred fees), several local practices stand out.\n\nBecause strict \"deferred-fee\" arrangements (paying only upon the outcome of a case) are most commonly tied to contentious estate litigation or property settlement recoveries rather than standard drafting, availability depends closely on your specific legal matter.[[1]](https://qldestatelawyers.com.au/deferred-fees/)\n\nNotable Brisbane boutique options offering these structures include:\n\n\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLdMzInc59XHkxB4O1WXzuoyavMl9HGyga0gcmiQNCXPSPhEE0yRwV7To3C0sn-vH8i3jLu-eo7KXbKhS2Z8-Esv0sXDdzV_N4Agw5REM2h77t9LWshXphsFHV7LdQXrSW98Gw8h4A=s192-w192-h144-n-k-no)\nNurture Law 4.9 (51)  \nEstate planning attorney  \nOpen Level 18/333 Ann St  \nCall Directions Website**Nurture Law** (Wills & Estates / Estate Disputes)\n\n- **Offerings:** Free 15-minute introductory chat, comprehensive fixed-fee estate planning packages (including testamentary trusts and standard structures), and fixed-fee structures for estate disputes and administration.\n- **Focus:** A Brisbane-based boutique practice directed by Principal Lawyer Kelly Gatehouse that emphasizes out-of-court dispute resolution and transparent, predictable pricing. You can review their packages directly via [Nurture Law](https://nurturelaw.com.au/wills-and-estate-planning-brisbane/).\n\n\n\n---\n\n![](https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fSozvcii9CJy9bHLPz8vVg&cb_client=search.gws-prod.grass&yaw=10.513835&pitch=0&thumbfov=100&w=82&h=82)\nForest Lake Law Practice 5.0 (1)  \nSolicitor  \nOpen Forest Lake Shopping Centre  \nCall Directions Website**Forest Lake Law Practice** (Family Law / Wills & Estates)\n\n- **Offerings:** A free initial consultation of up to 20 minutes, alongside transparent fixed-fee arrangements for simple divorce applications, standard wills, and powers of attorney.\n- **Focus:** A long-standing boutique suburban practice offering personalized legal solutions. You can check their service outlines on the [Forest Lake Law Practice Fixed Fees Page](https://forestlakelawpractice.com.au/fixed-fees/).\n\n\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLdj1LdOmtqptqM5RhPR93N48hWiiCO9MoS_ZiULFRy5ZvltuzKgNpFgJDnPoSm1PWeP3Qnv7rXpQrDLCvyXNeMk6bYrCQzidrz3Q2ZnjWfBOYDbK1gyYHflb-ktHzKIEW7lV7We=s192-w192-h144-n-k-no)\nRamsden Lawyers 4.8 (17)  \nLaw firm  \nOpen Ste 12A/15 Adelaide St  \nCall Directions Website**Ramsden Lawyers** (Family Law / Wills & Estates)\n\n- **Offerings:** Free initial consultations for up to 30 minutes (available via phone, video, or in-person at their Brisbane office).\n- **Focus:** A larger boutique/mid-tier commercial and private-client firm with a dedicated Brisbane presence covering both complex family law and comprehensive estate planning/dispute resolution. Details are accessible via [Ramsden Lawyers](https://ramsdenlaw.com.au/).\n\n\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLfijmpdEcWtNuPZrb6AxPt5a7mrpj02nPg3IYdwPpkb8FU8M8TPaFV6Rjv-zoTNKY89wqR7A-cTRppNTlBeBj3v_zDUCpGsty52jvkf6bagrFUlkG6QM9BmkrvAhDg_5Ye8MD3UPA=s192-w192-h144-n-k-no)\nQLD Estate Lawyers 4.3 (19)  \nEstate planning attorney  \nOpen level 18/150 Charlotte St  \nCall Directions Website**QLD Estate Lawyers** (Wills & Estates / Estate Litigation)\n\n- **Offerings:** Specialized deferred fee options (such as delaying legal service fees until case resolution or from estate funds) specifically tailored for executors, administrators, or beneficiaries involved in meritorious estate disputes or family provision claims.\n- **Focus:** Ideal if you are contesting a will or managing an estate where upfront payment is unfeasible, provided the case has an expected financial recovery. Further context can be found on QLD Estate Lawyers.\n\n\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLfC6Wnz-tuPGRuId5hRbbcUuZCOp4vwk9fBpFNBinc2DhmK3xZ_W6CP_u4x7RKXFKTvNb-urqNWnV-tBwSjXMMd2_hidF2J9OpFRS3R_YpnzW-6MOyBNR4gANGufi3jn2OInlcFTA=s108-w108-h144-n-k-no)\nAustralian Family Lawyers - Brisbane 4.5 (37)  \nFamily law attorney  \nOpen Level 4/40 Creek St  \nCall Directions Website\n\n- **Offerings:** Free initial no-obligation phone consultations and structured, transparent payment options.\n- **Focus:** Though operating across multiple metro locations, they function with a boutique client-centric approach to assist clients navigating sensitive financial and parenting separation constraints. You can explore their consultation framework via [Australian Family Lawyers](https://www.australianfamilylawyers.com.au/locations/brisbane).[[1]](https://nurturelaw.com.au/wills-and-estate-planning-brisbane/)[[2]](https://nurturelaw.com.au/)[[3]](https://au.linkedin.com/company/nurturelaw)[[4]](https://forestlakelawpractice.com.au/fixed-fees/)[[5]](https://ramsdenlaw.com.au/)[[6]](https://qldestatelawyers.com.au/deferred-fees/)[[7]](https://www.australianfamilylawyers.com.au/locations/brisbane)\n\nTo help narrow down the best choice, could you tell me:\n\n- Whether your primary need is for **Family Law** (e.g., property settlement, parenting) or **Wills & Estates** (e.g., drafting a new will vs. a dispute)?\n- If you specifically require a **deferred fee arrangement** due to current financial constraints tied to an expected settlement?",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "When looking for boutique law firms in Brisbane that cater to family law and wills and estates with flexible financial arrangements (such as free initial advice, fixed pricing, or deferred fees), several local practices stand out.",
+              "markdown": "When looking for boutique law firms in Brisbane that cater to **family law** and **wills and estates** with flexible financial arrangements (such as free initial advice, fixed pricing, or deferred fees), several local practices stand out.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Because strict \"deferred-fee\" arrangements (paying only upon the outcome of a case) are most commonly tied to contentious estate litigation or property settlement recoveries rather than standard drafting, availability depends closely on your specific legal matter.",
+              "markdown": "Because strict \"deferred-fee\" arrangements (paying only upon the outcome of a case) are most commonly tied to contentious estate litigation or property settlement recoveries rather than standard drafting, availability depends closely on your specific legal matter.[[1]](https://qldestatelawyers.com.au/deferred-fees/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "QLD Estate Lawyers",
+                  "domain": "qldestatelawyers.com.au",
+                  "url": "https://qldestatelawyers.com.au/deferred-fees/",
+                  "title": "Top Deferred Fees Estate Lawyers | Defer Litigation Fees | QLD Estate Lawyers",
+                  "text": "Payment arrangement allowing clients to delay legal service fees until case resolution or from estate funds, eliminating upfront c..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Notable Brisbane boutique options offering these structures include:",
+              "markdown": "Notable Brisbane boutique options offering these structures include:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Nurture Law 4.9 (51) Estate planning attorney Open Level 18/333 Ann St Call Directions Website Nurture Law (Wills & Estates / Estate Disputes)Offerings: Free 15-minute introductory chat, comprehensive fixed-fee estate planning packages (including testamentary trusts and standard structures), and fixed-fee structures for estate disputes and administration.\nFocus: A Brisbane-based boutique practice directed by Principal Lawyer Kelly Gatehouse that emphasizes out-of-court dispute resolution and transparent, predictable pricing. You can review their packages directly via Nurture Law.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLdMzInc59XHkxB4O1WXzuoyavMl9HGyga0gcmiQNCXPSPhEE0yRwV7To3C0sn-vH8i3jLu-eo7KXbKhS2Z8-Esv0sXDdzV_N4Agw5REM2h77t9LWshXphsFHV7LdQXrSW98Gw8h4A=s192-w192-h144-n-k-no)\nNurture Law 4.9 (51)  \nEstate planning attorney  \nOpen Level 18/333 Ann St  \nCall Directions Website**Nurture Law** (Wills & Estates / Estate Disputes)\n\n- **Offerings:** Free 15-minute introductory chat, comprehensive fixed-fee estate planning packages (including testamentary trusts and standard structures), and fixed-fee structures for estate disputes and administration.\n- **Focus:** A Brisbane-based boutique practice directed by Principal Lawyer Kelly Gatehouse that emphasizes out-of-court dispute resolution and transparent, predictable pricing. You can review their packages directly via [Nurture Law](https://nurturelaw.com.au/wills-and-estate-planning-brisbane/).",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Nurture Law",
+                  "description": null,
+                  "url": "https://nurturelaw.com.au/wills-and-estate-planning-brisbane/",
+                  "domain": "nurturelaw.com.au"
+                }
+              ],
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdMzInc59XHkxB4O1WXzuoyavMl9HGyga0gcmiQNCXPSPhEE0yRwV7To3C0sn-vH8i3jLu-eo7KXbKhS2Z8-Esv0sXDdzV_N4Agw5REM2h77t9LWshXphsFHV7LdQXrSW98Gw8h4A=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Forest Lake Law Practice 5.0 (1) Solicitor Open Forest Lake Shopping Centre Call Directions Website Forest Lake Law Practice (Family Law / Wills & Estates)Offerings: A free initial consultation of up to 20 minutes, alongside transparent fixed-fee arrangements for simple divorce applications, standard wills, and powers of attorney.\nFocus: A long-standing boutique suburban practice offering personalized legal solutions. You can check their service outlines on the Forest Lake Law Practice Fixed Fees Page.",
+              "markdown": "---\n\n![](https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fSozvcii9CJy9bHLPz8vVg&cb_client=search.gws-prod.grass&yaw=10.513835&pitch=0&thumbfov=100&w=82&h=82)\nForest Lake Law Practice 5.0 (1)  \nSolicitor  \nOpen Forest Lake Shopping Centre  \nCall Directions Website**Forest Lake Law Practice** (Family Law / Wills & Estates)\n\n- **Offerings:** A free initial consultation of up to 20 minutes, alongside transparent fixed-fee arrangements for simple divorce applications, standard wills, and powers of attorney.\n- **Focus:** A long-standing boutique suburban practice offering personalized legal solutions. You can check their service outlines on the [Forest Lake Law Practice Fixed Fees Page](https://forestlakelawpractice.com.au/fixed-fees/).",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Forest Lake Law Practice Fixed Fees Page",
+                  "description": null,
+                  "url": "https://forestlakelawpractice.com.au/fixed-fees/",
+                  "domain": "forestlakelawpractice.com.au"
+                }
+              ],
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fSozvcii9CJy9bHLPz8vVg&cb_client=search.gws-prod.grass&yaw=10.513835&pitch=0&thumbfov=100&w=82&h=82"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Ramsden Lawyers 4.8 (17) Law firm Open Ste 12A/15 Adelaide St Call Directions Website Ramsden Lawyers (Family Law / Wills & Estates)Offerings: Free initial consultations for up to 30 minutes (available via phone, video, or in-person at their Brisbane office).\nFocus: A larger boutique/mid-tier commercial and private-client firm with a dedicated Brisbane presence covering both complex family law and comprehensive estate planning/dispute resolution. Details are accessible via Ramsden Lawyers.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLdj1LdOmtqptqM5RhPR93N48hWiiCO9MoS_ZiULFRy5ZvltuzKgNpFgJDnPoSm1PWeP3Qnv7rXpQrDLCvyXNeMk6bYrCQzidrz3Q2ZnjWfBOYDbK1gyYHflb-ktHzKIEW7lV7We=s192-w192-h144-n-k-no)\nRamsden Lawyers 4.8 (17)  \nLaw firm  \nOpen Ste 12A/15 Adelaide St  \nCall Directions Website**Ramsden Lawyers** (Family Law / Wills & Estates)\n\n- **Offerings:** Free initial consultations for up to 30 minutes (available via phone, video, or in-person at their Brisbane office).\n- **Focus:** A larger boutique/mid-tier commercial and private-client firm with a dedicated Brisbane presence covering both complex family law and comprehensive estate planning/dispute resolution. Details are accessible via [Ramsden Lawyers](https://ramsdenlaw.com.au/).",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Ramsden Lawyers",
+                  "description": null,
+                  "url": "https://ramsdenlaw.com.au/",
+                  "domain": "ramsdenlaw.com.au"
+                }
+              ],
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdj1LdOmtqptqM5RhPR93N48hWiiCO9MoS_ZiULFRy5ZvltuzKgNpFgJDnPoSm1PWeP3Qnv7rXpQrDLCvyXNeMk6bYrCQzidrz3Q2ZnjWfBOYDbK1gyYHflb-ktHzKIEW7lV7We=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "QLD Estate Lawyers 4.3 (19) Estate planning attorney Open level 18/150 Charlotte St Call Directions Website QLD Estate Lawyers (Wills & Estates / Estate Litigation)Offerings: Specialized deferred fee options (such as delaying legal service fees until case resolution or from estate funds) specifically tailored for executors, administrators, or beneficiaries involved in meritorious estate disputes or family provision claims.\nFocus: Ideal if you are contesting a will or managing an estate where upfront payment is unfeasible, provided the case has an expected financial recovery. Further context can be found on QLD Estate Lawyers.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLfijmpdEcWtNuPZrb6AxPt5a7mrpj02nPg3IYdwPpkb8FU8M8TPaFV6Rjv-zoTNKY89wqR7A-cTRppNTlBeBj3v_zDUCpGsty52jvkf6bagrFUlkG6QM9BmkrvAhDg_5Ye8MD3UPA=s192-w192-h144-n-k-no)\nQLD Estate Lawyers 4.3 (19)  \nEstate planning attorney  \nOpen level 18/150 Charlotte St  \nCall Directions Website**QLD Estate Lawyers** (Wills & Estates / Estate Litigation)\n\n- **Offerings:** Specialized deferred fee options (such as delaying legal service fees until case resolution or from estate funds) specifically tailored for executors, administrators, or beneficiaries involved in meritorious estate disputes or family provision claims.\n- **Focus:** Ideal if you are contesting a will or managing an estate where upfront payment is unfeasible, provided the case has an expected financial recovery. Further context can be found on QLD Estate Lawyers.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfijmpdEcWtNuPZrb6AxPt5a7mrpj02nPg3IYdwPpkb8FU8M8TPaFV6Rjv-zoTNKY89wqR7A-cTRppNTlBeBj3v_zDUCpGsty52jvkf6bagrFUlkG6QM9BmkrvAhDg_5Ye8MD3UPA=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Australian Family Lawyers - Brisbane 4.5 (37) Family law attorney Open Level 4/40 Creek St Call Directions WebsiteOfferings: Free initial no-obligation phone consultations and structured, transparent payment options.\nFocus: Though operating across multiple metro locations, they function with a boutique client-centric approach to assist clients navigating sensitive financial and parenting separation constraints. You can explore their consultation framework via Australian Family Lawyers.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLfC6Wnz-tuPGRuId5hRbbcUuZCOp4vwk9fBpFNBinc2DhmK3xZ_W6CP_u4x7RKXFKTvNb-urqNWnV-tBwSjXMMd2_hidF2J9OpFRS3R_YpnzW-6MOyBNR4gANGufi3jn2OInlcFTA=s108-w108-h144-n-k-no)\nAustralian Family Lawyers - Brisbane 4.5 (37)  \nFamily law attorney  \nOpen Level 4/40 Creek St  \nCall Directions Website\n\n- **Offerings:** Free initial no-obligation phone consultations and structured, transparent payment options.\n- **Focus:** Though operating across multiple metro locations, they function with a boutique client-centric approach to assist clients navigating sensitive financial and parenting separation constraints. You can explore their consultation framework via [Australian Family Lawyers](https://www.australianfamilylawyers.com.au/locations/brisbane).[[1]](https://nurturelaw.com.au/wills-and-estate-planning-brisbane/)[[2]](https://nurturelaw.com.au/)[[3]](https://au.linkedin.com/company/nurturelaw)[[4]](https://forestlakelawpractice.com.au/fixed-fees/)[[5]](https://ramsdenlaw.com.au/)[[6]](https://qldestatelawyers.com.au/deferred-fees/)[[7]](https://www.australianfamilylawyers.com.au/locations/brisbane)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Australian Family Lawyers",
+                  "description": null,
+                  "url": "https://www.australianfamilylawyers.com.au/locations/brisbane",
+                  "domain": "www.australianfamilylawyers.com.au"
+                }
+              ],
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfC6Wnz-tuPGRuId5hRbbcUuZCOp4vwk9fBpFNBinc2DhmK3xZ_W6CP_u4x7RKXFKTvNb-urqNWnV-tBwSjXMMd2_hidF2J9OpFRS3R_YpnzW-6MOyBNR4gANGufi3jn2OInlcFTA=s108-w108-h144-n-k-no"
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Nurture Law",
+                  "domain": "nurturelaw.com.au",
+                  "url": "https://nurturelaw.com.au/wills-and-estate-planning-brisbane/",
+                  "title": "Wills and Estate Planning Brisbane - Estate Planning Lawyers | Nurture Law",
+                  "text": "Nurture Law provides wills and estate planning in Brisbane, Logan, and Ipswich, offering fixed-fee packages with a free 15-minute ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Nurture Law",
+                  "domain": "nurturelaw.com.au",
+                  "url": "https://nurturelaw.com.au/",
+                  "title": "Wills and Estate Lawyers Brisbane - Estate Lawyers | Nurture Law",
+                  "text": "Nurture Law is a Brisbane-based wills and estate law firm directed by Principal Lawyer Kelly Gatehouse, focusing on out-of-court d..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "LinkedIn Australia",
+                  "domain": "au.linkedin.com",
+                  "url": "https://au.linkedin.com/company/nurturelaw",
+                  "title": "Nurture Law - LinkedIn",
+                  "text": "At Nurture Law our mission is to help individuals and families resolve estate disputes out of court with minimal costs. We do ever..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Forest Lake Law Practice",
+                  "domain": "forestlakelawpractice.com.au",
+                  "url": "https://forestlakelawpractice.com.au/fixed-fees/",
+                  "title": "Fixed Fees",
+                  "text": "Initial consultation of 20 minutes is free. Preparation of standard Wills, Powers of Attorney,"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Ramsden Lawyers",
+                  "domain": "ramsdenlaw.com.au",
+                  "url": "https://ramsdenlaw.com.au/",
+                  "title": "Lawyers Gold Coast, Brisbane, Sydney & Melbourne | Law Firm | Ramsden Lawyers",
+                  "text": "Consultations: Free initial consultation up to 30 minutes via phone, video, or in-person at any office location."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "QLD Estate Lawyers",
+                  "domain": "qldestatelawyers.com.au",
+                  "url": "https://qldestatelawyers.com.au/deferred-fees/",
+                  "title": "Top Deferred Fees Estate Lawyers | Defer Litigation Fees | QLD Estate Lawyers",
+                  "text": "Payment arrangement allowing clients to delay legal service fees until case resolution or from estate funds, eliminating upfront c..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Australian Family Lawyers",
+                  "domain": "www.australianfamilylawyers.com.au",
+                  "url": "https://www.australianfamilylawyers.com.au/locations/brisbane",
+                  "title": "Leading Family & Divorce Lawyers Brisbane",
+                  "text": "Free initial consultation, fixed fees and flexible payment options. no-obligation phone appointment. Plus, transparent fees help y..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "To help narrow down the best choice, could you tell me:",
+              "markdown": "To help narrow down the best choice, could you tell me:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Whether your primary need is for Family Law (e.g., property settlement, parenting) or Wills & Estates (e.g., drafting a new will vs. a dispute)? If you specifically require a deferred fee arrangement due to current financial constraints tied to an expected settlement?",
+              "markdown": "- Whether your primary need is for **Family Law** (e.g., property settlement, parenting) or **Wills & Estates** (e.g., drafting a new will vs. a dispute)?\n- If you specifically require a **deferred fee arrangement** due to current financial constraints tied to an expected settlement?",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Nurture Law",
+              "domain": "nurturelaw.com.au",
+              "url": "https://nurturelaw.com.au/",
+              "title": "Wills and Estate Lawyers Brisbane - Estate Lawyers | Nurture Law",
+              "text": "Nurture Law is a Brisbane-based wills and estate law firm directed by Principal Lawyer Kelly Gatehouse, focusing on out-of-court dispute resolution with fixed upfr..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "LinkedIn Australia",
+              "domain": "au.linkedin.com",
+              "url": "https://au.linkedin.com/company/nurturelaw",
+              "title": "Nurture Law - LinkedIn",
+              "text": "At Nurture Law our mission is to help individuals and families resolve estate disputes out of court with minimal costs. We do everything on a fixed fee basis."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Nurture Law",
+              "domain": "nurturelaw.com.au",
+              "url": "https://nurturelaw.com.au/wills-and-estate-planning-brisbane/",
+              "title": "Wills and Estate Planning Brisbane - Estate Planning Lawyers | Nurture Law",
+              "text": "Nurture Law provides wills and estate planning in Brisbane, Logan, and Ipswich, offering fixed-fee packages with a free 15-minute introductory chat."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

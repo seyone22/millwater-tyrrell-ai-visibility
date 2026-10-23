@@ -1,0 +1,106 @@
+{
+  "slug": "logan",
+  "pk": "contesting_wills",
+  "plat": "perplexity",
+  "text": "Which wills and estates law firms in Logan and Western Corridor (Ipswich to Brisbane) specialise in contesting a will, Family Provision Applications (FPA), and estate litigation?",
+  "loc": 9112660,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\logan__contesting_wills__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:33:02.852Z",
+  "cost": 0.00615,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 46,
+      "output_tokens": 504,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.00555,
+      "datetime": "2026-10-23 05:32:58 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Several firms advertise relevant expertise across Logan, Ipswich and Brisbane’s western corridor:\n\n| Firm | Relevant locations or coverage | Relevant expertise |\n|---|---|---|\n| **Turner Freeman Lawyers** | Logan, Ipswich and Brisbane | Contested wills, will-validity disputes, Family Provision claims, estate litigation and executor advice.[1][2] |\n| **The Estate Lawyers** | Queensland-wide; Brisbane office | Specialist Queensland practice focused solely on wills and estates, including contested wills, FPAs, executor disputes, inheritance defence and estate litigation.[5] |\n| **Armstrong Legal** | Ipswich and Queensland-wide | Contests, challenges and defences of wills; FPAs; undue influence, testamentary capacity, fraud, executor removal and other estate disputes.[4] |\n| **Walker Pender** | Ipswich office | Will disputes, Family Provision claims under Queensland’s Succession Act, negotiation and Supreme Court representation.[9] |\n| **SKC Lawyers** | Logan | Contested wills, probate disputes, asset disputes, estate litigation, mediation and court proceedings.[6] |\n| **Wills & Estate Lawyers Brisbane** | Brisbane, Logan and Ipswich coverage | Contested wills, FPAs, executor disputes, will interpretation and estate litigation; the firm advertises no-win-no-fee arrangements for will disputes and FPAs.[3] |\n| **Thynne + Macartney** | Brisbane | Estate litigation, FPAs and dispute resolution; the firm identifies accredited succession-law expertise and recognition for wills-and-estates litigation.[8] |\n| **Go To Court Lawyers** | Logan and Ipswich | Will challenges, further-provision claims, preparation of court documents, negotiation and representation in contested estate proceedings.[7][10] |\n\n**Most specialist-looking options:** The Estate Lawyers, Armstrong Legal and Thynne + Macartney appear particularly focused on contested estates or succession litigation. For a nearby office, Turner Freeman has explicit Logan and Ipswich coverage, while Walker Pender has an Ipswich office.\n\nIn Queensland, an FPA generally requires notice to the executor within **six months of death** and filing within **nine months of death**, according to the cited Logan guidance.[2] These deadlines can be decisive, so obtain advice promptly and ask each firm about eligibility, prospects, funding, mediation strategy and whether it regularly appears in the Supreme Court of Queensland.",
+              "annotations": [
+                {
+                  "title": "Wills & Estate Lawyers Australia",
+                  "url": "https://www.turnerfreeman.com.au/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estates Lawyers Logan | Turner Freeman",
+                  "url": "https://www.turnerfreeman.com.au/wills-estates-lawyers-logan/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Brisbane Estate Lawyers",
+                  "url": "https://willandestatelawyers.com.au/wills-and-estate-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Contest A Will Lawyer Ipswich",
+                  "url": "https://www.armstronglegal.com.au/pages/cmcw-contest-a-will-lawyer-ipswich/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The Estate Lawyers",
+                  "url": "https://theestatelawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Trusted Wills and Estate Lawyer for Probate in Logan",
+                  "url": "https://skclawyers.com.au/wills-estates/estate-litigation/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estates Lawyers Logan QLD",
+                  "url": "https://www.gotocourt.com.au/qld/logan-lawyers/wills-and-estates",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Estate Litigation | Thynne + Macartney Lawyers | Brisbane",
+                  "url": "https://www.thymac.com.au/your-estate-litigation/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Contesting A Will",
+                  "url": "https://walkerpender.com.au/will/contesting-will/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estates Lawyers in Ipswich, Queensland",
+                  "url": "https://www.gotocourt.com.au/qld/ipswich-lawyers/wills-and-estates",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

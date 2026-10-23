@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane_west",
+  "pk": "wills_estate_planning",
+  "plat": "perplexity",
+  "text": "Who are the best wills and estates lawyers in Brisbane Western Suburbs (Indooroopilly & Centenary) for drafting wills, testamentary trusts, and enduring powers of attorney?",
+  "loc": 9192539,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_west__wills_estate_planning__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:27:00.981Z",
+  "cost": 0.006356,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 46,
+      "output_tokens": 710,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005756,
+      "datetime": "2026-10-23 05:26:57 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For **Indooroopilly and Brisbane’s Centenary suburbs**, the strongest shortlist is:\n\n- **Khoury Scott & Associates (KSA Law)** — A practical option for tailored wills, **testamentary trusts**, enduring powers of attorney and advance health directives. The firm says its principal personally heads the estates practice and handles simple, complex and blended-family planning.[3]\n- **Bennett Carroll Solicitors** — Offers wills, EPOAs, testamentary trusts, family trusts and related estate planning, with Brisbane service available in person or electronically. Its published material states the wills-and-estates team has more than 50 years’ combined experience.[5]\n- **Cooper Grace Ward** — Best suited to higher-value or structurally complex estates involving businesses, companies, trusts, superannuation, tax or asset protection. Its Brisbane estate-planning team specifically advises on wills with testamentary trusts and EPOAs.[6]\n- **Thynne + Macartney** — A strong specialist choice where you want a larger succession-planning team, particularly for complex family, business or trust structures. Its practice covers testamentary trusts, EPOAs, superannuation, incapacity and business succession; Ashleigh Poole and Vicky Martin are listed among its Brisbane specialists.[8]\n- **HopgoodGanim** — Worth considering for complex planning or if there may later be estate litigation. Gregory Cox is described as having more than 25 years’ experience and advises on wills, powers of attorney, estate planning and disputes.[1]\n- **Cornford-Scott Lawyers** — A specialist Brisbane succession-planning option with strong peer recognition: Angela Cornford-Scott was listed as a 2026 Queensland market leader, and Prue Poole as pre-eminent in Doyle’s Guide.[7]\n- **Nurture Law** — A more boutique alternative, particularly where personal attention and potential estate-dispute prevention are priorities; Carrie Payne was listed as recommended in Doyle’s 2026 Queensland guide.[7]\n\n## Best fit by situation\n\n| Situation | Shortlist |\n|---|---|\n| Standard family will plus EPOA | KSA Law or Bennett Carroll |\n| Testamentary trust for children or vulnerable beneficiaries | KSA Law, Thynne + Macartney or Cooper Grace Ward |\n| Business owner, family trust, significant assets or tax structuring | Cooper Grace Ward or Thynne + Macartney |\n| Blended family or likely challenge to the estate | KSA Law, HopgoodGanim or Cornford-Scott |\n| Boutique, highly personal service | Nurture Law or KSA Law |\n\nBefore engaging anyone, confirm that the quoted scope includes:\n\n- Will drafting and execution guidance\n- Testamentary discretionary trust provisions, if appropriate\n- Queensland enduring power of attorney\n- Advance health directive, if wanted\n- Superannuation death-benefit and binding-nomination advice\n- Advice on jointly owned assets, companies, family trusts and life insurance\n- Safe custody of originals and future review arrangements\n\nFor a **local western-suburbs appointment**, ask whether the lawyer offers consultations in Indooroopilly, the Centenary area or by video. The firms above are Brisbane-focused, but not all appear to have offices directly in those suburbs. Obtain two or three fixed-fee or itemised quotes and choose the lawyer who will personally explain the structure—not merely provide a low-cost document.",
+              "annotations": [
+                {
+                  "title": "Best Brisbane, Australia Trusts and Estates Lawyers",
+                  "url": "https://www.bestlawyers.com/australia/brisbane/trusts-and-estates",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estate Planning Lawyers in Queensland",
+                  "url": "https://www.bcglaw.com.au/wills-estates-planning/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estate Lawyers Brisbane",
+                  "url": "https://ksalaw.com.au/services/wills-and-estates",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills and Estates Lawyers | Brisbane & Sydney",
+                  "url": "https://rclaw.com.au/practice/wills-and-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estate Planning Lawyers Queensland",
+                  "url": "https://www.bcglaw.com.au/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills and Estate Lawyers Brisbane - Estate Planning Lawyer",
+                  "url": "https://cgw.com.au/expertise/succession-and-estate-planning/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Leading Wills, Estates & Succession Planning Lawyers – Queensland",
+                  "url": "https://doylesguide.com/rankings/wills-estates-succession-planning-lawyers-queensland/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Leading Wills and Estates Lawyers",
+                  "url": "https://www.thymac.com.au/expertises/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills and Estate Lawyers Brisbane | QLD Family Law Practice",
+                  "url": "https://www.qflp.com.au/wills",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills, Trusts & Estates - Rigby Cooke Lawyers",
+                  "url": "https://www.rigbycooke.com.au/expertise/wills-trusts-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

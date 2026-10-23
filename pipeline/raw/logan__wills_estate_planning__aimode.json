@@ -1,0 +1,170 @@
+{
+  "slug": "logan",
+  "pk": "wills_estate_planning",
+  "plat": "aimode",
+  "text": "Who are the best wills and estates lawyers in Logan and Western Corridor (Ipswich to Brisbane) for drafting wills, testamentary trusts, and enduring powers of attorney?",
+  "loc": 9112660,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\logan__wills_estate_planning__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:32:50.635Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Who are the best wills and estates lawyers in Logan and Western Corridor (Ipswich to Brisbane) for drafting wills, testamentary trusts, and enduring powers of attorney?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 9112660,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Who%20are%20the%20best%20wills%20and%20estates%20lawyers%20in%20Logan%20and%20Western%20Corridor%20%28Ipswich%20to%20Brisbane%29%20for%20drafting%20wills%2C%20testamentary%20trusts%2C%20and%20enduring%20powers%20of%20attorney%3F&udm=50&uule=w+CAIQIFISCcfkSS9POJFrEVYgP_h8diK6&hl=en&gl=AU",
+      "datetime": "2026-10-23 05:32:46 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "**Reputable wills and estates law firms across Logan, the Western Corridor, and Greater Brisbane** offer specialized services in drafting comprehensive wills, complex **testamentary trusts** , and **Enduring Powers of Attorney (EPOA)** tailored to Queensland legislation.[[1]](https://www.awbrisbanelawyers.com.au/wills-and-estates/)[[2]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdKM05qRnRjRGRmGAo)\n\n### Notable Firms Serving Logan, Ipswich, and Brisbane\n\n| Firm Name | Primary Region / Office Location | Key Estate Services Offered |\n|---|---|---|\n| **Aitken Whyte Lawyers** | Brisbane CBD & services Logan, Ipswich, & SEQ | Wills, Enduring & General Powers of Attorney, Advance Health Directives, testamentary trusts, and business succession. |\n| **Deen Lawyers** | Loganlea (Logan region) | Customised wills, cultural/family considerations, Enduring Powers of Attorney, and deceased estate administration. |\n| **Bartels Lawyers** | Underwood / Logan region | Dedicated personal and family law, conveyancing, and Wills and estates practitioners. |\n\n### What to Look For in an Estate Planning Lawyer\n\n- **Testamentary Trust Expertise:** Drafting a testamentary trust requires deep knowledge of tax laws, asset protection (against future family law breakdowns or creditor risks), and multi-generational control. Ensure the firm explicitly lists trust structuring in their portfolio.[[1]](https://www.awbrisbanelawyers.com.au/wills-and-estates/)\n- **Queensland EPOA Compliance:** Powers of attorney in Queensland must strictly adhere to the *Guardianship and Administration Act 2000* and the *Powers of Attorney Act 1998* . Experienced local practitioners prevent costly administrative or validity errors.[[1]](https://www.awbrisbanelawyers.com.au/wills-and-estates/)\n- **Holistic Approach:** A good estate lawyer will not just draft a basic will; they will advise you on superannuation-binding death nominations, jointly held assets, and business succession if you own a company or family trust.[[1]](https://www.awbrisbanelawyers.com.au/wills-and-estates/)\n\nIf you can share **which specific area** (Logan, Ipswich, or Brisbane CBD) is most convenient for you to visit, or whether you need **business succession or complex family structures** included, I can narrow down the best local recommendation.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Reputable wills and estates law firms across Logan, the Western Corridor, and Greater Brisbane offer specialized services in drafting comprehensive wills, complex testamentary trusts, and Enduring Powers of Attorney (EPOA) tailored to Queensland legislation.",
+              "markdown": "**Reputable wills and estates law firms across Logan, the Western Corridor, and Greater Brisbane** offer specialized services in drafting comprehensive wills, complex **testamentary trusts** , and **Enduring Powers of Attorney (EPOA)** tailored to Queensland legislation.[[1]](https://www.awbrisbanelawyers.com.au/wills-and-estates/)[[2]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdKM05qRnRjRGRmGAo)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Aitken Whyte Lawyers",
+                  "domain": "www.awbrisbanelawyers.com.au",
+                  "url": "https://www.awbrisbanelawyers.com.au/wills-and-estates/",
+                  "title": "Wills & Estate Lawyers Brisbane",
+                  "text": "Our team prepares a valid Will, Powers of Attorney, and other estate-planning documents. They will ensure they comply with Queensl..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdKM05qRnRjRGRmGAo",
+                  "title": "Deen Lawyers",
+                  "text": "15D Pinelands St, Loganlea QLD 4131 · Professional legal firm specializing in conveyancing and property settlement services."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Notable Firms Serving Logan, Ipswich, and Brisbane",
+              "text": null,
+              "markdown": "### Notable Firms Serving Logan, Ipswich, and Brisbane",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_table_element",
+              "position": "left",
+              "markdown": "| Firm Name | Primary Region / Office Location | Key Estate Services Offered |\n|---|---|---|\n| **Aitken Whyte Lawyers** | Brisbane CBD & services Logan, Ipswich, & SEQ | Wills, Enduring & General Powers of Attorney, Advance Health Directives, testamentary trusts, and business succession. |\n| **Deen Lawyers** | Loganlea (Logan region) | Customised wills, cultural/family considerations, Enduring Powers of Attorney, and deceased estate administration. |\n| **Bartels Lawyers** | Underwood / Logan region | Dedicated personal and family law, conveyancing, and Wills and estates practitioners. |",
+              "table": {
+                "table_header": [
+                  "Firm Name",
+                  "Primary Region / Office Location",
+                  "Key Estate Services Offered"
+                ],
+                "table_content": [
+                  [
+                    "Aitken Whyte Lawyers",
+                    "Brisbane CBD & services Logan, Ipswich, & SEQ",
+                    "Wills, Enduring & General Powers of Attorney, Advance Health Directives, testamentary trusts, and business succession."
+                  ],
+                  [
+                    "Deen Lawyers",
+                    "Loganlea (Logan region)",
+                    "Customised wills, cultural/family considerations, Enduring Powers of Attorney, and deceased estate administration."
+                  ],
+                  [
+                    "Bartels Lawyers",
+                    "Underwood / Logan region",
+                    "Dedicated personal and family law, conveyancing, and Wills and estates practitioners."
+                  ]
+                ]
+              }
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "What to Look For in an Estate Planning Lawyer",
+              "text": "Testamentary Trust Expertise: Drafting a testamentary trust requires deep knowledge of tax laws, asset protection (against future family law breakdowns or creditor risks), and multi-generational control. Ensure the firm explicitly lists trust structuring in their portfolio. Queensland EPOA Compliance: Powers of attorney in Queensland must strictly adhere to the Guardianship and Administration Act 2000 and the Powers of Attorney Act 1998. Experienced local practitioners prevent costly administrative or validity errors. Holistic Approach: A good estate lawyer will not just draft a basic will; they will advise you on superannuation-binding death nominations, jointly held assets, and business succession if you own a company or family trust.",
+              "markdown": "- **Testamentary Trust Expertise:** Drafting a testamentary trust requires deep knowledge of tax laws, asset protection (against future family law breakdowns or creditor risks), and multi-generational control. Ensure the firm explicitly lists trust structuring in their portfolio.[[1]](https://www.awbrisbanelawyers.com.au/wills-and-estates/)\n- **Queensland EPOA Compliance:** Powers of attorney in Queensland must strictly adhere to the *Guardianship and Administration Act 2000* and the *Powers of Attorney Act 1998* . Experienced local practitioners prevent costly administrative or validity errors.[[1]](https://www.awbrisbanelawyers.com.au/wills-and-estates/)\n- **Holistic Approach:** A good estate lawyer will not just draft a basic will; they will advise you on superannuation-binding death nominations, jointly held assets, and business succession if you own a company or family trust.[[1]](https://www.awbrisbanelawyers.com.au/wills-and-estates/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Aitken Whyte Lawyers",
+                  "domain": "www.awbrisbanelawyers.com.au",
+                  "url": "https://www.awbrisbanelawyers.com.au/wills-and-estates/",
+                  "title": "Wills & Estate Lawyers Brisbane",
+                  "text": "Our lawyers assist clients involved in family provision claims, contested Wills, executor disputes, trustee disputes and challenges to the validity of a Will."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you can share which specific area (Logan, Ipswich, or Brisbane CBD) is most convenient for you to visit, or whether you need business succession or complex family structures included, I can narrow down the best local recommendation.",
+              "markdown": "If you can share **which specific area** (Logan, Ipswich, or Brisbane CBD) is most convenient for you to visit, or whether you need **business succession or complex family structures** included, I can narrow down the best local recommendation.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Aitken Whyte Lawyers",
+              "domain": "www.awbrisbanelawyers.com.au",
+              "url": "https://www.awbrisbanelawyers.com.au/wills-and-estates/",
+              "title": "Wills & Estate Lawyers Brisbane",
+              "text": "Our lawyers assist clients involved in family provision claims, contested Wills, executor disputes, trustee disputes and challenges to the validity of a Will."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Google",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdKM05qRnRjRGRmGAo",
+              "title": "Deen Lawyers",
+              "text": "15D Pinelands St, Loganlea QLD 4131 · Professional legal firm specializing in conveyancing and property settlement services."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Google",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEdSNmQzZDViQRgK",
+              "title": "Bartels Lawyers",
+              "text": "Underwood Centrepoint, Cnr Logan Rd and Welch St, 2960 Logan Rd, Underwood QLD 4119"
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

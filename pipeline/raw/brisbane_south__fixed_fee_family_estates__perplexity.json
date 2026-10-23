@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane_south",
+  "pk": "fixed_fee_family_estates",
+  "plat": "perplexity",
+  "text": "Which boutique law firms in Brisbane Southside (Mount Gravatt & Sunnybank) offer free initial consultations, fixed-fee wills, or deferred-fee options for family law and wills and estates?",
+  "loc": 9060851,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_south__fixed_fee_family_estates__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:29:02.644Z",
+  "cost": 0.006198,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 49,
+      "output_tokens": 549,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005598,
+      "datetime": "2026-10-23 05:28:58 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "The clearest Southside matches are:\n\n| Firm | Area | Relevant offer |\n|---|---|---|\n| **Life Law Solutions** | Mount Gravatt East | Advertises a **free 30-minute family-law consultation**. It also offers fixed-fee transparency for family-law work and fixed-fee estate-planning packages, with wills packages starting at **$1,690 for individuals** and **$2,550 for couples**.[1][4][5] |\n| **Campbells Legal** | Upper Mount Gravatt | Offers a **free initial discussion** to assess whether a solicitor is needed. Straightforward wills can generally be quoted at a **fixed fee upfront**.[6] |\n| **Times Lawyers** | Sunnybank | Provides an initial consultation to understand the matter before quoting; it handles **family law and wills and estates**. The available information does not confirm that the initial consultation is free, so this should be verified directly.[2][10] |\n| **Wheldon & Associates** | Sunnybank | Handles **family law, succession planning and deceased-estate administration**. No free-consultation or fixed-fee offer was confirmed in the available information.[2][10] |\n| **Ian W Bartels & Associates** | Mount Gravatt area | Offers **family law and wills and estates** and describes its services as affordable. No specific free-consultation, fixed-fee or deferred-fee offer was confirmed.[2][10] |\n| **Peter G. Williams & Associates** | Brisbane Southside | Boutique firm offering **family law and wills and estate planning**. No specific pricing concession was confirmed.[2][10] |\n\nFor **deferred or payment-plan options**, the strongest confirmed match is **R&G Law Group**, which offers payment plans for eligible matters and a free 15-minute consultation for Queensland residents, but its listed Brisbane office is not specifically in Mount Gravatt or Sunnybank.[8] **Bespoke Legal Group** also offers payment plans, a free 20-minute family-law consultation, and fixed-fee estate-planning services, but its listed Brisbane office is in the CBD rather than the Southside.[9]\n\nBefore booking, ask each firm to confirm:\n\n- Whether the free consultation applies to your specific family-law or estates issue.\n- Whether the quoted will fee includes an enduring power of attorney, advance-health directive, witnessing and revisions.\n- Whether family-law fees can be staged, deferred or paid by instalment.\n- Whether court filing, barrister, valuation and other third-party costs are additional.",
+              "annotations": [
+                {
+                  "title": "Our Locations",
+                  "url": "https://lifelaw.com.au/our-locations/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Find Family Lawyers in Underwood QLD - Finchly",
+                  "url": "https://finchly.com.au/find/family-law/qld/underwood-4119",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Contact Us | Lawyers Sunshine Coast & Brisbane",
+                  "url": "https://lifelaw.com.au/contact-us/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills and Estate Planning",
+                  "url": "https://lifelaw.com.au/legal-services/wills-estate-planning-2/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Brisbane Family Lawyer | Life Law Solutions",
+                  "url": "https://lifelaw.com.au/family-lawyer-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "CAMPBELLS LEGAL SERVICES",
+                  "url": "https://campbellslegal.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estate Planning Lawyers Queensland",
+                  "url": "https://www.bcglaw.com.au/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Our Fees — R&G Law Group |Brisbane's Premium Family Lawyer ...",
+                  "url": "https://rglawgroup.com.au/our-fees",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Pricing | Bespoke Legal Group Brisbane & Gold Coast",
+                  "url": "https://www.bespokelegalgroup.com.au/pricing",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Find Family Lawyers in Mount Gravatt QLD - Finchly",
+                  "url": "https://finchly.com.au/find/family-law/qld/mount-gravatt-4122",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

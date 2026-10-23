@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane",
+  "pk": "fixed_fee_family_estates",
+  "plat": "perplexity",
+  "text": "Which boutique law firms in Brisbane offer free initial consultations, fixed-fee wills, or deferred-fee options for family law and wills and estates?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane__fixed_fee_family_estates__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:26:17.231Z",
+  "cost": 0.006259,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 38,
+      "output_tokens": 621,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005659,
+      "datetime": "2026-10-23 05:26:13 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Several Brisbane boutique or specialist firms advertise one or more of these cost arrangements:\n\n| Firm | Relevant option | Area |\n|---|---|---|\n| **Bespoke Legal Group** | Free 20-minute initial consultation for family-law matters; fixed-fee estate-planning documents, including a standard will listed at $600 + GST and a will plus enduring power of attorney at $700 + GST.[3] | Family law; wills and estates |\n| **Direct Lawyers** | Free 10-minute discovery call and fixed-fee will and estate-planning packages. The firm is based in West End and focuses on succession law.[1][4][8] | Wills and estates |\n| **Genuine Legal** | Free, no-obligation family-law consultation; fixed-fee quotes and payment plans, including the possibility of commencing without an initial deposit where affordability is an issue.[7] | Family law |\n| **Life Law Solutions** | Free initial consultation followed by fixed-fee estate-planning packages; Brisbane office in Mount Gravatt East.[6] | Wills and estates |\n| **Melrose Keys Lawyers** | Free 10-minute introductory call; the firm is described as boutique and handles family law, wills and estates, and property law. A longer consultation is charged separately.[10] | Family law; wills and estates |\n| **The Estate Lawyers** | Advertised free initial consultation and a deferred-fee option for eligible estate matters, allowing payment when inheritance funds are received.[2][10] | Wills and estates |\n| **Nurture Law** | Complimentary initial chat is advertised in one Brisbane comparison listing, with fixed-fee estate services; another listing says a $295 initial fee may apply and be deducted from the package, so confirm the current arrangement.[2][10] | Wills and estates |\n| **Dare Lawyers** | Boutique firm specialising in family law and wills and estates; its listing describes reasonable rates, but does not clearly confirm a free consultation, fixed-fee schedule, or deferred-fee arrangement.[5] | Family law; wills and estates |\n\n**Best matches by need:**\n\n- **Free family-law consultation:** Bespoke Legal Group or Genuine Legal.[3][7]\n- **Fixed-fee wills:** Direct Lawyers, Bespoke Legal Group, Life Law Solutions, or Nurture Law.[1][3][6][10]\n- **Deferred or delayed payment for an estate matter:** The Estate Lawyers appears the clearest match, subject to eligibility and the matter type.[2]\n- **One firm covering both family law and wills/estates:** Bespoke Legal Group, Melrose Keys Lawyers, or Dare Lawyers.[3][5][10]\n\nBefore booking, confirm whether “free consultation” means a short screening call or a substantive legal appointment, whether GST is included, and whether deferred fees are available for your specific matter.",
+              "annotations": [
+                {
+                  "title": "Estate Planning Packages - Direct Lawyers",
+                  "url": "https://www.directlawyers.com.au/estate-planning-packages",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "5 Wills Lawyers in Brisbane to Get Your Affairs in Order [2026 ]",
+                  "url": "https://www.thebestbrisbane.com/best-wills-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Pricing | Bespoke Legal Group Brisbane & Gold Coast",
+                  "url": "https://www.bespokelegalgroup.com.au/pricing",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Not-for-Profit Lawyers Brisbane & Charity Law",
+                  "url": "https://www.directlawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Find Family Lawyers in Underwood QLD - Finchly",
+                  "url": "https://finchly.com.au/find/family-law/qld/underwood-4119",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills and Estate Planning",
+                  "url": "https://lifelaw.com.au/legal-services/wills-estate-planning-2/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Q&A",
+                  "url": "https://genuinelegal.com.au/questions_and_answers",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Will Lawyers Brisbane | Make or Update Your Will in QLD",
+                  "url": "https://www.directlawyers.com.au/will-lawyers-brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills and Estates Lawyers Queensland",
+                  "url": "https://www.gotocourt.com.au/qld/wills-and-estates",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "6 of the Best Estate Lawyers in Brisbane [2026 ]",
+                  "url": "https://www.thebestbrisbane.com/best-estate-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

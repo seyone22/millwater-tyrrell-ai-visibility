@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane_east",
+  "pk": "fixed_fee_family_estates",
+  "plat": "perplexity",
+  "text": "Which boutique law firms in Brisbane East and Bayside (Carindale & Wynnum) offer free initial consultations, fixed-fee wills, or deferred-fee options for family law and wills and estates?",
+  "loc": 9194035,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_east__fixed_fee_family_estates__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:31:56.564Z",
+  "cost": 0.006216,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 51,
+      "output_tokens": 565,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005616,
+      "datetime": "2026-10-23 05:31:52 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "The strongest matches are:\n\n| Firm | Area/service | Relevant fee option |\n|---|---|---|\n| **Life Law Solutions** | Wishart/Brisbane East; family law, wills and estate administration | Free 30-minute family-law consultation; serves the Wishart community and handles family, wills and estates matters.[10] |\n| **Nurture Law** | Brisbane; boutique wills and estates practice | Free initial chat, fixed-fee wills and estate-planning packages, and upfront pricing.[2] |\n| **The Estate Lawyers** | Brisbane; wills, estate administration and estate disputes | No-charge initial discussion; fixed fees; approved estate matters may be handled on a deferred-fee basis, with payment delayed until inheritance is received.[5] |\n| **Direct Lawyers** | Brisbane/Queensland; wills and estates | Free 10-minute discovery call and fixed-fee estate-planning packages.[4] |\n| **Armstrong Legal** | Brisbane; contested wills and family-provision claims | Obligation-free initial consultation; possible no-win-no-fee or deferred “pay-at-end” arrangements, assessed case by case.[7] |\n| **Andrews Family Lawyers** | Brisbane/Newstead; family law | Free initial phone consultations and customised fee arrangements; some fixed-fee options are advertised.[1] |\n| **Genuine Legal** | Brisbane; family law | One free initial consultation in Queensland, plus fixed-fee quotes and payment plans.[8] |\n\nFor a **local Carindale or Wynnum office**, the search results identify **Empire Legal – Bayside Office in Wynnum** as offering family law and wills/estates, but do not verify a free consultation, fixed-fee will package, or deferred-fee arrangement.[6] The available results also describe **Webb & Co** as operating across Brisbane and Bayside and offering a free 30-minute consultation, although they do not clearly establish a Carindale or Wynnum office.[1]\n\n**Best shortlist by need:**\n\n- **Wills and estate planning:** Nurture Law or Direct Lawyers.\n- **Estate disputes with delayed payment:** The Estate Lawyers or Armstrong Legal, subject to eligibility and written terms.\n- **Family law with a free first discussion:** Life Law Solutions, Andrews Family Lawyers, or Genuine Legal.\n- **Closest clearly identified Bayside option:** Empire Legal’s Wynnum office, but confirm fees directly before booking.\n\nFee policies can depend on the matter’s complexity, eligibility and whether court proceedings are involved, so request a written quote and ask whether the “free consultation” is limited to an intake call or includes substantive legal advice.",
+              "annotations": [
+                {
+                  "title": "Matthew Love from Piccardi Legal - LawConnect",
+                  "url": "https://lawconnect.com/en-au/find/family-law/qld/wynnum-4178",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Nurture Law: Wills and Estate Lawyers Brisbane - Estate ...",
+                  "url": "https://nurturelaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "117 Family Lawyers in Australia 2026 (Accredited Specialists)",
+                  "url": "https://comparedivorcelawyers.com.au/providers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Not-for-Profit Lawyers Brisbane & Charity Law",
+                  "url": "https://www.directlawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The Estate Lawyers",
+                  "url": "https://theestatelawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills and Estates Lawyer in Brisbane",
+                  "url": "https://www.findalaw.com.au/brisbane/wills-estates-lawyer",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Provision Law Firm Brisbane",
+                  "url": "https://www.armstronglegal.com.au/pages/cmcw-family-provision-law-firm-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Genuine Legal",
+                  "url": "https://genuinelegal.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Find the best family lawyers in Brisbane",
+                  "url": "https://www.bark.com/en/au/family-lawyers/queensland/brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Get a FREE Initial Consult with Brisbane's Top Family Lawyers",
+                  "url": "https://lifelaw.com.au/brisbane-free-initial-consult/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

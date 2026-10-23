@@ -1,0 +1,106 @@
+{
+  "slug": "logan",
+  "pk": "divorce_property",
+  "plat": "perplexity",
+  "text": "I am going through a separation and complex property settlement in Logan and Western Corridor (Ipswich to Brisbane). Which family law firms have the strongest track record for property division and binding financial agreements?",
+  "loc": 9112660,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\logan__divorce_property__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:32:27.664Z",
+  "cost": 0.006299,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 47,
+      "output_tokens": 652,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005699,
+      "datetime": "2026-10-23 05:32:23 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For a complex property settlement spanning **Logan, Ipswich and Brisbane**, the strongest apparent matches are:\n\n- **Cooper Grace Ward — Brisbane:** Best suited to high-value or structurally complex matters involving businesses, trusts, tax, superannuation or corporate assets. Its family-law team handles property settlements and BFAs, with access to related tax, superannuation and corporate expertise.[10]\n- **Best Wilson Buckley Family Law — Ipswich, Brisbane and North Lakes:** A specialist family-law practice with offices covering the Western Corridor. It specifically handles financial/property settlements and has publicly documented client feedback concerning property-settlement work.[3][5]\n- **Australian Family Lawyers — Ipswich:** Suitable where you want a larger specialist network and a settlement-focused approach. Its Ipswich service covers complex holdings, business interests, family trusts, property settlements and BFAs.[6]\n- **Fallu McMillan — Ipswich:** A local option offering advice on property division, spousal maintenance and drafting BFAs.[9]\n- **Avokah Legal — Brisbane/Logan service area:** Covers Logan and Greater Brisbane and specifically advertises complex property settlements involving superannuation, businesses and family trusts, as well as BFAs before, during or after relationships.[1][2]\n- **West Brisbane Family Lawyers — Kenmore to Ipswich:** A geographically convenient option for the Western Corridor, offering asset identification and valuation, property negotiations, court documentation and BFA drafting/review.[7]\n- **Cudmore Legal — Brisbane:** Worth considering for complex settlements and BFAs; it emphasises that poorly drafted BFAs can be overturned, making specialist drafting and independent advice important.[8]\n\n### Suggested shortlist\n\nFor your description, approach **three firms initially**:\n\n1. **Cooper Grace Ward** if the asset pool includes companies, trusts, significant investments, tax issues or high-value property.\n2. **Best Wilson Buckley** or **Australian Family Lawyers** for a specialist family-law practice with Ipswich/Western Corridor coverage.\n3. **Avokah Legal** or **Fallu McMillan** for a Logan/Brisbane or Ipswich-based local option.\n\nNo public source establishes a definitive, independently verified “best track record”; law-firm websites and testimonials demonstrate relevant services but are not equivalent to audited litigation-success data. During consultations, ask each firm for the specific solicitor’s experience with:\n\n- Business and trust valuations\n- Superannuation splitting\n- Hidden or disputed assets\n- Contributions involving inheritances or family loans\n- Urgent injunctions or freezing orders\n- BFAs challenged for undue influence, duress or lack of disclosure\n- Negotiation versus Federal Circuit and Family Court litigation\n- Fixed-fee stages and likely total cost\n\nA BFA requires each party to obtain independent legal advice, and a settlement should be formally documented—通常 by consent orders or a properly prepared financial agreement. For married couples, court property proceedings generally must be commenced within 12 months after divorce; for de facto couples, the usual limit is two years after separation.[3][10]",
+              "annotations": [
+                {
+                  "title": "Separation Lawyers Brisbane",
+                  "url": "https://www.avokahlegal.com.au/separation-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Ashika Jacques - Solicitor",
+                  "url": "https://www.avokahlegal.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Separation Lawyers Brisbane and Queensland",
+                  "url": "https://bwbfamilylaw.com.au/how-we-help/separation-lawyer/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Property Settlement Orders",
+                  "url": "https://landersolicitors.com.au/family-law/property-settlement-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Wilson Buckley Family Law: Why Choose Our Lawyers?",
+                  "url": "https://bwbfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Lawyers Ipswich Qld",
+                  "url": "https://www.australianfamilylawyers.com.au/cm-family-lawyers-ipswich-qld",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "About Us",
+                  "url": "https://familylawipswich.com.au/about-us/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Cudmore Legal: Family Lawyers Brisbane | Divorce Law Firm",
+                  "url": "https://www.cudmorelegal.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "How We Help",
+                  "url": "https://www.fmlaw.com.au/practice-areas/family-law/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Law Brisbane - Divorce Lawyers",
+                  "url": "https://cgw.com.au/expertise/family-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

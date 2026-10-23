@@ -1,0 +1,358 @@
+{
+  "slug": "brisbane_east",
+  "pk": "probate_administration",
+  "plat": "claude",
+  "text": "I am an executor handling probate and deceased estate administration in Brisbane East and Bayside (Carindale & Wynnum). Which law firms specialise in Queensland probate and estate administration?",
+  "loc": 9194035,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_east__probate_administration__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:32:22.990Z",
+  "cost": 0.063415,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 9515,
+      "output_tokens": 1618,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.062815,
+      "datetime": "2026-10-23 05:32:09 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a comprehensive overview of law firms specialising in Queensland probate and deceased estate administration, including those serving the **Brisbane East and Bayside** areas (Carindale & Wynnum):\n\n---\n\n## 🏛️ Law Firms Specialising in Queensland Probate & Estate Administration\n\n---\n\n### 1. **Gullickson Lawyers**\nA strong local option for your specific area. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They explicitly serve Brisbane's Inner East suburbs (Norman Park, Bulimba, Hawthorne, Morningside), Bayside suburbs (Wynnum, Manly, Lota, Tingalpa, Hemmant), and Carindale.",
+              "annotations": [
+                {
+                  "title": "Standard Wills Brisbane from $485",
+                  "url": "https://www.gullicksonlawyers.com.au/brisbane-wills-estate-lawyers",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Their services include:\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Guiding executors and administrators through the Queensland probate process with clarity and efficiency.",
+              "annotations": [
+                {
+                  "title": "Standard Wills Brisbane from $485",
+                  "url": "https://www.gullicksonlawyers.com.au/brisbane-wills-estate-lawyers",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Drafting simple and complex wills including testamentary trusts, handling estate disputes and contested wills, and estate structuring across property, superannuation, family trusts and business interests.",
+              "annotations": [
+                {
+                  "title": "Standard Wills Brisbane from $485",
+                  "url": "https://www.gullicksonlawyers.com.au/brisbane-wills-estate-lawyers",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Standard Wills Brisbane from $485",
+                  "url": "https://www.gullicksonlawyers.com.au/brisbane-wills-estate-lawyers",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 2. **DBL Solicitors** *(Wynnum)*\nA locally based firm right in your area. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Comprehensive estate administration services form the cornerstone of legal support provided by DBL Solicitors to families navigating the complexities of deceased estate management in Wynnum.",
+              "annotations": [
+                {
+                  "title": "Find Estate Administration Lawyers in Wynnum, QLD",
+                  "url": "https://lawconnect.com/en-au/find/estate-administration/qld/wynnum-4178",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Located in Wynnum, QLD, they have been trusted in Brisbane for over 25 years, covering property, business, family, wills, estate disputes, deceased estate administration, debt recovery, and more.",
+              "annotations": [
+                {
+                  "title": "Find Estate Administration Lawyers in Capalaba, QLD",
+                  "url": "https://lawconnect.com/en-au/find/estate-administration/qld/capalaba-4157",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. **Connor Hunter Law Firm** *(Wynnum)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Connor Hunter Lawyers Brisbane has been providing trusted legal services since 1971, committed to client privacy and high standards. Founded by John Connor and Peter Hunter, the firm values community ties and modern practices.",
+              "annotations": [
+                {
+                  "title": "Find Estate Administration Lawyers in Wynnum, QLD",
+                  "url": "https://lawconnect.com/en-au/find/estate-administration/qld/wynnum-4178",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are listed as an estate administration firm serving the Wynnum–Manly region.\n\n---\n\n### 4. **Willwise** *(Carindale)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Willwise offers expert services in wills, enduring powers of attorney, estate planning, probate, and estate administration. It is led by Judy Hayward, a Queensland Law Society accredited succession law specialist with over 20 years' experience.",
+              "annotations": [
+                {
+                  "title": "Find Estate Administration Lawyers in Capalaba, QLD",
+                  "url": "https://lawconnect.com/en-au/find/estate-administration/qld/capalaba-4157",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are located in Carindale — directly in your area.\n\n---\n\n### 5. **Australian Law Group** *(Wynnum)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Australian Law Group (ALG) is a trusted firm serving Queensland and New South Wales, providing practical, cost-effective legal advice. Combining decades of experience from respected firms, they offer a competitive alternative to large firms with comprehensive services.",
+              "annotations": [
+                {
+                  "title": "Find Estate Administration Lawyers in Wynnum, QLD",
+                  "url": "https://lawconnect.com/en-au/find/estate-administration/qld/wynnum-4178",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 6. **Queensland Probate**\nA Brisbane-based firm dedicated exclusively to probate and estate matters. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The legal team at Queensland Probate has over 65 years of combined experience, and the practice was established in 2007.",
+              "annotations": [
+                {
+                  "title": "Estate Lawyers Brisbane",
+                  "url": "https://qldprobate.com.au/estate-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Estate Lawyers Brisbane",
+                  "url": "https://qldprobate.com.au/estate-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They specialise in wills and estates services, estate planning, administration of deceased estates, real estate transactions in deceased estates, and contesting a will.",
+              "annotations": [
+                {
+                  "title": "Estate Planning Brisbane",
+                  "url": "https://qldprobate.com.au/estate-planning-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 7. **Will and Estate Lawyers Australia**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their wills and estates lawyers have extensive experience with all aspects of estate law in Brisbane and throughout Queensland, and they offer transparent, fixed-fee pricing for wills, probate, and letters of administration.",
+              "annotations": [
+                {
+                  "title": "Wills and Estate Lawyers Brisbane",
+                  "url": "https://willandestatelawyers.com.au/wills-and-estate-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their Brisbane team guides executors through every step of the process, from obtaining probate or letters of administration to final distribution, including identifying assets, paying debts, preparing estate accounts, and ensuring compliance with Queensland succession laws.",
+              "annotations": [
+                {
+                  "title": "Wills and Estate Lawyers Brisbane",
+                  "url": "https://willandestatelawyers.com.au/wills-and-estate-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They provide probate services throughout Queensland from offices in Brisbane (Milton and Ashgrove) and Sunshine Coast (Sippy Downs).",
+              "annotations": [
+                {
+                  "title": "Probate Lawyers Brisbane - Expert Help for Executors",
+                  "url": "https://willandestatelawyers.com.au/probate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 8. **The Estate Lawyers**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They do not accept instructions in any area of law unless the instructions relate to a Will or Estate Plan, a Deceased Estate Administration, or a Will or other form of estate or Power of Attorney dispute in Queensland",
+              "annotations": [
+                {
+                  "title": "The Estate Lawyers",
+                  "url": "https://theestatelawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " — making them a highly focused specialist firm. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They are Queensland will and estate lawyers who specialise in contested wills and estates matters, and also represent executors of wills or beneficiaries of estates during deceased estate administrations which do not involve any form of contest or litigation.",
+              "annotations": [
+                {
+                  "title": "The Estate Lawyers",
+                  "url": "https://theestatelawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 9. **Aylward Game Solicitors**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The team provides a seamless service for individuals and families dealing with deceased estate administration across Brisbane, Gold Coast, and Sunshine Coast. Practising throughout Queensland, they understand state-specific probate and succession laws.",
+              "annotations": [
+                {
+                  "title": "Deceased Estates in Queensland",
+                  "url": "https://aylwardgame.com.au/deceased-estates-queensland-guide/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They offer comprehensive service from estate planning to dispute resolution, all under one roof.",
+              "annotations": [
+                {
+                  "title": "Deceased Estates in Queensland",
+                  "url": "https://aylwardgame.com.au/deceased-estates-queensland-guide/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 💡 Tips for Choosing the Right Firm as an Executor\n\n- **Local presence matters** — firms like **DBL Solicitors**, **Connor Hunter**, and **Willwise** are physically located in Wynnum or Carindale, which can be convenient for in-person meetings.\n- **Specialist accreditation** — look for Queensland Law Society **Accredited Succession Law Specialists** (like Willwise's Judy Hayward) for complex estates.\n- **Fixed-fee vs. hourly** — some firms offer fixed fees for probate (e.g., Will and Estate Lawyers Australia), which can help with budgeting.\n- **Scope of services** — as an executor, ensure the firm can handle the full administration process, not just the probate application itself.\n\nWould you like more detail on any of these firms, or guidance on the Queensland probate process itself?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "probate deceased estate administration law firms Brisbane East Carindale Wynnum Queensland",
+        "Queensland probate estate administration specialist law firms Brisbane 2024"
+      ]
+    }
+  ]
+}

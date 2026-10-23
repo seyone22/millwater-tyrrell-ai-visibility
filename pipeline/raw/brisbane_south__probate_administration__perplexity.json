@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane_south",
+  "pk": "probate_administration",
+  "plat": "perplexity",
+  "text": "I am an executor handling probate and deceased estate administration in Brisbane Southside (Mount Gravatt & Sunnybank). Which law firms specialise in Queensland probate and estate administration?",
+  "loc": 9060851,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_south__probate_administration__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:28:40.014Z",
+  "cost": 0.006207,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 44,
+      "output_tokens": 563,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005607,
+      "datetime": "2026-10-23 05:28:36 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For an executor in **Mount Gravatt, Sunnybank or Brisbane Southside**, these firms appear particularly relevant for Queensland probate and deceased-estate administration:\n\n- **Campbells Legal — Upper Mount Gravatt:** Local Southside firm offering probate, estate administration, debt and tax handling, estate accounts and distribution. Its office is at 6B/46 Mount Gravatt–Capalaba Road, Upper Mount Gravatt.[6]\n- **Bennett Carroll Solicitors:** Handles probate applications, executor advice, asset collection, debts, tax obligations and distribution across Queensland. It lists a Brisbane South office in **Upper Mount Gravatt** and offers electronic appointments.[1]\n- **A.L.F. Lawyers — Brisbane:** Acts for executors on Supreme Court of Queensland grants of probate, letters of administration and subsequent estate administration; it also handles estate disputes where necessary.[2]\n- **The Estate Lawyers:** A specialist Queensland practice focused exclusively on wills and estates, including executor assistance, grants of probate, intestate estates and non-contested estate administration. It is based in Brisbane and services Queensland matters.[9]\n- **Queensland Estate Lawyers (QEL):** Specialises in probate and estate administration, including preparing and lodging applications, interpreting wills, identifying assets and liabilities, and representing executors before the Supreme Court where required.[4]\n- **Nextgen.Law:** Provides Brisbane and Queensland-wide assistance with probate, letters of administration, beneficiary identification and deceased-estate administration.[8]\n- **Thynne + Macartney:** A larger Brisbane firm with an established Wills & Estates team advising on executor duties, grants of probate, letters of administration, estate assets and liabilities, and estate litigation.[7]\n- **MacDonald Law:** Handles simple and complex deceased estates, Supreme Court applications for probate or letters of administration, asset collection, liabilities, property, businesses and testamentary trusts.[10]\n\n**Best local starting points:** Campbells Legal is the most geographically convenient option for Mount Gravatt, while Bennett Carroll has a dedicated Upper Mount Gravatt presence and Queensland-wide estate services. For a specialist-only estates practice, compare The Estate Lawyers and Queensland Estate Lawyers.\n\nWhen requesting quotes, ask whether the fee includes:\n\n- Preparing and filing the Supreme Court application\n- Advertising and obtaining the grant\n- Correspondence with banks, superannuation funds and insurers\n- Property transfers or sale\n- Tax and estate-accounting work\n- Final distribution to beneficiaries\n- Advice concerning potential family-provision or will disputes\n\nConfirm that the firm is currently practising in Queensland and obtain a written scope of work and costs disclosure before appointing it.",
+              "annotations": [
+                {
+                  "title": "Estate Administration & Probate Lawyers in Queensland",
+                  "url": "https://www.bcglaw.com.au/estate-administration/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Probate Lawyers Brisbane | Apply for Grant of Probate",
+                  "url": "https://www.alflawyers.com.au/probate-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Estate Lawyers Brisbane | GLG Legal",
+                  "url": "https://www.glglegal.com.au/disputes/estate-litigation/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "QLD Probate Lawyers | Estate Administration | QLD Estate Lawyers",
+                  "url": "https://qldestatelawyers.com.au/probate-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estate Planning Lawyers Queensland",
+                  "url": "https://www.bcglaw.com.au/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estates Lawyers | Upper Mount Gravatt, Brisbane",
+                  "url": "https://campbellslegal.com.au/wills-and-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Leading Wills and Estates Lawyers",
+                  "url": "https://www.thymac.com.au/expertises/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Probate | Deceased Estate Lawyers Brisbane | Nextgen.Law",
+                  "url": "https://nextgen.law/probate-and-estate-administration/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The Estate Lawyers",
+                  "url": "https://theestatelawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills and Estates lawyers Toowoomba and Brisbane",
+                  "url": "https://www.macdonaldlaw.com.au/will-estates",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

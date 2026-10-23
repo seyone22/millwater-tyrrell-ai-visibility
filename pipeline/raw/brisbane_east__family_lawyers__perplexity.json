@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane_east",
+  "pk": "family_lawyers",
+  "plat": "perplexity",
+  "text": "Who are the best family lawyers in Brisbane East and Bayside (Carindale & Wynnum)? Give me a shortlist of reputable family law firms with reasons.",
+  "loc": 9194035,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_east__family_lawyers__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:30:42.713Z",
+  "cost": 0.006437,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 41,
+      "output_tokens": 796,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005837,
+      "datetime": "2026-10-23 05:30:38 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "A practical shortlist for **Carindale, Brisbane East and Wynnum/Bayside** is below. Most highly ranked firms are based in Brisbane CBD or nearby rather than directly in Carindale or Wynnum, so confirm consultation locations, remote appointments and court coverage when calling.\n\n- **Stewart Family Law** — A strong boutique option for parenting, property, divorce and mediation matters. The firm reports Queensland Law Society Accredited Family Law Specialists, more than 40 years’ combined experience and Doyle’s Guide recognition for 2024–2026.[1] Judy Stewart is also recognised by Best Lawyers for family law and family-law mediation.[4]\n- **Michael Lynch Family Lawyers** — Suitable where you want a larger specialist family-law practice with substantial experience. The firm says it has operated for more than 25 years, has more than 100 years’ combined professional experience and includes accredited family-law specialists.[2] Doyle’s Guide lists it as a recommended Brisbane firm for 2026.[3]\n- **DA Family Lawyers** — Worth considering for parenting disputes, complex property matters and alternative dispute resolution. It offers negotiation, mediation, collaborative law and litigation, and Lisa Foley is listed in Doyle’s 2026 individual rankings for parenting/children’s matters and complex property matters.[6]\n- **Damien Greer Lawyers** — A good choice if you prefer a settlement-focused approach but need litigation capability if required. Best Lawyers describes Wendy at the firm as an accredited family-law specialist and arbitrator, with experience in negotiation, mediation, arbitration and collaborative law.[4] The firm is ranked Third Tier by Doyle’s Guide for Brisbane in 2026.[3]\n- **HopgoodGanim** — Best suited to complex, high-value or strategically sensitive matters, including cases requiring mediation or sophisticated litigation support. It is ranked First Tier by Doyle’s Guide and Best Lawyers recognises Brisbane practitioners there for family law and family-law mediation.[3][4]\n- **Cooper Grace Ward** — Another strong option for complex property, de facto, parenting and financial-agreement matters. Best Lawyers recognises practitioners in its family and relationship-law practice, while Best Law Firms places it in Brisbane Tier 1 for family law.[4][8]\n- **Simonidis Steel** — Consider this if you want an experienced specialist with a more personal-practice feel. Deano Simonidis is described as a Queensland Law Society Accredited Family Law Specialist with 26 years’ family-law experience; the firm is also listed as recommended by Doyle’s Guide.[4][3]\n- **Hartley Family Law** — A specialist boutique worth comparing for a tailored service, particularly in parenting and property matters. It appears in Doyle’s 2026 recommended Brisbane list and is rated Brisbane Tier 1 by Best Law Firms.[3][8]\n\n## Best starting points by matter\n\n- **Everyday separation, parenting or property dispute:** Stewart Family Law, Michael Lynch or Hartley Family Law.\n- **Complex property, business assets or high-value matter:** HopgoodGanim, Cooper Grace Ward or DA Family Lawyers.\n- **Parenting dispute or family-violence-related urgency:** DA Family Lawyers, Damien Greer or a specialist solicitor who can advise on immediate safety and court steps.\n- **Mediation or negotiated settlement:** Stewart, Damien Greer, DA Family Lawyers or HopgoodGanim.\n\nDoyle’s rankings are based on peer nominations and interviews, and the firms within each listed tier are not necessarily ranked against one another.[3] Before choosing, ask about the individual solicitor’s accreditation, likely total cost, who will handle the file, availability for urgent parenting issues, and whether the firm regularly appears in the Federal Circuit and Family Court of Australia. Also verify current practising details through the Queensland Law Society and seek independent advice before signing any costs agreement.",
+              "annotations": [
+                {
+                  "title": "Stewart Family Law: Family Lawyers Brisbane",
+                  "url": "https://stewartfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Michael Lynch Family Lawyers: Family Lawyers Brisbane",
+                  "url": "https://www.michaellynchfamilylawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Leading Family & Divorce Law Firms - Brisbane, 2026 - Doyle's Guide",
+                  "url": "https://doylesguide.com/rankings/family-divorce-law-firms-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Lawyers Near You in Brisbane, Australia for Family Law",
+                  "url": "https://www.bestlawyers.com/australia/brisbane/family-law",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Find the best family lawyers in Brisbane",
+                  "url": "https://www.bark.com/en/au/family-lawyers/queensland/brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Award Winning Family & Divorce Lawyers Brisbane | DA Family ...",
+                  "url": "https://dafamilylawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Lawyers in Australia for Family Law",
+                  "url": "https://www.bestlawyers.com/australia/family-law",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Brisbane, Family Law Firms",
+                  "url": "https://www.bestlawfirms.com/australia/family-law/brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Lawyers in Brisbane",
+                  "url": "https://www.pcllawyers.com.au/brisbane/family-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Leading Family & Divorce Law Firms – Brisbane, 2026",
+                  "url": "https://doylesguide.com/leading-family-divorce-law-firms-brisbane-2026/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

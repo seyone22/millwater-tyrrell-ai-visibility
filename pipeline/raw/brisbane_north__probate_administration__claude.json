@@ -1,0 +1,369 @@
+{
+  "slug": "brisbane_north",
+  "pk": "probate_administration",
+  "plat": "claude",
+  "text": "I am an executor handling probate and deceased estate administration in Brisbane Northside (Chermside & North Lakes). Which law firms specialise in Queensland probate and estate administration?",
+  "loc": 9060852,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_north__probate_administration__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:30:40.681Z",
+  "cost": 0.070759,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10593,
+      "output_tokens": 1892,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.070159,
+      "datetime": "2026-10-23 05:30:36 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a curated list of law firms that specialise in Queensland probate and deceased estate administration, with a focus on Brisbane Northside (Chermside & North Lakes):\n\n---\n\n## 🏛️ Brisbane Northside – Local Specialists\n\n### 1. **Kelly Lawyers** *(Ascot, Brisbane Northside)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Kelly Lawyers is a boutique law firm in Ascot, with Wills and Estates lawyers serving Brisbane's Northside since 1984.",
+              "annotations": [
+                {
+                  "title": "Wills and Estates Brisbane Northside",
+                  "url": "https://kellylawyers.com.au/services/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They assist clients across Chermside, Kedron, Stafford, Nundah, Hamilton, and beyond with obtaining Probate or Letters of Administration, guidance on your role as Executor or Administrator, estate administration steps, distribution of the estate, and Deeds of Family Arrangement.",
+              "annotations": [
+                {
+                  "title": "Wills and Estates Brisbane Northside",
+                  "url": "https://kellylawyers.com.au/services/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills and Estates Brisbane Northside",
+                  "url": "https://kellylawyers.com.au/services/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They offer fixed-fee consultations and outline costs in writing before any work begins.",
+              "annotations": [
+                {
+                  "title": "Wills and Estates Brisbane Northside",
+                  "url": "https://kellylawyers.com.au/services/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n📍 138 Racecourse Road, Ascot QLD 4007\n\n---\n\n### 2. **Cornerstone Law Offices** *(North Lakes)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Cornerstone Law Offices is based in North Lakes and delivers personalised legal solutions for executors and beneficiaries, with over 26 years of experience and ISO certification standards, transforming complex probate procedures into manageable steps for North Lakes clients.",
+              "annotations": [
+                {
+                  "title": "Find Probate Lawyers in North Lakes, QLD",
+                  "url": "https://lawconnect.com/en-au/find/probate/qld/north-lakes-4509",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They specialise in estate administration, will disputes, and navigating the probate application process for Queensland estates.",
+              "annotations": [
+                {
+                  "title": "Find Probate Lawyers in North Lakes, QLD",
+                  "url": "https://lawconnect.com/en-au/find/probate/qld/north-lakes-4509",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They have an impressive **4.8-star rating from 195 reviews**.\n📍 North Lakes, QLD\n\n---\n\n### 3. **Cooke & Hutchinson Lawyers** *(North Lakes & Redcliffe)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Cooke & Hutchinson Lawyers has been a trusted boutique law firm for over 40 years, serving North Lakes, Redcliffe, and Brisbane, covering fields including elder law and Wills & Estates, including trusts and powers of attorney. They are located in Bluewater Square and North Lakes Central, offering convenient access and ample parking.",
+              "annotations": [
+                {
+                  "title": "Compare 28 Deceased Estates Lawyers in Brisbane, QLD",
+                  "url": "https://lawconnect.com/en-au/find/deceased-estates/qld/brisbane-4000",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n📍 North Lakes & Redcliffe, QLD\n\n---\n\n### 4. **Zande Law Pty Ltd** *(North Lakes)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Zande Law offers legal services in Family Law, Conveyancing, Wills and Estates, and Retirement Village matters, priding themselves on personalised solutions with honest advice. Founded by Michael Zande, the firm has a permanent office in North Lakes and expanded to Toowoomba and Cleveland in 2024.",
+              "annotations": [
+                {
+                  "title": "Find Deceased Estates Lawyers in North Lakes, QLD",
+                  "url": "https://lawconnect.com/en-au/find/deceased-estates/qld/north-lakes-4509",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n📍 North Lakes, QLD\n\n---\n\n### 5. **Ascendia Lawyers** *(North Lakes)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Ascendia Lawyers is a trusted legal practice in North Brisbane and the Sunshine Coast, servicing areas like North Lakes, Noosa, and Maroochydore. For estate law, they handle probate, estate planning, and wills.",
+              "annotations": [
+                {
+                  "title": "Find Deceased Estates Lawyers in North Lakes, QLD",
+                  "url": "https://lawconnect.com/en-au/find/deceased-estates/qld/north-lakes-4509",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They hold a **5-star rating from 23 reviews**.\n📍 North Lakes, QLD\n\n---\n\n### 6. **Mitchells Solicitors** *(Aspley – close to Chermside)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Mitchells Solicitors is based in Aspley, QLD (approximately 15 km from North Lakes)",
+              "annotations": [
+                {
+                  "title": "Find Probate Lawyers in North Lakes, QLD",
+                  "url": "https://lawconnect.com/en-au/find/probate/qld/north-lakes-4509",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", making them a convenient option for clients in the Chermside corridor. They are listed as a probate and estate administration practice in the broader North Brisbane area.\n📍 Aspley, QLD\n\n---\n\n## 🏛️ Brisbane-Wide Queensland Probate Specialists\n\n### 7. **Little Estate Lawyers** *(Brisbane CBD – Queensland-wide)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Little Estate Lawyers is a Brisbane law firm that practises exclusively in Queensland succession law.",
+              "annotations": [
+                {
+                  "title": "Little Estate Lawyers Wills and Estates - Brisbane",
+                  "url": "https://littlelawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They act for executors and administrators through the whole process, including applications for grants of probate and letters of administration, and estates where there was no valid will. They also act for beneficiaries who want to know where they stand.",
+              "annotations": [
+                {
+                  "title": "Little Estate Lawyers Wills and Estates - Brisbane",
+                  "url": "https://littlelawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 8. **Queensland Probate** *(Brisbane)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Queensland Probate is a legal practice established in 2007.",
+              "annotations": [
+                {
+                  "title": "Estate Lawyers Brisbane",
+                  "url": "https://qldprobate.com.au/estate-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their estate lawyers can assist with administration of deceased estates, real estate transactions in deceased estates, and other estate-related matters. They can help executors recover assets, arrange payment of debts, and distribute the estate as per the will.",
+              "annotations": [
+                {
+                  "title": "Estate Lawyers Brisbane",
+                  "url": "https://qldprobate.com.au/estate-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 9. **Will and Estate Lawyers Australia** *(Brisbane)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their team of deceased estate lawyers brings extensive experience in Queensland estate administration and provides sensible, cost-effective advice with compassion.",
+              "annotations": [
+                {
+                  "title": "Deceased Estate Lawyers Brisbane - $825 Fixed Fee",
+                  "url": "https://willandestatelawyers.com.au/deceased-estate-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Whether you're an executor with a will or an administrator without a will, they provide complete estate administration services at transparent, fixed-fee pricing.",
+              "annotations": [
+                {
+                  "title": "Deceased Estate Lawyers Brisbane - $825 Fixed Fee",
+                  "url": "https://willandestatelawyers.com.au/deceased-estate-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 10. **Aylward Game Solicitors** *(Brisbane, Gold Coast & Sunshine Coast)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Aylward Game Solicitors in Brisbane, Gold Coast & Sunshine Coast guide clients through probate, Wills, and estate administration.",
+              "annotations": [
+                {
+                  "title": "Deceased Estates in Queensland",
+                  "url": "https://aylwardgame.com.au/deceased-estates-queensland-guide/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " A good option if the estate has assets in multiple Queensland regions.\n\n---\n\n### 11. **Aitken Whyte Lawyers** *(Brisbane)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Since 1995, Aitken Whyte Lawyers has helped hundreds of individuals and families throughout Brisbane and South East Queensland with estate planning, administration, disputes, and other probate matters.",
+              "annotations": [
+                {
+                  "title": "Wills & Estate Lawyers Brisbane",
+                  "url": "https://www.awbrisbanelawyers.com.au/wills-and-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "If you have been appointed as an executor, they can guide you through every stage of administering a deceased estate, assisting with Grants of Probate and Letters of Administration, as well as collecting assets, paying debts and distributing the estate in accordance with Queensland law.",
+              "annotations": [
+                {
+                  "title": "Wills & Estate Lawyers Brisbane",
+                  "url": "https://www.awbrisbanelawyers.com.au/wills-and-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 💡 Tips for Choosing the Right Firm as an Executor\n\n- **Location:** For Chermside, consider **Kelly Lawyers** (Ascot) or **Mitchells Solicitors** (Aspley). For North Lakes, **Cornerstone Law Offices**, **Cooke & Hutchinson**, **Zande Law**, or **Ascendia Lawyers** are all locally based.\n- **Fixed Fees:** Ask about fixed-fee probate services to manage costs — several firms above offer this.\n- **Specialisation:** If the estate is complex (disputes, contested wills, multiple assets), look for firms with dedicated succession law teams like **Little Estate Lawyers** or **Queensland Probate**.\n- **Free Consultation:** Many of the above firms offer a free or low-cost initial consultation to assess your situation.\n\nWould you like more detail on any of these firms or guidance on the Queensland probate process itself?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "probate deceased estate administration law firms Brisbane Northside Chermside North Lakes Queensland",
+        "Queensland probate estate administration specialist law firms Brisbane 2024"
+      ]
+    }
+  ]
+}

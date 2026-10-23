@@ -1,0 +1,214 @@
+{
+  "slug": "brisbane_north",
+  "pk": "probate_administration",
+  "plat": "aimode",
+  "text": "I am an executor handling probate and deceased estate administration in Brisbane Northside (Chermside & North Lakes). Which law firms specialise in Queensland probate and estate administration?",
+  "loc": 9060852,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_north__probate_administration__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:30:13.497Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "I am an executor handling probate and deceased estate administration in Brisbane Northside (Chermside & North Lakes). Which law firms specialise in Queensland probate and estate administration?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 9060852,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=I%20am%20an%20executor%20handling%20probate%20and%20deceased%20estate%20administration%20in%20Brisbane%20Northside%20%28Chermside%20%26%20North%20Lakes%29.%20Which%20law%20firms%20specialise%20in%20Queensland%20probate%20and%20estate%20administration%3F&udm=50&uule=w+CAIQIFISCV_fhDGw4pNrEXCE3vNaowIF&hl=en&gl=AU",
+      "datetime": "2026-10-23 05:30:09 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "**Pennisi Zia Lawyers** (Chermside), **Koolik & Associates Lawyers** (North Lakes), and **Cooke & Hutchinson Lawyers** (North Lakes) are dedicated local firms handling Queensland probate and deceased estate administration on the Brisbane Northside.[[1]](https://www.cookehutchinson.com.au/)[[2]](https://lawconnect.com/en-au/find/probate/qld/chermside-4032)[[3]](https://www.kooliklaw.com.au/our-expertise/)\n\n### Local Brisbane Northside & Moreton Bay Law Firms\n\n| Law Firm Name | Location / Suburb | Key Estate Services | Contact / Reference |\n|---|---|---|---|\n| **Pennisi Zia Lawyers** | **Chermside, QLD** | Grant of probate, estate valuations, fixed-fee probate, beneficiary distributions | [Pennisi Zia Lawyers via LawConnect](https://lawconnect.com/en-au/find/probate/qld/chermside-4032) |\n| **Koolik & Associates Lawyers** | **North Lakes, QLD** | Obtaining probate, winding up estates, remote estate management | [Koolik & Associates](https://www.kooliklaw.com.au/our-expertise/) |\n| **Cooke & Hutchinson Lawyers** | **North Lakes, QLD** | Deceased estate administration, wills, testamentary trusts, fixed-price options | [Cooke & Hutchinson](https://www.cookehutchinson.com.au/) |\n| **Vicca Law** | **Aspley, QLD** (Near Chermside) | Probate, estate litigation, fixed-fee pricing, testamentary trusts | [Vicca Law via LawConnect](https://lawconnect.com/en-au/find/wills-and-estates/qld/north-lakes-4509) |\n| **Turner Freeman Lawyers** | **North Lakes, QLD** | Wills and estates, contested estates, general administration | [Turner Freeman North Lakes](https://www.turnerfreeman.com.au/office/north-lakes/) |\n\n### What These Firms Provide for Executors\n\n- **Grant of Probate & Letters of Administration:** Preparing and filing the required documentation with the Supreme Court of Queensland.\n- **Asset Collection & Valuation:** Identifying, securing, and valuing property, bank accounts, shares, and personal belongings across Queensland and interstate.\n- **Liability and Debt Settlement:** Notifying creditors, publishing statutory notices, and settling final tax or personal debts of the deceased.\n- **Fixed-Fee Services:** Many regional and suburban northside practices offer transparent **fixed-fee structures** for straightforward probate applications, helping minimize estate overhead.[[1]](https://lawconnect.com/en-au/find/probate/qld/chermside-4032)\n- **Dispute and Litigation Support:** Representing executors if family provision claims or challenges arise against the will.\n\nIf you'd like to narrow this down, let me know:\n\n- Do you need a firm physically close to **Chermside** or **North Lakes**?\n- Is the will **straightforward (uncontested)** or are there **complex assets/potential family disputes**?",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Pennisi Zia Lawyers (Chermside), Koolik & Associates Lawyers (North Lakes), and Cooke & Hutchinson Lawyers (North Lakes) are dedicated local firms handling Queensland probate and deceased estate administration on the Brisbane Northside.",
+              "markdown": "**Pennisi Zia Lawyers** (Chermside), **Koolik & Associates Lawyers** (North Lakes), and **Cooke & Hutchinson Lawyers** (North Lakes) are dedicated local firms handling Queensland probate and deceased estate administration on the Brisbane Northside.[[1]](https://www.cookehutchinson.com.au/)[[2]](https://lawconnect.com/en-au/find/probate/qld/chermside-4032)[[3]](https://www.kooliklaw.com.au/our-expertise/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Cooke & Hutchinson Lawyers",
+                  "domain": "www.cookehutchinson.com.au",
+                  "url": "https://www.cookehutchinson.com.au/",
+                  "title": "Cooke & Hutchinson Lawyers – Fixed Price – Work Guaranteed",
+                  "text": "Planning Your Future. Our experienced Wills & Estates team help to protect and plan the transfer of wealth from one generation to ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "LawConnect",
+                  "domain": "lawconnect.com",
+                  "url": "https://lawconnect.com/en-au/find/probate/qld/chermside-4032",
+                  "title": "Probate Lawyers in Chermside, QLD – 8 Nearby - LawConnect",
+                  "text": "Probate Lawyers in Chermside QLD. Pennisi Zia Lawyers. Pennisi Zia Lawyers has 4.3 stars from 21 recommendations 4.3. 21 ratings. ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Koolik & Associates Lawyers",
+                  "domain": "www.kooliklaw.com.au",
+                  "url": "https://www.kooliklaw.com.au/our-expertise/",
+                  "title": "Our Expertise - Koolik & Associates Lawyers",
+                  "text": "If you need help with Family Law, Wills and Estates or Conveyancing in North Lakes or the surrounding suburbs of North Brisbane, C..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Local Brisbane Northside & Moreton Bay Law Firms",
+              "text": null,
+              "markdown": "### Local Brisbane Northside & Moreton Bay Law Firms",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_table_element",
+              "position": "left",
+              "markdown": "| Law Firm Name | Location / Suburb | Key Estate Services | Contact / Reference |\n|---|---|---|---|\n| **Pennisi Zia Lawyers** | **Chermside, QLD** | Grant of probate, estate valuations, fixed-fee probate, beneficiary distributions | [Pennisi Zia Lawyers via LawConnect](https://lawconnect.com/en-au/find/probate/qld/chermside-4032) |\n| **Koolik & Associates Lawyers** | **North Lakes, QLD** | Obtaining probate, winding up estates, remote estate management | [Koolik & Associates](https://www.kooliklaw.com.au/our-expertise/) |\n| **Cooke & Hutchinson Lawyers** | **North Lakes, QLD** | Deceased estate administration, wills, testamentary trusts, fixed-price options | [Cooke & Hutchinson](https://www.cookehutchinson.com.au/) |\n| **Vicca Law** | **Aspley, QLD** (Near Chermside) | Probate, estate litigation, fixed-fee pricing, testamentary trusts | [Vicca Law via LawConnect](https://lawconnect.com/en-au/find/wills-and-estates/qld/north-lakes-4509) |\n| **Turner Freeman Lawyers** | **North Lakes, QLD** | Wills and estates, contested estates, general administration | [Turner Freeman North Lakes](https://www.turnerfreeman.com.au/office/north-lakes/) |",
+              "table": {
+                "table_header": [
+                  "Law Firm Name",
+                  "Location / Suburb",
+                  "Key Estate Services",
+                  "Contact / Reference"
+                ],
+                "table_content": [
+                  [
+                    "Pennisi Zia Lawyers",
+                    "Chermside, QLD",
+                    "Grant of probate, estate valuations, fixed-fee probate, beneficiary distributions",
+                    "Pennisi Zia Lawyers via LawConnect"
+                  ],
+                  [
+                    "Koolik & Associates Lawyers",
+                    "North Lakes, QLD",
+                    "Obtaining probate, winding up estates, remote estate management",
+                    "Koolik & Associates"
+                  ],
+                  [
+                    "Cooke & Hutchinson Lawyers",
+                    "North Lakes, QLD",
+                    "Deceased estate administration, wills, testamentary trusts, fixed-price options",
+                    "Cooke & Hutchinson"
+                  ],
+                  [
+                    "Vicca Law",
+                    "Aspley, QLD (Near Chermside)",
+                    "Probate, estate litigation, fixed-fee pricing, testamentary trusts",
+                    "Vicca Law via LawConnect"
+                  ],
+                  [
+                    "Turner Freeman Lawyers",
+                    "North Lakes, QLD",
+                    "Wills and estates, contested estates, general administration",
+                    "Turner Freeman North Lakes"
+                  ]
+                ]
+              }
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "What These Firms Provide for Executors",
+              "text": "Grant of Probate & Letters of Administration: Preparing and filing the required documentation with the Supreme Court of Queensland. Asset Collection & Valuation: Identifying, securing, and valuing property, bank accounts, shares, and personal belongings across Queensland and interstate. Liability and Debt Settlement: Notifying creditors, publishing statutory notices, and settling final tax or personal debts of the deceased. Fixed-Fee Services: Many regional and suburban northside practices offer transparent fixed-fee structures for straightforward probate applications, helping minimize estate overhead. Dispute and Litigation Support: Representing executors if family provision claims or challenges arise against the will.",
+              "markdown": "- **Grant of Probate & Letters of Administration:** Preparing and filing the required documentation with the Supreme Court of Queensland.\n- **Asset Collection & Valuation:** Identifying, securing, and valuing property, bank accounts, shares, and personal belongings across Queensland and interstate.\n- **Liability and Debt Settlement:** Notifying creditors, publishing statutory notices, and settling final tax or personal debts of the deceased.\n- **Fixed-Fee Services:** Many regional and suburban northside practices offer transparent **fixed-fee structures** for straightforward probate applications, helping minimize estate overhead.[[1]](https://lawconnect.com/en-au/find/probate/qld/chermside-4032)\n- **Dispute and Litigation Support:** Representing executors if family provision claims or challenges arise against the will.",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "LawConnect",
+                  "domain": "lawconnect.com",
+                  "url": "https://lawconnect.com/en-au/find/probate/qld/chermside-4032",
+                  "title": "Probate Lawyers in Chermside, QLD – 8 Nearby - LawConnect",
+                  "text": "Probate Lawyers in Chermside QLD. Pennisi Zia Lawyers. Pennisi Zia Lawyers has 4.3 stars from 21 recommendations 4.3. 21 ratings. Chermside, QLD. Make an Enquiry. ..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you'd like to narrow this down, let me know:",
+              "markdown": "If you'd like to narrow this down, let me know:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Do you need a firm physically close to Chermside or North Lakes ? Is the will straightforward (uncontested) or are there complex assets/potential family disputes ?",
+              "markdown": "- Do you need a firm physically close to **Chermside** or **North Lakes**?\n- Is the will **straightforward (uncontested)** or are there **complex assets/potential family disputes**?",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "LawConnect",
+              "domain": "lawconnect.com",
+              "url": "https://lawconnect.com/en-au/find/probate/qld/chermside-4032",
+              "title": "Probate Lawyers in Chermside, QLD – 8 Nearby - LawConnect",
+              "text": "Probate Lawyers in Chermside QLD. Pennisi Zia Lawyers. Pennisi Zia Lawyers has 4.3 stars from 21 recommendations 4.3. 21 ratings. Chermside, QLD. Make an Enquiry. ..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Cooke & Hutchinson Lawyers",
+              "domain": "www.cookehutchinson.com.au",
+              "url": "https://www.cookehutchinson.com.au/",
+              "title": "Cooke & Hutchinson Lawyers – Fixed Price – Work Guaranteed",
+              "text": "Planning Your Future. Our experienced Wills & Estates team help to protect and plan the transfer of wealth from one generation to the next by advising in relation ..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Turner Freeman",
+              "domain": "www.turnerfreeman.com.au",
+              "url": "https://www.turnerfreeman.com.au/office/north-lakes/",
+              "title": "North Brisbane Lawyers | Turner Freeman North Lakes",
+              "text": "Turner Freeman Lawyers North Lakes is located at Suite 6 2/25 Discovery Drive, North Lakes QLD 4509. Their phone number is (07) 3482 8500. The office is open by ap..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "LawConnect",
+              "domain": "lawconnect.com",
+              "url": "https://lawconnect.com/en-au/find/estate-administration/qld/north-lakes-4509",
+              "title": "Find Estate Administration Lawyers in North Lakes, QLD - LawConnect",
+              "text": "Vicca Law, based in Aspley, North Brisbane, was established in 2021 to provide high-quality, accessible, and affordable legal advice for individuals and businesses..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

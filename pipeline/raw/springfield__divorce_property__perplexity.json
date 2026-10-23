@@ -1,0 +1,106 @@
+{
+  "slug": "springfield",
+  "pk": "divorce_property",
+  "plat": "perplexity",
+  "text": "I am going through a separation and complex property settlement in Springfield and Greater Springfield, QLD. Which family law firms have the strongest track record for property division and binding financial agreements?",
+  "loc": 9191413,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\springfield__divorce_property__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:24:19.411Z",
+  "cost": 0.006371,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 42,
+      "output_tokens": 729,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005771,
+      "datetime": "2026-10-23 05:24:15 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For **Springfield and Greater Springfield**, the strongest local shortlist based on publicly documented practice focus is:\n\n- **McNamara Law — Springfield Central:** A particularly relevant first call because it has a Springfield Central office and expressly handles property settlements and Binding Financial Agreements (BFAs). It also explains the formal independent-legal-advice requirements that can affect whether a BFA is enforceable.[1]\n- **GLG Legal Springfield:** Serves Springfield and Ipswich and works with Michael Lynch Family Lawyers, describing experience in separation, property settlement and related family-law disputes.[2]\n- **Jones Hardy Law:** A specialist family-law practice advertising property and asset division, complex financial matters, and BFAs. Verify its current Queensland availability and the identity of the lawyer who would run the matter before engaging.[3]\n- **Concord Family Lawyers:** Advertises focused work in property settlements, complex assets including businesses, trusts and superannuation, and BFAs. Its Springfield listing should be checked carefully because directory listings may reflect remote or broader service coverage rather than a local office.[3]\n- **Australian Family Lawyers Springfield:** A larger-network option advertising property settlements involving family trusts, businesses and other complex assets, plus BFA preparation.[4]\n\nFor a genuinely complex settlement involving **companies, trusts, inherited property, significant superannuation, overseas assets, or suspected non-disclosure**, also consider firms that service Springfield remotely or from Brisbane:\n\n- **Hope Earle Lawyers:** Advertises complex and high-value property settlements, asset tracing, unusual trust structures, business valuations, superannuation splitting and BFAs; it also states that its principals have obtained reported judgments in complex family-law matters.[5]\n- **Bennett Carroll Solicitors:** Handles property matters involving businesses, partnerships and company shares, and offers BFA services throughout Queensland.[8]\n- **Cudmore Legal:** Advertises property settlements involving overseas assets, business interests and private companies, as well as financial agreements under the Family Law Act.[9]\n\n## How to identify the strongest actual track record\n\nMarketing claims and directory ratings are not enough. Ask each firm:\n\n- How many **complex property settlements** has the proposed solicitor handled recently?\n- Have they dealt with **trusts, companies, business valuations, hidden assets and superannuation splitting**?\n- What proportion of matters resolve by negotiation or mediation, and what is their litigation experience if settlement fails?\n- Who will personally conduct the matter, and what are their relevant Queensland family-law qualifications?\n- Will they advise on **Consent Orders versus a BFA**? A BFA is not automatically the best mechanism for finalising a post-separation settlement.\n- What disclosure, valuation and forensic-accounting steps do they recommend?\n- Can they provide a written estimate, staged costs agreement and likely disbursements?\n\nA BFA must meet strict statutory requirements, including each party obtaining appropriate independent legal advice; otherwise its enforceability can be challenged.[1] Property settlements should also be formalised properly—commonly through Consent Orders or a compliant financial agreement—rather than left as an informal private arrangement.[7][9]\n\n**Practical shortlist:** start with **McNamara Law** for the most directly local option, obtain a comparison quote from **GLG Legal Springfield**, and seek a second opinion from **Hope Earle, Bennett Carroll or Cudmore Legal** if the asset structure is high-value or technically complex. This is general information, not a recommendation that any particular firm is suitable for your circumstances.",
+              "annotations": [
+                {
+                  "title": "Family Law | McNamara Law | Ipswich | Springfield",
+                  "url": "https://mcna.com.au/family-law/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Divorce Lawyers Springfield | Family Law Experts | GLG Legal",
+                  "url": "https://www.springfieldlegals.com.au/areas-of-practice/family-law/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Find the best family lawyers in Springfield Lakes",
+                  "url": "https://www.bark.com/en/au/family-lawyers/queensland/springfield-lakes/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Lawyers Springfield",
+                  "url": "https://www.australianfamilylawyers.com.au/cm-family-lawyers-springfield",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Find the best family lawyers near you",
+                  "url": "https://www.bark.com/en/au/family-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Law Queensland",
+                  "url": "https://www.gotocourt.com.au/qld/family-law",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Property Settlement Lawyers QLD",
+                  "url": "https://ckfamilylawyers.com.au/property-settlement/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Lawyers Across Queensland",
+                  "url": "https://www.bcglaw.com.au/family-law/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Property Settlement Lawyers Brisbane & Gold Coast",
+                  "url": "https://www.cudmorelegal.com.au/property-settlement-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Property Settlement Orders",
+                  "url": "https://landersolicitors.com.au/family-law/property-settlement-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

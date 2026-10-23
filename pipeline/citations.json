@@ -1,0 +1,477 @@
+{
+  "totalCitations": 3994,
+  "uniqueDomains": 476,
+  "uniqueUrls": 1787,
+  "clientDomainCitations": 62,
+  "byType": [
+    {
+      "type": "Competitor Law Firm",
+      "count": 2585,
+      "sharePct": 64.7
+    },
+    {
+      "type": "Other Directory / Web",
+      "count": 699,
+      "sharePct": 17.5
+    },
+    {
+      "type": "Legal Directory / Review",
+      "count": 463,
+      "sharePct": 11.6
+    },
+    {
+      "type": "Bar / Court / Government",
+      "count": 164,
+      "sharePct": 4.1
+    },
+    {
+      "type": "Client Owned",
+      "count": 62,
+      "sharePct": 1.6
+    },
+    {
+      "type": "Editorial / Legal Media",
+      "count": 13,
+      "sharePct": 0.3
+    },
+    {
+      "type": "Social / Forum",
+      "count": 8,
+      "sharePct": 0.2
+    }
+  ],
+  "topDomains": [
+    {
+      "domain": "lawconnect.com",
+      "count": 228,
+      "sharePct": 5.71,
+      "type": "Legal Directory / Review"
+    },
+    {
+      "domain": "google.com",
+      "count": 164,
+      "sharePct": 4.11,
+      "type": "Other Directory / Web"
+    },
+    {
+      "domain": "doylesguide.com",
+      "count": 149,
+      "sharePct": 3.73,
+      "type": "Legal Directory / Review"
+    },
+    {
+      "domain": "stanfordlegal.com.au",
+      "count": 78,
+      "sharePct": 1.95,
+      "type": "Competitor Law Firm"
+    },
+    {
+      "domain": "qls.com.au",
+      "count": 73,
+      "sharePct": 1.83,
+      "type": "Bar / Court / Government"
+    },
+    {
+      "domain": "bcglaw.com.au",
+      "count": 69,
+      "sharePct": 1.73,
+      "type": "Competitor Law Firm"
+    },
+    {
+      "domain": "fmlaw.com.au",
+      "count": 67,
+      "sharePct": 1.68,
+      "type": "Competitor Law Firm"
+    },
+    {
+      "domain": "keanelegal.com.au",
+      "count": 63,
+      "sharePct": 1.58,
+      "type": "Competitor Law Firm"
+    },
+    {
+      "domain": "millwatertyrrell.com.au",
+      "count": 62,
+      "sharePct": 1.55,
+      "type": "Client Owned"
+    },
+    {
+      "domain": "australianfamilylawyers.com.au",
+      "count": 61,
+      "sharePct": 1.53,
+      "type": "Competitor Law Firm"
+    },
+    {
+      "domain": "brookwaterlegal.com.au",
+      "count": 59,
+      "sharePct": 1.48,
+      "type": "Competitor Law Firm"
+    },
+    {
+      "domain": "mcna.com.au",
+      "count": 58,
+      "sharePct": 1.45,
+      "type": "Competitor Law Firm"
+    },
+    {
+      "domain": "theestatelawyers.com.au",
+      "count": 58,
+      "sharePct": 1.45,
+      "type": "Competitor Law Firm"
+    },
+    {
+      "domain": "armstronglegal.com.au",
+      "count": 57,
+      "sharePct": 1.43,
+      "type": "Competitor Law Firm"
+    },
+    {
+      "domain": "michaellynchfamilylawyers.com.au",
+      "count": 55,
+      "sharePct": 1.38,
+      "type": "Competitor Law Firm"
+    },
+    {
+      "domain": "thymac.com.au",
+      "count": 52,
+      "sharePct": 1.3,
+      "type": "Competitor Law Firm"
+    },
+    {
+      "domain": "turnerfreeman.com.au",
+      "count": 48,
+      "sharePct": 1.2,
+      "type": "Competitor Law Firm"
+    },
+    {
+      "domain": "bwbfamilylaw.com.au",
+      "count": 46,
+      "sharePct": 1.15,
+      "type": "Competitor Law Firm"
+    },
+    {
+      "domain": "vmfamilylaw.com.au",
+      "count": 46,
+      "sharePct": 1.15,
+      "type": "Competitor Law Firm"
+    },
+    {
+      "domain": "attwoodmarshall.com.au",
+      "count": 45,
+      "sharePct": 1.13,
+      "type": "Competitor Law Firm"
+    },
+    {
+      "domain": "bartonfamilylaw.com.au",
+      "count": 45,
+      "sharePct": 1.13,
+      "type": "Competitor Law Firm"
+    },
+    {
+      "domain": "springfieldlegals.com.au",
+      "count": 44,
+      "sharePct": 1.1,
+      "type": "Competitor Law Firm"
+    },
+    {
+      "domain": "stewartfamilylaw.com.au",
+      "count": 44,
+      "sharePct": 1.1,
+      "type": "Competitor Law Firm"
+    },
+    {
+      "domain": "willandestatelawyers.com.au",
+      "count": 41,
+      "sharePct": 1.03,
+      "type": "Competitor Law Firm"
+    },
+    {
+      "domain": "directlawyers.com.au",
+      "count": 40,
+      "sharePct": 1,
+      "type": "Competitor Law Firm"
+    },
+    {
+      "domain": "kellylawyers.com.au",
+      "count": 37,
+      "sharePct": 0.93,
+      "type": "Competitor Law Firm"
+    },
+    {
+      "domain": "jacarandalaw.com.au",
+      "count": 36,
+      "sharePct": 0.9,
+      "type": "Competitor Law Firm"
+    },
+    {
+      "domain": "gotocourt.com.au",
+      "count": 33,
+      "sharePct": 0.83,
+      "type": "Legal Directory / Review"
+    },
+    {
+      "domain": "ryderlawyers.com.au",
+      "count": 32,
+      "sharePct": 0.8,
+      "type": "Competitor Law Firm"
+    },
+    {
+      "domain": "qldestatelawyers.com.au",
+      "count": 30,
+      "sharePct": 0.75,
+      "type": "Competitor Law Firm"
+    }
+  ],
+  "topUrls": [
+    {
+      "url": "https://lawconnect.com",
+      "domain": "lawconnect.com",
+      "count": 75
+    },
+    {
+      "url": "https://theestatelawyers.com.au/",
+      "domain": "theestatelawyers.com.au",
+      "count": 28
+    },
+    {
+      "url": "https://mcna.com.au",
+      "domain": "mcna.com.au",
+      "count": 26
+    },
+    {
+      "url": "https://fmlaw.com.au",
+      "domain": "fmlaw.com.au",
+      "count": 26
+    },
+    {
+      "url": "https://www.bcglaw.com.au/wills-estates/",
+      "domain": "bcglaw.com.au",
+      "count": 24
+    },
+    {
+      "url": "https://australianfamilylawyers.com.au",
+      "domain": "australianfamilylawyers.com.au",
+      "count": 23
+    },
+    {
+      "url": "https://doylesguide.com",
+      "domain": "doylesguide.com",
+      "count": 22
+    },
+    {
+      "url": "https://keanelegal.com.au",
+      "domain": "keanelegal.com.au",
+      "count": 21
+    },
+    {
+      "url": "https://www.thymac.com.au/expertises/wills-estates/",
+      "domain": "thymac.com.au",
+      "count": 21
+    },
+    {
+      "url": "https://www.michaellynchfamilylawyers.com.au/",
+      "domain": "michaellynchfamilylawyers.com.au",
+      "count": 20
+    },
+    {
+      "url": "https://bwbfamilylaw.com.au",
+      "domain": "bwbfamilylaw.com.au",
+      "count": 18
+    },
+    {
+      "url": "https://turnerfreeman.com.au",
+      "domain": "turnerfreeman.com.au",
+      "count": 18
+    },
+    {
+      "url": "https://brookwaterlegal.com.au",
+      "domain": "brookwaterlegal.com.au",
+      "count": 18
+    },
+    {
+      "url": "https://www.phillipsfamilylaw.com.au/",
+      "domain": "phillipsfamilylaw.com.au",
+      "count": 18
+    },
+    {
+      "url": "https://stanfordlegal.com.au",
+      "domain": "stanfordlegal.com.au",
+      "count": 16
+    },
+    {
+      "url": "https://vmfamilylaw.com.au",
+      "domain": "vmfamilylaw.com.au",
+      "count": 15
+    },
+    {
+      "url": "https://bcglaw.com.au",
+      "domain": "bcglaw.com.au",
+      "count": 15
+    },
+    {
+      "url": "https://willandestatelawyers.com.au/wills-and-estate-lawyers-brisbane/",
+      "domain": "willandestatelawyers.com.au",
+      "count": 15
+    },
+    {
+      "url": "https://www.awbrisbanelawyers.com.au/will-dispute-lawyers/",
+      "domain": "awbrisbanelawyers.com.au",
+      "count": 15
+    },
+    {
+      "url": "https://www.qls.com.au/",
+      "domain": "qls.com.au",
+      "count": 14
+    },
+    {
+      "url": "https://littlelawyers.com.au/",
+      "domain": "littlelawyers.com.au",
+      "count": 14
+    },
+    {
+      "url": "https://bartonfamilylaw.com.au",
+      "domain": "bartonfamilylaw.com.au",
+      "count": 14
+    },
+    {
+      "url": "https://www.vmfamilylaw.com.au/",
+      "domain": "vmfamilylaw.com.au",
+      "count": 13
+    },
+    {
+      "url": "https://top10familylawyers.com.au/family-lawyers-brisbane/",
+      "domain": "top10familylawyers.com.au",
+      "count": 13
+    },
+    {
+      "url": "https://springfieldlegals.com.au",
+      "domain": "springfieldlegals.com.au",
+      "count": 13
+    },
+    {
+      "url": "https://www.couriermail.com.au/business/qld-business/divorce-lawyers-damien-greer-justine-woods-share-industry-insights/news-story/8609aeead5cea1e90f9f71df1e54d7d0",
+      "domain": "couriermail.com.au",
+      "count": 13
+    },
+    {
+      "url": "https://www.macdonaldlaw.com.au/will-estates",
+      "domain": "macdonaldlaw.com.au",
+      "count": 13
+    },
+    {
+      "url": "https://ryderlawyers.com.au/",
+      "domain": "ryderlawyers.com.au",
+      "count": 12
+    },
+    {
+      "url": "https://www.springfieldlegals.com.au/areas-of-practice/family-law/",
+      "domain": "springfieldlegals.com.au",
+      "count": 12
+    },
+    {
+      "url": "https://doylesguide.com/rankings/family-divorce-law-firms-brisbane/",
+      "domain": "doylesguide.com",
+      "count": 12
+    },
+    {
+      "url": "https://stewartfamilylaw.com.au/",
+      "domain": "stewartfamilylaw.com.au",
+      "count": 12
+    },
+    {
+      "url": "https://attwoodmarshall.com.au/brisbane/estate-litigation/",
+      "domain": "attwoodmarshall.com.au",
+      "count": 12
+    },
+    {
+      "url": "https://jindaleelaw.com.au",
+      "domain": "jindaleelaw.com.au",
+      "count": 12
+    },
+    {
+      "url": "https://connorhunter.com",
+      "domain": "connorhunter.com",
+      "count": 12
+    },
+    {
+      "url": "https://www.turnerfreeman.com.au/wills-estates-lawyers-ipswich/",
+      "domain": "turnerfreeman.com.au",
+      "count": 11
+    },
+    {
+      "url": "https://jacarandalaw.com.au",
+      "domain": "jacarandalaw.com.au",
+      "count": 11
+    },
+    {
+      "url": "https://www.fmlaw.com.au/practice-areas/wills-estate-law/",
+      "domain": "fmlaw.com.au",
+      "count": 11
+    },
+    {
+      "url": "https://mcna.com.au/family-law/",
+      "domain": "mcna.com.au",
+      "count": 10
+    },
+    {
+      "url": "https://millwatertyrrell.com.au/",
+      "domain": "millwatertyrrell.com.au",
+      "count": 10
+    },
+    {
+      "url": "https://jacarandalaw.com.au/",
+      "domain": "jacarandalaw.com.au",
+      "count": 10
+    },
+    {
+      "url": "https://www.bcglaw.com.au/estate-administration/",
+      "domain": "bcglaw.com.au",
+      "count": 10
+    },
+    {
+      "url": "https://ryderlawyers.com.au",
+      "domain": "ryderlawyers.com.au",
+      "count": 10
+    },
+    {
+      "url": "https://www.brookwaterlegal.com.au/",
+      "domain": "brookwaterlegal.com.au",
+      "count": 10
+    },
+    {
+      "url": "https://www.bespokelegalgroup.com.au/pricing",
+      "domain": "bespokelegalgroup.com.au",
+      "count": 10
+    },
+    {
+      "url": "https://michaellynchfamilylawyers.com.au",
+      "domain": "michaellynchfamilylawyers.com.au",
+      "count": 10
+    },
+    {
+      "url": "https://doylesguide.com/leading-family-divorce-law-firms-brisbane-2026/",
+      "domain": "doylesguide.com",
+      "count": 10
+    },
+    {
+      "url": "https://www.directlawyers.com.au/",
+      "domain": "directlawyers.com.au",
+      "count": 10
+    },
+    {
+      "url": "https://gotocourt.com.au",
+      "domain": "gotocourt.com.au",
+      "count": 9
+    },
+    {
+      "url": "https://damiengreer.com.au",
+      "domain": "damiengreer.com.au",
+      "count": 9
+    },
+    {
+      "url": "https://rglawgroup.com.au/our-fees",
+      "domain": "rglawgroup.com.au",
+      "count": 9
+    }
+  ]
+}

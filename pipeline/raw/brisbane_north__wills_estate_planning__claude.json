@@ -1,0 +1,201 @@
+{
+  "slug": "brisbane_north",
+  "pk": "wills_estate_planning",
+  "plat": "claude",
+  "text": "Who are the best wills and estates lawyers in Brisbane Northside (Chermside & North Lakes) for drafting wills, testamentary trusts, and enduring powers of attorney?",
+  "loc": 9060852,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_north__wills_estate_planning__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:30:17.450Z",
+  "cost": 0.08857,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 17755,
+      "output_tokens": 1647,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.08797,
+      "datetime": "2026-10-23 05:30:13 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a guide to some of the **best wills and estates lawyers on Brisbane's Northside**, covering the Chermside and surrounding areas, for services including drafting wills, testamentary trusts, and enduring powers of attorney:\n\n---\n\n## ⚖️ Best Wills & Estates Lawyers – Brisbane Northside (Chermside & Surrounds)\n\n---\n\n### 1. 🏆 **Kelly Lawyers** — *Ascot (Serving Chermside & North Brisbane)*\n**📍 1-138 Racecourse Road, Ascot QLD 4007**\n**⭐ 4.7/5 (43 Google Reviews)**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Kelly Lawyers is a boutique law firm in Ascot, with Wills and Estates lawyers serving Brisbane's Northside since 1984.",
+              "annotations": [
+                {
+                  "title": "Wills and Estates Brisbane Northside",
+                  "url": "https://kellylawyers.com.au/services/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They help individuals, families, and business owners across Ascot, Clayfield, Hamilton, Nundah, Banyo, Nudgee, Virginia, Kedron, Stafford, and Chermside with Wills and Testamentary Trusts, Enduring Powers of Attorney, Advance Health Directives, Probate and Estate Administration, and Estate Litigation.",
+              "annotations": [
+                {
+                  "title": "Wills and Estates Brisbane Northside",
+                  "url": "https://kellylawyers.com.au/services/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "With four decades of experience drafting Wills, administering Estates, and resolving Estate Disputes, they offer fixed-fee consultations and outline costs in writing before any work begins.",
+              "annotations": [
+                {
+                  "title": "Wills and Estates Brisbane Northside",
+                  "url": "https://kellylawyers.com.au/services/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them:** Long-established, full-suite estate planning, plain-English advice, fixed-fee consultations.\n\n---\n\n### 2. **Pennisi Zia Lawyers** — *Chermside*\n**📍 818 Gympie Rd, Chermside QLD 4032**\n**📞 (07) 3350 2655**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Chermside residents receive comprehensive estate planning guidance and probate assistance backed by more than five decades of legal expertise from Pennisi Zia Lawyers. The firm prioritises building lasting client relationships through personalised service, and their transparent approach includes fixed-fee arrangements for many estate matters, ensuring cost certainty while delivering practical solutions for will preparation, estate administration, and succession planning.",
+              "annotations": [
+                {
+                  "title": "Wills and Estates Lawyers in Chermside, QLD",
+                  "url": "https://lawconnect.com/en-au/find/wills-and-estates/qld/chermside-4032",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them:** 50+ years of experience, fixed-fee options, locally based in Chermside.\n\n---\n\n### 3. **Biggs Fitzgerald Pike** — *Chermside*\n**📍 The Bank Building, 823 Gympie Rd, Chermside QLD 4032**\n**📞 (07) 3350 2033**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Biggs Fitzgerald Pike is a well-known law firm located directly in Chermside.",
+              "annotations": [
+                {
+                  "title": "35 BEST Wills, Probates & Estates in Chermside, QLD",
+                  "url": "https://www.yellowpages.com.au/find/wills-probates-estates/chermside-qld-4032",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are a long-standing local firm offering wills, estates, and probate services to the Northside community.\n\n**Why choose them:** Conveniently located in the heart of Chermside, experienced general practice firm.\n\n---\n\n### 4. **EBM Solicitors** — *Geebung (2.5 km from Chermside)*\n**📍 Geebung QLD**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Established in 1979, EBM Solicitors is a significant player in North Brisbane's legal sector, formed from the reputable GR Brown and AM McNally firms.",
+              "annotations": [
+                {
+                  "title": "Wills and Estates Lawyers in Chermside, QLD",
+                  "url": "https://lawconnect.com/en-au/find/wills-and-estates/qld/chermside-4032",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They offer wills, estates, and probate services to the broader Northside community.\n\n**Why choose them:** Decades of experience, strong North Brisbane presence.\n\n---\n\n### 5. **GKS Law** — *Aspley (North Brisbane)*\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "For over 30 years, GKS Law has provided exceptional legal services to clients in Redcliffe, the Moreton Bay Region, and Brisbane North from their Aspley office.",
+              "annotations": [
+                {
+                  "title": "Lawyers near Chermside West, QLD",
+                  "url": "https://lawconnect.com/en-au/find/lawyers/qld/chermside-west-4032",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " This makes them well-positioned to serve clients from both Chermside and North Lakes areas.\n\n**Why choose them:** Covers both Northside and Moreton Bay/North Lakes corridor, competitive pricing.\n\n---\n\n### 6. **Northside Family Law Centre** — *Chermside & Sandgate*\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Northside Family Law Centre is a dedicated and experienced legal firm located at Chermside and Sandgate on Brisbane Northside, covering all aspects of Family Law, Divorce, Separation, Child Custody Matters, Conveyancing, Wills, and Estate Planning.",
+              "annotations": [
+                {
+                  "title": "Experienced Brisbane Family Lawyers",
+                  "url": "https://northsidefamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The team, led by Rebekah, provides a personalised service focused on individual needs, with accurate advice, respect, and understanding.",
+              "annotations": [
+                {
+                  "title": "Experienced Brisbane Family Lawyers",
+                  "url": "https://northsidefamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them:** Dual offices (Chermside & Sandgate), personalised service, good for combining family law and estate planning.\n\n---\n\n## 💡 Tips for Choosing the Right Lawyer\n\n| Factor | What to Look For |\n|---|---|\n| **Specialisation** | Look for firms that specifically list testamentary trusts & EPAs |\n| **Fixed Fees** | Firms like Kelly Lawyers and Pennisi Zia offer fixed-fee arrangements |\n| **Experience** | Prefer firms with 20+ years in wills & estates |\n| **Location** | Chermside-based firms are most convenient; GKS Law suits North Lakes clients |\n| **Reviews** | Check Google Reviews for client satisfaction |\n\n---\n\n> **Note:** For clients specifically in **North Lakes**, **GKS Law (Aspley)** and **Kelly Lawyers (Ascot)** are strong choices given their North Brisbane/Moreton Bay reach. You may also wish to search directly for solicitors in North Lakes via the Queensland Law Society's [Find a Solicitor](https://www.qls.com.au/For_the_community/Find_a_solicitor) tool for the most up-to-date listings.",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "best wills estates lawyers Chermside Brisbane Northside",
+        "best wills estates lawyers North Lakes Brisbane testamentary trusts enduring power of attorney",
+        "best wills estates lawyers North Lakes Queensland testamentary trusts enduring power of attorney"
+      ]
+    }
+  ]
+}

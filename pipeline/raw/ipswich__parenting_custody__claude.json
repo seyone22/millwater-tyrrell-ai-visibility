@@ -1,0 +1,416 @@
+{
+  "slug": "ipswich",
+  "pk": "parenting_custody",
+  "plat": "claude",
+  "text": "Which family lawyers in Ipswich are best for parenting arrangements, child custody disputes, and accredited family dispute resolution (mediation)?",
+  "loc": 9060853,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\ipswich__parenting_custody__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:23:58.582Z",
+  "cost": 0.070465,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 11205,
+      "output_tokens": 1750,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.069865,
+      "datetime": "2026-10-23 05:23:54 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a comprehensive overview of some of the best family lawyers in Ipswich for parenting arrangements, child custody disputes, and family dispute resolution/mediation:\n\n---\n\n## 🏛️ Best Family Lawyers in Ipswich for Parenting & Custody Matters\n\n---\n\n### 1. 🔹 Lamont Law\n**Website:** lamontlaw.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "With over 30 years of experience and a team that includes Special Counsel and Accredited Specialists in Family Law, Lamont Law is uniquely positioned to handle even the most complex and sensitive cases.",
+              "annotations": [
+                {
+                  "title": "Ipswich Family Lawyers",
+                  "url": "https://lamontlaw.com.au/ipswich-family-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their family lawyers in Ipswich assist clients with every aspect of family law, including separation and divorce, parenting arrangements and custody disputes, property settlements, and financial or spousal support.",
+              "annotations": [
+                {
+                  "title": "Ipswich Family Lawyers",
+                  "url": "https://lamontlaw.com.au/ipswich-family-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Parenting arrangements are among the most sensitive issues they handle, and they ensure the best interests of children are upheld with careful legal expertise.",
+              "annotations": [
+                {
+                  "title": "Ipswich Family Lawyers",
+                  "url": "https://lamontlaw.com.au/ipswich-family-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 2. 🔹 Walker Pender Lawyers\n**Address:** 28 Nicholas Street, Ipswich 4305 | **Phone:** (07) 3813 7833\n**Website:** walkerpender.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Walker Pender has been serving the Ipswich community for 150 years and has specialist family lawyers.",
+              "annotations": [
+                {
+                  "title": "Best Family Lawyers Ipswich",
+                  "url": "https://walkerpender.com.au/family-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their team has decades of combined experience in family law, understands the emotional weight of family disputes, and has a proven record of achieving positive outcomes — from complex property settlements to sensitive parenting cases.",
+              "annotations": [
+                {
+                  "title": "Best Family Lawyers Ipswich",
+                  "url": "https://walkerpender.com.au/family-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They also offer flexible appointments, including after-hours and online consultations.",
+              "annotations": [
+                {
+                  "title": "Best Family Lawyers Ipswich",
+                  "url": "https://walkerpender.com.au/family-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Notably, they have a strong track record in mediation — ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "they have guided clients through mediation, helping them focus on the children's best interests, resulting in shared parenting arrangements that avoided litigation and saved clients thousands in legal costs.",
+              "annotations": [
+                {
+                  "title": "Best Family Lawyers Ipswich",
+                  "url": "https://walkerpender.com.au/family-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. 🔹 Best Wilson Buckley Family Law\n**Website:** bwbfamilylaw.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Ipswich isn't just a location for Best Wilson Buckley — it's their community. As part of Queensland's most extensive family law group, they bring state-wide expertise with a local touch.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Ipswich",
+                  "url": "https://bwbfamilylaw.com.au/lps/ipswich-family-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "From mediation to assistance through the court process with parenting disputes, financial settlements, and more, their team is dedicated to crafting tailored solutions that prioritise your well-being.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Ipswich",
+                  "url": "https://bwbfamilylaw.com.au/lps/ipswich-family-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their child-centric services prioritise children's well-being, offering expert guidance on parenting disputes, child support, protection, and parenting plans.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Ipswich",
+                  "url": "https://bwbfamilylaw.com.au/lps/ipswich-family-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 4. 🔹 Keane Legal (Ipswich & Brookwater)\n**Website:** keanelegal.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Keane Legal's team of child custody family lawyers in Ipswich and Brookwater can help with all matters relating to children's care arrangements following divorce and separation.",
+              "annotations": [
+                {
+                  "title": "Children's care arrangements after separation",
+                  "url": "https://www.keanelegal.com.au/parenting-childrens-matters-brookwaterfamilylawyers",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Their services include:\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "legal advice about parenting and children's matters; negotiating and preparing parenting plans and consent orders; preparing court documents; advocacy in contested court proceedings; advocacy in mediation and family dispute resolution; advice and representation in paternity matters; and urgent applications for parenting matters including recovery orders and location orders.",
+              "annotations": [
+                {
+                  "title": "Children's care arrangements after separation",
+                  "url": "https://www.keanelegal.com.au/parenting-childrens-matters-brookwaterfamilylawyers",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their family lawyers practice exclusively in family law.",
+              "annotations": [
+                {
+                  "title": "Divorce & Family Lawyers in Ipswich & Brookwater QLD - Parenting and Property Settlement Matters — KEANE LEGAL",
+                  "url": "https://www.keanelegal.com.au/family-lawyer-ipswich-brookwater-springfield",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 5. 🔹 Daykin Family Law\n**Website:** daykinfamilylaw.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Daykin Family Law provides expert legal support to the residents of Ipswich, specialising in transforming challenging family law matters into clear, manageable solutions — whether navigating a divorce, seeking assistance with property settlement or parenting arrangements, or requiring guidance on any other family law matters.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Ipswich",
+                  "url": "https://daykinfamilylaw.com.au/family-law-ipswich/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "From courtroom litigation to out-of-court negotiations, they leverage their expertise to deliver effective solutions tailored to your situation.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Ipswich",
+                  "url": "https://daykinfamilylaw.com.au/family-law-ipswich/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 6. 🔹 Ipswich Family Lawyers\n**Phone:** (07) 3378 8500 | **Website:** familylawipswich.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They offer cost-effective and transparent legal services, and whether you need help with separation, parenting arrangements, or property matters, Ipswich Family Lawyers are here to assist you with clarity and care.",
+              "annotations": [
+                {
+                  "title": "About Us",
+                  "url": "https://familylawipswich.com.au/about-us/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They assist with care arrangements, parenting plans, and agreements that focus on the best interests of children.",
+              "annotations": [
+                {
+                  "title": "About Us",
+                  "url": "https://familylawipswich.com.au/about-us/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They strongly believe in getting arrangements agreed to without the need for court attendance, which can be done by Consent Orders or Parenting Plans.",
+              "annotations": [
+                {
+                  "title": "Ipswich Family Lawyers - Legal Services - Ipswich Family Lawyers",
+                  "url": "https://familylawipswich.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They also assist clients who may qualify for Legal Aid.\n\n---\n\n### 7. 🔹 JP Family Law & Mediation\n**Website:** jpflm.com\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "JP Family Law & Mediation provides legal services in family law, estate planning, and coaching, with family law services including divorce, property settlement, parenting arrangements, child support, domestic violence matters, and mediation.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Ipswich",
+                  "url": "https://jpflm.com/locations/family-lawyers-ipswich/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their coaching services also cover divorce coaching and co-parenting support.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Ipswich",
+                  "url": "https://jpflm.com/locations/family-lawyers-ipswich/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Although their family lawyers are based in Brisbane, they operate remotely across Australia and serve clients in Ipswich and surrounding areas.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Ipswich",
+                  "url": "https://jpflm.com/locations/family-lawyers-ipswich/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 💡 Tips for Choosing the Right Lawyer\n- **For accredited specialists**, Lamont Law stands out with Accredited Specialists in Family Law on their team.\n- **For mediation/FDR**, Walker Pender, Best Wilson Buckley, Keane Legal, and JP Family Law & Mediation all explicitly offer mediation and dispute resolution services.\n- **For cost-effectiveness**, Ipswich Family Lawyers and Keane Legal (fixed-fee consultations) are worth considering.\n- **For long-standing local experience**, Walker Pender (150 years) and Lamont Law (30+ years) are the most established.\n\nIt's always recommended to book an initial consultation with a few firms to find the best fit for your specific circumstances.",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "best family lawyers Ipswich parenting arrangements child custody",
+        "accredited family dispute resolution mediation Ipswich family lawyers"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "slug": "brisbane_south",
+  "pk": "probate_administration",
+  "plat": "aimode",
+  "text": "I am an executor handling probate and deceased estate administration in Brisbane Southside (Mount Gravatt & Sunnybank). Which law firms specialise in Queensland probate and estate administration?",
+  "loc": 9060851,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_south__probate_administration__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:28:46.762Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "I am an executor handling probate and deceased estate administration in Brisbane Southside (Mount Gravatt & Sunnybank). Which law firms specialise in Queensland probate and estate administration?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 9060851,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=I%20am%20an%20executor%20handling%20probate%20and%20deceased%20estate%20administration%20in%20Brisbane%20Southside%20%28Mount%20Gravatt%20%26%20Sunnybank%29.%20Which%20law%20firms%20specialise%20in%20Queensland%20probate%20and%20estate%20administration%3F&udm=50&uule=w+CAIQIFISCUtNXk8xW5FrERCc3vNaowIF&hl=en&gl=AU",
+      "datetime": "2026-10-23 05:28:42 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "Handling probate and deceased estate administration on Brisbane’s Southside offers the convenience of several established local law firms experienced in `Queensland succession law`.\n\nLocal options servicing the Mount Gravatt and Sunnybank areas include:\n\n\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLd9_M6rzcj9a5_pD8zJZCRT2-vhZCwKHlOj6lq9aP2iO3T2OO44I2cd-PuEQsDxdU_usLcVJX1_sOAo3IinYNReFce-uV6ZmuoIqG6R0r2VBHMy0bR7cUWsrLrRgSuQb5zvZks8Fss-T5M6=s192-w192-h144-n-k-no)\nBennett Carroll Solicitors 4.7 (62)  \nLegal services  \nOpen 2/33 Sanders St  \nCall Directions Website\n\n- **Location:** 33 Sanders Street, Upper Mount Gravatt, QLD 4122\n- **Overview:** Serving the Brisbane South community for decades, they feature a dedicated [Bennett Carroll Wills & Estates Team](https://www.bcglaw.com.au/wills-estates/) handling full estate administration, obtaining grants of probate, estate planning, and managing potential family provision or will disputes.\n\n\n\n---\n\n![](https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=X-Zdl1_iwlB6ORsu1llgIA&cb_client=search.gws-prod.grass&yaw=335.49854&pitch=-3.2017264&thumbfov=100&w=82&h=82)\neBenezer Legal 4.7 (108)  \nLegal services  \nOpen Unit 5/46 Mount Gravatt Capalaba Rd  \nCall Directions\n\n- **Location:** Unit 5, 42-46 Mount Gravatt-Capalaba Road, Upper Mount Gravatt, QLD 4122\n- **Overview:** A local practice providing comprehensive assistance with [eBenezer Legal Wills, Probate and Power of Attorney Services](https://ebenezerlegal.com.au/services/wills-probate-and-power-of-attorney/) , guiding executors through validating a will and managing estate distribution.\n\n\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLfO-7SAKQQVF-heg4F4soVbvFX88A0_c2z0L8SCnT2B8O_gkti3hqhREtPoo4GVycJb2VkSnRMMpWtngWfEOOKNLlvV-015kFLbV97RuKs-xQeYV1wFRBAZd7rr37Jhk2Q6qdVmcQ=s192-w192-h144-n-k-no)\nTimes Lawyers 4.8 (124)  \nLaw firm  \nOpen Ste 110, level 1/250 McCullough St  \nCall Directions Website\n\n- **Location:** Suite 110, Level 1, 250 McCullough Street, Sunnybank, QLD 4109\n- **Overview:** Centrally located in Sunnybank's commercial hub, this multilingual firm handles [Times Lawyers Wills & Estate Services](http://www.timeslawyers.com.au/) alongside property and commercial transactions for the local southside community.[[1]](https://www.bcglaw.com.au/wills-estates/)[[2]](https://www.bcglaw.com.au/brisbane-south-upper-mount-gravatt-lawyers/)[[3]](https://ebenezerlegal.com.au/services/wills-probate-and-power-of-attorney/)[[4]](https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4Y1RWb2NtUmlPR3MYCg)[[5]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdZek1ISnFkbm95GAo)\n\nIf you'd like, let me know:\n\n- Whether you already have the **original Will and Death Certificate** \n- If there is any **complexity** (e.g., overseas beneficiaries, a contested will, or missing assets)\n\nI can give you a clearer idea of **what documents you'll need to pull together** for the application.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Handling probate and deceased estate administration on Brisbane’s Southside offers the convenience of several established local law firms experienced in Queensland succession law.",
+              "markdown": "Handling probate and deceased estate administration on Brisbane’s Southside offers the convenience of several established local law firms experienced in `Queensland succession law`.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Local options servicing the Mount Gravatt and Sunnybank areas include:",
+              "markdown": "Local options servicing the Mount Gravatt and Sunnybank areas include:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Bennett Carroll Solicitors 4.7 (62) Legal services Open 2/33 Sanders St Call Directions WebsiteLocation: 33 Sanders Street, Upper Mount Gravatt, QLD 4122\nOverview: Serving the Brisbane South community for decades, they feature a dedicated Bennett Carroll Wills & Estates Team handling full estate administration, obtaining grants of probate, estate planning, and managing potential family provision or will disputes.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLd9_M6rzcj9a5_pD8zJZCRT2-vhZCwKHlOj6lq9aP2iO3T2OO44I2cd-PuEQsDxdU_usLcVJX1_sOAo3IinYNReFce-uV6ZmuoIqG6R0r2VBHMy0bR7cUWsrLrRgSuQb5zvZks8Fss-T5M6=s192-w192-h144-n-k-no)\nBennett Carroll Solicitors 4.7 (62)  \nLegal services  \nOpen 2/33 Sanders St  \nCall Directions Website\n\n- **Location:** 33 Sanders Street, Upper Mount Gravatt, QLD 4122\n- **Overview:** Serving the Brisbane South community for decades, they feature a dedicated [Bennett Carroll Wills & Estates Team](https://www.bcglaw.com.au/wills-estates/) handling full estate administration, obtaining grants of probate, estate planning, and managing potential family provision or will disputes.",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Bennett Carroll Wills & Estates Team",
+                  "description": null,
+                  "url": "https://www.bcglaw.com.au/wills-estates/",
+                  "domain": "www.bcglaw.com.au"
+                }
+              ],
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9_M6rzcj9a5_pD8zJZCRT2-vhZCwKHlOj6lq9aP2iO3T2OO44I2cd-PuEQsDxdU_usLcVJX1_sOAo3IinYNReFce-uV6ZmuoIqG6R0r2VBHMy0bR7cUWsrLrRgSuQb5zvZks8Fss-T5M6=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "eBenezer Legal 4.7 (108) Legal services Open Unit 5/46 Mount Gravatt Capalaba Rd Call DirectionsLocation: Unit 5, 42-46 Mount Gravatt-Capalaba Road, Upper Mount Gravatt, QLD 4122\nOverview: A local practice providing comprehensive assistance with eBenezer Legal Wills, Probate and Power of Attorney Services, guiding executors through validating a will and managing estate distribution.",
+              "markdown": "---\n\n![](https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=X-Zdl1_iwlB6ORsu1llgIA&cb_client=search.gws-prod.grass&yaw=335.49854&pitch=-3.2017264&thumbfov=100&w=82&h=82)\neBenezer Legal 4.7 (108)  \nLegal services  \nOpen Unit 5/46 Mount Gravatt Capalaba Rd  \nCall Directions\n\n- **Location:** Unit 5, 42-46 Mount Gravatt-Capalaba Road, Upper Mount Gravatt, QLD 4122\n- **Overview:** A local practice providing comprehensive assistance with [eBenezer Legal Wills, Probate and Power of Attorney Services](https://ebenezerlegal.com.au/services/wills-probate-and-power-of-attorney/) , guiding executors through validating a will and managing estate distribution.",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "eBenezer Legal Wills, Probate and Power of Attorney Services",
+                  "description": null,
+                  "url": "https://ebenezerlegal.com.au/services/wills-probate-and-power-of-attorney/",
+                  "domain": "ebenezerlegal.com.au"
+                }
+              ],
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=X-Zdl1_iwlB6ORsu1llgIA&cb_client=search.gws-prod.grass&yaw=335.49854&pitch=-3.2017264&thumbfov=100&w=82&h=82"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Times Lawyers 4.8 (124) Law firm Open Ste 110, level 1/250 McCullough St Call Directions WebsiteLocation: Suite 110, Level 1, 250 McCullough Street, Sunnybank, QLD 4109\nOverview: Centrally located in Sunnybank's commercial hub, this multilingual firm handles Times Lawyers Wills & Estate Services alongside property and commercial transactions for the local southside community.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLfO-7SAKQQVF-heg4F4soVbvFX88A0_c2z0L8SCnT2B8O_gkti3hqhREtPoo4GVycJb2VkSnRMMpWtngWfEOOKNLlvV-015kFLbV97RuKs-xQeYV1wFRBAZd7rr37Jhk2Q6qdVmcQ=s192-w192-h144-n-k-no)\nTimes Lawyers 4.8 (124)  \nLaw firm  \nOpen Ste 110, level 1/250 McCullough St  \nCall Directions Website\n\n- **Location:** Suite 110, Level 1, 250 McCullough Street, Sunnybank, QLD 4109\n- **Overview:** Centrally located in Sunnybank's commercial hub, this multilingual firm handles [Times Lawyers Wills & Estate Services](http://www.timeslawyers.com.au/) alongside property and commercial transactions for the local southside community.[[1]](https://www.bcglaw.com.au/wills-estates/)[[2]](https://www.bcglaw.com.au/brisbane-south-upper-mount-gravatt-lawyers/)[[3]](https://ebenezerlegal.com.au/services/wills-probate-and-power-of-attorney/)[[4]](https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4Y1RWb2NtUmlPR3MYCg)[[5]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdZek1ISnFkbm95GAo)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Times Lawyers Wills & Estate Services",
+                  "description": null,
+                  "url": "http://www.timeslawyers.com.au/",
+                  "domain": "www.timeslawyers.com.au"
+                }
+              ],
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfO-7SAKQQVF-heg4F4soVbvFX88A0_c2z0L8SCnT2B8O_gkti3hqhREtPoo4GVycJb2VkSnRMMpWtngWfEOOKNLlvV-015kFLbV97RuKs-xQeYV1wFRBAZd7rr37Jhk2Q6qdVmcQ=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Bennett Carroll Solicitors",
+                  "domain": "www.bcglaw.com.au",
+                  "url": "https://www.bcglaw.com.au/wills-estates/",
+                  "title": "Wills & Estate Planning Lawyers Queensland",
+                  "text": "At Bennett Carroll Solicitors, we help Queenslanders protect their future with experienced legal advice in all aspects of Wills an..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Bennett Carroll Solicitors",
+                  "domain": "www.bcglaw.com.au",
+                  "url": "https://www.bcglaw.com.au/brisbane-south-upper-mount-gravatt-lawyers/",
+                  "title": "Brisbane South Solicitors | Upper Mount Gravatt Lawyers | Bennett Carroll",
+                  "text": "Address: 33 Sanders Street, Upper Mount Gravatt, QLD 4122. Contact: 1300 334 566, Mon-Fri 8.30am-5pm. Remote services available (p..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "eBenezer Legal |",
+                  "domain": "ebenezerlegal.com.au",
+                  "url": "https://ebenezerlegal.com.au/services/wills-probate-and-power-of-attorney/",
+                  "title": "Wills, Probate and Power of Attorney | - eBenezer Legal |",
+                  "text": "Contact us at: Unit 5, 42-46 Mount Gravatt Capalaba Rd Upper Mt Gravatt Qld 4122"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4Y1RWb2NtUmlPR3MYCg",
+                  "title": "Ebenezer Legal",
+                  "text": "Unit 5/46 Mount Gravatt Capalaba Rd, Upper Mount Gravatt QLD 4122 · Professional legal firm specializing in conveyancing and prope..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdZek1ISnFkbm95GAo",
+                  "title": "Times Lawyers (Sunnybank Office)",
+                  "text": "Ste 110, level 1/250 McCullough St, Sunnybank QLD 4109 · Professional law firm providing reliable conveyancing services and expert..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you'd like, let me know:",
+              "markdown": "If you'd like, let me know:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Whether you already have the original Will and Death Certificate If there is any complexity (e.g., overseas beneficiaries, a contested will, or missing assets)",
+              "markdown": "- Whether you already have the **original Will and Death Certificate** \n- If there is any **complexity** (e.g., overseas beneficiaries, a contested will, or missing assets)",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "I can give you a clearer idea of what documents you'll need to pull together for the application.",
+              "markdown": "I can give you a clearer idea of **what documents you'll need to pull together** for the application.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Bennett Carroll Solicitors",
+              "domain": "www.bcglaw.com.au",
+              "url": "https://www.bcglaw.com.au/wills-estates/",
+              "title": "Wills & Estate Planning Lawyers Queensland",
+              "text": "At Bennett Carroll Solicitors, we help Queenslanders protect their future with experienced legal advice in all aspects of Wills and Estates."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "eBenezer Legal |",
+              "domain": "ebenezerlegal.com.au",
+              "url": "https://ebenezerlegal.com.au/services/wills-probate-and-power-of-attorney/",
+              "title": "Wills, Probate and Power of Attorney | - eBenezer Legal |",
+              "text": "Contact us at: Unit 5, 42-46 Mount Gravatt Capalaba Rd Upper Mt Gravatt Qld 4122"
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Bennett Carroll Solicitors",
+              "domain": "www.bcglaw.com.au",
+              "url": "https://www.bcglaw.com.au/brisbane-south-upper-mount-gravatt-lawyers/",
+              "title": "Brisbane South Solicitors | Upper Mount Gravatt Lawyers | Bennett Carroll",
+              "text": "Address: 33 Sanders Street, Upper Mount Gravatt, QLD 4122. Contact: 1300 334 566, Mon-Fri 8.30am-5pm. Remote services available (phone, video, email, mobile). Serv..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

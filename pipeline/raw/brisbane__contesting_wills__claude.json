@@ -1,0 +1,361 @@
+{
+  "slug": "brisbane",
+  "pk": "contesting_wills",
+  "plat": "claude",
+  "text": "Which wills and estates law firms in Brisbane specialise in contesting a will, Family Provision Applications (FPA), and estate litigation?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane__contesting_wills__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:26:35.061Z",
+  "cost": 0.060694,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 9793,
+      "output_tokens": 1381,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.060094,
+      "datetime": "2026-10-23 05:26:31 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a list of Brisbane law firms that specialise in contesting a will, Family Provision Applications (FPA), and estate litigation:\n\n---\n\n### 1. 🏛️ **Attwood Marshall Lawyers**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Attwood Marshall Lawyers specialise in estate disputes and all areas of succession law.",
+              "annotations": [
+                {
+                  "title": "Estate Litigation Lawyers Brisbane",
+                  "url": "https://attwoodmarshall.com.au/brisbane/estate-litigation/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Whether you've been left out of a will and want to contest it, you're defending a claim as an executor or beneficiary, or you're concerned about how an estate is being managed, they help protect your rights and achieve a fair outcome.",
+              "annotations": [
+                {
+                  "title": "Estate Litigation Lawyers Brisbane",
+                  "url": "https://attwoodmarshall.com.au/brisbane/estate-litigation/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their services include Family Provision Claims (contesting a will), defending claims on behalf of executors/beneficiaries, challenging wills (capacity, undue influence), Public Trustee disputes, and statutory wills.",
+              "annotations": [
+                {
+                  "title": "Estate Litigation Lawyers Brisbane",
+                  "url": "https://attwoodmarshall.com.au/brisbane/estate-litigation/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Attwood Marshall Lawyers has been recognised in Doyle's Guide as a Leading Wills & Estates Litigation Law Firm.",
+              "annotations": [
+                {
+                  "title": "Estate Litigation Lawyers Brisbane",
+                  "url": "https://attwoodmarshall.com.au/brisbane/estate-litigation/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 2. ⚖️ **Armstrong Legal**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Armstrong Legal's Brisbane contested wills lawyers specialise in estate litigation and assist clients who are in the difficult position of considering challenging or contesting the will of a loved one who has recently passed away.",
+              "annotations": [
+                {
+                  "title": "Brisbane Contested Wills Lawyers",
+                  "url": "https://www.armstronglegal.com.au/qld/brisbane-lawyers/contested-wills/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Doyle's Guide has recognised them as a Recommended Wills & Estates Litigation Law Firm from 2021 to 2025.",
+              "annotations": [
+                {
+                  "title": "Brisbane Contested Wills Lawyers",
+                  "url": "https://www.armstronglegal.com.au/qld/brisbane-lawyers/contested-wills/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their team can encourage negotiations or mediation, but can also provide estate litigation lawyers if necessary.",
+              "annotations": [
+                {
+                  "title": "Brisbane Contested Wills Lawyers",
+                  "url": "https://www.armstronglegal.com.au/qld/brisbane-lawyers/contested-wills/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n📍 Level 5/95 North Quay, Brisbane | 📞 (07) 3229 4448\n\n---\n\n### 3. 🏛️ **Thynne + Macartney**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Thynne + Macartney handles estate litigation, Family Provision Applications, and dispute resolution. Doyle's Guide recognises them as a leading law firm in Queensland for Wills, Estates & Succession Planning, as well as Wills & Estates Litigation.",
+              "annotations": [
+                {
+                  "title": "Estate Litigation",
+                  "url": "https://www.thymac.com.au/your-estate-litigation/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "One of their lawyers, Ashleigh Poole, is individually recognised as a specialist accredited by the Queensland Law Society in Succession Law.",
+              "annotations": [
+                {
+                  "title": "Estate Litigation",
+                  "url": "https://www.thymac.com.au/your-estate-litigation/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 4. ⚖️ **Will and Estate Lawyers Australia**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Will and Estate Lawyers Australia are experienced estate lawyers handling will disputes, family provision claims, executor conflicts, and estate administration litigation across Queensland, with no-win-no-fee arrangements available for eligible claims.",
+              "annotations": [
+                {
+                  "title": "Will Dispute Lawyers Brisbane",
+                  "url": "https://willandestatelawyers.com.au/will-dispute-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their will dispute lawyers handle a wide range of estate matters including family provision applications, challenges to will validity, executor removal proceedings, breach of fiduciary duty claims, and estate administration conflicts.",
+              "annotations": [
+                {
+                  "title": "Will Dispute Lawyers Brisbane",
+                  "url": "https://willandestatelawyers.com.au/will-dispute-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n📍 Offices in Milton and Ashgrove, Brisbane | 📞 07 3073 2405\n\n---\n\n### 5. ⚖️ **Aitken Whyte Lawyers**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Aitken Whyte Lawyers are experienced Brisbane solicitors for contesting a will, challenging a will, and Family Provision Claims.",
+              "annotations": [
+                {
+                  "title": "Will Dispute Lawyers Brisbane",
+                  "url": "https://www.awbrisbanelawyers.com.au/will-dispute-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their wills and estate lawyers provide expert legal advice, practical advice, and comprehensive support to clients, helping them manage issues related to estate law, estate disputes, estate litigation, and other estate matters.",
+              "annotations": [
+                {
+                  "title": "Will Dispute Lawyers Brisbane",
+                  "url": "https://www.awbrisbanelawyers.com.au/will-dispute-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n📍 2/414 Upper Roma Street, Brisbane QLD 4000 | 📞 07 3229 4459\n\n---\n\n### 6. ⚖️ **Rose Litigation Lawyers**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Rose Litigation Lawyers' Brisbane wills and estate lawyers are highly experienced in all aspects of wills & estates disputes and estate litigation. Whether you are contesting a will, seeking to defend a provision claim, or navigating complex issues surrounding the administration of a deceased estate, they guide you through every stage of the process.",
+              "annotations": [
+                {
+                  "title": "Will Dispute Lawyers Brisbane & Gold Coast",
+                  "url": "https://www.roselitigation.com.au/expertise/litigation/wills-estates-disputes/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "At Rose Litigation, they act for both applicants and executors in family provision matters, and whether resolving the matter through negotiation or representing you in court, they focus on achieving equitable outcomes.",
+              "annotations": [
+                {
+                  "title": "Will Dispute Lawyers Brisbane & Gold Coast",
+                  "url": "https://www.roselitigation.com.au/expertise/litigation/wills-estates-disputes/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 7. ⚖️ **Little Estate Lawyers**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Estate disputes and litigation is the part of succession law Little Estate Lawyers are best known for. They act for estates defending claims and for people bringing them, including family provision claims and challenges to the validity of a will.",
+              "annotations": [
+                {
+                  "title": "Little Estate Lawyers Wills and Estates - Brisbane",
+                  "url": "https://littlelawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "This includes disputes about capacity, undue influence, and whether a person knew and approved of what their will said.",
+              "annotations": [
+                {
+                  "title": "Little Estate Lawyers Wills and Estates - Brisbane",
+                  "url": "https://littlelawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Founded by Danielle Little, they work with clients throughout Queensland.",
+              "annotations": [
+                {
+                  "title": "Little Estate Lawyers Wills and Estates - Brisbane",
+                  "url": "https://littlelawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n> **⏰ Important Note:** In Queensland, there are strict time limits for contesting a will or making a Family Provision Application (generally **9 months from the date of death**). It is strongly recommended to seek legal advice as soon as possible.",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "Brisbane law firms specialise contesting will Family Provision Applications estate litigation"
+      ]
+    }
+  ]
+}

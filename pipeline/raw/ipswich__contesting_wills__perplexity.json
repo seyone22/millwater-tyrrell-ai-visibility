@@ -1,0 +1,106 @@
+{
+  "slug": "ipswich",
+  "pk": "contesting_wills",
+  "plat": "perplexity",
+  "text": "Which wills and estates law firms in Ipswich specialise in contesting a will, Family Provision Applications (FPA), and estate litigation?",
+  "loc": 9060853,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\ipswich__contesting_wills__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:23:52.959Z",
+  "cost": 0.006094,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 36,
+      "output_tokens": 458,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005494,
+      "datetime": "2026-10-23 05:23:49 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "The strongest Ipswich options for **contesting a will, Family Provision Applications (FPA), and estate litigation** are:\n\n- **Turner Freeman Lawyers** — Ipswich office at 10 Churchill Street. Its estate team specifically lists estate litigation, will disputes, family provision claims and unfair-wills claims, including disputes involving testamentary capacity, undue influence and improper execution.[1]\n- **Walker Pender Group** — Ipswich office at 28 Nicholas Street. The firm handles contested wills, family provision claims under Queensland’s *Succession Act 1981*, mediation and Supreme Court representation, including defending claims.[2][3]\n- **Fallu McMillan Lawyers** — Ipswich-based firm offering estate litigation, estate-dispute resolution, probate and representation where a will is being disputed.[5]\n- **Armstrong Legal** — advertises a dedicated contested-wills practice covering Queensland. It handles Family Provision Applications, invalid-will challenges, executor disputes, estate administration disputes and other contentious estate claims; confirm whether the matter is managed locally or remotely.[4]\n- **Richard Zande and Associates** — Ipswich firm identified as assisting with family provision claims and procedures for challenging wills. Because the available listing provides less detail about litigation capability, ask specifically about Supreme Court proceedings and contested-estate experience.[3]\n\n**Best initial shortlist:** Turner Freeman and Walker Pender appear to have the clearest publicly stated coverage of all three areas—will contests, FPAs and estate litigation.[1][2][3]\n\nWhen contacting a firm, ask:\n\n- Whether it regularly acts for **applicants and executors/beneficiaries**.\n- Its experience with Queensland Supreme Court estate proceedings.\n- Whether it handles both **Family Provision Applications** and validity challenges involving capacity, undue influence, fraud or execution.\n- The applicable deadlines. In Queensland, written notice of an intended family provision claim generally must be given to the executor within **6 months of death**, and the application generally must be filed within **9 months of death**, subject to possible court discretion.[1]\n\nThis is general information, not legal advice. Seek urgent advice if the death occurred recently or either deadline may be approaching.",
+              "annotations": [
+                {
+                  "title": "Wills & Estate Lawyers Ipswich",
+                  "url": "https://www.turnerfreeman.com.au/wills-estates-lawyers-ipswich/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills Lawyers",
+                  "url": "https://walkerpender.com.au/will/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Compare 5 Estate Planning Lawyers in Ipswich, QLD",
+                  "url": "https://lawconnect.com/en-au/find/estate-planning/qld/ipswich-4305",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Contest A Will Lawyer Ipswich",
+                  "url": "https://www.armstronglegal.com.au/pages/cmcw-contest-a-will-lawyer-ipswich/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills and Estate Lawyers Ipswich | Fallu McMillan Lawyers",
+                  "url": "https://www.fmlaw.com.au/practice-areas/wills-estate-law/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Find Estate Dispute Lawyers in Ipswich QLD - LawConnect",
+                  "url": "https://lawconnect.com/en-au/find/estate-disputes/qld/ipswich-4305",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Contesting a Will & Contentious Probate Claims",
+                  "url": "https://www.ashtonslegal.co.uk/your-life/wills-solicitors/contesting-a-will/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Bates Wells & Braithwaite",
+                  "url": "https://thesolicitordirectory.co.uk/firm/bates-wells-braithwaite",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills and Probate Solicitors in Ipswich",
+                  "url": "https://www.solicitors.com/probate+ipswich.html",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Contesting A Will",
+                  "url": "https://walkerpender.com.au/will/contesting-will/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

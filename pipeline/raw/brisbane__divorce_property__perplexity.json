@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane",
+  "pk": "divorce_property",
+  "plat": "perplexity",
+  "text": "I am going through a separation and complex property settlement in Brisbane. Which family law firms have the strongest track record for property division and binding financial agreements?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane__divorce_property__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:25:25.349Z",
+  "cost": 0.006174,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 37,
+      "output_tokens": 537,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005574,
+      "datetime": "2026-10-23 05:25:21 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For a **complex Brisbane property settlement involving businesses, trusts, significant superannuation or high-value assets**, the strongest shortlist from the available evidence is:\n\n- **Ramsden Family Law** — particularly strong for complex and high-value property matters. It identifies two Brisbane Accredited Family Law Specialists, including experience in high-value settlements, and reports recognition by Doyle’s Guide since 2017.[6]\n- **Best Wilson Buckley Family Law** — a specialist family-law practice that specifically handles property settlements, superannuation splitting and binding financial agreements.[3]\n- **Hartley Family Law** — a Brisbane boutique specialising in family law, with Accredited Specialists and stated expertise in both complex property settlements and BFAs.[7]\n- **Stewart Family Law** — a Brisbane City practice described as Doyle’s Recommended, with Accredited Specialists and experience formalising settlements through financial agreements or consent orders.[1]\n- **Chamberlains Law Firm** — suitable where the asset pool includes real estate, businesses, trusts or superannuation; it advertises both complex property litigation/negotiation and BFA drafting and review.[4]\n\n**Other firms worth comparing:** Australian Family Lawyers has a dedicated property-settlement and BFA practice and handles higher-asset matters nationally.[2] The Law People says it has assisted thousands of clients, including with complex property settlements and financial agreements, and has a Brisbane contact number.[5]\n\n## How to choose between them\n\nAsk each firm:\n\n- Which solicitor will personally run the matter, and are they a **Queensland Accredited Specialist in Family Law**?\n- How many recent cases involved businesses, trusts, international assets, family inheritances or disputed valuations?\n- What is their experience challenging or defending **binding financial agreements**, rather than merely preparing them?\n- Will they recommend **consent orders** or a BFA for your circumstances, and why?\n- What is the likely staged cost for disclosure, valuation, negotiation, mediation and litigation?\n- How will they identify concealed assets, tax consequences and superannuation interests?\n\nDo not select solely on advertised “success rates” or online reviews; firms rarely publish independently verified win rates. For a genuinely complex settlement, obtaining initial consultations from **Ramsden, Best Wilson Buckley and Hartley or Stewart** would provide a sensible comparison of specialist credentials, strategy and cost.\n\nA BFA must satisfy strict legal requirements, including independent legal advice for each party; defective agreements can later be challenged. A solicitor should also explain whether court-approved consent orders provide better protection for your particular settlement.[1][6]",
+              "annotations": [
+                {
+                  "title": "Property Settlement Lawyers Brisbane - Free Initital Consult",
+                  "url": "https://stewartfamilylaw.com.au/property-settlement-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Law Firm Of The Year",
+                  "url": "https://www.australianfamilylawyers.com.au/cm-family-law-lawyer-brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Lawyers Brisbane",
+                  "url": "https://bwbfamilylaw.com.au/lps/family-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Law Brisbane | Contact Us - Chamberlains Law Firm",
+                  "url": "https://chamberlains.com.au/expertise/family-law/brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The Law People: Family Lawyers Brisbane | Family Law Firm",
+                  "url": "https://thelawpeople.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Brisbane Family and Divorce Lawyers | Ramsden Family Law",
+                  "url": "https://ramsdenfamilylaw.com.au/brisbane-family-and-divorce-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Hartley Family Law: Family Lawyers Brisbane - Divorce Solicitor",
+                  "url": "https://hartleyfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Property Settlement Orders",
+                  "url": "https://landersolicitors.com.au/family-law/property-settlement-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Divorce Property Settlement Lawyer Brisbane",
+                  "url": "https://bartonfamilylaw.com.au/property-settlement-lawyer-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Property Settlement Lawyers in Brisbane",
+                  "url": "https://www.pcllawyers.com.au/brisbane/family-lawyers/property-settlement-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

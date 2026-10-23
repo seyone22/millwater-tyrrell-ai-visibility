@@ -1,0 +1,208 @@
+{
+  "slug": "logan",
+  "pk": "probate_administration",
+  "plat": "aimode",
+  "text": "I am an executor handling probate and deceased estate administration in Logan and Western Corridor (Ipswich to Brisbane). Which law firms specialise in Queensland probate and estate administration?",
+  "loc": 9112660,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\logan__probate_administration__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:33:00.546Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "I am an executor handling probate and deceased estate administration in Logan and Western Corridor (Ipswich to Brisbane). Which law firms specialise in Queensland probate and estate administration?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 9112660,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=I%20am%20an%20executor%20handling%20probate%20and%20deceased%20estate%20administration%20in%20Logan%20and%20Western%20Corridor%20%28Ipswich%20to%20Brisbane%29.%20Which%20law%20firms%20specialise%20in%20Queensland%20probate%20and%20estate%20administration%3F&udm=50&uule=w+CAIQIFISCcfkSS9POJFrEVYgP_h8diK6&hl=en&gl=AU",
+      "datetime": "2026-10-23 05:32:56 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "**Several specialized and regional law firms handle Queensland probate and deceased estate administration across Brisbane, Logan, and the Western Corridor (Ipswich):** \n\n### Specialised & Local Law Firms\n\n- **[Nurture Law](https://nurturelaw.com.au/)** \n\t- **Service Area:** Brisbane, Logan, Ipswich, and surrounding regions.\n\t- **Focus:** Offers dedicated executor support, probate and estate administration, fixed-fee wills and probate packages, and assistance with superannuation death benefit claims or estate disputes.[[1]](https://nurturelaw.com.au/)[[2]](https://nurturelaw.com.au/probate-and-estate-administration/)\n- **[Jacaranda Law](https://jacarandalaw.com.au/)** \n\t- **Service Area:** Ipswich and clients across Queensland.\n\t- **Focus:** Specialises in wills, estate planning, elder law, probate applications, estate distribution, and resolving contested will disputes.[[1]](https://jacarandalaw.com.au/)\n- **[David Grant and Associates](https://lawconnect.com/en-au/find/estate-administration/qld/ipswich-4305)** \n\t- **Service Area:** Ipswich and the Western Corridor.\n\t- **Focus:** Operating since 1973, they assist executors and beneficiaries with Supreme Court grant applications, asset collection, debt settlement, and full estate finalisation.[[1]](https://lawconnect.com/en-au/find/estate-administration/qld/ipswich-4305)\n- **de Groots Wills and Estate Lawyers** \n\t- **Service Area:** Brisbane and broader Queensland.\n\t- **Focus:** A boutique firm strictly dedicated to wills, estate planning, complex probate, and deceased estate administration governed by the *Succession Act 1981 (Qld)*.[[1]](https://degroots.com.au/brisbane/)\n- **Power Legal** \n\t- **Service Area:** Ipswich, QLD.\n\t- **Focus:** An independent local firm offering wills and estates guidance alongside transparent cost estimates for local executors.[[1]](https://lawconnect.com/en-au/find/estate-administration/qld/ipswich-4305)\n\n### Key Considerations for Executors in QLD\n\n- **Jurisdiction:** Probate in Queensland is handled through the [Supreme Court of Queensland](https://www.courts.qld.gov.au/) , whether you file directly or through a solicitor.[[1]](https://degroots.com.au/brisbane/)\n- **Fixed-Fee vs. Scaled Costs:** Some modern suburban and regional practices (like Nurture Law or Jacaranda Law) offer fixed-fee or transparent tiered packages for standard Grant of Probate applications, which can help manage estate expenses.\n- **Complex Assets:** If the estate includes multi-state property, family trusts, business interests, or potential family provision claims (*testator's family maintenance* ), engaging an estate-specific boutique rather than a general practice is recommended.\n\nIf you'd like to narrow this down, let me know:\n\n- Are you looking for **fixed-fee probate help** or assistance with a **contested/complex estate**?\n- Do you prefer a firm located closer to **Logan/Southside**, **Ipswich** , or **Brisbane CBD**?",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Several specialized and regional law firms handle Queensland probate and deceased estate administration across Brisbane, Logan, and the Western Corridor (Ipswich):",
+              "markdown": "**Several specialized and regional law firms handle Queensland probate and deceased estate administration across Brisbane, Logan, and the Western Corridor (Ipswich):**",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Specialised & Local Law Firms",
+              "text": "Nurture Law Service Area: Brisbane, Logan, Ipswich, and surrounding regions. Focus: Offers dedicated executor support, probate and estate administration, fixed-fee wills and probate packages, and assistance with superannuation death benefit claims or estate disputes. Jacaranda Law Service Area: Ipswich and clients across Queensland. Focus: Specialises in wills, estate planning, elder law, probate applications, estate distribution, and resolving contested will disputes. David Grant and Associates Service Area: Ipswich and the Western Corridor. Focus: Operating since 1973, they assist executors and beneficiaries with Supreme Court grant applications, asset collection, debt settlement, and full estate finalisation. de Groots Wills and Estate Lawyers de Groots Wills and Estate Lawyers de Groots Wills and Estate Lawyers Service Area: Brisbane and broader Queensland. Focus: A boutique firm strictly dedicated to wills, estate planning, complex probate, and deceased estate administration governed by the Succession Act 1981 (Qld). Power Legal Power Legal Service Area: Ipswich, QLD. Focus: An independent local firm offering wills and estates guidance alongside transparent cost estimates for local executors.",
+              "markdown": "- **[Nurture Law](https://nurturelaw.com.au/)** \n\t- **Service Area:** Brisbane, Logan, Ipswich, and surrounding regions.\n\t- **Focus:** Offers dedicated executor support, probate and estate administration, fixed-fee wills and probate packages, and assistance with superannuation death benefit claims or estate disputes.[[1]](https://nurturelaw.com.au/)[[2]](https://nurturelaw.com.au/probate-and-estate-administration/)\n- **[Jacaranda Law](https://jacarandalaw.com.au/)** \n\t- **Service Area:** Ipswich and clients across Queensland.\n\t- **Focus:** Specialises in wills, estate planning, elder law, probate applications, estate distribution, and resolving contested will disputes.[[1]](https://jacarandalaw.com.au/)\n- **[David Grant and Associates](https://lawconnect.com/en-au/find/estate-administration/qld/ipswich-4305)** \n\t- **Service Area:** Ipswich and the Western Corridor.\n\t- **Focus:** Operating since 1973, they assist executors and beneficiaries with Supreme Court grant applications, asset collection, debt settlement, and full estate finalisation.[[1]](https://lawconnect.com/en-au/find/estate-administration/qld/ipswich-4305)\n- **de Groots Wills and Estate Lawyers** \n\t- **Service Area:** Brisbane and broader Queensland.\n\t- **Focus:** A boutique firm strictly dedicated to wills, estate planning, complex probate, and deceased estate administration governed by the *Succession Act 1981 (Qld)*.[[1]](https://degroots.com.au/brisbane/)\n- **Power Legal** \n\t- **Service Area:** Ipswich, QLD.\n\t- **Focus:** An independent local firm offering wills and estates guidance alongside transparent cost estimates for local executors.[[1]](https://lawconnect.com/en-au/find/estate-administration/qld/ipswich-4305)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Nurture Law",
+                  "description": null,
+                  "url": "https://nurturelaw.com.au/",
+                  "domain": "nurturelaw.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Jacaranda Law",
+                  "description": null,
+                  "url": "https://jacarandalaw.com.au/",
+                  "domain": "jacarandalaw.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "David Grant and Associates",
+                  "description": null,
+                  "url": "https://lawconnect.com/en-au/find/estate-administration/qld/ipswich-4305",
+                  "domain": "lawconnect.com"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Nurture Law",
+                  "domain": "nurturelaw.com.au",
+                  "url": "https://nurturelaw.com.au/",
+                  "title": "Wills and Estate Lawyers Brisbane - Estate Lawyers | Nurture Law",
+                  "text": "Nurture Law is a Brisbane-based wills and estate law firm directed by Principal Lawyer Kelly Gatehouse, focusing on out-of-court d..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Nurture Law",
+                  "domain": "nurturelaw.com.au",
+                  "url": "https://nurturelaw.com.au/probate-and-estate-administration/",
+                  "title": "Probate and Estate Administration Lawyers Brisbane",
+                  "text": "Probate and Estate Administration Lawyers Brisbane. FOR CARING, EXPERT PROBATE AND ESTATE ADMINISTRATION SUPPORT IN BRISBANE, LOGA..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Jacaranda Law",
+                  "domain": "jacarandalaw.com.au",
+                  "url": "https://jacarandalaw.com.au/",
+                  "title": "Jacaranda Law: Wills & Estates Lawyer Ipswich",
+                  "text": "Wills & Estates Lawyer Ipswich | Jacaranda Law Ipswich's Trusted Will & Estate Lawyers Guiding You Through Life's Most Important L..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "LawConnect",
+                  "domain": "lawconnect.com",
+                  "url": "https://lawconnect.com/en-au/find/estate-administration/qld/ipswich-4305",
+                  "title": "Find Estate Administration Lawyers in Ipswich, QLD",
+                  "text": "Families dealing with deceased estates receive comprehensive guidance through complex probate processes and administrative require..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "de Groots Wills and Estate Lawyers",
+                  "domain": "degroots.com.au",
+                  "url": "https://degroots.com.au/brisbane/",
+                  "title": "Wills & Estate Lawyers Brisbane | de Groots",
+                  "text": "Your Trusted Wills and Estate Lawyers in Brisbane Proper estate planning requires the guidance of skilled lawyers to ensure your w..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Key Considerations for Executors in QLD",
+              "text": "Jurisdiction: Probate in Queensland is handled through the Supreme Court of Queensland, whether you file directly or through a solicitor. Fixed-Fee vs. Scaled Costs: Some modern suburban and regional practices (like Nurture Law or Jacaranda Law) offer fixed-fee or transparent tiered packages for standard Grant of Probate applications, which can help manage estate expenses. Complex Assets: If the estate includes multi-state property, family trusts, business interests, or potential family provision claims (testator's family maintenance), engaging an estate-specific boutique rather than a general practice is recommended.",
+              "markdown": "- **Jurisdiction:** Probate in Queensland is handled through the [Supreme Court of Queensland](https://www.courts.qld.gov.au/) , whether you file directly or through a solicitor.[[1]](https://degroots.com.au/brisbane/)\n- **Fixed-Fee vs. Scaled Costs:** Some modern suburban and regional practices (like Nurture Law or Jacaranda Law) offer fixed-fee or transparent tiered packages for standard Grant of Probate applications, which can help manage estate expenses.\n- **Complex Assets:** If the estate includes multi-state property, family trusts, business interests, or potential family provision claims (*testator's family maintenance* ), engaging an estate-specific boutique rather than a general practice is recommended.",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Supreme Court of Queensland",
+                  "description": null,
+                  "url": "https://www.courts.qld.gov.au/",
+                  "domain": "www.courts.qld.gov.au"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "de Groots Wills and Estate Lawyers",
+                  "domain": "degroots.com.au",
+                  "url": "https://degroots.com.au/brisbane/",
+                  "title": "Wills & Estate Lawyers Brisbane | de Groots",
+                  "text": "Your Trusted Wills and Estate Lawyers in Brisbane Proper estate planning requires the guidance of skilled lawyers to ensure your wishes are legally protected and c..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you'd like to narrow this down, let me know:",
+              "markdown": "If you'd like to narrow this down, let me know:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Are you looking for fixed-fee probate help or assistance with a contested/complex estate ? Do you prefer a firm located closer to Logan/Southside, Ipswich, or Brisbane CBD ?",
+              "markdown": "- Are you looking for **fixed-fee probate help** or assistance with a **contested/complex estate**?\n- Do you prefer a firm located closer to **Logan/Southside**, **Ipswich** , or **Brisbane CBD**?",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Nurture Law",
+              "domain": "nurturelaw.com.au",
+              "url": "https://nurturelaw.com.au/probate-and-estate-administration/",
+              "title": "Probate and Estate Administration Lawyers Brisbane",
+              "text": "Probate and Estate Administration Lawyers Brisbane. FOR CARING, EXPERT PROBATE AND ESTATE ADMINISTRATION SUPPORT IN BRISBANE, LOGAN, IPSWICH, AND SURROUNDS, CHOOSE..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "de Groots Wills and Estate Lawyers",
+              "domain": "degroots.com.au",
+              "url": "https://degroots.com.au/brisbane/",
+              "title": "Wills & Estate Lawyers Brisbane | de Groots",
+              "text": "Your Trusted Wills and Estate Lawyers in Brisbane Proper estate planning requires the guidance of skilled lawyers to ensure your wishes are legally protected and c..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "LawConnect",
+              "domain": "lawconnect.com",
+              "url": "https://lawconnect.com/en-au/find/estate-administration/qld/ipswich-4305",
+              "title": "Find Estate Administration Lawyers in Ipswich, QLD",
+              "text": "Families dealing with deceased estates receive comprehensive guidance through complex probate processes and administrative requirements from David Grant and Associ..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

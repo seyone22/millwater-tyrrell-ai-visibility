@@ -1,0 +1,326 @@
+{
+  "slug": "brisbane_west",
+  "pk": "probate_administration",
+  "plat": "claude",
+  "text": "I am an executor handling probate and deceased estate administration in Brisbane Western Suburbs (Indooroopilly & Centenary). Which law firms specialise in Queensland probate and estate administration?",
+  "loc": 9192539,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_west__probate_administration__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:27:48.764Z",
+  "cost": 0.063772,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10659,
+      "output_tokens": 1413,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.063172,
+      "datetime": "2026-10-23 05:27:44 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "As an executor handling probate and deceased estate administration in Brisbane's Western Suburbs (Indooroopilly & Centenary), here is a curated overview of law firms that specialise in Queensland probate and estate administration:\n\n---\n\n## 🏛️ Queensland Probate & Estate Administration — Specialist Law Firms\n\n---\n\n### 1. 🔹 Little Estate Lawyers *(Brisbane — Highly Specialist)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Little Estate Lawyers is a Brisbane law firm that practises **exclusively** in Queensland succession law, and has done nothing else since Danielle Little founded the firm in October 2018.",
+              "annotations": [
+                {
+                  "title": "Little Estate Lawyers Wills and Estates - Brisbane",
+                  "url": "https://littlelawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They act for executors and administrators through the whole process, including applications for grants of probate and letters of administration, and estates where there was no valid will.",
+              "annotations": [
+                {
+                  "title": "Little Estate Lawyers Wills and Estates - Brisbane",
+                  "url": "https://littlelawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why consider them:** Their sole focus on succession law makes them one of the most specialised options in Brisbane for executors.\n\n---\n\n### 2. 🔹 Queensland Probate *(Brisbane — Fixed Fee Specialist)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their probate lawyers handle probate and letters of administration across Queensland, with clear pricing and expert support from start to finish.",
+              "annotations": [
+                {
+                  "title": "Probate Lawyers Brisbane",
+                  "url": "https://qldprobate.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Queensland Probate lawyers have been practising law for over 65 years combined and can help with estate planning matters in Brisbane.",
+              "annotations": [
+                {
+                  "title": "Estate Planning Brisbane",
+                  "url": "https://qldprobate.com.au/estate-planning-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their lawyers are experienced in the administration of deceased estates and will help you collect assets, sell assets, pay debts, and provide legal advice. They are also the team to call for conveyancing, deeds of family arrangement, requests to record death, and transmission applications.",
+              "annotations": [
+                {
+                  "title": "Wills Lawyers Brisbane",
+                  "url": "https://qldprobate.com.au/wills-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Pricing:** ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They offer a low fixed fee of $769 for assisted probate application and $1,772.40 for managed probate application.",
+              "annotations": [
+                {
+                  "title": "Probate Lawyers Brisbane",
+                  "url": "https://qldprobate.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. 🔹 A.L.F. Lawyers *(Brisbane & South East Queensland)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "A.L.F. Lawyers assist executors across Brisbane and South East Queensland with probate applications and estate administration.",
+              "annotations": [
+                {
+                  "title": "Probate Lawyers Brisbane",
+                  "url": "https://www.alflawyers.com.au/wills-estates-lawyers-brisbane/probate-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They are a Queensland Law Society member firm and have been independently recognised as one of Brisbane's top property and estate law firms across multiple years.",
+              "annotations": [
+                {
+                  "title": "Probate Lawyers Brisbane",
+                  "url": "https://www.alflawyers.com.au/wills-estates-lawyers-brisbane/probate-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their services include: Grant of Probate applications in the Supreme Court of Queensland, Letters of Administration for estates without a valid will, executor advice and estate administration support, family provision claims and estate disputes, and accessing estate funds before probate.",
+              "annotations": [
+                {
+                  "title": "Probate Lawyers Brisbane",
+                  "url": "https://www.alflawyers.com.au/wills-estates-lawyers-brisbane/probate-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 4. 🔹 Will and Estate Lawyers Australia *(Brisbane — Fixed Fee)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their wills and estates lawyers have extensive experience with all aspects of estate law in Brisbane and throughout Queensland.",
+              "annotations": [
+                {
+                  "title": "Wills and Estate Lawyers Brisbane",
+                  "url": "https://willandestatelawyers.com.au/wills-and-estate-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "When a loved one passes away, their Brisbane team guides executors through every step of the process, from obtaining probate or letters of administration to final distribution. They handle all aspects of estate administration, including identifying assets, paying debts, preparing estate accounts, and ensuring compliance with Queensland succession laws.",
+              "annotations": [
+                {
+                  "title": "Wills and Estate Lawyers Brisbane",
+                  "url": "https://willandestatelawyers.com.au/wills-and-estate-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Pricing:** ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Fixed fees: $799 for wills, $1,490 for probate.",
+              "annotations": [
+                {
+                  "title": "Wills and Estate Lawyers Brisbane",
+                  "url": "https://willandestatelawyers.com.au/wills-and-estate-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 5. 🔹 McLaughlin & Associates Lawyers *(Brisbane)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "McLaughlin & Associates Lawyers are the wills and estates lawyers Brisbane trusts to take care of what matters — from drafting a will to managing a deceased estate.",
+              "annotations": [
+                {
+                  "title": "Wills and Estates Lawyers Brisbane - Wills & Estates Lawyer",
+                  "url": "https://www.mclaughlinlawyers.com.au/wills-and-estates-lawyer-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They assist executors with applying for probate, managing assets, paying debts and distributing the estate in accordance with the will.",
+              "annotations": [
+                {
+                  "title": "Wills and Estates Lawyers Brisbane - Wills & Estates Lawyer",
+                  "url": "https://www.mclaughlinlawyers.com.au/wills-and-estates-lawyer-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 6. 🔹 Local Western Suburbs Options *(Indooroopilly & Toowong Area)*\n\nFor firms physically close to Indooroopilly and the Centenary suburbs:\n\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "**Clear Legal**, located in Indooroopilly, offers personalised services without unnecessary legal jargon. Their boutique firm focuses on understanding clients' unique goals to deliver practical outcomes while minimising time and costs.",
+              "annotations": [
+                {
+                  "title": "Wills and Estates Lawyers in Indooroopilly, QLD",
+                  "url": "https://lawconnect.com/en-au/find/wills-and-estates/qld/indooroopilly-4068",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "**Capital Lawyers**, based in Toowong (2.1 km from Indooroopilly), specialises in property law, strata law, and Wills and Probate, and has represented clients in various legal forums, including the High Court of Australia.",
+              "annotations": [
+                {
+                  "title": "Wills and Estates Lawyers in Indooroopilly, QLD",
+                  "url": "https://lawconnect.com/en-au/find/wills-and-estates/qld/indooroopilly-4068",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 📋 Key Tips for Executors in Queensland\n\nWhen engaging a probate lawyer, consider asking about:\n- **Fixed vs. hourly fees** — many firms now offer fixed-fee probate services\n- **Supreme Court of Queensland** grant of probate applications\n- Experience with **Letters of Administration** (if there is no valid will)\n- Handling of **real estate transactions** within deceased estates\n- **Estate dispute/litigation** capability if family provision claims arise\n\nWould you like more detail on any of these firms, or guidance on the probate process itself in Queensland?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "probate estate administration law firms Brisbane Indooroopilly Centenary Queensland",
+        "Queensland probate deceased estate administration specialist law firms Brisbane western suburbs"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane_north",
+  "pk": "parenting_custody",
+  "plat": "perplexity",
+  "text": "Which family lawyers in Brisbane Northside (Chermside & North Lakes) are best for parenting arrangements, child custody disputes, and accredited family dispute resolution (mediation)?",
+  "loc": 9060852,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_north__parenting_custody__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:29:35.892Z",
+  "cost": 0.006396,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 42,
+      "output_tokens": 754,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005796,
+      "datetime": "2026-10-23 05:29:31 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For parenting arrangements, child-custody disputes and mediation in Brisbane’s northside, the strongest shortlists are:\n\n- **Stewart Family Law** — particularly suitable for contested parenting matters and accredited FDR. Judy Stewart is described as a Queensland Law Society Accredited Family Law Specialist, nationally accredited mediator and registered FDR practitioner; the firm handles parenting plans, consent orders, mediation and court representation.[7]\n- **Barton Family Lawyers — Chermside/Petrie, serving North Lakes** — a convenient local option offering parenting disputes, parenting plans, consent orders, court representation and mediation support. The firm identifies Courtney as a mediator and has a Chermside office at 818 Gympie Road.[4][5][6]\n- **Best Wilson Buckley Family Law** — a strong option for complex or high-conflict matters requiring specialist advice, negotiation, mediation or litigation. Its Brisbane practice specifically services North Lakes, Aspley and Chermside and handles parenting arrangements and child-related disputes.[2]\n- **Daykin Family Law** — suitable where you want an Accredited Family Law Specialist involved in parenting arrangements and mediation. Shannon Daykin is identified as an Accredited Family Law Specialist, and the firm services North Lakes.[8]\n- **Australian Family Lawyers — Chermside** — a larger national practice offering child-arrangement advice, negotiation, mediation and court assistance. It may suit clients wanting a broader team or more structured intake process.[9]\n- **The Law People** — worth considering for complex or sensitive parenting disputes. The firm is led by Jill Johnstone, identified as a Queensland Accredited Family Law Specialist, and explains its FDR, parenting-order and court processes.[10]\n\n## Best fit by situation\n\n| Situation | Most suitable starting points |\n|---|---|\n| You specifically need an accredited FDR practitioner/mediator | **Stewart Family Law**; also ask Barton or Daykin to confirm the individual mediator’s current accreditation |\n| You prefer a local Chermside office | **Barton Family Lawyers** or **Australian Family Lawyers Chermside** |\n| You live near North Lakes | **Daykin Family Law**, **Barton Family Lawyers**, or **Best Wilson Buckley** |\n| High-conflict dispute, family violence or urgent court action | **Stewart**, **Best Wilson Buckley**, or **The Law People** |\n| Agreement likely, but you need enforceable arrangements | Ask about **consent orders**, rather than relying only on an informal parenting plan |\n\nIn Australia, “child custody” is generally addressed through parenting arrangements, parental responsibility and time with children. Before filing most parenting proceedings, parents are usually expected to attempt Family Dispute Resolution and obtain a section 60I certificate, unless an exception applies—for example, family violence, child abuse, urgency or impracticality.[10]\n\nWhen comparing firms, ask:\n\n- Is the lawyer a current Queensland Law Society Accredited Family Law Specialist?\n- Is the proposed mediator a registered FDR practitioner, and can they issue a section 60I certificate?\n- Does the firm regularly handle relocation, family violence, contravention and urgent-interim-order cases?\n- Will the lawyer represent you at mediation and, if necessary, in the Federal Circuit and Family Court?\n- What are the initial consultation fee, hourly rates, likely staged costs and availability?\n\nFor a first call, **Stewart Family Law** appears the clearest match for accredited mediation plus parenting litigation; **Barton** is the most directly local Chermside option; and **Best Wilson Buckley** is a strong choice for a larger specialist practice handling complex disputes.[2][4][7]",
+              "annotations": [
+                {
+                  "title": "Petrie",
+                  "url": "https://bartonfamilylaw.com.au/family-lawyers-petrie/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Lawyers Brisbane",
+                  "url": "https://bwbfamilylaw.com.au/lps/family-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Lawyers Near You in Brisbane, Australia for Family Law",
+                  "url": "https://www.bestlawyers.com/australia/brisbane/family-law",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Lawyers Brisbane Northside & Chermside",
+                  "url": "https://bartonfamilylaw.com.au/family-lawyers-brisbane-northside/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Barton Family Lawyers",
+                  "url": "https://bartonfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Lawyer North Lakes",
+                  "url": "https://bartonfamilylaw.com.au/family-lawyer-north-lakes/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Child Custody Lawyers Brisbane | Free 15-Minute Consult",
+                  "url": "https://stewartfamilylaw.com.au/child-custody-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Lawyers Servicing North Lakes",
+                  "url": "https://daykinfamilylaw.com.au/north-lakes/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Lawyer Chermside",
+                  "url": "https://www.australianfamilylawyers.com.au/cm-family-lawyer-chermside",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Child Custody Lawyers Brisbane",
+                  "url": "https://thelawpeople.com.au/parenting-arrangements/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

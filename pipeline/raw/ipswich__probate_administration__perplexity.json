@@ -1,0 +1,106 @@
+{
+  "slug": "ipswich",
+  "pk": "probate_administration",
+  "plat": "perplexity",
+  "text": "I am an executor handling probate and deceased estate administration in Ipswich. Which law firms specialise in Queensland probate and estate administration?",
+  "loc": 9060853,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\ipswich__probate_administration__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:23:47.115Z",
+  "cost": 0.006184,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 35,
+      "output_tokens": 549,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005584,
+      "datetime": "2026-10-23 05:23:43 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For an executor in Ipswich, these firms specifically advertise Queensland probate and deceased-estate administration services:\n\n- **Bennett Carroll Solicitors** — Queensland-wide practice with an Ipswich office by appointment. Assists with probate applications, collecting assets, paying debts, distributing inheritances, and executor duties.[2]\n- **Fallu McMillan Lawyers** — Ipswich-based wills and estates practice handling probate, Letters of Administration, deceased-estate and trust administration, and estate disputes.[3]\n- **Turner Freeman Lawyers** — Ipswich office at 10 Churchill Street. Handles probate, estate administration, superannuation claims, estate planning, and disputes.[4]\n- **Brookwater Legal** — Serves Ipswich and Greater Springfield, with a focus on probate applications, wills and estates, executor assistance, and estate litigation.[6]\n- **Richard Zande and Associates** — Ipswich firm reported as assisting with probate processes, executor responsibilities, complex estate administration, and beneficiary disputes.[1]\n- **David Grant and Associates** — Ipswich practice assisting with probate applications, asset distribution, debt settlement, executor matters, and estate finalisation.[1]\n- **Queensland Estate Lawyers (QEL)** — Specialist Queensland probate practice assisting with grant applications, will interpretation, asset and liability identification, and Supreme Court representation.[7]\n- **Thynne + Macartney** — Brisbane-based specialist team with substantial Queensland experience in executor duties, grants of probate, Letters of Administration, estate administration, and estate litigation.[10]\n\nFor a straightforward Ipswich estate, **Fallu McMillan, Bennett Carroll, Turner Freeman, or Brookwater Legal** are the most locally convenient options. For a complex, high-value, contested, or litigation-sensitive estate, consider **Queensland Estate Lawyers or Thynne + Macartney**.\n\nWhen requesting quotes, ask whether the firm will handle:\n\n- The Supreme Court of Queensland probate application\n- Asset and liability identification\n- Notices to creditors and creditor issues\n- Tax, superannuation, and jointly held assets\n- Estate accounts and beneficiary communications\n- Property transfers or sales\n- Potential family-provision or beneficiary disputes\n- Fixed-fee versus hourly billing and likely disbursements\n\nIpswich probate applications are dealt with through the Supreme Court of Queensland’s Brisbane registry, so a firm need not have a courtroom office in Ipswich to act for you.[8] This is general information rather than legal advice; obtain an engagement letter and confirm the solicitor’s current Queensland practising status before instructing them.",
+              "annotations": [
+                {
+                  "title": "Find Estate Administration Lawyers in Ipswich, QLD | Lawconnect",
+                  "url": "https://lawconnect.com/en-au/find/estate-administration/qld/ipswich-4305",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Estate Administration & Probate Lawyers in Queensland",
+                  "url": "https://www.bcglaw.com.au/estate-administration/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills and Estate Lawyers Ipswich | Fallu McMillan Lawyers",
+                  "url": "https://www.fmlaw.com.au/practice-areas/wills-estate-law/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estate Lawyers Ipswich",
+                  "url": "https://www.turnerfreeman.com.au/wills-estates-lawyers-ipswich/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estate Planning Lawyers Queensland",
+                  "url": "https://www.bcglaw.com.au/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills And Estate Planning Ipswich Lawyer - Brookwater Legal",
+                  "url": "https://brookwaterlegal.com.au/income-protection-and-succession-planning/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "QLD Probate Lawyers | Estate Administration | QLD Estate Lawyers",
+                  "url": "https://qldestatelawyers.com.au/probate-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estates Lawyers in Ipswich, Queensland",
+                  "url": "https://www.gotocourt.com.au/qld/ipswich-lawyers/wills-and-estates",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Deceased Estate Lawyers Brisbane",
+                  "url": "https://www.imlawyers.com.au/legal-expertise/deceased-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Leading Wills and Estates Lawyers",
+                  "url": "https://www.thymac.com.au/expertises/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

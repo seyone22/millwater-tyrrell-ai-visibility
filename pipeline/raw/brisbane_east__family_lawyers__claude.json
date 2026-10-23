@@ -1,0 +1,254 @@
+{
+  "slug": "brisbane_east",
+  "pk": "family_lawyers",
+  "plat": "claude",
+  "text": "Who are the best family lawyers in Brisbane East and Bayside (Carindale & Wynnum)? Give me a shortlist of reputable family law firms with reasons.",
+  "loc": 9194035,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_east__family_lawyers__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:31:08.768Z",
+  "cost": 0.058636,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 9847,
+      "output_tokens": 1233,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.058036,
+      "datetime": "2026-10-23 05:31:04 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a shortlist of reputable family law firms serving the **Brisbane East and Bayside (Carindale & Wynnum)** area, based on ratings, reviews, awards, and proximity:\n\n---\n\n## 🏆 Best Family Law Firms – Brisbane East & Bayside (Carindale & Wynnum)\n\n---\n\n### 1. 🥇 **Australian Law Group – Wynnum & Morningside**\n**Why they stand out:**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They have offices at Morningside and Wynnum",
+              "annotations": [
+                {
+                  "title": "The 10 Best Family Lawyers in Brisbane QLD (Feb-2026)",
+                  "url": "https://www.oneflare.com.au/family-lawyers/qld/brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", making them one of the most conveniently located firms for Brisbane East and Bayside clients. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their Morningside office has a rating of 4.4 from reviews on Word of Mouth, with clients noting they were impressed with their handling of family law and commercial issues.",
+              "annotations": [
+                {
+                  "title": "The 25 Best Family Lawyers in Carindale, QLD (2026)",
+                  "url": "https://www.wordofmouth.com.au/qld/carindale/family-lawyer",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Being a multi-office firm means they have solid resources and experienced solicitors.\n\n---\n\n### 2. 🥈 **Michael Lynch Family Lawyers – Brisbane (serving Carindale)**\n**Why they stand out:**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "One of Brisbane's largest specialist family law firms, with three decades of trusted family law experience.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Brisbane",
+                  "url": "https://www.michaellynchfamilylawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They have been recognised by Best Lawyers Australia for their work in Family Law.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Brisbane",
+                  "url": "https://www.michaellynchfamilylawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Notably, they have clients specifically from Carindale — ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "one Carindale client praised their lawyer for treating them \"like a friend,\" keeping jargon to a minimum, being easy to contact, and keeping them informed.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Brisbane",
+                  "url": "https://www.michaellynchfamilylawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. 🥉 **A.L.F. Lawyers – Brisbane (serving Carindale)**\n**Why they stand out:**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "A.L.F. Lawyers is one of the top-rated family law firms serving Carindale on Word of Mouth, boasting an impressive rating of 4.9 across 40 reviews, with perfect scores of 4.9 for Quality, Service, and Value.",
+              "annotations": [
+                {
+                  "title": "The 25 Best Family Lawyers in Carindale, QLD (2026)",
+                  "url": "https://www.wordofmouth.com.au/qld/carindale/family-lawyer",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " This level of consistent client satisfaction across a large number of reviews is a strong indicator of reliability.\n\n---\n\n### 4. **CNG Law Pty Ltd – Camp Hill (near Carindale)**\n**Why they stand out:**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "CNG Law is a reputable Queensland-based firm with offices in Camp Hill (only 3.9 km from Carindale), prioritising high-quality, pragmatic advice tailored to each client's needs.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers near Carindale, QLD",
+                  "url": "https://lawconnect.com/en-au/find/family-law/qld/carindale-4152",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their services cover family law, criminal and traffic matters, estate planning, property and conveyancing, and more — with a dedication to strong client relationships and flexible appointments.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers near Carindale, QLD",
+                  "url": "https://lawconnect.com/en-au/find/family-law/qld/carindale-4152",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 5. **DBL Solicitors – Brisbane East**\n**Why they stand out:**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "DBL Solicitors offer a friendly, personalised approach with clear, reliable legal advice, and have been trusted in Brisbane for over 25 years.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers near Carindale, QLD",
+                  "url": "https://lawconnect.com/en-au/find/family-law/qld/carindale-4152",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They assist with family disputes alongside a broad range of legal services including property, wills, and debt recovery.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers near Carindale, QLD",
+                  "url": "https://lawconnect.com/en-au/find/family-law/qld/carindale-4152",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Their long-standing presence in Brisbane's east makes them a solid choice for locals.\n\n---\n\n### 6. **Webb & Co – Bayside**\n**Why they stand out:**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Based in Brisbane's Bayside area (among other locations), Webb & Co prioritises rapid response and offers clients a free 30-minute consultation, reinforcing their dedication to clear legal support.",
+              "annotations": [
+                {
+                  "title": "Compare 37 Family Lawyers in Brisbane, QLD",
+                  "url": "https://lawconnect.com/en-au/find/family-law/qld/brisbane-4000",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " The free initial consult is a great option if you're just starting to explore your legal options.\n\n---\n\n## 💡 Tips for Choosing the Right Firm:\n- **Look for Accredited Family Law Specialists** – this is a Queensland Law Society accreditation that signals advanced expertise.\n- **Ask about free consultations** – several firms offer them.\n- **Consider proximity** – having a lawyer near Wynnum or Carindale means easier in-person meetings.\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Beyond credentials, assess whether a lawyer communicates clearly about timelines and costs upfront, and whether they show familiarity with Brisbane's Family Law courts and local procedures.",
+              "annotations": [
+                {
+                  "title": "Compare 37 Family Lawyers in Brisbane, QLD",
+                  "url": "https://lawconnect.com/en-au/find/family-law/qld/brisbane-4000",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\nWould you like more detail on any of these firms, or help narrowing down based on your specific legal needs (e.g. divorce, property settlement, parenting arrangements)?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "best family lawyers Brisbane East Carindale Wynnum Bayside",
+        "top rated family law firms Wynnum Carindale Brisbane reviews"
+      ]
+    }
+  ]
+}

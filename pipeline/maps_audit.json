@@ -1,0 +1,6205 @@
+{
+  "generatedAt": "2026-10-23T05:22:12.929Z",
+  "millwaterBranches": [
+    {
+      "market": "ipswich",
+      "title": "Millwater Tyrrell Law",
+      "category": "Legal services",
+      "additional_categories": [],
+      "address": "Level 1/215 Brisbane St, Ipswich QLD 4305",
+      "phone": "+61734470416",
+      "domain": "millwatertyrrell.com.au",
+      "url": "http://millwatertyrrell.com.au/",
+      "cid": "6376809625893182443",
+      "place_id": "ChIJP5PAnt-1lmsR65unp5H6flg",
+      "rating": 4.8,
+      "reviews": 107,
+      "rating_distribution": {
+        "1": 5,
+        "2": 0,
+        "3": 0,
+        "4": 3,
+        "5": 99
+      },
+      "work_hours": {
+        "sunday": null,
+        "monday": [
+          {
+            "open": {
+              "hour": 8,
+              "minute": 30
+            },
+            "close": {
+              "hour": 17,
+              "minute": 0
+            }
+          }
+        ],
+        "tuesday": [
+          {
+            "open": {
+              "hour": 8,
+              "minute": 30
+            },
+            "close": {
+              "hour": 17,
+              "minute": 0
+            }
+          }
+        ],
+        "wednesday": [
+          {
+            "open": {
+              "hour": 8,
+              "minute": 30
+            },
+            "close": {
+              "hour": 17,
+              "minute": 0
+            }
+          }
+        ],
+        "thursday": [
+          {
+            "open": {
+              "hour": 8,
+              "minute": 30
+            },
+            "close": {
+              "hour": 17,
+              "minute": 0
+            }
+          }
+        ],
+        "friday": [
+          {
+            "open": {
+              "hour": 8,
+              "minute": 30
+            },
+            "close": {
+              "hour": 17,
+              "minute": 0
+            }
+          }
+        ],
+        "saturday": null
+      },
+      "is_claimed": true
+    }
+  ],
+  "markets": {
+    "ipswich": {
+      "city": "Ipswich",
+      "displayLoc": "Ipswich Central & CBD (HQ)",
+      "query": "family and wills estates lawyers Ipswich QLD",
+      "locationCode": 9060853,
+      "mtRank": 5,
+      "mtInPack20": true,
+      "topCompetitors": [
+        {
+          "rank": 1,
+          "title": "Richard Zande & Associates",
+          "category": "Family law attorney",
+          "additional_categories": [
+            "Conveyancer",
+            "Criminal justice attorney",
+            "Estate planning attorney",
+            "Law firm",
+            "Solicitor",
+            "Legal services",
+            "Mediation service",
+            "Real estate attorney"
+          ],
+          "address": "49 Ellenborough St, Ipswich QLD 4305",
+          "phone": "+61732811633",
+          "domain": "www.richardzande.com.au",
+          "cid": "7154975560653041941",
+          "rating": 4.6,
+          "reviews": 94,
+          "is_claimed": true
+        },
+        {
+          "rank": 2,
+          "title": "Fallu McMillan Lawyers",
+          "category": "Legal services",
+          "additional_categories": [],
+          "address": "233 Brisbane St, Ipswich QLD 4305",
+          "phone": "+61732812677",
+          "domain": "www.fmlaw.com.au",
+          "cid": "16400021174251908832",
+          "rating": 4.9,
+          "reviews": 203,
+          "is_claimed": true
+        },
+        {
+          "rank": 3,
+          "title": "Walker Pender Lawyers",
+          "category": "Law firm",
+          "additional_categories": [
+            "Conveyancer",
+            "Criminal justice attorney",
+            "Estate planning attorney",
+            "Family law attorney"
+          ],
+          "address": "28 Nicholas St, Ipswich QLD 4305",
+          "phone": "+61738137833",
+          "domain": "www.walkerpender.com.au",
+          "cid": "5066631299087419671",
+          "rating": 4.8,
+          "reviews": 218,
+          "is_claimed": true
+        },
+        {
+          "rank": 4,
+          "title": "Ipswich Family Lawyers - Family Law Solicitors Qld",
+          "category": "Law firm",
+          "additional_categories": [],
+          "address": "44 East St, Ipswich QLD 4305",
+          "phone": "+61721110873",
+          "domain": "www.flsq.com.au",
+          "cid": "749097452279469076",
+          "rating": 5,
+          "reviews": 1,
+          "is_claimed": true
+        },
+        {
+          "rank": 5,
+          "title": "Millwater Tyrrell Law",
+          "category": "Legal services",
+          "additional_categories": [],
+          "address": "Level 1/215 Brisbane St, Ipswich QLD 4305",
+          "phone": "+61734470416",
+          "domain": "millwatertyrrell.com.au",
+          "cid": "6376809625893182443",
+          "rating": 4.8,
+          "reviews": 107,
+          "is_claimed": true
+        },
+        {
+          "rank": 6,
+          "title": "McNamara Law",
+          "category": "Law firm",
+          "additional_categories": [
+            "Divorce lawyer",
+            "Estate planning attorney",
+            "Family law attorney",
+            "Personal injury attorney"
+          ],
+          "address": "10/88 Limestone St, Ipswich QLD 4305",
+          "phone": "+61738169555",
+          "domain": "mcna.com.au",
+          "cid": "17500344748741039606",
+          "rating": 4.5,
+          "reviews": 128,
+          "is_claimed": true
+        },
+        {
+          "rank": 7,
+          "title": "Winstone Brown Legal",
+          "category": "Law firm",
+          "additional_categories": [
+            "Conveyancer",
+            "Criminal justice attorney",
+            "Estate planning attorney",
+            "Family law attorney"
+          ],
+          "address": "Corner of East &, 1 Churchill St, Ipswich QLD 4305",
+          "phone": "+61732819999",
+          "domain": "www.wblegal.au",
+          "cid": "760110050431180011",
+          "rating": 4.8,
+          "reviews": 103,
+          "is_claimed": true
+        },
+        {
+          "rank": 8,
+          "title": "Best Wilson Buckley Family Law",
+          "category": "Legal services",
+          "additional_categories": [
+            "Divorce lawyer",
+            "Family law attorney",
+            "Law firm",
+            "Mediation service"
+          ],
+          "address": "205 Brisbane St, Ipswich QLD 4305",
+          "phone": "+61738121392",
+          "domain": "bwbfamilylaw.com.au",
+          "cid": "13190487111788308597",
+          "rating": 4.5,
+          "reviews": 21,
+          "is_claimed": true
+        },
+        {
+          "rank": 9,
+          "title": "M.A. Kent & Associates",
+          "category": "Legal services",
+          "additional_categories": [],
+          "address": "47 Ellenborough St, Ipswich QLD 4305",
+          "phone": "+61732815555",
+          "domain": "makent.com.au",
+          "cid": "6568423527213733102",
+          "rating": 4.3,
+          "reviews": 104,
+          "is_claimed": false
+        },
+        {
+          "rank": 10,
+          "title": "Rose Jensen Kent Lawyers",
+          "category": "Law firm",
+          "additional_categories": [],
+          "address": "Shop 1/160 Brisbane St, Ipswich QLD 4305",
+          "phone": "+61738948300",
+          "domain": "rjklaw.com.au",
+          "cid": "15150364878879440751",
+          "rating": 4.9,
+          "reviews": 61,
+          "is_claimed": true
+        },
+        {
+          "rank": 11,
+          "title": "Jacaranda Law",
+          "category": "Estate planning attorney",
+          "additional_categories": [],
+          "address": "77 Roderick St, Ipswich QLD 4305",
+          "phone": "+61738122667",
+          "domain": "www.jacarandalaw.com.au",
+          "cid": "11922491511037953142",
+          "rating": 5,
+          "reviews": 20,
+          "is_claimed": true
+        },
+        {
+          "rank": 12,
+          "title": "JamesKLegal",
+          "category": "Solicitor",
+          "additional_categories": [],
+          "address": "8 Mortimer St, Ipswich QLD 4305",
+          "phone": "+61732022700",
+          "domain": "www.jamesklegal.com.au",
+          "cid": "6056456452839061327",
+          "rating": 4.8,
+          "reviews": 5,
+          "is_claimed": true
+        },
+        {
+          "rank": 13,
+          "title": "Banditt & Blaine Lawyers",
+          "category": "Law firm",
+          "additional_categories": [],
+          "address": "60 South St, Ipswich QLD 4305",
+          "phone": "+61738140541",
+          "domain": "bandittblaine.com.au",
+          "cid": "13305328558272339621",
+          "rating": 4.9,
+          "reviews": 61,
+          "is_claimed": true
+        },
+        {
+          "rank": 14,
+          "title": "Power Legal",
+          "category": "Law firm",
+          "additional_categories": [],
+          "address": "23 Gordon St, Ipswich QLD 4305",
+          "phone": "+61732816644",
+          "domain": "www.powerlegal.com.au",
+          "cid": "16687542657236589190",
+          "rating": 4.3,
+          "reviews": 26,
+          "is_claimed": true
+        },
+        {
+          "rank": 15,
+          "title": "DB Lawyers",
+          "category": "Solicitor",
+          "additional_categories": [],
+          "address": "Level 3/16 East St, Ipswich QLD 4305",
+          "phone": "+61738135611",
+          "domain": "www.dblawyers.com.au",
+          "cid": "16493039780220873336",
+          "rating": 4.5,
+          "reviews": 13,
+          "is_claimed": true
+        },
+        {
+          "rank": 16,
+          "title": "Heritage Conveyancing",
+          "category": "Conveyancer",
+          "additional_categories": [],
+          "address": "Shop 2/126 Brisbane St, Ipswich QLD 4305",
+          "phone": "+611300185353",
+          "domain": "www.heritageconveyancing.com.au",
+          "cid": "1875271405529063209",
+          "rating": 4.7,
+          "reviews": 68,
+          "is_claimed": true
+        },
+        {
+          "rank": 17,
+          "title": "Keane Legal | Ipswich",
+          "category": "Law firm",
+          "additional_categories": [
+            "Divorce lawyer",
+            "Divorce service",
+            "Employment attorney",
+            "Estate planning attorney",
+            "Family law attorney",
+            "Solicitor",
+            "Legal services"
+          ],
+          "address": "81 Chermside Rd, East Ipswich QLD 4305",
+          "phone": "+61734957339",
+          "domain": "www.keanelegal.com.au",
+          "cid": "11414864877692508401",
+          "rating": 4,
+          "reviews": 4,
+          "is_claimed": true
+        },
+        {
+          "rank": 18,
+          "title": "IPSWICH FAMILY LAWYERS - KINDRED LEGAL",
+          "category": "Law firm",
+          "additional_categories": [],
+          "address": "257 Whitehill Rd, Raceview QLD 4305",
+          "phone": "+61731433294",
+          "domain": null,
+          "cid": "3535117871054483287",
+          "rating": 5,
+          "reviews": 1,
+          "is_claimed": true
+        },
+        {
+          "rank": 19,
+          "title": "Bouchier Khan Lawyers Ipswich",
+          "category": "Criminal justice attorney",
+          "additional_categories": [],
+          "address": "55 Ellenborough St, Ipswich QLD 4305",
+          "phone": "+61732811812",
+          "domain": "www.bouchierkhan.com.au",
+          "cid": "717312931109780599",
+          "rating": 4.8,
+          "reviews": 32,
+          "is_claimed": true
+        },
+        {
+          "rank": 20,
+          "title": "Criminal Law Solicitors Qld - Ipswich",
+          "category": "Law firm",
+          "additional_categories": [],
+          "address": "Shop 3/44 East St, Ipswich QLD 4305",
+          "phone": "+61730504409",
+          "domain": "clsq.com.au",
+          "cid": "13191454732973475997",
+          "rating": 5,
+          "reviews": 13,
+          "is_claimed": true
+        }
+      ]
+    },
+    "springfield": {
+      "city": "Springfield and Greater Springfield, QLD",
+      "displayLoc": "Springfield & Greater Springfield",
+      "query": "family and wills estates lawyers Springfield Lakes Brookwater QLD",
+      "locationCode": 9191413,
+      "mtRank": null,
+      "mtInPack20": false,
+      "topCompetitors": [
+        {
+          "rank": 1,
+          "title": "GLG Legal Springfield",
+          "category": "Solicitor",
+          "additional_categories": [
+            "Conveyancer",
+            "Elder law attorney",
+            "Estate planning attorney",
+            "Family law attorney",
+            "Legal services",
+            "Real estate attorney"
+          ],
+          "address": "Brookwater Office Park, Bldg 9, Level 1/22 Magnolia Dr, Brookwater QLD 4300",
+          "phone": "+61732883511",
+          "domain": "springfieldlegals.com.au",
+          "cid": "3014243658373570146",
+          "rating": 4.9,
+          "reviews": 70,
+          "is_claimed": true
+        },
+        {
+          "rank": 2,
+          "title": "Landmark Lawyers",
+          "category": "Law firm",
+          "additional_categories": [
+            "Conveyancer",
+            "Estate planning attorney",
+            "Family law attorney",
+            "Legal services",
+            "Real estate attorney"
+          ],
+          "address": "14/21 Technology Dr, Augustine Heights QLD 4300",
+          "phone": "+61732884777",
+          "domain": "www.landmarklawyers.com.au",
+          "cid": "17235944292024432352",
+          "rating": 4.8,
+          "reviews": 79,
+          "is_claimed": true
+        },
+        {
+          "rank": 3,
+          "title": "Brookwater Legal Pty Ltd",
+          "category": "Legal services",
+          "additional_categories": [],
+          "address": "Ste 9F/118 Augusta Pkwy, Augustine Heights QLD 4300",
+          "phone": "+61734378555",
+          "domain": "www.brookwaterlegal.com.au",
+          "cid": "6651364254404527406",
+          "rating": 4.8,
+          "reviews": 326,
+          "is_claimed": true
+        },
+        {
+          "rank": 4,
+          "title": "Keane Legal | Brookwater",
+          "category": "Solicitor",
+          "additional_categories": [
+            "Divorce lawyer",
+            "Divorce service",
+            "Employment attorney",
+            "Family law attorney",
+            "Law firm",
+            "Legal services"
+          ],
+          "address": "Bldg 5/22 Magnolia Dr, Brookwater QLD 4300",
+          "phone": "+61734957339",
+          "domain": "keanelegal.com.au",
+          "cid": "7785487556944659641",
+          "rating": 4.5,
+          "reviews": 16,
+          "is_claimed": true
+        },
+        {
+          "rank": 5,
+          "title": "LadyBird Wills & Estates",
+          "category": "Estate planning attorney",
+          "additional_categories": [],
+          "address": "Ste 4, Level 3/145 Sinnathamby Blvd, Springfield Central QLD 4300",
+          "phone": "+611300945570",
+          "domain": "www.ladybirdwillsandestates.com.au",
+          "cid": "14732053901966359997",
+          "rating": 5,
+          "reviews": 35,
+          "is_claimed": true
+        },
+        {
+          "rank": 6,
+          "title": "Stanford Legal",
+          "category": "Law firm",
+          "additional_categories": [
+            "Estate planning attorney",
+            "Family law attorney",
+            "Real estate attorney"
+          ],
+          "address": "145 Sinnathamby Boulevard Springfield, Tower - Level 8, Springfield Central QLD 4300",
+          "phone": "+61483980001",
+          "domain": "stanfordlegal.com.au",
+          "cid": "2294114353505392424",
+          "rating": 4.9,
+          "reviews": 103,
+          "is_claimed": true
+        },
+        {
+          "rank": 7,
+          "title": "VM Family Law",
+          "category": "Family law attorney",
+          "additional_categories": [
+            "Divorce lawyer",
+            "Divorce service",
+            "Domestic Violence Service",
+            "Law firm",
+            "Solicitor",
+            "Legal services"
+          ],
+          "address": "Ground Floor, Building 7/22 Magnolia Dr, Brookwater QLD 4300",
+          "phone": "+61734478966",
+          "domain": "www.vmfamilylaw.com.au",
+          "cid": "9077549362522984101",
+          "rating": 3.7,
+          "reviews": 34,
+          "is_claimed": true
+        },
+        {
+          "rank": 8,
+          "title": "McNamara Law",
+          "category": "Legal services",
+          "additional_categories": [],
+          "address": "Level 1/6 Yoga Wy, Springfield Central QLD 4300",
+          "phone": "+61734703600",
+          "domain": "mcna.com.au",
+          "cid": "11479409405658452987",
+          "rating": 4.7,
+          "reviews": 152,
+          "is_claimed": true
+        },
+        {
+          "rank": 9,
+          "title": "Nurture Law | Wills and Estate Lawyers",
+          "category": "Solicitor",
+          "additional_categories": [
+            "Service establishment",
+            "Law firm",
+            "Legal services"
+          ],
+          "address": null,
+          "phone": "+61731745730",
+          "domain": "nurturelaw.com.au",
+          "cid": "4604045798288224212",
+          "rating": null,
+          "reviews": 0,
+          "is_claimed": true
+        },
+        {
+          "rank": 10,
+          "title": "Nurture Law - Wills and Estate Lawyers",
+          "category": "Estate planning attorney",
+          "additional_categories": [
+            "Law firm",
+            "Legal services"
+          ],
+          "address": "4/3 The Esplanade, Forest Lake QLD 4078",
+          "phone": "+61731745730",
+          "domain": "nurturelaw.com.au",
+          "cid": "2958308887971835960",
+          "rating": 5,
+          "reviews": 17,
+          "is_claimed": true
+        },
+        {
+          "rank": 11,
+          "title": "Lake Law",
+          "category": "Solicitor",
+          "additional_categories": [
+            "Conveyancer",
+            "Family law attorney",
+            "Law firm",
+            "Legal services"
+          ],
+          "address": "40 Glorious Way, Forest Lake QLD 4078",
+          "phone": "+61732789559",
+          "domain": "www.lakelaw.com.au",
+          "cid": "4779595239645889575",
+          "rating": 4.7,
+          "reviews": 43,
+          "is_claimed": true
+        },
+        {
+          "rank": 12,
+          "title": "Denes Lawyers",
+          "category": "Personal injury attorney",
+          "additional_categories": [],
+          "address": "Suites 13 & 14, Level 2 Tower A/1 Springfield Lakes Blvd, Springfield Lakes QLD 4300",
+          "phone": "+61730632268",
+          "domain": "deneslawyers.com.au",
+          "cid": "3239654744052120749",
+          "rating": 4.8,
+          "reviews": 34,
+          "is_claimed": true
+        },
+        {
+          "rank": 13,
+          "title": "Lavenia Law (Lana Carter)",
+          "category": "Estate planning attorney",
+          "additional_categories": [
+            "Service establishment",
+            "Law firm"
+          ],
+          "address": null,
+          "phone": null,
+          "domain": "www.lavenialaw.com.au",
+          "cid": "10952421035760390523",
+          "rating": 5,
+          "reviews": 9,
+          "is_claimed": true
+        },
+        {
+          "rank": 14,
+          "title": "Trilby Misso Lawyers",
+          "category": "Legal services",
+          "additional_categories": [],
+          "address": "Suite 1.38, Level 1 Orion Springfield Centre, 1 Main St, Springfield QLD 4300",
+          "phone": "+611300731582",
+          "domain": "trilbymissolawyers.com.au",
+          "cid": "11161409240397208407",
+          "rating": 4.9,
+          "reviews": 46,
+          "is_claimed": true
+        },
+        {
+          "rank": 15,
+          "title": "Springfield Lawyers",
+          "category": "Law firm",
+          "additional_categories": [],
+          "address": "Ste 100 5/22 Magnolia Dr, Brookwater QLD 4300",
+          "phone": "+61734851329",
+          "domain": "clsq.com.au",
+          "cid": "5274022257882668904",
+          "rating": 5,
+          "reviews": 2,
+          "is_claimed": true
+        },
+        {
+          "rank": 16,
+          "title": "South East Injury Lawyers | Compensation Lawyers Brookwater",
+          "category": "Personal injury attorney",
+          "additional_categories": [
+            "Law firm"
+          ],
+          "address": "Bldg 5/22 Magnolia Dr, Brookwater QLD 4300",
+          "phone": "+61738016511",
+          "domain": "southeastinjurylawyers.com.au",
+          "cid": "7092748440927652248",
+          "rating": 5,
+          "reviews": 6,
+          "is_claimed": true
+        },
+        {
+          "rank": 17,
+          "title": "PCL Lawyers Brookwater",
+          "category": "Law firm",
+          "additional_categories": [],
+          "address": "Level 5/22 Magnolia Dr, Brookwater QLD 4300",
+          "phone": "+611300794559",
+          "domain": "www.pcllawyers.com.au",
+          "cid": "871072458743240654",
+          "rating": null,
+          "reviews": 0,
+          "is_claimed": true
+        }
+      ]
+    },
+    "brisbane": {
+      "city": "Brisbane",
+      "displayLoc": "Brisbane CBD & Inner Metro",
+      "query": "family and wills estates lawyers Brisbane CBD",
+      "locationCode": 1000339,
+      "mtRank": null,
+      "mtInPack20": false,
+      "topCompetitors": [
+        {
+          "rank": 1,
+          "title": "O'Connor, Ruddy & Garrett Solicitors",
+          "category": "Law firm",
+          "additional_categories": [
+            "Elder law attorney",
+            "Estate planning attorney"
+          ],
+          "address": "2/199 George St, Brisbane City QLD 4001",
+          "phone": "+61732219722",
+          "domain": "orglaw.com.au",
+          "cid": "8835789557419141841",
+          "rating": 4.9,
+          "reviews": 85,
+          "is_claimed": true
+        },
+        {
+          "rank": 2,
+          "title": "The Estate Lawyers",
+          "category": "Law firm",
+          "additional_categories": [
+            "Solicitor",
+            "Legal services"
+          ],
+          "address": "22/69 Ann St, Brisbane City QLD 4000",
+          "phone": "+61732292215",
+          "domain": "theestatelawyers.com.au",
+          "cid": "4653216533028382819",
+          "rating": 4.9,
+          "reviews": 88,
+          "is_claimed": true
+        },
+        {
+          "rank": 3,
+          "title": "de Groots wills & estate lawyers Brisbane",
+          "category": "Legal services",
+          "additional_categories": [
+            "Estate planning attorney",
+            "Law firm"
+          ],
+          "address": "River Quarter, Level 6/46 Edward St, Brisbane City QLD 4000",
+          "phone": "+61732219744",
+          "domain": "www.degroots.com.au",
+          "cid": "3843169278890086234",
+          "rating": 4.6,
+          "reviews": 28,
+          "is_claimed": true
+        },
+        {
+          "rank": 4,
+          "title": "QLD Estate Lawyers",
+          "category": "Estate planning attorney",
+          "additional_categories": [
+            "Elder law attorney",
+            "Law firm",
+            "Legal services"
+          ],
+          "address": "level 18/150 Charlotte St, Brisbane City QLD 4000",
+          "phone": "+611300580413",
+          "domain": "qldestatelawyers.com.au",
+          "cid": "7872290523399534021",
+          "rating": 4.3,
+          "reviews": 19,
+          "is_claimed": true
+        },
+        {
+          "rank": 5,
+          "title": "YHC Lawyers",
+          "category": "Law firm",
+          "additional_categories": [],
+          "address": "Level 15/100 Edward St, Brisbane City QLD 4000",
+          "phone": "+61731603300",
+          "domain": "www.yhclawyers.com.au",
+          "cid": "13354133889894345264",
+          "rating": 5,
+          "reviews": 97,
+          "is_claimed": true
+        },
+        {
+          "rank": 6,
+          "title": "Kate Redman & Associates",
+          "category": "Legal services",
+          "additional_categories": [],
+          "address": "Level 10/95 N Quay, Brisbane City QLD 4000",
+          "phone": "+61731800114",
+          "domain": "www.kateredman.com.au",
+          "cid": "11286914601945170153",
+          "rating": 4.9,
+          "reviews": 93,
+          "is_claimed": true
+        },
+        {
+          "rank": 7,
+          "title": "McCarthy Durie Lawyers",
+          "category": "Legal services",
+          "additional_categories": [
+            "Criminal justice attorney",
+            "Divorce lawyer",
+            "Employment attorney",
+            "Estate litigation attorney",
+            "Estate planning attorney",
+            "Family law attorney",
+            "Solicitor"
+          ],
+          "address": "Level 7/239 George St, Brisbane City QLD 4000",
+          "phone": "+61733705100",
+          "domain": "www.mdl.com.au",
+          "cid": "15897812526619122970",
+          "rating": 4.4,
+          "reviews": 41,
+          "is_claimed": true
+        },
+        {
+          "rank": 8,
+          "title": "Wills Estates Probate Lawyers",
+          "category": "Law firm",
+          "additional_categories": [
+            "Estate planning attorney",
+            "Solicitor"
+          ],
+          "address": "level 8/241 Adelaide St, Brisbane City QLD 4000",
+          "phone": "+61730354077",
+          "domain": "willsestatesprobatelawyers.com.au",
+          "cid": "5698554332578738367",
+          "rating": 5,
+          "reviews": 1,
+          "is_claimed": true
+        },
+        {
+          "rank": 9,
+          "title": "Contested Will and Estate Lawyers",
+          "category": "Law firm",
+          "additional_categories": [],
+          "address": "Level 14/239 George St, Brisbane City QLD 4000",
+          "phone": "+61735445900",
+          "domain": "www.cwelawyers.com.au",
+          "cid": "13574660870752283592",
+          "rating": 5,
+          "reviews": 7,
+          "is_claimed": true
+        },
+        {
+          "rank": 10,
+          "title": "Honest Grace Legal",
+          "category": "Legal services",
+          "additional_categories": [],
+          "address": "Level 10/144 Edward St, Brisbane City QLD 4000",
+          "phone": "+61731300188",
+          "domain": "honestgracelegal.com.au",
+          "cid": "8933031194917383364",
+          "rating": 5,
+          "reviews": 82,
+          "is_claimed": true
+        },
+        {
+          "rank": 11,
+          "title": "Baystone Legal",
+          "category": "Law firm",
+          "additional_categories": [],
+          "address": "17/144 Edward St, Brisbane City QLD 4000",
+          "phone": "+61731039882",
+          "domain": "baystonelegal.com",
+          "cid": "9310019828504864645",
+          "rating": 5,
+          "reviews": 123,
+          "is_claimed": true
+        },
+        {
+          "rank": 12,
+          "title": "Cudmore Legal | Family Lawyers Brisbane",
+          "category": "Family law attorney",
+          "additional_categories": [
+            "Divorce lawyer",
+            "Legal services"
+          ],
+          "address": "6/239 George St, Brisbane City QLD 4000",
+          "phone": "+61731843637",
+          "domain": "www.cudmorelegal.com.au",
+          "cid": "3880275358862259054",
+          "rating": 4.8,
+          "reviews": 128,
+          "is_claimed": true
+        },
+        {
+          "rank": 13,
+          "title": "Hillhouse Legal Partners",
+          "category": "Law firm",
+          "additional_categories": [
+            "Solicitor"
+          ],
+          "address": "7/102 Adelaide St, Brisbane City QLD 4000",
+          "phone": "+61732201144",
+          "domain": "www.hillhouse.com.au",
+          "cid": "12749395763072897687",
+          "rating": 4.6,
+          "reviews": 73,
+          "is_claimed": true
+        },
+        {
+          "rank": 14,
+          "title": "ROC Legal – Will Dispute Lawyers Brisbane",
+          "category": "Estate litigation attorney",
+          "additional_categories": [
+            "Law firm"
+          ],
+          "address": "Level 4/260 Queen St, Brisbane City QLD 4000",
+          "phone": "+611300196219",
+          "domain": "roclegal.com.au",
+          "cid": "9900064373194447592",
+          "rating": 5,
+          "reviews": 12,
+          "is_claimed": true
+        },
+        {
+          "rank": 15,
+          "title": "Phillips Family Law",
+          "category": "Family law attorney",
+          "additional_categories": [
+            "Divorce lawyer",
+            "Law firm"
+          ],
+          "address": "145 Ann St, Brisbane City QLD 4000",
+          "phone": "+61730079898",
+          "domain": "www.phillipsfamilylaw.com.au",
+          "cid": "1701331094388052402",
+          "rating": 5,
+          "reviews": 33,
+          "is_claimed": true
+        },
+        {
+          "rank": 16,
+          "title": "DBL Solicitors",
+          "category": "Law firm",
+          "additional_categories": [
+            "Conveyancer",
+            "Divorce lawyer",
+            "Elder law attorney",
+            "Estate planning attorney",
+            "Family law attorney",
+            "General practice attorney",
+            "Solicitor",
+            "Legal services",
+            "Real estate attorney"
+          ],
+          "address": "Level 12/145 Eagle St, Brisbane City QLD 4000",
+          "phone": "+61732255600",
+          "domain": "dbl.com.au",
+          "cid": "10145393123371258322",
+          "rating": 4.9,
+          "reviews": 37,
+          "is_claimed": true
+        },
+        {
+          "rank": 17,
+          "title": "Nurture Law",
+          "category": "Estate planning attorney",
+          "additional_categories": [
+            "Legal services"
+          ],
+          "address": "Level 18/333 Ann St, Brisbane City QLD 4000",
+          "phone": "+61731745730",
+          "domain": "nurturelaw.com.au",
+          "cid": "17070056064866297524",
+          "rating": 4.9,
+          "reviews": 51,
+          "is_claimed": true
+        },
+        {
+          "rank": 18,
+          "title": "Generations Law",
+          "category": "Probate attorney",
+          "additional_categories": [
+            "Elder law attorney",
+            "Estate litigation attorney",
+            "Estate planning attorney",
+            "General practice attorney",
+            "Law firm",
+            "Solicitor",
+            "Legal services"
+          ],
+          "address": "Santos Place, Level 27/32 Turbot St, Brisbane City QLD 4000",
+          "phone": "+61735350609",
+          "domain": "generationslaw.com.au",
+          "cid": "5577611082190671171",
+          "rating": 5,
+          "reviews": 41,
+          "is_claimed": true
+        },
+        {
+          "rank": 19,
+          "title": "Kilmartin Law Group",
+          "category": "Law firm",
+          "additional_categories": [],
+          "address": "Level 11/239 George St, Brisbane City QLD 4000",
+          "phone": "+61731815517",
+          "domain": "www.kilmartinlawgroup.com.au",
+          "cid": "9629659525490419738",
+          "rating": 5,
+          "reviews": 37,
+          "is_claimed": true
+        },
+        {
+          "rank": 20,
+          "title": "G.O.A.T Legal",
+          "category": "Law firm",
+          "additional_categories": [],
+          "address": "Level 11/133 Mary St, Brisbane City QLD 4000",
+          "phone": "+61737394511",
+          "domain": "goatlegal.com.au",
+          "cid": "8651799135581027207",
+          "rating": 5,
+          "reviews": 156,
+          "is_claimed": true
+        }
+      ]
+    },
+    "brisbane_west": {
+      "city": "Brisbane Western Suburbs (Indooroopilly & Centenary)",
+      "displayLoc": "Brisbane West (Indooroopilly & Centenary)",
+      "query": "family and wills estates lawyers Indooroopilly Kenmore Brisbane West",
+      "locationCode": 9192539,
+      "mtRank": null,
+      "mtInPack20": false,
+      "topCompetitors": [
+        {
+          "rank": 1,
+          "title": "James Black Family Law Mediation Arbitration",
+          "category": "Family law attorney",
+          "additional_categories": [],
+          "address": "Ste 1E/49 Station Rd, Indooroopilly QLD 4068",
+          "phone": "+61405305500",
+          "domain": "www.jbflma.com.au",
+          "cid": "940490901561479055",
+          "rating": 4.8,
+          "reviews": 94,
+          "is_claimed": true
+        },
+        {
+          "rank": 2,
+          "title": "Estate First Lawyers",
+          "category": "Estate planning attorney",
+          "additional_categories": [
+            "Law firm",
+            "Legal services",
+            "Probate attorney"
+          ],
+          "address": "Level 4/9 Sherwood Rd, Toowong QLD 4066",
+          "phone": "+611300132567",
+          "domain": "estatefirst.com.au",
+          "cid": "2467846669848754324",
+          "rating": 5,
+          "reviews": 87,
+          "is_claimed": true
+        },
+        {
+          "rank": 3,
+          "title": "Hogan Stanton Lawyers",
+          "category": "Law firm",
+          "additional_categories": [
+            "Conveyancer",
+            "Divorce lawyer",
+            "Service establishment",
+            "Estate planning attorney",
+            "Family law attorney",
+            "Legal services",
+            "Personal injury attorney",
+            "Real estate attorney"
+          ],
+          "address": null,
+          "phone": "+61732781888",
+          "domain": "hoganstanton.com.au",
+          "cid": "12844368187210117476",
+          "rating": 4.9,
+          "reviews": 47,
+          "is_claimed": true
+        },
+        {
+          "rank": 4,
+          "title": "Direct Lawyers Wills and Estates",
+          "category": "Estate planning attorney",
+          "additional_categories": [
+            "Elder law attorney",
+            "Estate litigation attorney",
+            "Law firm",
+            "Solicitor",
+            "Probate attorney",
+            "Real estate attorney"
+          ],
+          "address": "The Greenhouse, West Village, Level 4/97 Boundary St, West End QLD 4101",
+          "phone": "+61737031888",
+          "domain": "www.directlawyers.com.au",
+          "cid": "8893670162717993604",
+          "rating": 4.9,
+          "reviews": 83,
+          "is_claimed": true
+        },
+        {
+          "rank": 5,
+          "title": "Will and Estate Lawyers Australia",
+          "category": "Estate litigation attorney",
+          "additional_categories": [
+            "Estate planning attorney",
+            "Law firm",
+            "Solicitor"
+          ],
+          "address": "Level 1/16 McDougall St, Milton QLD 4064",
+          "phone": "+61730732405",
+          "domain": "willandestatelawyers.com.au",
+          "cid": "7136446609335140345",
+          "rating": 5,
+          "reviews": 132,
+          "is_claimed": true
+        },
+        {
+          "rank": 6,
+          "title": "Hensen Maxwell Solicitors",
+          "category": "Solicitor",
+          "additional_categories": [],
+          "address": "YG Riverside Village, Level 1/26 Queens Wy, Yeerongpilly QLD 4105",
+          "phone": "+61738924329",
+          "domain": "www.hensenmaxwell.com.au",
+          "cid": "14455121061954100754",
+          "rating": 4.6,
+          "reviews": 20,
+          "is_claimed": true
+        },
+        {
+          "rank": 7,
+          "title": "CK Family Lawyers",
+          "category": "Family law attorney",
+          "additional_categories": [
+            "Civil law attorney",
+            "Solicitor",
+            "Trial attorney"
+          ],
+          "address": "4/667 Sherwood Rd, Sherwood QLD 4075",
+          "phone": "+61423776288",
+          "domain": "www.ckfamilylawyers.com.au",
+          "cid": "6338715282053507970",
+          "rating": 4.5,
+          "reviews": 45,
+          "is_claimed": true
+        },
+        {
+          "rank": 8,
+          "title": "The Estate Lawyers",
+          "category": "Law firm",
+          "additional_categories": [
+            "Solicitor",
+            "Legal services"
+          ],
+          "address": "22/69 Ann St, Brisbane City QLD 4000",
+          "phone": "+61732292215",
+          "domain": "theestatelawyers.com.au",
+          "cid": "4653216533028382819",
+          "rating": 4.9,
+          "reviews": 88,
+          "is_claimed": true
+        },
+        {
+          "rank": 9,
+          "title": "QLD Estate Lawyers",
+          "category": "Estate planning attorney",
+          "additional_categories": [
+            "Elder law attorney",
+            "Law firm",
+            "Legal services"
+          ],
+          "address": "level 18/150 Charlotte St, Brisbane City QLD 4000",
+          "phone": "+611300580413",
+          "domain": "qldestatelawyers.com.au",
+          "cid": "7872290523399534021",
+          "rating": 4.3,
+          "reviews": 19,
+          "is_claimed": true
+        },
+        {
+          "rank": 10,
+          "title": "Jindalee Lawyers",
+          "category": "Law firm",
+          "additional_categories": [
+            "Conveyancer",
+            "Criminal justice attorney",
+            "Estate litigation attorney",
+            "Estate planning attorney",
+            "Family law attorney",
+            "Immigration attorney",
+            "Personal injury attorney"
+          ],
+          "address": "Shop 17B, Allsport Shopping Village, 235 Sinnamon Rd, Jindalee QLD 4074",
+          "phone": "+61737063323",
+          "domain": "jindaleelaw.com.au",
+          "cid": "14482959692426229020",
+          "rating": 4.9,
+          "reviews": 65,
+          "is_claimed": true
+        },
+        {
+          "rank": 11,
+          "title": "Lockett McCullough Lawyers",
+          "category": "Solicitor",
+          "additional_categories": [
+            "Conveyancer",
+            "Criminal justice attorney",
+            "Divorce lawyer",
+            "Estate planning attorney",
+            "Family law attorney",
+            "Insurance attorney",
+            "Law firm",
+            "Personal injury attorney",
+            "Real estate attorney"
+          ],
+          "address": "2 Bayliss St, Toowong QLD 4066",
+          "phone": "+61738708244",
+          "domain": "lockettmccullough.com.au",
+          "cid": "8768532655583746460",
+          "rating": 4.4,
+          "reviews": 114,
+          "is_claimed": true
+        },
+        {
+          "rank": 12,
+          "title": "QLD Wills Dispute & Estate Administration Lawyers - Woolloongabba",
+          "category": "Estate planning attorney",
+          "additional_categories": [
+            "Elder law attorney",
+            "Law firm",
+            "Legal services"
+          ],
+          "address": "1/250 Ipswich Rd, Woolloongabba QLD 4102",
+          "phone": "+611300580413",
+          "domain": "qldestatelawyers.com.au",
+          "cid": "5725876246323705110",
+          "rating": 5,
+          "reviews": 1,
+          "is_claimed": true
+        },
+        {
+          "rank": 13,
+          "title": "Australian Law Group",
+          "category": "Legal services",
+          "additional_categories": [
+            "Conveyancer",
+            "Elder law attorney",
+            "Employment attorney",
+            "Estate planning attorney",
+            "Family law attorney",
+            "Insurance attorney",
+            "Law firm",
+            "Solicitor",
+            "Personal injury attorney"
+          ],
+          "address": "Level 1/67 High St, Toowong QLD 4066",
+          "phone": "+61733712666",
+          "domain": "australianlawgroup.com.au",
+          "cid": "1672747021328995641",
+          "rating": 4.7,
+          "reviews": 49,
+          "is_claimed": true
+        },
+        {
+          "rank": 14,
+          "title": "O'Connor, Ruddy & Garrett Solicitors",
+          "category": "Law firm",
+          "additional_categories": [
+            "Elder law attorney",
+            "Estate planning attorney"
+          ],
+          "address": "2/199 George St, Brisbane City QLD 4001",
+          "phone": "+61732219722",
+          "domain": "orglaw.com.au",
+          "cid": "8835789557419141841",
+          "rating": 4.9,
+          "reviews": 85,
+          "is_claimed": true
+        },
+        {
+          "rank": 15,
+          "title": "Sharma Lawyers",
+          "category": "Legal services",
+          "additional_categories": [],
+          "address": "18 Connors St, Graceville QLD 4075",
+          "phone": "+61733793699",
+          "domain": "www.legalaid.qld.gov.au",
+          "cid": "11488137614855836521",
+          "rating": 4.3,
+          "reviews": 39,
+          "is_claimed": true
+        },
+        {
+          "rank": 16,
+          "title": "Tummarello Law",
+          "category": "Legal services",
+          "additional_categories": [],
+          "address": "Corporate House, Level 2/87 Ipswich Rd, Woolloongabba QLD 4102",
+          "phone": "+61734970658",
+          "domain": "tummarellolaw.com.au",
+          "cid": "8568468522313579587",
+          "rating": 5,
+          "reviews": 16,
+          "is_claimed": true
+        },
+        {
+          "rank": 17,
+          "title": "Kalyans Lawyers",
+          "category": "Solicitor",
+          "additional_categories": [
+            "Conveyancer",
+            "Law firm",
+            "Legal services",
+            "Real estate attorney"
+          ],
+          "address": "TOOWONG TERRACES, 19/31 Sherwood Rd, Toowong QLD 4066",
+          "phone": "+61738710043",
+          "domain": "www.kalyans.com.au",
+          "cid": "16735161421635450369",
+          "rating": 4.9,
+          "reviews": 129,
+          "is_claimed": true
+        },
+        {
+          "rank": 18,
+          "title": "de Groots wills & estate lawyers Brisbane",
+          "category": "Legal services",
+          "additional_categories": [
+            "Estate planning attorney",
+            "Law firm"
+          ],
+          "address": "River Quarter, Level 6/46 Edward St, Brisbane City QLD 4000",
+          "phone": "+61732219744",
+          "domain": "www.degroots.com.au",
+          "cid": "3843169278890086234",
+          "rating": 4.6,
+          "reviews": 28,
+          "is_claimed": true
+        },
+        {
+          "rank": 19,
+          "title": "Mitchells Solicitors",
+          "category": "Legal services",
+          "additional_categories": [
+            "Estate planning attorney",
+            "Real estate attorney"
+          ],
+          "address": "1/147 Beaudesert Rd, Moorooka QLD 4105",
+          "phone": "+61733733633",
+          "domain": "www.mitchellsol.com.au",
+          "cid": "7061497743148258537",
+          "rating": 4.3,
+          "reviews": 28,
+          "is_claimed": true
+        },
+        {
+          "rank": 20,
+          "title": "Access Solicitors",
+          "category": "Solicitor",
+          "additional_categories": [
+            "Conveyancer",
+            "Estate planning attorney",
+            "Family law attorney",
+            "Law firm"
+          ],
+          "address": "Unit 3/667 Sherwood Rd, Sherwood QLD 4075",
+          "phone": "+61732781388",
+          "domain": "www.accesssolicitors.com.au",
+          "cid": "14617995301267098910",
+          "rating": 3.6,
+          "reviews": 17,
+          "is_claimed": true
+        }
+      ]
+    },
+    "brisbane_south": {
+      "city": "Brisbane Southside (Mount Gravatt & Sunnybank)",
+      "displayLoc": "Brisbane South (Mt Gravatt & Sunnybank)",
+      "query": "family and wills estates lawyers Mount Gravatt Sunnybank Brisbane South",
+      "locationCode": 9060851,
+      "mtRank": null,
+      "mtInPack20": false,
+      "topCompetitors": [
+        {
+          "rank": 1,
+          "title": "Times Lawyers (Sunnybank Office)",
+          "category": "Law firm",
+          "additional_categories": [
+            "Conveyancer",
+            "Estate planning attorney",
+            "Family law attorney",
+            "Immigration attorney",
+            "Solicitor",
+            "Legal services"
+          ],
+          "address": "Ste 110, level 1/250 McCullough St, Sunnybank QLD 4109",
+          "phone": "+61733442888",
+          "domain": "www.timeslawyers.com.au",
+          "cid": "2324668156597297197",
+          "rating": 4.8,
+          "reviews": 124,
+          "is_claimed": true
+        },
+        {
+          "rank": 2,
+          "title": "Elliott & Harvey Lawyers",
+          "category": "Legal services",
+          "additional_categories": [],
+          "address": "1953 Logan Rd, Upper Mount Gravatt QLD 4122",
+          "phone": "+61733432666",
+          "domain": "www.ehlaw.com.au",
+          "cid": "9334228914982428310",
+          "rating": 4.9,
+          "reviews": 78,
+          "is_claimed": false
+        },
+        {
+          "rank": 3,
+          "title": "Denovo Lawyers",
+          "category": "Solicitor",
+          "additional_categories": [],
+          "address": "3 Cranfield St, Sunnybank Hills QLD 4109",
+          "phone": "+61733447247",
+          "domain": "www.denovolawyers.com",
+          "cid": "15330964525025770962",
+          "rating": 5,
+          "reviews": 111,
+          "is_claimed": true
+        },
+        {
+          "rank": 4,
+          "title": "Bennett Carroll Solicitors",
+          "category": "Legal services",
+          "additional_categories": [
+            "Administrative attorney",
+            "Business attorney",
+            "Civil law attorney",
+            "Conveyancer",
+            "Estate litigation attorney",
+            "Family law attorney",
+            "Law firm",
+            "Solicitor"
+          ],
+          "address": "2/33 Sanders St, Upper Mount Gravatt QLD 4122",
+          "phone": "+611300334566",
+          "domain": "www.bcglaw.com.au",
+          "cid": "5060543118513781204",
+          "rating": 4.7,
+          "reviews": 62,
+          "is_claimed": true
+        },
+        {
+          "rank": 5,
+          "title": "Linklaw Solicitors",
+          "category": "Law firm",
+          "additional_categories": [
+            "Conveyancer",
+            "Family law attorney",
+            "General practice attorney",
+            "Solicitor",
+            "Legal services",
+            "Real estate attorney"
+          ],
+          "address": "3/2000 Logan Rd, Upper Mount Gravatt QLD 4122",
+          "phone": "+61735328976",
+          "domain": "www.thelinklaw.com",
+          "cid": "18291559406844747036",
+          "rating": 4.9,
+          "reviews": 50,
+          "is_claimed": true
+        },
+        {
+          "rank": 6,
+          "title": "Wu & Co Lawyers",
+          "category": "Legal services",
+          "additional_categories": [],
+          "address": "17 Mount Gravatt Capalaba Rd, Upper Mount Gravatt QLD 4122",
+          "phone": "+61735570868",
+          "domain": "wuandcolawyers.com.au",
+          "cid": "283680254654982459",
+          "rating": 5,
+          "reviews": 251,
+          "is_claimed": true
+        },
+        {
+          "rank": 7,
+          "title": "J.W. Lawyers",
+          "category": "Conveyancer",
+          "additional_categories": [
+            "Estate planning attorney",
+            "Solicitor",
+            "Legal services",
+            "Real estate attorney"
+          ],
+          "address": "2248 Logan Rd, Upper Mount Gravatt QLD 4122",
+          "phone": "+611300813338",
+          "domain": "www.jwlawyers.com.au",
+          "cid": "14395149764841272252",
+          "rating": 4.8,
+          "reviews": 164,
+          "is_claimed": true
+        },
+        {
+          "rank": 8,
+          "title": "Campbells Legal Services",
+          "category": "Law firm",
+          "additional_categories": [
+            "Conveyancer",
+            "Estate planning attorney",
+            "Family law attorney",
+            "Solicitor",
+            "Personal injury attorney",
+            "Real estate attorney"
+          ],
+          "address": "6b/46 Mount Gravatt Capalaba Rd, Upper Mount Gravatt QLD 4122",
+          "phone": "+61738493066",
+          "domain": "campbellslegal.com.au",
+          "cid": "5962732676577724581",
+          "rating": 4.8,
+          "reviews": 36,
+          "is_claimed": true
+        },
+        {
+          "rank": 9,
+          "title": "Ian W Bartels & Associates Solicitors",
+          "category": "Law firm",
+          "additional_categories": [],
+          "address": "1408 Logan Rd, Mount Gravatt QLD 4122",
+          "phone": "+61738498000",
+          "domain": "ianbartels.com.au",
+          "cid": "10386619814003417695",
+          "rating": 4.7,
+          "reviews": 71,
+          "is_claimed": true
+        },
+        {
+          "rank": 10,
+          "title": "Hall & Co Solicitors",
+          "category": "Law firm",
+          "additional_categories": [
+            "Conveyancer",
+            "Criminal justice attorney",
+            "Family law attorney",
+            "Personal injury attorney"
+          ],
+          "address": "1644 Logan Rd, Mount Gravatt QLD 4122",
+          "phone": "+61732193830",
+          "domain": "www.hallsolicitors.com.au",
+          "cid": "16063838428244479067",
+          "rating": 4.9,
+          "reviews": 71,
+          "is_claimed": true
+        },
+        {
+          "rank": 11,
+          "title": "Kanoon Law Group - Solicitors",
+          "category": "Law firm",
+          "additional_categories": [
+            "Divorce lawyer",
+            "Domestic Violence Service",
+            "Estate planning attorney",
+            "Family law attorney",
+            "Legal services",
+            "Public defender's office"
+          ],
+          "address": "4/1420 Logan Rd, Mount Gravatt QLD 4122",
+          "phone": "+61731282000",
+          "domain": "www.kanoonlawgroup.com.au",
+          "cid": "6272930432609048472",
+          "rating": 4.8,
+          "reviews": 39,
+          "is_claimed": true
+        },
+        {
+          "rank": 12,
+          "title": "Peter G Williams & Associates Solicitors & Notary",
+          "category": "Solicitor",
+          "additional_categories": [
+            "Law firm"
+          ],
+          "address": "Ownit Chambers, Shop 1/1933 Logan Rd, Upper Mount Gravatt QLD 4122",
+          "phone": "+61738498170",
+          "domain": "www.petergwilliams.com.au",
+          "cid": "16790325961054838906",
+          "rating": 4.9,
+          "reviews": 8,
+          "is_claimed": true
+        },
+        {
+          "rank": 13,
+          "title": "Wheldon & Associates",
+          "category": "Solicitor",
+          "additional_categories": [],
+          "address": "12 Zamia St, Sunnybank QLD 4118",
+          "phone": "+61733239788",
+          "domain": "www.wheldons.com",
+          "cid": "4391092094542798154",
+          "rating": 3.6,
+          "reviews": 65,
+          "is_claimed": true
+        },
+        {
+          "rank": 14,
+          "title": "Dao Solicitors",
+          "category": "Law firm",
+          "additional_categories": [
+            "Conveyancer",
+            "Estate planning attorney",
+            "Family law attorney",
+            "Real estate attorney"
+          ],
+          "address": "Goebel Building, 1644 Logan Rd, Mount Gravatt QLD 4122",
+          "phone": "+61404320208",
+          "domain": null,
+          "cid": "5879226277910298531",
+          "rating": 5,
+          "reviews": 49,
+          "is_claimed": true
+        },
+        {
+          "rank": 15,
+          "title": "Life Law Solutions | Family Lawyers Brisbane",
+          "category": "Solicitor",
+          "additional_categories": [
+            "Divorce lawyer",
+            "Divorce service",
+            "Law firm",
+            "Legal services",
+            "Mediation service"
+          ],
+          "address": "22 Carrara St, Mount Gravatt East QLD 4122",
+          "phone": "+61733439522",
+          "domain": "www.lifelaw.com.au",
+          "cid": "13137387014090751847",
+          "rating": 3.9,
+          "reviews": 32,
+          "is_claimed": true
+        },
+        {
+          "rank": 16,
+          "title": "Ebenezer Legal",
+          "category": "Legal services",
+          "additional_categories": [],
+          "address": "Unit 5/46 Mount Gravatt Capalaba Rd, Upper Mount Gravatt QLD 4122",
+          "phone": "+61733497771",
+          "domain": null,
+          "cid": "8082279546588842072",
+          "rating": 4.7,
+          "reviews": 108,
+          "is_claimed": true
+        },
+        {
+          "rank": 17,
+          "title": "Hatzis Lawyers",
+          "category": "Law firm",
+          "additional_categories": [
+            "Legal services"
+          ],
+          "address": "18 Torbey St, Sunnybank Hills QLD 4109",
+          "phone": "+61733454388",
+          "domain": "fplawyers.com.au",
+          "cid": "10586923657609503508",
+          "rating": 3.5,
+          "reviews": 13,
+          "is_claimed": true
+        },
+        {
+          "rank": 18,
+          "title": "Griffith Legal",
+          "category": "Law firm",
+          "additional_categories": [
+            "Business attorney",
+            "Conveyancer",
+            "Divorce lawyer",
+            "Family law attorney",
+            "Immigration attorney",
+            "Real estate attorney"
+          ],
+          "address": "Unit 10/2012 Logan Rd, Upper Mount Gravatt QLD 4122",
+          "phone": "+61721049010",
+          "domain": "griffithlegal.com.au",
+          "cid": "17764526745224921010",
+          "rating": 4.8,
+          "reviews": 26,
+          "is_claimed": true
+        },
+        {
+          "rank": 19,
+          "title": "Atkinson Family Lawyers",
+          "category": "Family law attorney",
+          "additional_categories": [],
+          "address": "Hexham St, Tarragindi QLD 4121",
+          "phone": "+61413777391",
+          "domain": "www.facebook.com",
+          "cid": "14728115215421323606",
+          "rating": 5,
+          "reviews": 2,
+          "is_claimed": true
+        },
+        {
+          "rank": 20,
+          "title": "Sun & Co Lawyers",
+          "category": "Law firm",
+          "additional_categories": [],
+          "address": "Shop C2A/1932 Logan Rd, Upper Mount Gravatt QLD 4122",
+          "phone": "+61731032588",
+          "domain": "www.suncolawyers.com.au",
+          "cid": "1230800139393242796",
+          "rating": 3.6,
+          "reviews": 53,
+          "is_claimed": true
+        }
+      ]
+    },
+    "brisbane_north": {
+      "city": "Brisbane Northside (Chermside & North Lakes)",
+      "displayLoc": "Brisbane North (Chermside & North Lakes)",
+      "query": "family and wills estates lawyers Chermside North Lakes Brisbane",
+      "locationCode": 9060852,
+      "mtRank": null,
+      "mtInPack20": false,
+      "topCompetitors": [
+        {
+          "rank": 1,
+          "title": "Northside Family Law Centre",
+          "category": "Solicitor",
+          "additional_categories": [
+            "Conveyancer",
+            "Divorce lawyer",
+            "Estate planning attorney",
+            "Family law attorney",
+            "Legal services"
+          ],
+          "address": "C1/1 Kingsmill St, Chermside QLD 4032",
+          "phone": "+61737331234",
+          "domain": "www.northsidefamilylaw.com.au",
+          "cid": "6584067824077845387",
+          "rating": 3.5,
+          "reviews": 10,
+          "is_claimed": true
+        },
+        {
+          "rank": 2,
+          "title": "Terry Anderssen Lawyers",
+          "category": "Law firm",
+          "additional_categories": [
+            "Conveyancer",
+            "Divorce lawyer",
+            "Estate planning attorney",
+            "Family law attorney",
+            "Legal services",
+            "Real estate attorney"
+          ],
+          "address": "16/1163 Sandgate Rd, Nundah QLD 4012",
+          "phone": "+61733504417",
+          "domain": "www.terryanderssen.com.au",
+          "cid": "11089221284512160195",
+          "rating": 4.8,
+          "reviews": 82,
+          "is_claimed": true
+        },
+        {
+          "rank": 3,
+          "title": "Barton Family Lawyers",
+          "category": "Family law attorney",
+          "additional_categories": [
+            "Divorce lawyer",
+            "Law firm",
+            "Solicitor"
+          ],
+          "address": "818 Gympie Rd, Chermside QLD 4032",
+          "phone": "+61734659332",
+          "domain": "www.bartonfamilylaw.com.au",
+          "cid": "16315570723144794299",
+          "rating": 4.9,
+          "reviews": 27,
+          "is_claimed": true
+        },
+        {
+          "rank": 4,
+          "title": "Biggs Fitzgerald Pike",
+          "category": "Solicitor",
+          "additional_categories": [],
+          "address": "Shop 2/823 Gympie Rd, Chermside QLD 4032",
+          "phone": "+61733502033",
+          "domain": "www.bfpsol.net.au",
+          "cid": "2521206951292770784",
+          "rating": 4.5,
+          "reviews": 13,
+          "is_claimed": false
+        },
+        {
+          "rank": 5,
+          "title": "Cudmore Legal",
+          "category": "Family law attorney",
+          "additional_categories": [
+            "Divorce lawyer"
+          ],
+          "address": "Suite 34, Mezzanine Level, 59, Albany Creek Rd, Aspley QLD 4034",
+          "phone": "+61731843637",
+          "domain": "www.cudmorelegal.com.au",
+          "cid": "4083348775659045011",
+          "rating": 4.8,
+          "reviews": 131,
+          "is_claimed": true
+        },
+        {
+          "rank": 6,
+          "title": "EBM Solicitors",
+          "category": "Law firm",
+          "additional_categories": [
+            "Conveyancer",
+            "Family law attorney",
+            "Legal services",
+            "Solicitor"
+          ],
+          "address": "106 Robinson Rd E, Geebung QLD 4034",
+          "phone": "+61738655844",
+          "domain": "www.ebmsolicitors.com.au",
+          "cid": "14814208351804650972",
+          "rating": 4.4,
+          "reviews": 14,
+          "is_claimed": true
+        },
+        {
+          "rank": 7,
+          "title": "Porta Lawyers",
+          "category": "Legal services",
+          "additional_categories": [
+            "Notary public"
+          ],
+          "address": "3/420 Newman Rd, Geebung QLD 4034",
+          "phone": "+61732653888",
+          "domain": "www.portalawyers.com.au",
+          "cid": "10650726459829625984",
+          "rating": 4.3,
+          "reviews": 100,
+          "is_claimed": true
+        },
+        {
+          "rank": 8,
+          "title": "Crouch & Co Solicitors / North Lakes Conveyancing",
+          "category": "Estate planning attorney",
+          "additional_categories": [
+            "Conveyancer",
+            "Elder law attorney",
+            "Family law attorney",
+            "General practice attorney",
+            "Personal injury attorney",
+            "Real estate attorney"
+          ],
+          "address": "Aspley Fountain Centre, Ste 16/1344 Gympie Rd, Aspley QLD 4034",
+          "phone": "+61732635111",
+          "domain": "crouchandco.com.au",
+          "cid": "15613016636679022192",
+          "rating": 4.2,
+          "reviews": 13,
+          "is_claimed": true
+        },
+        {
+          "rank": 9,
+          "title": "Future Family Law",
+          "category": "Legal services",
+          "additional_categories": [],
+          "address": "59 Albany Creek Rd, Aspley QLD 4034",
+          "phone": "+61731127972",
+          "domain": "futurefamilylaw.com.au",
+          "cid": "8746082119189796857",
+          "rating": 5,
+          "reviews": 2,
+          "is_claimed": true
+        },
+        {
+          "rank": 10,
+          "title": "Brisbane Property Lawyers",
+          "category": "Law firm",
+          "additional_categories": [],
+          "address": "Westfield Chermside, Level 2 WOTSO/395 Hamilton Rd, Chermside QLD 4032",
+          "phone": "+61732663843",
+          "domain": "brisbanepropertylawyers.com.au",
+          "cid": "8662169302124307311",
+          "rating": 5,
+          "reviews": 112,
+          "is_claimed": true
+        },
+        {
+          "rank": 11,
+          "title": "The Real Estate Lawyer",
+          "category": "Law firm",
+          "additional_categories": [
+            "Conveyancer",
+            "Legal services",
+            "Real estate attorney"
+          ],
+          "address": "Unit 2/139 Junction Rd, Clayfield QLD 4011",
+          "phone": "+61732626227",
+          "domain": "www.therealestatelawyer.com.au",
+          "cid": "6319696279312316346",
+          "rating": 4.9,
+          "reviews": 106,
+          "is_claimed": true
+        },
+        {
+          "rank": 12,
+          "title": "Vicca Law",
+          "category": "Law firm",
+          "additional_categories": [
+            "Estate litigation attorney",
+            "Estate planning attorney"
+          ],
+          "address": "Suite 43, Mezzanine Level, 59 Albany Creek Rd, Aspley QLD 4034",
+          "phone": "+61731849940",
+          "domain": "www.viccalaw.com.au",
+          "cid": "1605711102232040311",
+          "rating": 5,
+          "reviews": 82,
+          "is_claimed": true
+        },
+        {
+          "rank": 13,
+          "title": "Bradshaw Lawyers",
+          "category": "Law firm",
+          "additional_categories": [
+            "Estate planning attorney",
+            "Family law attorney",
+            "Legal services"
+          ],
+          "address": "Suite 30, 'Offices First, 59 Albany Creek Rd, Aspley QLD 4503",
+          "phone": "+61738861938",
+          "domain": "www.bradshawlawyers.com.au",
+          "cid": "6473800730733539984",
+          "rating": 4.6,
+          "reviews": 41,
+          "is_claimed": true
+        },
+        {
+          "rank": 14,
+          "title": "OHare Law",
+          "category": "Legal services",
+          "additional_categories": [
+            "Family law attorney",
+            "Personal injury attorney"
+          ],
+          "address": "Unit 6/82 Buckland Rd, Nundah QLD 4012",
+          "phone": "+61732668999",
+          "domain": "www.oharelaw.com.au",
+          "cid": "9182295937305619225",
+          "rating": 2.3,
+          "reviews": 3,
+          "is_claimed": true
+        },
+        {
+          "rank": 15,
+          "title": "Bennett Carroll Solicitors",
+          "category": "Law firm",
+          "additional_categories": [
+            "Conveyancer",
+            "Divorce lawyer",
+            "Elder law attorney",
+            "Employment attorney",
+            "Estate planning attorney",
+            "Family law attorney",
+            "Legal services",
+            "Solicitor",
+            "Real estate attorney"
+          ],
+          "address": "269 Stafford Rd, Stafford QLD 4053",
+          "phone": "+611300334566",
+          "domain": "www.bcglaw.com.au",
+          "cid": "2988232010440725399",
+          "rating": 4.7,
+          "reviews": 73,
+          "is_claimed": true
+        },
+        {
+          "rank": 16,
+          "title": "Shorestone Legal",
+          "category": "Family law attorney",
+          "additional_categories": [
+            "Solicitor",
+            "Legal services"
+          ],
+          "address": "34 Navigator Pl, Hendra QLD 4011",
+          "phone": "+61732664657",
+          "domain": "shorestonelegal.com.au",
+          "cid": "12295660281398010285",
+          "rating": 5,
+          "reviews": 42,
+          "is_claimed": true
+        },
+        {
+          "rank": 17,
+          "title": "Maguire Barnes Family Lawyers",
+          "category": "Family law attorney",
+          "additional_categories": [],
+          "address": "1344 Gympie Rd, Carseldine QLD 4034",
+          "phone": "+61732637400",
+          "domain": "www.maguirebarnes.com.au",
+          "cid": "17743478696434486812",
+          "rating": 4,
+          "reviews": 6,
+          "is_claimed": false
+        },
+        {
+          "rank": 18,
+          "title": "Smith & Stanton Lawyers",
+          "category": "Legal services",
+          "additional_categories": [],
+          "address": "10 Pritchard Rd, Virginia QLD 4014",
+          "phone": "+61732634244",
+          "domain": "smithstanton.com.au",
+          "cid": "7084392541591203321",
+          "rating": 4.7,
+          "reviews": 37,
+          "is_claimed": true
+        },
+        {
+          "rank": 19,
+          "title": "O'Sullivans Law Firm",
+          "category": "Legal services",
+          "additional_categories": [],
+          "address": "120 Rose St, Kalinga QLD 4030",
+          "phone": "+61738573333",
+          "domain": "www.osullivans-lawfirm.com.au",
+          "cid": "16843723109709592852",
+          "rating": 4.6,
+          "reviews": 62,
+          "is_claimed": true
+        },
+        {
+          "rank": 20,
+          "title": "CONVEYANCING COMPLETED",
+          "category": "Solicitor",
+          "additional_categories": [
+            "Family law attorney",
+            "Law firm",
+            "Lawyers association",
+            "Legal services",
+            "Real estate attorney",
+            "Real estate auctioneer"
+          ],
+          "address": "Clayfield QLD 4011",
+          "phone": "+61412485340",
+          "domain": "www.conveyancingcompleted.com.au",
+          "cid": "12572919346762540290",
+          "rating": 4.9,
+          "reviews": 32,
+          "is_claimed": true
+        }
+      ]
+    },
+    "brisbane_east": {
+      "city": "Brisbane East and Bayside (Carindale & Wynnum)",
+      "displayLoc": "Brisbane East & Bayside (Carindale & Wynnum)",
+      "query": "family and wills estates lawyers Carindale Wynnum Brisbane East",
+      "locationCode": 9194035,
+      "mtRank": null,
+      "mtInPack20": false,
+      "topCompetitors": [
+        {
+          "rank": 1,
+          "title": "Willwise",
+          "category": "Solicitor",
+          "additional_categories": [
+            "Estate planning attorney"
+          ],
+          "address": "Australia Post Bx, 1601/738 Creek Rd, Carindale QLD 4152",
+          "phone": "+61730887714",
+          "domain": "www.willwise.com.au",
+          "cid": "15857827032975012728",
+          "rating": null,
+          "reviews": 0,
+          "is_claimed": true
+        },
+        {
+          "rank": 2,
+          "title": "Fulljames Law",
+          "category": "Estate planning attorney",
+          "additional_categories": [
+            "Business attorney",
+            "Elder law attorney",
+            "Estate litigation attorney",
+            "Law firm",
+            "Probate attorney"
+          ],
+          "address": "19a/23 Breene Pl, Morningside QLD 4170",
+          "phone": "+61721124689",
+          "domain": "www.fulljameslaw.com.au",
+          "cid": "10567303841383168419",
+          "rating": 5,
+          "reviews": 97,
+          "is_claimed": true
+        },
+        {
+          "rank": 3,
+          "title": "DBL Solicitors",
+          "category": "Solicitor",
+          "additional_categories": [
+            "Conveyancer",
+            "Divorce lawyer",
+            "Elder law attorney",
+            "Estate planning attorney",
+            "Family law attorney",
+            "General practice attorney",
+            "Law firm",
+            "Legal services"
+          ],
+          "address": "622 Wynnum Rd, Morningside QLD 4170",
+          "phone": "+61738990722",
+          "domain": "www.dbl.com.au",
+          "cid": "3660882199972628596",
+          "rating": 4.8,
+          "reviews": 47,
+          "is_claimed": true
+        },
+        {
+          "rank": 4,
+          "title": "Australian Law Group Morningside",
+          "category": "Legal services",
+          "additional_categories": [
+            "Conveyancer",
+            "Divorce lawyer",
+            "Elder law attorney",
+            "Estate planning attorney",
+            "Family law attorney",
+            "General practice attorney",
+            "Solicitor",
+            "Personal injury attorney",
+            "Real estate attorney"
+          ],
+          "address": "680 Wynnum Rd, Morningside QLD 4170",
+          "phone": "+61733997500",
+          "domain": "australianlawgroup.com.au",
+          "cid": "13414715660079003946",
+          "rating": 4.7,
+          "reviews": 64,
+          "is_claimed": true
+        },
+        {
+          "rank": 5,
+          "title": "CNG LAW",
+          "category": "Law firm",
+          "additional_categories": [
+            "Legal services"
+          ],
+          "address": "576 Old Cleveland Rd, Camp Hill QLD 4152",
+          "phone": "+61733981819",
+          "domain": "www.cnglaw.com.au",
+          "cid": "17881807393101682230",
+          "rating": 3.7,
+          "reviews": 20,
+          "is_claimed": true
+        },
+        {
+          "rank": 6,
+          "title": "Smith J K",
+          "category": "Solicitor",
+          "additional_categories": [],
+          "address": "175 Morehead Ave, Norman Park QLD 4170",
+          "phone": "+61738993599",
+          "domain": null,
+          "cid": "8486860482685064032",
+          "rating": 4.9,
+          "reviews": 86,
+          "is_claimed": false
+        },
+        {
+          "rank": 7,
+          "title": "Dunn Right Legal",
+          "category": "Solicitor",
+          "additional_categories": [
+            "Service establishment"
+          ],
+          "address": null,
+          "phone": "+61730629450",
+          "domain": "www.dunnrightlegal.com.au",
+          "cid": "16323690071977041907",
+          "rating": 4.7,
+          "reviews": 25,
+          "is_claimed": true
+        },
+        {
+          "rank": 8,
+          "title": "Ian W Bartels & Associates Solicitors",
+          "category": "Law firm",
+          "additional_categories": [],
+          "address": "1408 Logan Rd, Mount Gravatt QLD 4122",
+          "phone": "+61738498000",
+          "domain": "ianbartels.com.au",
+          "cid": "10386619814003417695",
+          "rating": 4.7,
+          "reviews": 71,
+          "is_claimed": true
+        },
+        {
+          "rank": 9,
+          "title": "Franklin Family Law",
+          "category": "Family law attorney",
+          "additional_categories": [
+            "Divorce lawyer",
+            "Estate planning attorney"
+          ],
+          "address": "295 Chatsworth Rd, Coorparoo QLD 4151",
+          "phone": "+61733420393",
+          "domain": "www.franklinfamilylaw.com.au",
+          "cid": "7382305168973326842",
+          "rating": 4.6,
+          "reviews": 20,
+          "is_claimed": true
+        },
+        {
+          "rank": 10,
+          "title": "Connor Hunter Law Firm",
+          "category": "Legal services",
+          "additional_categories": [
+            "Estate planning attorney",
+            "Family law attorney",
+            "Immigration attorney",
+            "Real estate attorney"
+          ],
+          "address": "17 Middle St, Cleveland QLD 4163",
+          "phone": "+61738216288",
+          "domain": "www.connorhunter.com",
+          "cid": "2872644922286855809",
+          "rating": 4.9,
+          "reviews": 114,
+          "is_claimed": true
+        },
+        {
+          "rank": 11,
+          "title": "Harmony Legal & Associates 家和律師事務所",
+          "category": "Family law attorney",
+          "additional_categories": [
+            "Estate planning attorney"
+          ],
+          "address": "966 Logan Rd, Holland Park West QLD 4121",
+          "phone": "+61406025025",
+          "domain": "harmonylegal.com.au",
+          "cid": "6857247567085405998",
+          "rating": 4.9,
+          "reviews": 72,
+          "is_claimed": true
+        },
+        {
+          "rank": 12,
+          "title": "Freeman Lawyers",
+          "category": "Solicitor",
+          "additional_categories": [
+            "Divorce lawyer",
+            "Elder law attorney",
+            "Family law attorney",
+            "Law firm",
+            "Legal services"
+          ],
+          "address": "159 Logan Rd, Woolloongabba QLD 4102",
+          "phone": "+61733918383",
+          "domain": "www.freemanlawyers.com.au",
+          "cid": "16578813438922994150",
+          "rating": 4.8,
+          "reviews": 39,
+          "is_claimed": true
+        },
+        {
+          "rank": 13,
+          "title": "Bennett Carroll Solicitors",
+          "category": "Legal services",
+          "additional_categories": [
+            "Administrative attorney",
+            "Business attorney",
+            "Civil law attorney",
+            "Conveyancer",
+            "Estate litigation attorney",
+            "Family law attorney",
+            "Law firm",
+            "Solicitor"
+          ],
+          "address": "2/33 Sanders St, Upper Mount Gravatt QLD 4122",
+          "phone": "+611300334566",
+          "domain": "www.bcglaw.com.au",
+          "cid": "5060543118513781204",
+          "rating": 4.7,
+          "reviews": 62,
+          "is_claimed": true
+        },
+        {
+          "rank": 14,
+          "title": "SMS Law - Conveyancing Brisbane",
+          "category": "Real estate attorney",
+          "additional_categories": [
+            "Conveyancer",
+            "Estate planning attorney"
+          ],
+          "address": "138 Juliette St, Greenslopes QLD 4120",
+          "phone": "+61736678966",
+          "domain": "smslaw.com.au",
+          "cid": "14559663573960231471",
+          "rating": 4.6,
+          "reviews": 45,
+          "is_claimed": true
+        },
+        {
+          "rank": 15,
+          "title": "Sambanis Family Law",
+          "category": "Family law attorney",
+          "additional_categories": [],
+          "address": "4 Kyabra St, Newstead QLD 4006",
+          "phone": "+61731712229",
+          "domain": "www.sambanisfamilylaw.com.au",
+          "cid": "3320373834839590833",
+          "rating": 4.8,
+          "reviews": 19,
+          "is_claimed": true
+        },
+        {
+          "rank": 16,
+          "title": "Gullickson Lawyers",
+          "category": "Legal services",
+          "additional_categories": [
+            "Mediation service"
+          ],
+          "address": "71 Cleveland St, Stones Corner QLD 4120",
+          "phone": "+61733979922",
+          "domain": "www.gullicksonlawyers.com.au",
+          "cid": "15856385248830190950",
+          "rating": 5,
+          "reviews": 14,
+          "is_claimed": true
+        },
+        {
+          "rank": 17,
+          "title": "CG Legal Group",
+          "category": "Family law attorney",
+          "additional_categories": [
+            "Conveyancer",
+            "Law firm"
+          ],
+          "address": "629 Logan Rd, Greenslopes QLD 4120",
+          "phone": "+611300510132",
+          "domain": "www.cglegalgroup.com.au",
+          "cid": "735427213869677524",
+          "rating": 4.6,
+          "reviews": 66,
+          "is_claimed": true
+        },
+        {
+          "rank": 18,
+          "title": "Life Law Solutions | Family Lawyers Brisbane",
+          "category": "Solicitor",
+          "additional_categories": [
+            "Divorce lawyer",
+            "Divorce service",
+            "Law firm",
+            "Legal services",
+            "Mediation service"
+          ],
+          "address": "22 Carrara St, Mount Gravatt East QLD 4122",
+          "phone": "+61733439522",
+          "domain": "www.lifelaw.com.au",
+          "cid": "13137387014090751847",
+          "rating": 3.9,
+          "reviews": 32,
+          "is_claimed": true
+        },
+        {
+          "rank": 19,
+          "title": "J.W. Lawyers",
+          "category": "Conveyancer",
+          "additional_categories": [
+            "Estate planning attorney",
+            "Solicitor",
+            "Legal services",
+            "Real estate attorney"
+          ],
+          "address": "2248 Logan Rd, Upper Mount Gravatt QLD 4122",
+          "phone": "+611300813338",
+          "domain": "www.jwlawyers.com.au",
+          "cid": "14395149764841272252",
+          "rating": 4.8,
+          "reviews": 164,
+          "is_claimed": true
+        },
+        {
+          "rank": 20,
+          "title": "Peter Jones & Co",
+          "category": "Legal services",
+          "additional_categories": [],
+          "address": "71 Cleveland St, Greenslopes QLD 4120",
+          "phone": "+61733979922",
+          "domain": "www.peterjonesco.com.au",
+          "cid": "6837379068423976915",
+          "rating": 4.7,
+          "reviews": 27,
+          "is_claimed": true
+        }
+      ]
+    },
+    "logan": {
+      "city": "Logan and Western Corridor (Ipswich to Brisbane)",
+      "displayLoc": "Logan & Western Corridor",
+      "query": "family and wills estates lawyers Logan Springwood Ipswich Brisbane",
+      "locationCode": 9112660,
+      "mtRank": 5,
+      "mtInPack20": true,
+      "topCompetitors": [
+        {
+          "rank": 1,
+          "title": "Springwood Lawyers",
+          "category": "Divorce lawyer",
+          "additional_categories": [
+            "Elder law attorney",
+            "Family law attorney",
+            "Solicitor"
+          ],
+          "address": "Level 2/3 Dennis Rd, Springwood QLD 4127",
+          "phone": "+61732080850",
+          "domain": "www.springwoodlawyers.com.au",
+          "cid": "9446578296540107565",
+          "rating": 4.3,
+          "reviews": 57,
+          "is_claimed": true
+        },
+        {
+          "rank": 2,
+          "title": "Richard Zande & Associates",
+          "category": "Family law attorney",
+          "additional_categories": [
+            "Conveyancer",
+            "Criminal justice attorney",
+            "Estate planning attorney",
+            "Law firm",
+            "Solicitor",
+            "Legal services",
+            "Mediation service",
+            "Real estate attorney"
+          ],
+          "address": "49 Ellenborough St, Ipswich QLD 4305",
+          "phone": "+61732811633",
+          "domain": "www.richardzande.com.au",
+          "cid": "7154975560653041941",
+          "rating": 4.6,
+          "reviews": 94,
+          "is_claimed": true
+        },
+        {
+          "rank": 3,
+          "title": "Fallu McMillan Lawyers",
+          "category": "Legal services",
+          "additional_categories": [],
+          "address": "233 Brisbane St, Ipswich QLD 4305",
+          "phone": "+61732812677",
+          "domain": "www.fmlaw.com.au",
+          "cid": "16400021174251908832",
+          "rating": 4.9,
+          "reviews": 203,
+          "is_claimed": true
+        },
+        {
+          "rank": 4,
+          "title": "Ipswich Family Lawyers - Family Law Solicitors Qld",
+          "category": "Law firm",
+          "additional_categories": [],
+          "address": "44 East St, Ipswich QLD 4305",
+          "phone": "+61721110873",
+          "domain": "www.flsq.com.au",
+          "cid": "749097452279469076",
+          "rating": 5,
+          "reviews": 1,
+          "is_claimed": true
+        },
+        {
+          "rank": 5,
+          "title": "Millwater Tyrrell Law",
+          "category": "Legal services",
+          "additional_categories": [],
+          "address": "Level 1/215 Brisbane St, Ipswich QLD 4305",
+          "phone": "+61734470416",
+          "domain": "millwatertyrrell.com.au",
+          "cid": "6376809625893182443",
+          "rating": 4.8,
+          "reviews": 107,
+          "is_claimed": true
+        },
+        {
+          "rank": 6,
+          "title": "Family Lawyers & Mediation Services",
+          "category": "Family law attorney",
+          "additional_categories": [
+            "Mediation service"
+          ],
+          "address": "10 Old Chatswood Rd, Springwood QLD 4127",
+          "phone": "+61738043244",
+          "domain": "www.flms.com.au",
+          "cid": "5891402189769774781",
+          "rating": 4.8,
+          "reviews": 38,
+          "is_claimed": true
+        },
+        {
+          "rank": 7,
+          "title": "Bridges Family Law Specialists",
+          "category": "Family law attorney",
+          "additional_categories": [
+            "Conveyancer",
+            "Legal services"
+          ],
+          "address": "Highpoint Business Centre, Ste 15/3374 Pacific Hwy, Springwood QLD 4127",
+          "phone": "+61733877715",
+          "domain": "www.bridgesfamilylaw.com.au",
+          "cid": "5579005513724366509",
+          "rating": 4.7,
+          "reviews": 28,
+          "is_claimed": true
+        },
+        {
+          "rank": 8,
+          "title": "McNamara Law",
+          "category": "Law firm",
+          "additional_categories": [
+            "Divorce lawyer",
+            "Estate planning attorney",
+            "Family law attorney",
+            "Personal injury attorney"
+          ],
+          "address": "10/88 Limestone St, Ipswich QLD 4305",
+          "phone": "+61738169555",
+          "domain": "mcna.com.au",
+          "cid": "17500344748741039606",
+          "rating": 4.5,
+          "reviews": 128,
+          "is_claimed": true
+        },
+        {
+          "rank": 9,
+          "title": "Madsen Law Solicitors",
+          "category": "Family law attorney",
+          "additional_categories": [
+            "Criminal justice attorney",
+            "Divorce lawyer",
+            "Divorce service",
+            "Elder law attorney",
+            "Estate litigation attorney",
+            "Estate planning attorney",
+            "Law firm",
+            "Solicitor",
+            "Real estate attorney"
+          ],
+          "address": "3928 Pacific Hwy, Loganholme QLD 4129",
+          "phone": "+61732097744",
+          "domain": "madsenlaw.com.au",
+          "cid": "12535642187139771637",
+          "rating": 4.7,
+          "reviews": 147,
+          "is_claimed": true
+        },
+        {
+          "rank": 10,
+          "title": "Ryder Lawyers",
+          "category": "Solicitor",
+          "additional_categories": [
+            "Estate planning attorney",
+            "Family law attorney",
+            "Real estate attorney"
+          ],
+          "address": "Shop 10/23-25 Daisy Hill Rd, Daisy Hill QLD 4127",
+          "phone": "+61737091330",
+          "domain": "ryderlawyers.com.au",
+          "cid": "12688167360304568978",
+          "rating": 4.9,
+          "reviews": 42,
+          "is_claimed": true
+        },
+        {
+          "rank": 11,
+          "title": "JMR Lawyers",
+          "category": "Family law attorney",
+          "additional_categories": [
+            "Criminal justice attorney",
+            "Divorce lawyer",
+            "Divorce service",
+            "Domestic Violence Service",
+            "Estate planning attorney",
+            "Law firm",
+            "Legal services"
+          ],
+          "address": "Unit 5/1/7 Murrajong Rd, Springwood QLD 4127",
+          "phone": "+61738414309",
+          "domain": "www.jmrlawyers.com.au",
+          "cid": "1512434480692557431",
+          "rating": 4.8,
+          "reviews": 109,
+          "is_claimed": true
+        },
+        {
+          "rank": 12,
+          "title": "Lavenia Law (Lana Carter)",
+          "category": "Estate planning attorney",
+          "additional_categories": [
+            "Service establishment",
+            "Law firm",
+            "Probate attorney"
+          ],
+          "address": null,
+          "phone": null,
+          "domain": "www.lavenialaw.com.au",
+          "cid": "10952421035760390523",
+          "rating": 5,
+          "reviews": 9,
+          "is_claimed": true
+        },
+        {
+          "rank": 13,
+          "title": "Keane Legal | Ipswich",
+          "category": "Law firm",
+          "additional_categories": [
+            "Divorce lawyer",
+            "Divorce service",
+            "Employment attorney",
+            "Estate planning attorney",
+            "Family law attorney",
+            "Solicitor",
+            "Legal services"
+          ],
+          "address": "81 Chermside Rd, East Ipswich QLD 4305",
+          "phone": "+61734957339",
+          "domain": "www.keanelegal.com.au",
+          "cid": "11414864877692508401",
+          "rating": 4,
+          "reviews": 4,
+          "is_claimed": true
+        },
+        {
+          "rank": 14,
+          "title": "GLG Legal Springfield",
+          "category": "Legal services",
+          "additional_categories": [
+            "Conveyancer",
+            "Elder law attorney",
+            "Estate planning attorney",
+            "Family law attorney",
+            "Solicitor",
+            "Real estate attorney"
+          ],
+          "address": "Brookwater Office Park, Bldg 9, Level 1/22 Magnolia Dr, Brookwater QLD 4300",
+          "phone": "+61732883511",
+          "domain": "springfieldlegals.com.au",
+          "cid": "3014243658373570146",
+          "rating": 4.9,
+          "reviews": 70,
+          "is_claimed": true
+        },
+        {
+          "rank": 15,
+          "title": "McLaughlin & Associates Lawyers | Brisbane Law Firm",
+          "category": "Law firm",
+          "additional_categories": [
+            "Conveyancer",
+            "Elder law attorney",
+            "Estate planning attorney",
+            "Real estate attorney"
+          ],
+          "address": "18 Carol Ave, Springwood QLD 4127",
+          "phone": "+61738087777",
+          "domain": "www.mclaughlinlawyers.com.au",
+          "cid": "2643892050947059079",
+          "rating": 4.9,
+          "reviews": 115,
+          "is_claimed": true
+        },
+        {
+          "rank": 16,
+          "title": "Kanoon Law Group - Solicitors",
+          "category": "Law firm",
+          "additional_categories": [
+            "Divorce lawyer",
+            "Domestic Violence Service",
+            "Estate planning attorney",
+            "Family law attorney",
+            "Legal services",
+            "Public defender's office"
+          ],
+          "address": "4/1420 Logan Rd, Mount Gravatt QLD 4122",
+          "phone": "+61731282000",
+          "domain": "www.kanoonlawgroup.com.au",
+          "cid": "6272930432609048472",
+          "rating": 4.8,
+          "reviews": 39,
+          "is_claimed": true
+        },
+        {
+          "rank": 17,
+          "title": "LadyBird Wills & Estates",
+          "category": "Estate planning attorney",
+          "additional_categories": [],
+          "address": "Ste 4, Level 3/145 Sinnathamby Blvd, Springfield Central QLD 4300",
+          "phone": "+611300945570",
+          "domain": "www.ladybirdwillsandestates.com.au",
+          "cid": "14732053901966359997",
+          "rating": 5,
+          "reviews": 35,
+          "is_claimed": true
+        },
+        {
+          "rank": 18,
+          "title": "SKC Lawyers General Law Practice",
+          "category": "Solicitor",
+          "additional_categories": [],
+          "address": "Unit 14/50-56 Kellar St, Berrinba QLD 4117",
+          "phone": "+61733722232",
+          "domain": "skclawyers.com.au",
+          "cid": "14053276990552170620",
+          "rating": 4.8,
+          "reviews": 67,
+          "is_claimed": true
+        },
+        {
+          "rank": 19,
+          "title": "Direct Lawyers Wills and Estates",
+          "category": "Estate planning attorney",
+          "additional_categories": [
+            "Elder law attorney",
+            "Estate litigation attorney",
+            "Law firm",
+            "Solicitor",
+            "Probate attorney",
+            "Real estate attorney"
+          ],
+          "address": "The Greenhouse, West Village, Level 4/97 Boundary St, West End QLD 4101",
+          "phone": "+61737031888",
+          "domain": "www.directlawyers.com.au",
+          "cid": "8893670162717993604",
+          "rating": 4.9,
+          "reviews": 83,
+          "is_claimed": true
+        },
+        {
+          "rank": 20,
+          "title": "Harmony Legal & Associates 家和律師事務所",
+          "category": "Family law attorney",
+          "additional_categories": [
+            "Estate planning attorney"
+          ],
+          "address": "966 Logan Rd, Holland Park West QLD 4121",
+          "phone": "+61406025025",
+          "domain": "harmonylegal.com.au",
+          "cid": "6857247567085405998",
+          "rating": 4.9,
+          "reviews": 72,
+          "is_claimed": true
+        }
+      ]
+    }
+  },
+  "ipswich": {
+    "city": "Ipswich",
+    "displayLoc": "Ipswich Central & CBD (HQ)",
+    "query": "family and wills estates lawyers Ipswich QLD",
+    "locationCode": 9060853,
+    "mtRank": 5,
+    "mtInPack20": true,
+    "topCompetitors": [
+      {
+        "rank": 1,
+        "title": "Richard Zande & Associates",
+        "category": "Family law attorney",
+        "additional_categories": [
+          "Conveyancer",
+          "Criminal justice attorney",
+          "Estate planning attorney",
+          "Law firm",
+          "Solicitor",
+          "Legal services",
+          "Mediation service",
+          "Real estate attorney"
+        ],
+        "address": "49 Ellenborough St, Ipswich QLD 4305",
+        "phone": "+61732811633",
+        "domain": "www.richardzande.com.au",
+        "cid": "7154975560653041941",
+        "rating": 4.6,
+        "reviews": 94,
+        "is_claimed": true
+      },
+      {
+        "rank": 2,
+        "title": "Fallu McMillan Lawyers",
+        "category": "Legal services",
+        "additional_categories": [],
+        "address": "233 Brisbane St, Ipswich QLD 4305",
+        "phone": "+61732812677",
+        "domain": "www.fmlaw.com.au",
+        "cid": "16400021174251908832",
+        "rating": 4.9,
+        "reviews": 203,
+        "is_claimed": true
+      },
+      {
+        "rank": 3,
+        "title": "Walker Pender Lawyers",
+        "category": "Law firm",
+        "additional_categories": [
+          "Conveyancer",
+          "Criminal justice attorney",
+          "Estate planning attorney",
+          "Family law attorney"
+        ],
+        "address": "28 Nicholas St, Ipswich QLD 4305",
+        "phone": "+61738137833",
+        "domain": "www.walkerpender.com.au",
+        "cid": "5066631299087419671",
+        "rating": 4.8,
+        "reviews": 218,
+        "is_claimed": true
+      },
+      {
+        "rank": 4,
+        "title": "Ipswich Family Lawyers - Family Law Solicitors Qld",
+        "category": "Law firm",
+        "additional_categories": [],
+        "address": "44 East St, Ipswich QLD 4305",
+        "phone": "+61721110873",
+        "domain": "www.flsq.com.au",
+        "cid": "749097452279469076",
+        "rating": 5,
+        "reviews": 1,
+        "is_claimed": true
+      },
+      {
+        "rank": 5,
+        "title": "Millwater Tyrrell Law",
+        "category": "Legal services",
+        "additional_categories": [],
+        "address": "Level 1/215 Brisbane St, Ipswich QLD 4305",
+        "phone": "+61734470416",
+        "domain": "millwatertyrrell.com.au",
+        "cid": "6376809625893182443",
+        "rating": 4.8,
+        "reviews": 107,
+        "is_claimed": true
+      },
+      {
+        "rank": 6,
+        "title": "McNamara Law",
+        "category": "Law firm",
+        "additional_categories": [
+          "Divorce lawyer",
+          "Estate planning attorney",
+          "Family law attorney",
+          "Personal injury attorney"
+        ],
+        "address": "10/88 Limestone St, Ipswich QLD 4305",
+        "phone": "+61738169555",
+        "domain": "mcna.com.au",
+        "cid": "17500344748741039606",
+        "rating": 4.5,
+        "reviews": 128,
+        "is_claimed": true
+      },
+      {
+        "rank": 7,
+        "title": "Winstone Brown Legal",
+        "category": "Law firm",
+        "additional_categories": [
+          "Conveyancer",
+          "Criminal justice attorney",
+          "Estate planning attorney",
+          "Family law attorney"
+        ],
+        "address": "Corner of East &, 1 Churchill St, Ipswich QLD 4305",
+        "phone": "+61732819999",
+        "domain": "www.wblegal.au",
+        "cid": "760110050431180011",
+        "rating": 4.8,
+        "reviews": 103,
+        "is_claimed": true
+      },
+      {
+        "rank": 8,
+        "title": "Best Wilson Buckley Family Law",
+        "category": "Legal services",
+        "additional_categories": [
+          "Divorce lawyer",
+          "Family law attorney",
+          "Law firm",
+          "Mediation service"
+        ],
+        "address": "205 Brisbane St, Ipswich QLD 4305",
+        "phone": "+61738121392",
+        "domain": "bwbfamilylaw.com.au",
+        "cid": "13190487111788308597",
+        "rating": 4.5,
+        "reviews": 21,
+        "is_claimed": true
+      },
+      {
+        "rank": 9,
+        "title": "M.A. Kent & Associates",
+        "category": "Legal services",
+        "additional_categories": [],
+        "address": "47 Ellenborough St, Ipswich QLD 4305",
+        "phone": "+61732815555",
+        "domain": "makent.com.au",
+        "cid": "6568423527213733102",
+        "rating": 4.3,
+        "reviews": 104,
+        "is_claimed": false
+      },
+      {
+        "rank": 10,
+        "title": "Rose Jensen Kent Lawyers",
+        "category": "Law firm",
+        "additional_categories": [],
+        "address": "Shop 1/160 Brisbane St, Ipswich QLD 4305",
+        "phone": "+61738948300",
+        "domain": "rjklaw.com.au",
+        "cid": "15150364878879440751",
+        "rating": 4.9,
+        "reviews": 61,
+        "is_claimed": true
+      },
+      {
+        "rank": 11,
+        "title": "Jacaranda Law",
+        "category": "Estate planning attorney",
+        "additional_categories": [],
+        "address": "77 Roderick St, Ipswich QLD 4305",
+        "phone": "+61738122667",
+        "domain": "www.jacarandalaw.com.au",
+        "cid": "11922491511037953142",
+        "rating": 5,
+        "reviews": 20,
+        "is_claimed": true
+      },
+      {
+        "rank": 12,
+        "title": "JamesKLegal",
+        "category": "Solicitor",
+        "additional_categories": [],
+        "address": "8 Mortimer St, Ipswich QLD 4305",
+        "phone": "+61732022700",
+        "domain": "www.jamesklegal.com.au",
+        "cid": "6056456452839061327",
+        "rating": 4.8,
+        "reviews": 5,
+        "is_claimed": true
+      },
+      {
+        "rank": 13,
+        "title": "Banditt & Blaine Lawyers",
+        "category": "Law firm",
+        "additional_categories": [],
+        "address": "60 South St, Ipswich QLD 4305",
+        "phone": "+61738140541",
+        "domain": "bandittblaine.com.au",
+        "cid": "13305328558272339621",
+        "rating": 4.9,
+        "reviews": 61,
+        "is_claimed": true
+      },
+      {
+        "rank": 14,
+        "title": "Power Legal",
+        "category": "Law firm",
+        "additional_categories": [],
+        "address": "23 Gordon St, Ipswich QLD 4305",
+        "phone": "+61732816644",
+        "domain": "www.powerlegal.com.au",
+        "cid": "16687542657236589190",
+        "rating": 4.3,
+        "reviews": 26,
+        "is_claimed": true
+      },
+      {
+        "rank": 15,
+        "title": "DB Lawyers",
+        "category": "Solicitor",
+        "additional_categories": [],
+        "address": "Level 3/16 East St, Ipswich QLD 4305",
+        "phone": "+61738135611",
+        "domain": "www.dblawyers.com.au",
+        "cid": "16493039780220873336",
+        "rating": 4.5,
+        "reviews": 13,
+        "is_claimed": true
+      },
+      {
+        "rank": 16,
+        "title": "Heritage Conveyancing",
+        "category": "Conveyancer",
+        "additional_categories": [],
+        "address": "Shop 2/126 Brisbane St, Ipswich QLD 4305",
+        "phone": "+611300185353",
+        "domain": "www.heritageconveyancing.com.au",
+        "cid": "1875271405529063209",
+        "rating": 4.7,
+        "reviews": 68,
+        "is_claimed": true
+      },
+      {
+        "rank": 17,
+        "title": "Keane Legal | Ipswich",
+        "category": "Law firm",
+        "additional_categories": [
+          "Divorce lawyer",
+          "Divorce service",
+          "Employment attorney",
+          "Estate planning attorney",
+          "Family law attorney",
+          "Solicitor",
+          "Legal services"
+        ],
+        "address": "81 Chermside Rd, East Ipswich QLD 4305",
+        "phone": "+61734957339",
+        "domain": "www.keanelegal.com.au",
+        "cid": "11414864877692508401",
+        "rating": 4,
+        "reviews": 4,
+        "is_claimed": true
+      },
+      {
+        "rank": 18,
+        "title": "IPSWICH FAMILY LAWYERS - KINDRED LEGAL",
+        "category": "Law firm",
+        "additional_categories": [],
+        "address": "257 Whitehill Rd, Raceview QLD 4305",
+        "phone": "+61731433294",
+        "domain": null,
+        "cid": "3535117871054483287",
+        "rating": 5,
+        "reviews": 1,
+        "is_claimed": true
+      },
+      {
+        "rank": 19,
+        "title": "Bouchier Khan Lawyers Ipswich",
+        "category": "Criminal justice attorney",
+        "additional_categories": [],
+        "address": "55 Ellenborough St, Ipswich QLD 4305",
+        "phone": "+61732811812",
+        "domain": "www.bouchierkhan.com.au",
+        "cid": "717312931109780599",
+        "rating": 4.8,
+        "reviews": 32,
+        "is_claimed": true
+      },
+      {
+        "rank": 20,
+        "title": "Criminal Law Solicitors Qld - Ipswich",
+        "category": "Law firm",
+        "additional_categories": [],
+        "address": "Shop 3/44 East St, Ipswich QLD 4305",
+        "phone": "+61730504409",
+        "domain": "clsq.com.au",
+        "cid": "13191454732973475997",
+        "rating": 5,
+        "reviews": 13,
+        "is_claimed": true
+      }
+    ]
+  },
+  "springfield": {
+    "city": "Springfield and Greater Springfield, QLD",
+    "displayLoc": "Springfield & Greater Springfield",
+    "query": "family and wills estates lawyers Springfield Lakes Brookwater QLD",
+    "locationCode": 9191413,
+    "mtRank": null,
+    "mtInPack20": false,
+    "topCompetitors": [
+      {
+        "rank": 1,
+        "title": "GLG Legal Springfield",
+        "category": "Solicitor",
+        "additional_categories": [
+          "Conveyancer",
+          "Elder law attorney",
+          "Estate planning attorney",
+          "Family law attorney",
+          "Legal services",
+          "Real estate attorney"
+        ],
+        "address": "Brookwater Office Park, Bldg 9, Level 1/22 Magnolia Dr, Brookwater QLD 4300",
+        "phone": "+61732883511",
+        "domain": "springfieldlegals.com.au",
+        "cid": "3014243658373570146",
+        "rating": 4.9,
+        "reviews": 70,
+        "is_claimed": true
+      },
+      {
+        "rank": 2,
+        "title": "Landmark Lawyers",
+        "category": "Law firm",
+        "additional_categories": [
+          "Conveyancer",
+          "Estate planning attorney",
+          "Family law attorney",
+          "Legal services",
+          "Real estate attorney"
+        ],
+        "address": "14/21 Technology Dr, Augustine Heights QLD 4300",
+        "phone": "+61732884777",
+        "domain": "www.landmarklawyers.com.au",
+        "cid": "17235944292024432352",
+        "rating": 4.8,
+        "reviews": 79,
+        "is_claimed": true
+      },
+      {
+        "rank": 3,
+        "title": "Brookwater Legal Pty Ltd",
+        "category": "Legal services",
+        "additional_categories": [],
+        "address": "Ste 9F/118 Augusta Pkwy, Augustine Heights QLD 4300",
+        "phone": "+61734378555",
+        "domain": "www.brookwaterlegal.com.au",
+        "cid": "6651364254404527406",
+        "rating": 4.8,
+        "reviews": 326,
+        "is_claimed": true
+      },
+      {
+        "rank": 4,
+        "title": "Keane Legal | Brookwater",
+        "category": "Solicitor",
+        "additional_categories": [
+          "Divorce lawyer",
+          "Divorce service",
+          "Employment attorney",
+          "Family law attorney",
+          "Law firm",
+          "Legal services"
+        ],
+        "address": "Bldg 5/22 Magnolia Dr, Brookwater QLD 4300",
+        "phone": "+61734957339",
+        "domain": "keanelegal.com.au",
+        "cid": "7785487556944659641",
+        "rating": 4.5,
+        "reviews": 16,
+        "is_claimed": true
+      },
+      {
+        "rank": 5,
+        "title": "LadyBird Wills & Estates",
+        "category": "Estate planning attorney",
+        "additional_categories": [],
+        "address": "Ste 4, Level 3/145 Sinnathamby Blvd, Springfield Central QLD 4300",
+        "phone": "+611300945570",
+        "domain": "www.ladybirdwillsandestates.com.au",
+        "cid": "14732053901966359997",
+        "rating": 5,
+        "reviews": 35,
+        "is_claimed": true
+      },
+      {
+        "rank": 6,
+        "title": "Stanford Legal",
+        "category": "Law firm",
+        "additional_categories": [
+          "Estate planning attorney",
+          "Family law attorney",
+          "Real estate attorney"
+        ],
+        "address": "145 Sinnathamby Boulevard Springfield, Tower - Level 8, Springfield Central QLD 4300",
+        "phone": "+61483980001",
+        "domain": "stanfordlegal.com.au",
+        "cid": "2294114353505392424",
+        "rating": 4.9,
+        "reviews": 103,
+        "is_claimed": true
+      },
+      {
+        "rank": 7,
+        "title": "VM Family Law",
+        "category": "Family law attorney",
+        "additional_categories": [
+          "Divorce lawyer",
+          "Divorce service",
+          "Domestic Violence Service",
+          "Law firm",
+          "Solicitor",
+          "Legal services"
+        ],
+        "address": "Ground Floor, Building 7/22 Magnolia Dr, Brookwater QLD 4300",
+        "phone": "+61734478966",
+        "domain": "www.vmfamilylaw.com.au",
+        "cid": "9077549362522984101",
+        "rating": 3.7,
+        "reviews": 34,
+        "is_claimed": true
+      },
+      {
+        "rank": 8,
+        "title": "McNamara Law",
+        "category": "Legal services",
+        "additional_categories": [],
+        "address": "Level 1/6 Yoga Wy, Springfield Central QLD 4300",
+        "phone": "+61734703600",
+        "domain": "mcna.com.au",
+        "cid": "11479409405658452987",
+        "rating": 4.7,
+        "reviews": 152,
+        "is_claimed": true
+      },
+      {
+        "rank": 9,
+        "title": "Nurture Law | Wills and Estate Lawyers",
+        "category": "Solicitor",
+        "additional_categories": [
+          "Service establishment",
+          "Law firm",
+          "Legal services"
+        ],
+        "address": null,
+        "phone": "+61731745730",
+        "domain": "nurturelaw.com.au",
+        "cid": "4604045798288224212",
+        "rating": null,
+        "reviews": 0,
+        "is_claimed": true
+      },
+      {
+        "rank": 10,
+        "title": "Nurture Law - Wills and Estate Lawyers",
+        "category": "Estate planning attorney",
+        "additional_categories": [
+          "Law firm",
+          "Legal services"
+        ],
+        "address": "4/3 The Esplanade, Forest Lake QLD 4078",
+        "phone": "+61731745730",
+        "domain": "nurturelaw.com.au",
+        "cid": "2958308887971835960",
+        "rating": 5,
+        "reviews": 17,
+        "is_claimed": true
+      },
+      {
+        "rank": 11,
+        "title": "Lake Law",
+        "category": "Solicitor",
+        "additional_categories": [
+          "Conveyancer",
+          "Family law attorney",
+          "Law firm",
+          "Legal services"
+        ],
+        "address": "40 Glorious Way, Forest Lake QLD 4078",
+        "phone": "+61732789559",
+        "domain": "www.lakelaw.com.au",
+        "cid": "4779595239645889575",
+        "rating": 4.7,
+        "reviews": 43,
+        "is_claimed": true
+      },
+      {
+        "rank": 12,
+        "title": "Denes Lawyers",
+        "category": "Personal injury attorney",
+        "additional_categories": [],
+        "address": "Suites 13 & 14, Level 2 Tower A/1 Springfield Lakes Blvd, Springfield Lakes QLD 4300",
+        "phone": "+61730632268",
+        "domain": "deneslawyers.com.au",
+        "cid": "3239654744052120749",
+        "rating": 4.8,
+        "reviews": 34,
+        "is_claimed": true
+      },
+      {
+        "rank": 13,
+        "title": "Lavenia Law (Lana Carter)",
+        "category": "Estate planning attorney",
+        "additional_categories": [
+          "Service establishment",
+          "Law firm"
+        ],
+        "address": null,
+        "phone": null,
+        "domain": "www.lavenialaw.com.au",
+        "cid": "10952421035760390523",
+        "rating": 5,
+        "reviews": 9,
+        "is_claimed": true
+      },
+      {
+        "rank": 14,
+        "title": "Trilby Misso Lawyers",
+        "category": "Legal services",
+        "additional_categories": [],
+        "address": "Suite 1.38, Level 1 Orion Springfield Centre, 1 Main St, Springfield QLD 4300",
+        "phone": "+611300731582",
+        "domain": "trilbymissolawyers.com.au",
+        "cid": "11161409240397208407",
+        "rating": 4.9,
+        "reviews": 46,
+        "is_claimed": true
+      },
+      {
+        "rank": 15,
+        "title": "Springfield Lawyers",
+        "category": "Law firm",
+        "additional_categories": [],
+        "address": "Ste 100 5/22 Magnolia Dr, Brookwater QLD 4300",
+        "phone": "+61734851329",
+        "domain": "clsq.com.au",
+        "cid": "5274022257882668904",
+        "rating": 5,
+        "reviews": 2,
+        "is_claimed": true
+      },
+      {
+        "rank": 16,
+        "title": "South East Injury Lawyers | Compensation Lawyers Brookwater",
+        "category": "Personal injury attorney",
+        "additional_categories": [
+          "Law firm"
+        ],
+        "address": "Bldg 5/22 Magnolia Dr, Brookwater QLD 4300",
+        "phone": "+61738016511",
+        "domain": "southeastinjurylawyers.com.au",
+        "cid": "7092748440927652248",
+        "rating": 5,
+        "reviews": 6,
+        "is_claimed": true
+      },
+      {
+        "rank": 17,
+        "title": "PCL Lawyers Brookwater",
+        "category": "Law firm",
+        "additional_categories": [],
+        "address": "Level 5/22 Magnolia Dr, Brookwater QLD 4300",
+        "phone": "+611300794559",
+        "domain": "www.pcllawyers.com.au",
+        "cid": "871072458743240654",
+        "rating": null,
+        "reviews": 0,
+        "is_claimed": true
+      }
+    ]
+  },
+  "brisbane": {
+    "city": "Brisbane",
+    "displayLoc": "Brisbane CBD & Inner Metro",
+    "query": "family and wills estates lawyers Brisbane CBD",
+    "locationCode": 1000339,
+    "mtRank": null,
+    "mtInPack20": false,
+    "topCompetitors": [
+      {
+        "rank": 1,
+        "title": "O'Connor, Ruddy & Garrett Solicitors",
+        "category": "Law firm",
+        "additional_categories": [
+          "Elder law attorney",
+          "Estate planning attorney"
+        ],
+        "address": "2/199 George St, Brisbane City QLD 4001",
+        "phone": "+61732219722",
+        "domain": "orglaw.com.au",
+        "cid": "8835789557419141841",
+        "rating": 4.9,
+        "reviews": 85,
+        "is_claimed": true
+      },
+      {
+        "rank": 2,
+        "title": "The Estate Lawyers",
+        "category": "Law firm",
+        "additional_categories": [
+          "Solicitor",
+          "Legal services"
+        ],
+        "address": "22/69 Ann St, Brisbane City QLD 4000",
+        "phone": "+61732292215",
+        "domain": "theestatelawyers.com.au",
+        "cid": "4653216533028382819",
+        "rating": 4.9,
+        "reviews": 88,
+        "is_claimed": true
+      },
+      {
+        "rank": 3,
+        "title": "de Groots wills & estate lawyers Brisbane",
+        "category": "Legal services",
+        "additional_categories": [
+          "Estate planning attorney",
+          "Law firm"
+        ],
+        "address": "River Quarter, Level 6/46 Edward St, Brisbane City QLD 4000",
+        "phone": "+61732219744",
+        "domain": "www.degroots.com.au",
+        "cid": "3843169278890086234",
+        "rating": 4.6,
+        "reviews": 28,
+        "is_claimed": true
+      },
+      {
+        "rank": 4,
+        "title": "QLD Estate Lawyers",
+        "category": "Estate planning attorney",
+        "additional_categories": [
+          "Elder law attorney",
+          "Law firm",
+          "Legal services"
+        ],
+        "address": "level 18/150 Charlotte St, Brisbane City QLD 4000",
+        "phone": "+611300580413",
+        "domain": "qldestatelawyers.com.au",
+        "cid": "7872290523399534021",
+        "rating": 4.3,
+        "reviews": 19,
+        "is_claimed": true
+      },
+      {
+        "rank": 5,
+        "title": "YHC Lawyers",
+        "category": "Law firm",
+        "additional_categories": [],
+        "address": "Level 15/100 Edward St, Brisbane City QLD 4000",
+        "phone": "+61731603300",
+        "domain": "www.yhclawyers.com.au",
+        "cid": "13354133889894345264",
+        "rating": 5,
+        "reviews": 97,
+        "is_claimed": true
+      },
+      {
+        "rank": 6,
+        "title": "Kate Redman & Associates",
+        "category": "Legal services",
+        "additional_categories": [],
+        "address": "Level 10/95 N Quay, Brisbane City QLD 4000",
+        "phone": "+61731800114",
+        "domain": "www.kateredman.com.au",
+        "cid": "11286914601945170153",
+        "rating": 4.9,
+        "reviews": 93,
+        "is_claimed": true
+      },
+      {
+        "rank": 7,
+        "title": "McCarthy Durie Lawyers",
+        "category": "Legal services",
+        "additional_categories": [
+          "Criminal justice attorney",
+          "Divorce lawyer",
+          "Employment attorney",
+          "Estate litigation attorney",
+          "Estate planning attorney",
+          "Family law attorney",
+          "Solicitor"
+        ],
+        "address": "Level 7/239 George St, Brisbane City QLD 4000",
+        "phone": "+61733705100",
+        "domain": "www.mdl.com.au",
+        "cid": "15897812526619122970",
+        "rating": 4.4,
+        "reviews": 41,
+        "is_claimed": true
+      },
+      {
+        "rank": 8,
+        "title": "Wills Estates Probate Lawyers",
+        "category": "Law firm",
+        "additional_categories": [
+          "Estate planning attorney",
+          "Solicitor"
+        ],
+        "address": "level 8/241 Adelaide St, Brisbane City QLD 4000",
+        "phone": "+61730354077",
+        "domain": "willsestatesprobatelawyers.com.au",
+        "cid": "5698554332578738367",
+        "rating": 5,
+        "reviews": 1,
+        "is_claimed": true
+      },
+      {
+        "rank": 9,
+        "title": "Contested Will and Estate Lawyers",
+        "category": "Law firm",
+        "additional_categories": [],
+        "address": "Level 14/239 George St, Brisbane City QLD 4000",
+        "phone": "+61735445900",
+        "domain": "www.cwelawyers.com.au",
+        "cid": "13574660870752283592",
+        "rating": 5,
+        "reviews": 7,
+        "is_claimed": true
+      },
+      {
+        "rank": 10,
+        "title": "Honest Grace Legal",
+        "category": "Legal services",
+        "additional_categories": [],
+        "address": "Level 10/144 Edward St, Brisbane City QLD 4000",
+        "phone": "+61731300188",
+        "domain": "honestgracelegal.com.au",
+        "cid": "8933031194917383364",
+        "rating": 5,
+        "reviews": 82,
+        "is_claimed": true
+      },
+      {
+        "rank": 11,
+        "title": "Baystone Legal",
+        "category": "Law firm",
+        "additional_categories": [],
+        "address": "17/144 Edward St, Brisbane City QLD 4000",
+        "phone": "+61731039882",
+        "domain": "baystonelegal.com",
+        "cid": "9310019828504864645",
+        "rating": 5,
+        "reviews": 123,
+        "is_claimed": true
+      },
+      {
+        "rank": 12,
+        "title": "Cudmore Legal | Family Lawyers Brisbane",
+        "category": "Family law attorney",
+        "additional_categories": [
+          "Divorce lawyer",
+          "Legal services"
+        ],
+        "address": "6/239 George St, Brisbane City QLD 4000",
+        "phone": "+61731843637",
+        "domain": "www.cudmorelegal.com.au",
+        "cid": "3880275358862259054",
+        "rating": 4.8,
+        "reviews": 128,
+        "is_claimed": true
+      },
+      {
+        "rank": 13,
+        "title": "Hillhouse Legal Partners",
+        "category": "Law firm",
+        "additional_categories": [
+          "Solicitor"
+        ],
+        "address": "7/102 Adelaide St, Brisbane City QLD 4000",
+        "phone": "+61732201144",
+        "domain": "www.hillhouse.com.au",
+        "cid": "12749395763072897687",
+        "rating": 4.6,
+        "reviews": 73,
+        "is_claimed": true
+      },
+      {
+        "rank": 14,
+        "title": "ROC Legal – Will Dispute Lawyers Brisbane",
+        "category": "Estate litigation attorney",
+        "additional_categories": [
+          "Law firm"
+        ],
+        "address": "Level 4/260 Queen St, Brisbane City QLD 4000",
+        "phone": "+611300196219",
+        "domain": "roclegal.com.au",
+        "cid": "9900064373194447592",
+        "rating": 5,
+        "reviews": 12,
+        "is_claimed": true
+      },
+      {
+        "rank": 15,
+        "title": "Phillips Family Law",
+        "category": "Family law attorney",
+        "additional_categories": [
+          "Divorce lawyer",
+          "Law firm"
+        ],
+        "address": "145 Ann St, Brisbane City QLD 4000",
+        "phone": "+61730079898",
+        "domain": "www.phillipsfamilylaw.com.au",
+        "cid": "1701331094388052402",
+        "rating": 5,
+        "reviews": 33,
+        "is_claimed": true
+      },
+      {
+        "rank": 16,
+        "title": "DBL Solicitors",
+        "category": "Law firm",
+        "additional_categories": [
+          "Conveyancer",
+          "Divorce lawyer",
+          "Elder law attorney",
+          "Estate planning attorney",
+          "Family law attorney",
+          "General practice attorney",
+          "Solicitor",
+          "Legal services",
+          "Real estate attorney"
+        ],
+        "address": "Level 12/145 Eagle St, Brisbane City QLD 4000",
+        "phone": "+61732255600",
+        "domain": "dbl.com.au",
+        "cid": "10145393123371258322",
+        "rating": 4.9,
+        "reviews": 37,
+        "is_claimed": true
+      },
+      {
+        "rank": 17,
+        "title": "Nurture Law",
+        "category": "Estate planning attorney",
+        "additional_categories": [
+          "Legal services"
+        ],
+        "address": "Level 18/333 Ann St, Brisbane City QLD 4000",
+        "phone": "+61731745730",
+        "domain": "nurturelaw.com.au",
+        "cid": "17070056064866297524",
+        "rating": 4.9,
+        "reviews": 51,
+        "is_claimed": true
+      },
+      {
+        "rank": 18,
+        "title": "Generations Law",
+        "category": "Probate attorney",
+        "additional_categories": [
+          "Elder law attorney",
+          "Estate litigation attorney",
+          "Estate planning attorney",
+          "General practice attorney",
+          "Law firm",
+          "Solicitor",
+          "Legal services"
+        ],
+        "address": "Santos Place, Level 27/32 Turbot St, Brisbane City QLD 4000",
+        "phone": "+61735350609",
+        "domain": "generationslaw.com.au",
+        "cid": "5577611082190671171",
+        "rating": 5,
+        "reviews": 41,
+        "is_claimed": true
+      },
+      {
+        "rank": 19,
+        "title": "Kilmartin Law Group",
+        "category": "Law firm",
+        "additional_categories": [],
+        "address": "Level 11/239 George St, Brisbane City QLD 4000",
+        "phone": "+61731815517",
+        "domain": "www.kilmartinlawgroup.com.au",
+        "cid": "9629659525490419738",
+        "rating": 5,
+        "reviews": 37,
+        "is_claimed": true
+      },
+      {
+        "rank": 20,
+        "title": "G.O.A.T Legal",
+        "category": "Law firm",
+        "additional_categories": [],
+        "address": "Level 11/133 Mary St, Brisbane City QLD 4000",
+        "phone": "+61737394511",
+        "domain": "goatlegal.com.au",
+        "cid": "8651799135581027207",
+        "rating": 5,
+        "reviews": 156,
+        "is_claimed": true
+      }
+    ]
+  },
+  "brisbane_west": {
+    "city": "Brisbane Western Suburbs (Indooroopilly & Centenary)",
+    "displayLoc": "Brisbane West (Indooroopilly & Centenary)",
+    "query": "family and wills estates lawyers Indooroopilly Kenmore Brisbane West",
+    "locationCode": 9192539,
+    "mtRank": null,
+    "mtInPack20": false,
+    "topCompetitors": [
+      {
+        "rank": 1,
+        "title": "James Black Family Law Mediation Arbitration",
+        "category": "Family law attorney",
+        "additional_categories": [],
+        "address": "Ste 1E/49 Station Rd, Indooroopilly QLD 4068",
+        "phone": "+61405305500",
+        "domain": "www.jbflma.com.au",
+        "cid": "940490901561479055",
+        "rating": 4.8,
+        "reviews": 94,
+        "is_claimed": true
+      },
+      {
+        "rank": 2,
+        "title": "Estate First Lawyers",
+        "category": "Estate planning attorney",
+        "additional_categories": [
+          "Law firm",
+          "Legal services",
+          "Probate attorney"
+        ],
+        "address": "Level 4/9 Sherwood Rd, Toowong QLD 4066",
+        "phone": "+611300132567",
+        "domain": "estatefirst.com.au",
+        "cid": "2467846669848754324",
+        "rating": 5,
+        "reviews": 87,
+        "is_claimed": true
+      },
+      {
+        "rank": 3,
+        "title": "Hogan Stanton Lawyers",
+        "category": "Law firm",
+        "additional_categories": [
+          "Conveyancer",
+          "Divorce lawyer",
+          "Service establishment",
+          "Estate planning attorney",
+          "Family law attorney",
+          "Legal services",
+          "Personal injury attorney",
+          "Real estate attorney"
+        ],
+        "address": null,
+        "phone": "+61732781888",
+        "domain": "hoganstanton.com.au",
+        "cid": "12844368187210117476",
+        "rating": 4.9,
+        "reviews": 47,
+        "is_claimed": true
+      },
+      {
+        "rank": 4,
+        "title": "Direct Lawyers Wills and Estates",
+        "category": "Estate planning attorney",
+        "additional_categories": [
+          "Elder law attorney",
+          "Estate litigation attorney",
+          "Law firm",
+          "Solicitor",
+          "Probate attorney",
+          "Real estate attorney"
+        ],
+        "address": "The Greenhouse, West Village, Level 4/97 Boundary St, West End QLD 4101",
+        "phone": "+61737031888",
+        "domain": "www.directlawyers.com.au",
+        "cid": "8893670162717993604",
+        "rating": 4.9,
+        "reviews": 83,
+        "is_claimed": true
+      },
+      {
+        "rank": 5,
+        "title": "Will and Estate Lawyers Australia",
+        "category": "Estate litigation attorney",
+        "additional_categories": [
+          "Estate planning attorney",
+          "Law firm",
+          "Solicitor"
+        ],
+        "address": "Level 1/16 McDougall St, Milton QLD 4064",
+        "phone": "+61730732405",
+        "domain": "willandestatelawyers.com.au",
+        "cid": "7136446609335140345",
+        "rating": 5,
+        "reviews": 132,
+        "is_claimed": true
+      },
+      {
+        "rank": 6,
+        "title": "Hensen Maxwell Solicitors",
+        "category": "Solicitor",
+        "additional_categories": [],
+        "address": "YG Riverside Village, Level 1/26 Queens Wy, Yeerongpilly QLD 4105",
+        "phone": "+61738924329",
+        "domain": "www.hensenmaxwell.com.au",
+        "cid": "14455121061954100754",
+        "rating": 4.6,
+        "reviews": 20,
+        "is_claimed": true
+      },
+      {
+        "rank": 7,
+        "title": "CK Family Lawyers",
+        "category": "Family law attorney",
+        "additional_categories": [
+          "Civil law attorney",
+          "Solicitor",
+          "Trial attorney"
+        ],
+        "address": "4/667 Sherwood Rd, Sherwood QLD 4075",
+        "phone": "+61423776288",
+        "domain": "www.ckfamilylawyers.com.au",
+        "cid": "6338715282053507970",
+        "rating": 4.5,
+        "reviews": 45,
+        "is_claimed": true
+      },
+      {
+        "rank": 8,
+        "title": "The Estate Lawyers",
+        "category": "Law firm",
+        "additional_categories": [
+          "Solicitor",
+          "Legal services"
+        ],
+        "address": "22/69 Ann St, Brisbane City QLD 4000",
+        "phone": "+61732292215",
+        "domain": "theestatelawyers.com.au",
+        "cid": "4653216533028382819",
+        "rating": 4.9,
+        "reviews": 88,
+        "is_claimed": true
+      },
+      {
+        "rank": 9,
+        "title": "QLD Estate Lawyers",
+        "category": "Estate planning attorney",
+        "additional_categories": [
+          "Elder law attorney",
+          "Law firm",
+          "Legal services"
+        ],
+        "address": "level 18/150 Charlotte St, Brisbane City QLD 4000",
+        "phone": "+611300580413",
+        "domain": "qldestatelawyers.com.au",
+        "cid": "7872290523399534021",
+        "rating": 4.3,
+        "reviews": 19,
+        "is_claimed": true
+      },
+      {
+        "rank": 10,
+        "title": "Jindalee Lawyers",
+        "category": "Law firm",
+        "additional_categories": [
+          "Conveyancer",
+          "Criminal justice attorney",
+          "Estate litigation attorney",
+          "Estate planning attorney",
+          "Family law attorney",
+          "Immigration attorney",
+          "Personal injury attorney"
+        ],
+        "address": "Shop 17B, Allsport Shopping Village, 235 Sinnamon Rd, Jindalee QLD 4074",
+        "phone": "+61737063323",
+        "domain": "jindaleelaw.com.au",
+        "cid": "14482959692426229020",
+        "rating": 4.9,
+        "reviews": 65,
+        "is_claimed": true
+      },
+      {
+        "rank": 11,
+        "title": "Lockett McCullough Lawyers",
+        "category": "Solicitor",
+        "additional_categories": [
+          "Conveyancer",
+          "Criminal justice attorney",
+          "Divorce lawyer",
+          "Estate planning attorney",
+          "Family law attorney",
+          "Insurance attorney",
+          "Law firm",
+          "Personal injury attorney",
+          "Real estate attorney"
+        ],
+        "address": "2 Bayliss St, Toowong QLD 4066",
+        "phone": "+61738708244",
+        "domain": "lockettmccullough.com.au",
+        "cid": "8768532655583746460",
+        "rating": 4.4,
+        "reviews": 114,
+        "is_claimed": true
+      },
+      {
+        "rank": 12,
+        "title": "QLD Wills Dispute & Estate Administration Lawyers - Woolloongabba",
+        "category": "Estate planning attorney",
+        "additional_categories": [
+          "Elder law attorney",
+          "Law firm",
+          "Legal services"
+        ],
+        "address": "1/250 Ipswich Rd, Woolloongabba QLD 4102",
+        "phone": "+611300580413",
+        "domain": "qldestatelawyers.com.au",
+        "cid": "5725876246323705110",
+        "rating": 5,
+        "reviews": 1,
+        "is_claimed": true
+      },
+      {
+        "rank": 13,
+        "title": "Australian Law Group",
+        "category": "Legal services",
+        "additional_categories": [
+          "Conveyancer",
+          "Elder law attorney",
+          "Employment attorney",
+          "Estate planning attorney",
+          "Family law attorney",
+          "Insurance attorney",
+          "Law firm",
+          "Solicitor",
+          "Personal injury attorney"
+        ],
+        "address": "Level 1/67 High St, Toowong QLD 4066",
+        "phone": "+61733712666",
+        "domain": "australianlawgroup.com.au",
+        "cid": "1672747021328995641",
+        "rating": 4.7,
+        "reviews": 49,
+        "is_claimed": true
+      },
+      {
+        "rank": 14,
+        "title": "O'Connor, Ruddy & Garrett Solicitors",
+        "category": "Law firm",
+        "additional_categories": [
+          "Elder law attorney",
+          "Estate planning attorney"
+        ],
+        "address": "2/199 George St, Brisbane City QLD 4001",
+        "phone": "+61732219722",
+        "domain": "orglaw.com.au",
+        "cid": "8835789557419141841",
+        "rating": 4.9,
+        "reviews": 85,
+        "is_claimed": true
+      },
+      {
+        "rank": 15,
+        "title": "Sharma Lawyers",
+        "category": "Legal services",
+        "additional_categories": [],
+        "address": "18 Connors St, Graceville QLD 4075",
+        "phone": "+61733793699",
+        "domain": "www.legalaid.qld.gov.au",
+        "cid": "11488137614855836521",
+        "rating": 4.3,
+        "reviews": 39,
+        "is_claimed": true
+      },
+      {
+        "rank": 16,
+        "title": "Tummarello Law",
+        "category": "Legal services",
+        "additional_categories": [],
+        "address": "Corporate House, Level 2/87 Ipswich Rd, Woolloongabba QLD 4102",
+        "phone": "+61734970658",
+        "domain": "tummarellolaw.com.au",
+        "cid": "8568468522313579587",
+        "rating": 5,
+        "reviews": 16,
+        "is_claimed": true
+      },
+      {
+        "rank": 17,
+        "title": "Kalyans Lawyers",
+        "category": "Solicitor",
+        "additional_categories": [
+          "Conveyancer",
+          "Law firm",
+          "Legal services",
+          "Real estate attorney"
+        ],
+        "address": "TOOWONG TERRACES, 19/31 Sherwood Rd, Toowong QLD 4066",
+        "phone": "+61738710043",
+        "domain": "www.kalyans.com.au",
+        "cid": "16735161421635450369",
+        "rating": 4.9,
+        "reviews": 129,
+        "is_claimed": true
+      },
+      {
+        "rank": 18,
+        "title": "de Groots wills & estate lawyers Brisbane",
+        "category": "Legal services",
+        "additional_categories": [
+          "Estate planning attorney",
+          "Law firm"
+        ],
+        "address": "River Quarter, Level 6/46 Edward St, Brisbane City QLD 4000",
+        "phone": "+61732219744",
+        "domain": "www.degroots.com.au",
+        "cid": "3843169278890086234",
+        "rating": 4.6,
+        "reviews": 28,
+        "is_claimed": true
+      },
+      {
+        "rank": 19,
+        "title": "Mitchells Solicitors",
+        "category": "Legal services",
+        "additional_categories": [
+          "Estate planning attorney",
+          "Real estate attorney"
+        ],
+        "address": "1/147 Beaudesert Rd, Moorooka QLD 4105",
+        "phone": "+61733733633",
+        "domain": "www.mitchellsol.com.au",
+        "cid": "7061497743148258537",
+        "rating": 4.3,
+        "reviews": 28,
+        "is_claimed": true
+      },
+      {
+        "rank": 20,
+        "title": "Access Solicitors",
+        "category": "Solicitor",
+        "additional_categories": [
+          "Conveyancer",
+          "Estate planning attorney",
+          "Family law attorney",
+          "Law firm"
+        ],
+        "address": "Unit 3/667 Sherwood Rd, Sherwood QLD 4075",
+        "phone": "+61732781388",
+        "domain": "www.accesssolicitors.com.au",
+        "cid": "14617995301267098910",
+        "rating": 3.6,
+        "reviews": 17,
+        "is_claimed": true
+      }
+    ]
+  },
+  "brisbane_south": {
+    "city": "Brisbane Southside (Mount Gravatt & Sunnybank)",
+    "displayLoc": "Brisbane South (Mt Gravatt & Sunnybank)",
+    "query": "family and wills estates lawyers Mount Gravatt Sunnybank Brisbane South",
+    "locationCode": 9060851,
+    "mtRank": null,
+    "mtInPack20": false,
+    "topCompetitors": [
+      {
+        "rank": 1,
+        "title": "Times Lawyers (Sunnybank Office)",
+        "category": "Law firm",
+        "additional_categories": [
+          "Conveyancer",
+          "Estate planning attorney",
+          "Family law attorney",
+          "Immigration attorney",
+          "Solicitor",
+          "Legal services"
+        ],
+        "address": "Ste 110, level 1/250 McCullough St, Sunnybank QLD 4109",
+        "phone": "+61733442888",
+        "domain": "www.timeslawyers.com.au",
+        "cid": "2324668156597297197",
+        "rating": 4.8,
+        "reviews": 124,
+        "is_claimed": true
+      },
+      {
+        "rank": 2,
+        "title": "Elliott & Harvey Lawyers",
+        "category": "Legal services",
+        "additional_categories": [],
+        "address": "1953 Logan Rd, Upper Mount Gravatt QLD 4122",
+        "phone": "+61733432666",
+        "domain": "www.ehlaw.com.au",
+        "cid": "9334228914982428310",
+        "rating": 4.9,
+        "reviews": 78,
+        "is_claimed": false
+      },
+      {
+        "rank": 3,
+        "title": "Denovo Lawyers",
+        "category": "Solicitor",
+        "additional_categories": [],
+        "address": "3 Cranfield St, Sunnybank Hills QLD 4109",
+        "phone": "+61733447247",
+        "domain": "www.denovolawyers.com",
+        "cid": "15330964525025770962",
+        "rating": 5,
+        "reviews": 111,
+        "is_claimed": true
+      },
+      {
+        "rank": 4,
+        "title": "Bennett Carroll Solicitors",
+        "category": "Legal services",
+        "additional_categories": [
+          "Administrative attorney",
+          "Business attorney",
+          "Civil law attorney",
+          "Conveyancer",
+          "Estate litigation attorney",
+          "Family law attorney",
+          "Law firm",
+          "Solicitor"
+        ],
+        "address": "2/33 Sanders St, Upper Mount Gravatt QLD 4122",
+        "phone": "+611300334566",
+        "domain": "www.bcglaw.com.au",
+        "cid": "5060543118513781204",
+        "rating": 4.7,
+        "reviews": 62,
+        "is_claimed": true
+      },
+      {
+        "rank": 5,
+        "title": "Linklaw Solicitors",
+        "category": "Law firm",
+        "additional_categories": [
+          "Conveyancer",
+          "Family law attorney",
+          "General practice attorney",
+          "Solicitor",
+          "Legal services",
+          "Real estate attorney"
+        ],
+        "address": "3/2000 Logan Rd, Upper Mount Gravatt QLD 4122",
+        "phone": "+61735328976",
+        "domain": "www.thelinklaw.com",
+        "cid": "18291559406844747036",
+        "rating": 4.9,
+        "reviews": 50,
+        "is_claimed": true
+      },
+      {
+        "rank": 6,
+        "title": "Wu & Co Lawyers",
+        "category": "Legal services",
+        "additional_categories": [],
+        "address": "17 Mount Gravatt Capalaba Rd, Upper Mount Gravatt QLD 4122",
+        "phone": "+61735570868",
+        "domain": "wuandcolawyers.com.au",
+        "cid": "283680254654982459",
+        "rating": 5,
+        "reviews": 251,
+        "is_claimed": true
+      },
+      {
+        "rank": 7,
+        "title": "J.W. Lawyers",
+        "category": "Conveyancer",
+        "additional_categories": [
+          "Estate planning attorney",
+          "Solicitor",
+          "Legal services",
+          "Real estate attorney"
+        ],
+        "address": "2248 Logan Rd, Upper Mount Gravatt QLD 4122",
+        "phone": "+611300813338",
+        "domain": "www.jwlawyers.com.au",
+        "cid": "14395149764841272252",
+        "rating": 4.8,
+        "reviews": 164,
+        "is_claimed": true
+      },
+      {
+        "rank": 8,
+        "title": "Campbells Legal Services",
+        "category": "Law firm",
+        "additional_categories": [
+          "Conveyancer",
+          "Estate planning attorney",
+          "Family law attorney",
+          "Solicitor",
+          "Personal injury attorney",
+          "Real estate attorney"
+        ],
+        "address": "6b/46 Mount Gravatt Capalaba Rd, Upper Mount Gravatt QLD 4122",
+        "phone": "+61738493066",
+        "domain": "campbellslegal.com.au",
+        "cid": "5962732676577724581",
+        "rating": 4.8,
+        "reviews": 36,
+        "is_claimed": true
+      },
+      {
+        "rank": 9,
+        "title": "Ian W Bartels & Associates Solicitors",
+        "category": "Law firm",
+        "additional_categories": [],
+        "address": "1408 Logan Rd, Mount Gravatt QLD 4122",
+        "phone": "+61738498000",
+        "domain": "ianbartels.com.au",
+        "cid": "10386619814003417695",
+        "rating": 4.7,
+        "reviews": 71,
+        "is_claimed": true
+      },
+      {
+        "rank": 10,
+        "title": "Hall & Co Solicitors",
+        "category": "Law firm",
+        "additional_categories": [
+          "Conveyancer",
+          "Criminal justice attorney",
+          "Family law attorney",
+          "Personal injury attorney"
+        ],
+        "address": "1644 Logan Rd, Mount Gravatt QLD 4122",
+        "phone": "+61732193830",
+        "domain": "www.hallsolicitors.com.au",
+        "cid": "16063838428244479067",
+        "rating": 4.9,
+        "reviews": 71,
+        "is_claimed": true
+      },
+      {
+        "rank": 11,
+        "title": "Kanoon Law Group - Solicitors",
+        "category": "Law firm",
+        "additional_categories": [
+          "Divorce lawyer",
+          "Domestic Violence Service",
+          "Estate planning attorney",
+          "Family law attorney",
+          "Legal services",
+          "Public defender's office"
+        ],
+        "address": "4/1420 Logan Rd, Mount Gravatt QLD 4122",
+        "phone": "+61731282000",
+        "domain": "www.kanoonlawgroup.com.au",
+        "cid": "6272930432609048472",
+        "rating": 4.8,
+        "reviews": 39,
+        "is_claimed": true
+      },
+      {
+        "rank": 12,
+        "title": "Peter G Williams & Associates Solicitors & Notary",
+        "category": "Solicitor",
+        "additional_categories": [
+          "Law firm"
+        ],
+        "address": "Ownit Chambers, Shop 1/1933 Logan Rd, Upper Mount Gravatt QLD 4122",
+        "phone": "+61738498170",
+        "domain": "www.petergwilliams.com.au",
+        "cid": "16790325961054838906",
+        "rating": 4.9,
+        "reviews": 8,
+        "is_claimed": true
+      },
+      {
+        "rank": 13,
+        "title": "Wheldon & Associates",
+        "category": "Solicitor",
+        "additional_categories": [],
+        "address": "12 Zamia St, Sunnybank QLD 4118",
+        "phone": "+61733239788",
+        "domain": "www.wheldons.com",
+        "cid": "4391092094542798154",
+        "rating": 3.6,
+        "reviews": 65,
+        "is_claimed": true
+      },
+      {
+        "rank": 14,
+        "title": "Dao Solicitors",
+        "category": "Law firm",
+        "additional_categories": [
+          "Conveyancer",
+          "Estate planning attorney",
+          "Family law attorney",
+          "Real estate attorney"
+        ],
+        "address": "Goebel Building, 1644 Logan Rd, Mount Gravatt QLD 4122",
+        "phone": "+61404320208",
+        "domain": null,
+        "cid": "5879226277910298531",
+        "rating": 5,
+        "reviews": 49,
+        "is_claimed": true
+      },
+      {
+        "rank": 15,
+        "title": "Life Law Solutions | Family Lawyers Brisbane",
+        "category": "Solicitor",
+        "additional_categories": [
+          "Divorce lawyer",
+          "Divorce service",
+          "Law firm",
+          "Legal services",
+          "Mediation service"
+        ],
+        "address": "22 Carrara St, Mount Gravatt East QLD 4122",
+        "phone": "+61733439522",
+        "domain": "www.lifelaw.com.au",
+        "cid": "13137387014090751847",
+        "rating": 3.9,
+        "reviews": 32,
+        "is_claimed": true
+      },
+      {
+        "rank": 16,
+        "title": "Ebenezer Legal",
+        "category": "Legal services",
+        "additional_categories": [],
+        "address": "Unit 5/46 Mount Gravatt Capalaba Rd, Upper Mount Gravatt QLD 4122",
+        "phone": "+61733497771",
+        "domain": null,
+        "cid": "8082279546588842072",
+        "rating": 4.7,
+        "reviews": 108,
+        "is_claimed": true
+      },
+      {
+        "rank": 17,
+        "title": "Hatzis Lawyers",
+        "category": "Law firm",
+        "additional_categories": [
+          "Legal services"
+        ],
+        "address": "18 Torbey St, Sunnybank Hills QLD 4109",
+        "phone": "+61733454388",
+        "domain": "fplawyers.com.au",
+        "cid": "10586923657609503508",
+        "rating": 3.5,
+        "reviews": 13,
+        "is_claimed": true
+      },
+      {
+        "rank": 18,
+        "title": "Griffith Legal",
+        "category": "Law firm",
+        "additional_categories": [
+          "Business attorney",
+          "Conveyancer",
+          "Divorce lawyer",
+          "Family law attorney",
+          "Immigration attorney",
+          "Real estate attorney"
+        ],
+        "address": "Unit 10/2012 Logan Rd, Upper Mount Gravatt QLD 4122",
+        "phone": "+61721049010",
+        "domain": "griffithlegal.com.au",
+        "cid": "17764526745224921010",
+        "rating": 4.8,
+        "reviews": 26,
+        "is_claimed": true
+      },
+      {
+        "rank": 19,
+        "title": "Atkinson Family Lawyers",
+        "category": "Family law attorney",
+        "additional_categories": [],
+        "address": "Hexham St, Tarragindi QLD 4121",
+        "phone": "+61413777391",
+        "domain": "www.facebook.com",
+        "cid": "14728115215421323606",
+        "rating": 5,
+        "reviews": 2,
+        "is_claimed": true
+      },
+      {
+        "rank": 20,
+        "title": "Sun & Co Lawyers",
+        "category": "Law firm",
+        "additional_categories": [],
+        "address": "Shop C2A/1932 Logan Rd, Upper Mount Gravatt QLD 4122",
+        "phone": "+61731032588",
+        "domain": "www.suncolawyers.com.au",
+        "cid": "1230800139393242796",
+        "rating": 3.6,
+        "reviews": 53,
+        "is_claimed": true
+      }
+    ]
+  },
+  "brisbane_north": {
+    "city": "Brisbane Northside (Chermside & North Lakes)",
+    "displayLoc": "Brisbane North (Chermside & North Lakes)",
+    "query": "family and wills estates lawyers Chermside North Lakes Brisbane",
+    "locationCode": 9060852,
+    "mtRank": null,
+    "mtInPack20": false,
+    "topCompetitors": [
+      {
+        "rank": 1,
+        "title": "Northside Family Law Centre",
+        "category": "Solicitor",
+        "additional_categories": [
+          "Conveyancer",
+          "Divorce lawyer",
+          "Estate planning attorney",
+          "Family law attorney",
+          "Legal services"
+        ],
+        "address": "C1/1 Kingsmill St, Chermside QLD 4032",
+        "phone": "+61737331234",
+        "domain": "www.northsidefamilylaw.com.au",
+        "cid": "6584067824077845387",
+        "rating": 3.5,
+        "reviews": 10,
+        "is_claimed": true
+      },
+      {
+        "rank": 2,
+        "title": "Terry Anderssen Lawyers",
+        "category": "Law firm",
+        "additional_categories": [
+          "Conveyancer",
+          "Divorce lawyer",
+          "Estate planning attorney",
+          "Family law attorney",
+          "Legal services",
+          "Real estate attorney"
+        ],
+        "address": "16/1163 Sandgate Rd, Nundah QLD 4012",
+        "phone": "+61733504417",
+        "domain": "www.terryanderssen.com.au",
+        "cid": "11089221284512160195",
+        "rating": 4.8,
+        "reviews": 82,
+        "is_claimed": true
+      },
+      {
+        "rank": 3,
+        "title": "Barton Family Lawyers",
+        "category": "Family law attorney",
+        "additional_categories": [
+          "Divorce lawyer",
+          "Law firm",
+          "Solicitor"
+        ],
+        "address": "818 Gympie Rd, Chermside QLD 4032",
+        "phone": "+61734659332",
+        "domain": "www.bartonfamilylaw.com.au",
+        "cid": "16315570723144794299",
+        "rating": 4.9,
+        "reviews": 27,
+        "is_claimed": true
+      },
+      {
+        "rank": 4,
+        "title": "Biggs Fitzgerald Pike",
+        "category": "Solicitor",
+        "additional_categories": [],
+        "address": "Shop 2/823 Gympie Rd, Chermside QLD 4032",
+        "phone": "+61733502033",
+        "domain": "www.bfpsol.net.au",
+        "cid": "2521206951292770784",
+        "rating": 4.5,
+        "reviews": 13,
+        "is_claimed": false
+      },
+      {
+        "rank": 5,
+        "title": "Cudmore Legal",
+        "category": "Family law attorney",
+        "additional_categories": [
+          "Divorce lawyer"
+        ],
+        "address": "Suite 34, Mezzanine Level, 59, Albany Creek Rd, Aspley QLD 4034",
+        "phone": "+61731843637",
+        "domain": "www.cudmorelegal.com.au",
+        "cid": "4083348775659045011",
+        "rating": 4.8,
+        "reviews": 131,
+        "is_claimed": true
+      },
+      {
+        "rank": 6,
+        "title": "EBM Solicitors",
+        "category": "Law firm",
+        "additional_categories": [
+          "Conveyancer",
+          "Family law attorney",
+          "Legal services",
+          "Solicitor"
+        ],
+        "address": "106 Robinson Rd E, Geebung QLD 4034",
+        "phone": "+61738655844",
+        "domain": "www.ebmsolicitors.com.au",
+        "cid": "14814208351804650972",
+        "rating": 4.4,
+        "reviews": 14,
+        "is_claimed": true
+      },
+      {
+        "rank": 7,
+        "title": "Porta Lawyers",
+        "category": "Legal services",
+        "additional_categories": [
+          "Notary public"
+        ],
+        "address": "3/420 Newman Rd, Geebung QLD 4034",
+        "phone": "+61732653888",
+        "domain": "www.portalawyers.com.au",
+        "cid": "10650726459829625984",
+        "rating": 4.3,
+        "reviews": 100,
+        "is_claimed": true
+      },
+      {
+        "rank": 8,
+        "title": "Crouch & Co Solicitors / North Lakes Conveyancing",
+        "category": "Estate planning attorney",
+        "additional_categories": [
+          "Conveyancer",
+          "Elder law attorney",
+          "Family law attorney",
+          "General practice attorney",
+          "Personal injury attorney",
+          "Real estate attorney"
+        ],
+        "address": "Aspley Fountain Centre, Ste 16/1344 Gympie Rd, Aspley QLD 4034",
+        "phone": "+61732635111",
+        "domain": "crouchandco.com.au",
+        "cid": "15613016636679022192",
+        "rating": 4.2,
+        "reviews": 13,
+        "is_claimed": true
+      },
+      {
+        "rank": 9,
+        "title": "Future Family Law",
+        "category": "Legal services",
+        "additional_categories": [],
+        "address": "59 Albany Creek Rd, Aspley QLD 4034",
+        "phone": "+61731127972",
+        "domain": "futurefamilylaw.com.au",
+        "cid": "8746082119189796857",
+        "rating": 5,
+        "reviews": 2,
+        "is_claimed": true
+      },
+      {
+        "rank": 10,
+        "title": "Brisbane Property Lawyers",
+        "category": "Law firm",
+        "additional_categories": [],
+        "address": "Westfield Chermside, Level 2 WOTSO/395 Hamilton Rd, Chermside QLD 4032",
+        "phone": "+61732663843",
+        "domain": "brisbanepropertylawyers.com.au",
+        "cid": "8662169302124307311",
+        "rating": 5,
+        "reviews": 112,
+        "is_claimed": true
+      },
+      {
+        "rank": 11,
+        "title": "The Real Estate Lawyer",
+        "category": "Law firm",
+        "additional_categories": [
+          "Conveyancer",
+          "Legal services",
+          "Real estate attorney"
+        ],
+        "address": "Unit 2/139 Junction Rd, Clayfield QLD 4011",
+        "phone": "+61732626227",
+        "domain": "www.therealestatelawyer.com.au",
+        "cid": "6319696279312316346",
+        "rating": 4.9,
+        "reviews": 106,
+        "is_claimed": true
+      },
+      {
+        "rank": 12,
+        "title": "Vicca Law",
+        "category": "Law firm",
+        "additional_categories": [
+          "Estate litigation attorney",
+          "Estate planning attorney"
+        ],
+        "address": "Suite 43, Mezzanine Level, 59 Albany Creek Rd, Aspley QLD 4034",
+        "phone": "+61731849940",
+        "domain": "www.viccalaw.com.au",
+        "cid": "1605711102232040311",
+        "rating": 5,
+        "reviews": 82,
+        "is_claimed": true
+      },
+      {
+        "rank": 13,
+        "title": "Bradshaw Lawyers",
+        "category": "Law firm",
+        "additional_categories": [
+          "Estate planning attorney",
+          "Family law attorney",
+          "Legal services"
+        ],
+        "address": "Suite 30, 'Offices First, 59 Albany Creek Rd, Aspley QLD 4503",
+        "phone": "+61738861938",
+        "domain": "www.bradshawlawyers.com.au",
+        "cid": "6473800730733539984",
+        "rating": 4.6,
+        "reviews": 41,
+        "is_claimed": true
+      },
+      {
+        "rank": 14,
+        "title": "OHare Law",
+        "category": "Legal services",
+        "additional_categories": [
+          "Family law attorney",
+          "Personal injury attorney"
+        ],
+        "address": "Unit 6/82 Buckland Rd, Nundah QLD 4012",
+        "phone": "+61732668999",
+        "domain": "www.oharelaw.com.au",
+        "cid": "9182295937305619225",
+        "rating": 2.3,
+        "reviews": 3,
+        "is_claimed": true
+      },
+      {
+        "rank": 15,
+        "title": "Bennett Carroll Solicitors",
+        "category": "Law firm",
+        "additional_categories": [
+          "Conveyancer",
+          "Divorce lawyer",
+          "Elder law attorney",
+          "Employment attorney",
+          "Estate planning attorney",
+          "Family law attorney",
+          "Legal services",
+          "Solicitor",
+          "Real estate attorney"
+        ],
+        "address": "269 Stafford Rd, Stafford QLD 4053",
+        "phone": "+611300334566",
+        "domain": "www.bcglaw.com.au",
+        "cid": "2988232010440725399",
+        "rating": 4.7,
+        "reviews": 73,
+        "is_claimed": true
+      },
+      {
+        "rank": 16,
+        "title": "Shorestone Legal",
+        "category": "Family law attorney",
+        "additional_categories": [
+          "Solicitor",
+          "Legal services"
+        ],
+        "address": "34 Navigator Pl, Hendra QLD 4011",
+        "phone": "+61732664657",
+        "domain": "shorestonelegal.com.au",
+        "cid": "12295660281398010285",
+        "rating": 5,
+        "reviews": 42,
+        "is_claimed": true
+      },
+      {
+        "rank": 17,
+        "title": "Maguire Barnes Family Lawyers",
+        "category": "Family law attorney",
+        "additional_categories": [],
+        "address": "1344 Gympie Rd, Carseldine QLD 4034",
+        "phone": "+61732637400",
+        "domain": "www.maguirebarnes.com.au",
+        "cid": "17743478696434486812",
+        "rating": 4,
+        "reviews": 6,
+        "is_claimed": false
+      },
+      {
+        "rank": 18,
+        "title": "Smith & Stanton Lawyers",
+        "category": "Legal services",
+        "additional_categories": [],
+        "address": "10 Pritchard Rd, Virginia QLD 4014",
+        "phone": "+61732634244",
+        "domain": "smithstanton.com.au",
+        "cid": "7084392541591203321",
+        "rating": 4.7,
+        "reviews": 37,
+        "is_claimed": true
+      },
+      {
+        "rank": 19,
+        "title": "O'Sullivans Law Firm",
+        "category": "Legal services",
+        "additional_categories": [],
+        "address": "120 Rose St, Kalinga QLD 4030",
+        "phone": "+61738573333",
+        "domain": "www.osullivans-lawfirm.com.au",
+        "cid": "16843723109709592852",
+        "rating": 4.6,
+        "reviews": 62,
+        "is_claimed": true
+      },
+      {
+        "rank": 20,
+        "title": "CONVEYANCING COMPLETED",
+        "category": "Solicitor",
+        "additional_categories": [
+          "Family law attorney",
+          "Law firm",
+          "Lawyers association",
+          "Legal services",
+          "Real estate attorney",
+          "Real estate auctioneer"
+        ],
+        "address": "Clayfield QLD 4011",
+        "phone": "+61412485340",
+        "domain": "www.conveyancingcompleted.com.au",
+        "cid": "12572919346762540290",
+        "rating": 4.9,
+        "reviews": 32,
+        "is_claimed": true
+      }
+    ]
+  },
+  "brisbane_east": {
+    "city": "Brisbane East and Bayside (Carindale & Wynnum)",
+    "displayLoc": "Brisbane East & Bayside (Carindale & Wynnum)",
+    "query": "family and wills estates lawyers Carindale Wynnum Brisbane East",
+    "locationCode": 9194035,
+    "mtRank": null,
+    "mtInPack20": false,
+    "topCompetitors": [
+      {
+        "rank": 1,
+        "title": "Willwise",
+        "category": "Solicitor",
+        "additional_categories": [
+          "Estate planning attorney"
+        ],
+        "address": "Australia Post Bx, 1601/738 Creek Rd, Carindale QLD 4152",
+        "phone": "+61730887714",
+        "domain": "www.willwise.com.au",
+        "cid": "15857827032975012728",
+        "rating": null,
+        "reviews": 0,
+        "is_claimed": true
+      },
+      {
+        "rank": 2,
+        "title": "Fulljames Law",
+        "category": "Estate planning attorney",
+        "additional_categories": [
+          "Business attorney",
+          "Elder law attorney",
+          "Estate litigation attorney",
+          "Law firm",
+          "Probate attorney"
+        ],
+        "address": "19a/23 Breene Pl, Morningside QLD 4170",
+        "phone": "+61721124689",
+        "domain": "www.fulljameslaw.com.au",
+        "cid": "10567303841383168419",
+        "rating": 5,
+        "reviews": 97,
+        "is_claimed": true
+      },
+      {
+        "rank": 3,
+        "title": "DBL Solicitors",
+        "category": "Solicitor",
+        "additional_categories": [
+          "Conveyancer",
+          "Divorce lawyer",
+          "Elder law attorney",
+          "Estate planning attorney",
+          "Family law attorney",
+          "General practice attorney",
+          "Law firm",
+          "Legal services"
+        ],
+        "address": "622 Wynnum Rd, Morningside QLD 4170",
+        "phone": "+61738990722",
+        "domain": "www.dbl.com.au",
+        "cid": "3660882199972628596",
+        "rating": 4.8,
+        "reviews": 47,
+        "is_claimed": true
+      },
+      {
+        "rank": 4,
+        "title": "Australian Law Group Morningside",
+        "category": "Legal services",
+        "additional_categories": [
+          "Conveyancer",
+          "Divorce lawyer",
+          "Elder law attorney",
+          "Estate planning attorney",
+          "Family law attorney",
+          "General practice attorney",
+          "Solicitor",
+          "Personal injury attorney",
+          "Real estate attorney"
+        ],
+        "address": "680 Wynnum Rd, Morningside QLD 4170",
+        "phone": "+61733997500",
+        "domain": "australianlawgroup.com.au",
+        "cid": "13414715660079003946",
+        "rating": 4.7,
+        "reviews": 64,
+        "is_claimed": true
+      },
+      {
+        "rank": 5,
+        "title": "CNG LAW",
+        "category": "Law firm",
+        "additional_categories": [
+          "Legal services"
+        ],
+        "address": "576 Old Cleveland Rd, Camp Hill QLD 4152",
+        "phone": "+61733981819",
+        "domain": "www.cnglaw.com.au",
+        "cid": "17881807393101682230",
+        "rating": 3.7,
+        "reviews": 20,
+        "is_claimed": true
+      },
+      {
+        "rank": 6,
+        "title": "Smith J K",
+        "category": "Solicitor",
+        "additional_categories": [],
+        "address": "175 Morehead Ave, Norman Park QLD 4170",
+        "phone": "+61738993599",
+        "domain": null,
+        "cid": "8486860482685064032",
+        "rating": 4.9,
+        "reviews": 86,
+        "is_claimed": false
+      },
+      {
+        "rank": 7,
+        "title": "Dunn Right Legal",
+        "category": "Solicitor",
+        "additional_categories": [
+          "Service establishment"
+        ],
+        "address": null,
+        "phone": "+61730629450",
+        "domain": "www.dunnrightlegal.com.au",
+        "cid": "16323690071977041907",
+        "rating": 4.7,
+        "reviews": 25,
+        "is_claimed": true
+      },
+      {
+        "rank": 8,
+        "title": "Ian W Bartels & Associates Solicitors",
+        "category": "Law firm",
+        "additional_categories": [],
+        "address": "1408 Logan Rd, Mount Gravatt QLD 4122",
+        "phone": "+61738498000",
+        "domain": "ianbartels.com.au",
+        "cid": "10386619814003417695",
+        "rating": 4.7,
+        "reviews": 71,
+        "is_claimed": true
+      },
+      {
+        "rank": 9,
+        "title": "Franklin Family Law",
+        "category": "Family law attorney",
+        "additional_categories": [
+          "Divorce lawyer",
+          "Estate planning attorney"
+        ],
+        "address": "295 Chatsworth Rd, Coorparoo QLD 4151",
+        "phone": "+61733420393",
+        "domain": "www.franklinfamilylaw.com.au",
+        "cid": "7382305168973326842",
+        "rating": 4.6,
+        "reviews": 20,
+        "is_claimed": true
+      },
+      {
+        "rank": 10,
+        "title": "Connor Hunter Law Firm",
+        "category": "Legal services",
+        "additional_categories": [
+          "Estate planning attorney",
+          "Family law attorney",
+          "Immigration attorney",
+          "Real estate attorney"
+        ],
+        "address": "17 Middle St, Cleveland QLD 4163",
+        "phone": "+61738216288",
+        "domain": "www.connorhunter.com",
+        "cid": "2872644922286855809",
+        "rating": 4.9,
+        "reviews": 114,
+        "is_claimed": true
+      },
+      {
+        "rank": 11,
+        "title": "Harmony Legal & Associates 家和律師事務所",
+        "category": "Family law attorney",
+        "additional_categories": [
+          "Estate planning attorney"
+        ],
+        "address": "966 Logan Rd, Holland Park West QLD 4121",
+        "phone": "+61406025025",
+        "domain": "harmonylegal.com.au",
+        "cid": "6857247567085405998",
+        "rating": 4.9,
+        "reviews": 72,
+        "is_claimed": true
+      },
+      {
+        "rank": 12,
+        "title": "Freeman Lawyers",
+        "category": "Solicitor",
+        "additional_categories": [
+          "Divorce lawyer",
+          "Elder law attorney",
+          "Family law attorney",
+          "Law firm",
+          "Legal services"
+        ],
+        "address": "159 Logan Rd, Woolloongabba QLD 4102",
+        "phone": "+61733918383",
+        "domain": "www.freemanlawyers.com.au",
+        "cid": "16578813438922994150",
+        "rating": 4.8,
+        "reviews": 39,
+        "is_claimed": true
+      },
+      {
+        "rank": 13,
+        "title": "Bennett Carroll Solicitors",
+        "category": "Legal services",
+        "additional_categories": [
+          "Administrative attorney",
+          "Business attorney",
+          "Civil law attorney",
+          "Conveyancer",
+          "Estate litigation attorney",
+          "Family law attorney",
+          "Law firm",
+          "Solicitor"
+        ],
+        "address": "2/33 Sanders St, Upper Mount Gravatt QLD 4122",
+        "phone": "+611300334566",
+        "domain": "www.bcglaw.com.au",
+        "cid": "5060543118513781204",
+        "rating": 4.7,
+        "reviews": 62,
+        "is_claimed": true
+      },
+      {
+        "rank": 14,
+        "title": "SMS Law - Conveyancing Brisbane",
+        "category": "Real estate attorney",
+        "additional_categories": [
+          "Conveyancer",
+          "Estate planning attorney"
+        ],
+        "address": "138 Juliette St, Greenslopes QLD 4120",
+        "phone": "+61736678966",
+        "domain": "smslaw.com.au",
+        "cid": "14559663573960231471",
+        "rating": 4.6,
+        "reviews": 45,
+        "is_claimed": true
+      },
+      {
+        "rank": 15,
+        "title": "Sambanis Family Law",
+        "category": "Family law attorney",
+        "additional_categories": [],
+        "address": "4 Kyabra St, Newstead QLD 4006",
+        "phone": "+61731712229",
+        "domain": "www.sambanisfamilylaw.com.au",
+        "cid": "3320373834839590833",
+        "rating": 4.8,
+        "reviews": 19,
+        "is_claimed": true
+      },
+      {
+        "rank": 16,
+        "title": "Gullickson Lawyers",
+        "category": "Legal services",
+        "additional_categories": [
+          "Mediation service"
+        ],
+        "address": "71 Cleveland St, Stones Corner QLD 4120",
+        "phone": "+61733979922",
+        "domain": "www.gullicksonlawyers.com.au",
+        "cid": "15856385248830190950",
+        "rating": 5,
+        "reviews": 14,
+        "is_claimed": true
+      },
+      {
+        "rank": 17,
+        "title": "CG Legal Group",
+        "category": "Family law attorney",
+        "additional_categories": [
+          "Conveyancer",
+          "Law firm"
+        ],
+        "address": "629 Logan Rd, Greenslopes QLD 4120",
+        "phone": "+611300510132",
+        "domain": "www.cglegalgroup.com.au",
+        "cid": "735427213869677524",
+        "rating": 4.6,
+        "reviews": 66,
+        "is_claimed": true
+      },
+      {
+        "rank": 18,
+        "title": "Life Law Solutions | Family Lawyers Brisbane",
+        "category": "Solicitor",
+        "additional_categories": [
+          "Divorce lawyer",
+          "Divorce service",
+          "Law firm",
+          "Legal services",
+          "Mediation service"
+        ],
+        "address": "22 Carrara St, Mount Gravatt East QLD 4122",
+        "phone": "+61733439522",
+        "domain": "www.lifelaw.com.au",
+        "cid": "13137387014090751847",
+        "rating": 3.9,
+        "reviews": 32,
+        "is_claimed": true
+      },
+      {
+        "rank": 19,
+        "title": "J.W. Lawyers",
+        "category": "Conveyancer",
+        "additional_categories": [
+          "Estate planning attorney",
+          "Solicitor",
+          "Legal services",
+          "Real estate attorney"
+        ],
+        "address": "2248 Logan Rd, Upper Mount Gravatt QLD 4122",
+        "phone": "+611300813338",
+        "domain": "www.jwlawyers.com.au",
+        "cid": "14395149764841272252",
+        "rating": 4.8,
+        "reviews": 164,
+        "is_claimed": true
+      },
+      {
+        "rank": 20,
+        "title": "Peter Jones & Co",
+        "category": "Legal services",
+        "additional_categories": [],
+        "address": "71 Cleveland St, Greenslopes QLD 4120",
+        "phone": "+61733979922",
+        "domain": "www.peterjonesco.com.au",
+        "cid": "6837379068423976915",
+        "rating": 4.7,
+        "reviews": 27,
+        "is_claimed": true
+      }
+    ]
+  },
+  "logan": {
+    "city": "Logan and Western Corridor (Ipswich to Brisbane)",
+    "displayLoc": "Logan & Western Corridor",
+    "query": "family and wills estates lawyers Logan Springwood Ipswich Brisbane",
+    "locationCode": 9112660,
+    "mtRank": 5,
+    "mtInPack20": true,
+    "topCompetitors": [
+      {
+        "rank": 1,
+        "title": "Springwood Lawyers",
+        "category": "Divorce lawyer",
+        "additional_categories": [
+          "Elder law attorney",
+          "Family law attorney",
+          "Solicitor"
+        ],
+        "address": "Level 2/3 Dennis Rd, Springwood QLD 4127",
+        "phone": "+61732080850",
+        "domain": "www.springwoodlawyers.com.au",
+        "cid": "9446578296540107565",
+        "rating": 4.3,
+        "reviews": 57,
+        "is_claimed": true
+      },
+      {
+        "rank": 2,
+        "title": "Richard Zande & Associates",
+        "category": "Family law attorney",
+        "additional_categories": [
+          "Conveyancer",
+          "Criminal justice attorney",
+          "Estate planning attorney",
+          "Law firm",
+          "Solicitor",
+          "Legal services",
+          "Mediation service",
+          "Real estate attorney"
+        ],
+        "address": "49 Ellenborough St, Ipswich QLD 4305",
+        "phone": "+61732811633",
+        "domain": "www.richardzande.com.au",
+        "cid": "7154975560653041941",
+        "rating": 4.6,
+        "reviews": 94,
+        "is_claimed": true
+      },
+      {
+        "rank": 3,
+        "title": "Fallu McMillan Lawyers",
+        "category": "Legal services",
+        "additional_categories": [],
+        "address": "233 Brisbane St, Ipswich QLD 4305",
+        "phone": "+61732812677",
+        "domain": "www.fmlaw.com.au",
+        "cid": "16400021174251908832",
+        "rating": 4.9,
+        "reviews": 203,
+        "is_claimed": true
+      },
+      {
+        "rank": 4,
+        "title": "Ipswich Family Lawyers - Family Law Solicitors Qld",
+        "category": "Law firm",
+        "additional_categories": [],
+        "address": "44 East St, Ipswich QLD 4305",
+        "phone": "+61721110873",
+        "domain": "www.flsq.com.au",
+        "cid": "749097452279469076",
+        "rating": 5,
+        "reviews": 1,
+        "is_claimed": true
+      },
+      {
+        "rank": 5,
+        "title": "Millwater Tyrrell Law",
+        "category": "Legal services",
+        "additional_categories": [],
+        "address": "Level 1/215 Brisbane St, Ipswich QLD 4305",
+        "phone": "+61734470416",
+        "domain": "millwatertyrrell.com.au",
+        "cid": "6376809625893182443",
+        "rating": 4.8,
+        "reviews": 107,
+        "is_claimed": true
+      },
+      {
+        "rank": 6,
+        "title": "Family Lawyers & Mediation Services",
+        "category": "Family law attorney",
+        "additional_categories": [
+          "Mediation service"
+        ],
+        "address": "10 Old Chatswood Rd, Springwood QLD 4127",
+        "phone": "+61738043244",
+        "domain": "www.flms.com.au",
+        "cid": "5891402189769774781",
+        "rating": 4.8,
+        "reviews": 38,
+        "is_claimed": true
+      },
+      {
+        "rank": 7,
+        "title": "Bridges Family Law Specialists",
+        "category": "Family law attorney",
+        "additional_categories": [
+          "Conveyancer",
+          "Legal services"
+        ],
+        "address": "Highpoint Business Centre, Ste 15/3374 Pacific Hwy, Springwood QLD 4127",
+        "phone": "+61733877715",
+        "domain": "www.bridgesfamilylaw.com.au",
+        "cid": "5579005513724366509",
+        "rating": 4.7,
+        "reviews": 28,
+        "is_claimed": true
+      },
+      {
+        "rank": 8,
+        "title": "McNamara Law",
+        "category": "Law firm",
+        "additional_categories": [
+          "Divorce lawyer",
+          "Estate planning attorney",
+          "Family law attorney",
+          "Personal injury attorney"
+        ],
+        "address": "10/88 Limestone St, Ipswich QLD 4305",
+        "phone": "+61738169555",
+        "domain": "mcna.com.au",
+        "cid": "17500344748741039606",
+        "rating": 4.5,
+        "reviews": 128,
+        "is_claimed": true
+      },
+      {
+        "rank": 9,
+        "title": "Madsen Law Solicitors",
+        "category": "Family law attorney",
+        "additional_categories": [
+          "Criminal justice attorney",
+          "Divorce lawyer",
+          "Divorce service",
+          "Elder law attorney",
+          "Estate litigation attorney",
+          "Estate planning attorney",
+          "Law firm",
+          "Solicitor",
+          "Real estate attorney"
+        ],
+        "address": "3928 Pacific Hwy, Loganholme QLD 4129",
+        "phone": "+61732097744",
+        "domain": "madsenlaw.com.au",
+        "cid": "12535642187139771637",
+        "rating": 4.7,
+        "reviews": 147,
+        "is_claimed": true
+      },
+      {
+        "rank": 10,
+        "title": "Ryder Lawyers",
+        "category": "Solicitor",
+        "additional_categories": [
+          "Estate planning attorney",
+          "Family law attorney",
+          "Real estate attorney"
+        ],
+        "address": "Shop 10/23-25 Daisy Hill Rd, Daisy Hill QLD 4127",
+        "phone": "+61737091330",
+        "domain": "ryderlawyers.com.au",
+        "cid": "12688167360304568978",
+        "rating": 4.9,
+        "reviews": 42,
+        "is_claimed": true
+      },
+      {
+        "rank": 11,
+        "title": "JMR Lawyers",
+        "category": "Family law attorney",
+        "additional_categories": [
+          "Criminal justice attorney",
+          "Divorce lawyer",
+          "Divorce service",
+          "Domestic Violence Service",
+          "Estate planning attorney",
+          "Law firm",
+          "Legal services"
+        ],
+        "address": "Unit 5/1/7 Murrajong Rd, Springwood QLD 4127",
+        "phone": "+61738414309",
+        "domain": "www.jmrlawyers.com.au",
+        "cid": "1512434480692557431",
+        "rating": 4.8,
+        "reviews": 109,
+        "is_claimed": true
+      },
+      {
+        "rank": 12,
+        "title": "Lavenia Law (Lana Carter)",
+        "category": "Estate planning attorney",
+        "additional_categories": [
+          "Service establishment",
+          "Law firm",
+          "Probate attorney"
+        ],
+        "address": null,
+        "phone": null,
+        "domain": "www.lavenialaw.com.au",
+        "cid": "10952421035760390523",
+        "rating": 5,
+        "reviews": 9,
+        "is_claimed": true
+      },
+      {
+        "rank": 13,
+        "title": "Keane Legal | Ipswich",
+        "category": "Law firm",
+        "additional_categories": [
+          "Divorce lawyer",
+          "Divorce service",
+          "Employment attorney",
+          "Estate planning attorney",
+          "Family law attorney",
+          "Solicitor",
+          "Legal services"
+        ],
+        "address": "81 Chermside Rd, East Ipswich QLD 4305",
+        "phone": "+61734957339",
+        "domain": "www.keanelegal.com.au",
+        "cid": "11414864877692508401",
+        "rating": 4,
+        "reviews": 4,
+        "is_claimed": true
+      },
+      {
+        "rank": 14,
+        "title": "GLG Legal Springfield",
+        "category": "Legal services",
+        "additional_categories": [
+          "Conveyancer",
+          "Elder law attorney",
+          "Estate planning attorney",
+          "Family law attorney",
+          "Solicitor",
+          "Real estate attorney"
+        ],
+        "address": "Brookwater Office Park, Bldg 9, Level 1/22 Magnolia Dr, Brookwater QLD 4300",
+        "phone": "+61732883511",
+        "domain": "springfieldlegals.com.au",
+        "cid": "3014243658373570146",
+        "rating": 4.9,
+        "reviews": 70,
+        "is_claimed": true
+      },
+      {
+        "rank": 15,
+        "title": "McLaughlin & Associates Lawyers | Brisbane Law Firm",
+        "category": "Law firm",
+        "additional_categories": [
+          "Conveyancer",
+          "Elder law attorney",
+          "Estate planning attorney",
+          "Real estate attorney"
+        ],
+        "address": "18 Carol Ave, Springwood QLD 4127",
+        "phone": "+61738087777",
+        "domain": "www.mclaughlinlawyers.com.au",
+        "cid": "2643892050947059079",
+        "rating": 4.9,
+        "reviews": 115,
+        "is_claimed": true
+      },
+      {
+        "rank": 16,
+        "title": "Kanoon Law Group - Solicitors",
+        "category": "Law firm",
+        "additional_categories": [
+          "Divorce lawyer",
+          "Domestic Violence Service",
+          "Estate planning attorney",
+          "Family law attorney",
+          "Legal services",
+          "Public defender's office"
+        ],
+        "address": "4/1420 Logan Rd, Mount Gravatt QLD 4122",
+        "phone": "+61731282000",
+        "domain": "www.kanoonlawgroup.com.au",
+        "cid": "6272930432609048472",
+        "rating": 4.8,
+        "reviews": 39,
+        "is_claimed": true
+      },
+      {
+        "rank": 17,
+        "title": "LadyBird Wills & Estates",
+        "category": "Estate planning attorney",
+        "additional_categories": [],
+        "address": "Ste 4, Level 3/145 Sinnathamby Blvd, Springfield Central QLD 4300",
+        "phone": "+611300945570",
+        "domain": "www.ladybirdwillsandestates.com.au",
+        "cid": "14732053901966359997",
+        "rating": 5,
+        "reviews": 35,
+        "is_claimed": true
+      },
+      {
+        "rank": 18,
+        "title": "SKC Lawyers General Law Practice",
+        "category": "Solicitor",
+        "additional_categories": [],
+        "address": "Unit 14/50-56 Kellar St, Berrinba QLD 4117",
+        "phone": "+61733722232",
+        "domain": "skclawyers.com.au",
+        "cid": "14053276990552170620",
+        "rating": 4.8,
+        "reviews": 67,
+        "is_claimed": true
+      },
+      {
+        "rank": 19,
+        "title": "Direct Lawyers Wills and Estates",
+        "category": "Estate planning attorney",
+        "additional_categories": [
+          "Elder law attorney",
+          "Estate litigation attorney",
+          "Law firm",
+          "Solicitor",
+          "Probate attorney",
+          "Real estate attorney"
+        ],
+        "address": "The Greenhouse, West Village, Level 4/97 Boundary St, West End QLD 4101",
+        "phone": "+61737031888",
+        "domain": "www.directlawyers.com.au",
+        "cid": "8893670162717993604",
+        "rating": 4.9,
+        "reviews": 83,
+        "is_claimed": true
+      },
+      {
+        "rank": 20,
+        "title": "Harmony Legal & Associates 家和律師事務所",
+        "category": "Family law attorney",
+        "additional_categories": [
+          "Estate planning attorney"
+        ],
+        "address": "966 Logan Rd, Holland Park West QLD 4121",
+        "phone": "+61406025025",
+        "domain": "harmonylegal.com.au",
+        "cid": "6857247567085405998",
+        "rating": 4.9,
+        "reviews": 72,
+        "is_claimed": true
+      }
+    ]
+  },
+  "ipswich_family_maps": {
+    "query": "family lawyer Ipswich QLD",
+    "mtRank": 4,
+    "mtInPack20": true,
+    "topCompetitors": [
+      {
+        "rank": 1,
+        "title": "Fallu McMillan Lawyers",
+        "category": "Legal services",
+        "address": "233 Brisbane St, Ipswich QLD 4305",
+        "domain": "www.fmlaw.com.au",
+        "cid": "16400021174251908832",
+        "rating": 4.9,
+        "reviews": 203
+      },
+      {
+        "rank": 2,
+        "title": "Richard Zande & Associates",
+        "category": "Family law attorney",
+        "address": "49 Ellenborough St, Ipswich QLD 4305",
+        "domain": "www.richardzande.com.au",
+        "cid": "7154975560653041941",
+        "rating": 4.6,
+        "reviews": 94
+      },
+      {
+        "rank": 3,
+        "title": "Ipswich Family Lawyers - Family Law Solicitors Qld",
+        "category": "Law firm",
+        "address": "44 East St, Ipswich QLD 4305",
+        "domain": "www.flsq.com.au",
+        "cid": "749097452279469076",
+        "rating": 5,
+        "reviews": 1
+      },
+      {
+        "rank": 4,
+        "title": "Millwater Tyrrell Law",
+        "category": "Legal services",
+        "address": "Level 1/215 Brisbane St, Ipswich QLD 4305",
+        "domain": "millwatertyrrell.com.au",
+        "cid": "6376809625893182443",
+        "rating": 4.8,
+        "reviews": 107
+      },
+      {
+        "rank": 5,
+        "title": "McNamara Law",
+        "category": "Family law attorney",
+        "address": "10/88 Limestone St, Ipswich QLD 4305",
+        "domain": "mcna.com.au",
+        "cid": "17500344748741039606",
+        "rating": 4.5,
+        "reviews": 128
+      },
+      {
+        "rank": 6,
+        "title": "Winstone Brown Legal",
+        "category": "Family law attorney",
+        "address": "Corner of East &, 1 Churchill St, Ipswich QLD 4305",
+        "domain": "www.wblegal.au",
+        "cid": "760110050431180011",
+        "rating": 4.8,
+        "reviews": 103
+      },
+      {
+        "rank": 7,
+        "title": "Walker Pender Lawyers",
+        "category": "Family law attorney",
+        "address": "28 Nicholas St, Ipswich QLD 4305",
+        "domain": "www.walkerpender.com.au",
+        "cid": "5066631299087419671",
+        "rating": 4.8,
+        "reviews": 218
+      },
+      {
+        "rank": 8,
+        "title": "Rose Jensen Kent Lawyers",
+        "category": "Law firm",
+        "address": "Shop 1/160 Brisbane St, Ipswich QLD 4305",
+        "domain": "rjklaw.com.au",
+        "cid": "15150364878879440751",
+        "rating": 4.9,
+        "reviews": 61
+      },
+      {
+        "rank": 9,
+        "title": "Best Wilson Buckley Family Law",
+        "category": "Family law attorney",
+        "address": "205 Brisbane St, Ipswich QLD 4305",
+        "domain": "bwbfamilylaw.com.au",
+        "cid": "13190487111788308597",
+        "rating": 4.5,
+        "reviews": 21
+      },
+      {
+        "rank": 10,
+        "title": "Banditt & Blaine Lawyers",
+        "category": "Law firm",
+        "address": "60 South St, Ipswich QLD 4305",
+        "domain": "bandittblaine.com.au",
+        "cid": "13305328558272339621",
+        "rating": 4.9,
+        "reviews": 61
+      },
+      {
+        "rank": 11,
+        "title": "M.A. Kent & Associates",
+        "category": "Legal services",
+        "address": "47 Ellenborough St, Ipswich QLD 4305",
+        "domain": "makent.com.au",
+        "cid": "6568423527213733102",
+        "rating": 4.3,
+        "reviews": 104
+      },
+      {
+        "rank": 12,
+        "title": "DB Lawyers",
+        "category": "Solicitor",
+        "address": "Level 3/16 East St, Ipswich QLD 4305",
+        "domain": "www.dblawyers.com.au",
+        "cid": "16493039780220873336",
+        "rating": 4.5,
+        "reviews": 13
+      },
+      {
+        "rank": 13,
+        "title": "Power Legal",
+        "category": "Law firm",
+        "address": "23 Gordon St, Ipswich QLD 4305",
+        "domain": "www.powerlegal.com.au",
+        "cid": "16687542657236589190",
+        "rating": 4.3,
+        "reviews": 26
+      },
+      {
+        "rank": 14,
+        "title": "Criminal Law Solicitors Qld - Ipswich",
+        "category": "Law firm",
+        "address": "Shop 3/44 East St, Ipswich QLD 4305",
+        "domain": "clsq.com.au",
+        "cid": "13191454732973475997",
+        "rating": 5,
+        "reviews": 13
+      },
+      {
+        "rank": 15,
+        "title": "Relate Legal",
+        "category": "Solicitor",
+        "address": "Suite 4, Level 5/16 East St, Ipswich QLD 4305",
+        "domain": "www.relatelegal.com.au",
+        "cid": "9708046192067808786",
+        "rating": 4.2,
+        "reviews": 5
+      },
+      {
+        "rank": 16,
+        "title": "JamesKLegal",
+        "category": "Solicitor",
+        "address": "8 Mortimer St, Ipswich QLD 4305",
+        "domain": "www.jamesklegal.com.au",
+        "cid": "6056456452839061327",
+        "rating": 4.8,
+        "reviews": 5
+      },
+      {
+        "rank": 17,
+        "title": "Legal Aid Queensland - Ipswich",
+        "category": "Legal services",
+        "address": "Level 7/117 Brisbane St, Ipswich QLD 4305",
+        "domain": "www.legalaid.qld.gov.au",
+        "cid": "6027464767788731440",
+        "rating": 4,
+        "reviews": 90
+      },
+      {
+        "rank": 18,
+        "title": "Sibley Lawyers",
+        "category": "Criminal justice attorney",
+        "address": "Level 3/16 East St, Ipswich QLD 4305",
+        "domain": "sibleylawyers.com.au",
+        "cid": "2311535563457369742",
+        "rating": 5,
+        "reviews": 13
+      },
+      {
+        "rank": 19,
+        "title": "Bouchier Khan Lawyers Ipswich",
+        "category": "Criminal justice attorney",
+        "address": "55 Ellenborough St, Ipswich QLD 4305",
+        "domain": "www.bouchierkhan.com.au",
+        "cid": "717312931109780599",
+        "rating": 4.8,
+        "reviews": 32
+      },
+      {
+        "rank": 20,
+        "title": "Shine Lawyers Ipswich",
+        "category": "Personal injury attorney",
+        "address": "11 Bell St, Ipswich QLD 4305",
+        "domain": "www.shine.com.au",
+        "cid": "8376559836228032914",
+        "rating": 4.9,
+        "reviews": 92
+      }
+    ]
+  },
+  "ipswich_wills_maps": {
+    "query": "wills and estates lawyer Ipswich QLD",
+    "mtRank": 8,
+    "mtInPack20": true,
+    "topCompetitors": [
+      {
+        "rank": 1,
+        "title": "Fallu McMillan Lawyers",
+        "category": "Legal services",
+        "address": "233 Brisbane St, Ipswich QLD 4305",
+        "domain": "www.fmlaw.com.au",
+        "cid": "16400021174251908832",
+        "rating": 4.9,
+        "reviews": 203
+      },
+      {
+        "rank": 2,
+        "title": "Walker Pender Lawyers",
+        "category": "Law firm",
+        "address": "28 Nicholas St, Ipswich QLD 4305",
+        "domain": "www.walkerpender.com.au",
+        "cid": "5066631299087419671",
+        "rating": 4.8,
+        "reviews": 218
+      },
+      {
+        "rank": 3,
+        "title": "Richard Zande & Associates",
+        "category": "Law firm",
+        "address": "49 Ellenborough St, Ipswich QLD 4305",
+        "domain": "www.richardzande.com.au",
+        "cid": "7154975560653041941",
+        "rating": 4.6,
+        "reviews": 94
+      },
+      {
+        "rank": 4,
+        "title": "Winstone Brown Legal",
+        "category": "Law firm",
+        "address": "Corner of East &, 1 Churchill St, Ipswich QLD 4305",
+        "domain": "www.wblegal.au",
+        "cid": "760110050431180011",
+        "rating": 4.8,
+        "reviews": 103
+      },
+      {
+        "rank": 5,
+        "title": "Jacaranda Law",
+        "category": "Estate planning attorney",
+        "address": "77 Roderick St, Ipswich QLD 4305",
+        "domain": "www.jacarandalaw.com.au",
+        "cid": "11922491511037953142",
+        "rating": 5,
+        "reviews": 20
+      },
+      {
+        "rank": 6,
+        "title": "McNamara Law",
+        "category": "Law firm",
+        "address": "10/88 Limestone St, Ipswich QLD 4305",
+        "domain": "mcna.com.au",
+        "cid": "17500344748741039606",
+        "rating": 4.5,
+        "reviews": 128
+      },
+      {
+        "rank": 7,
+        "title": "Ipswich Family Lawyers - Family Law Solicitors Qld",
+        "category": "Law firm",
+        "address": "44 East St, Ipswich QLD 4305",
+        "domain": "www.flsq.com.au",
+        "cid": "749097452279469076",
+        "rating": 5,
+        "reviews": 1
+      },
+      {
+        "rank": 8,
+        "title": "Millwater Tyrrell Law",
+        "category": "Legal services",
+        "address": "Level 1/215 Brisbane St, Ipswich QLD 4305",
+        "domain": "millwatertyrrell.com.au",
+        "cid": "6376809625893182443",
+        "rating": 4.8,
+        "reviews": 107
+      },
+      {
+        "rank": 9,
+        "title": "JamesKLegal",
+        "category": "Solicitor",
+        "address": "8 Mortimer St, Ipswich QLD 4305",
+        "domain": "www.jamesklegal.com.au",
+        "cid": "6056456452839061327",
+        "rating": 4.8,
+        "reviews": 5
+      },
+      {
+        "rank": 10,
+        "title": "Rose Jensen Kent Lawyers",
+        "category": "Law firm",
+        "address": "Shop 1/160 Brisbane St, Ipswich QLD 4305",
+        "domain": "rjklaw.com.au",
+        "cid": "15150364878879440751",
+        "rating": 4.9,
+        "reviews": 61
+      },
+      {
+        "rank": 11,
+        "title": "M.A. Kent & Associates",
+        "category": "Legal services",
+        "address": "47 Ellenborough St, Ipswich QLD 4305",
+        "domain": "makent.com.au",
+        "cid": "6568423527213733102",
+        "rating": 4.3,
+        "reviews": 104
+      },
+      {
+        "rank": 12,
+        "title": "DB Lawyers",
+        "category": "Solicitor",
+        "address": "Level 3/16 East St, Ipswich QLD 4305",
+        "domain": "www.dblawyers.com.au",
+        "cid": "16493039780220873336",
+        "rating": 4.5,
+        "reviews": 13
+      },
+      {
+        "rank": 13,
+        "title": "Best Wilson Buckley Family Law",
+        "category": "Law firm",
+        "address": "205 Brisbane St, Ipswich QLD 4305",
+        "domain": "bwbfamilylaw.com.au",
+        "cid": "13190487111788308597",
+        "rating": 4.5,
+        "reviews": 21
+      },
+      {
+        "rank": 14,
+        "title": "Banditt & Blaine Lawyers",
+        "category": "Law firm",
+        "address": "60 South St, Ipswich QLD 4305",
+        "domain": "bandittblaine.com.au",
+        "cid": "13305328558272339621",
+        "rating": 4.9,
+        "reviews": 61
+      },
+      {
+        "rank": 15,
+        "title": "Power Legal",
+        "category": "Law firm",
+        "address": "23 Gordon St, Ipswich QLD 4305",
+        "domain": "www.powerlegal.com.au",
+        "cid": "16687542657236589190",
+        "rating": 4.3,
+        "reviews": 26
+      },
+      {
+        "rank": 16,
+        "title": "Criminal Law Solicitors Qld - Ipswich",
+        "category": "Law firm",
+        "address": "Shop 3/44 East St, Ipswich QLD 4305",
+        "domain": "clsq.com.au",
+        "cid": "13191454732973475997",
+        "rating": 5,
+        "reviews": 13
+      },
+      {
+        "rank": 17,
+        "title": "Heritage Conveyancing",
+        "category": "Conveyancer",
+        "address": "Shop 2/126 Brisbane St, Ipswich QLD 4305",
+        "domain": "www.heritageconveyancing.com.au",
+        "cid": "1875271405529063209",
+        "rating": 4.7,
+        "reviews": 68
+      },
+      {
+        "rank": 18,
+        "title": "David Grant & Associates Ipswich",
+        "category": "Legal services",
+        "address": "58 South St, Ipswich QLD 4305",
+        "domain": "www.davidgrant.net.au",
+        "cid": "13623128204778048825",
+        "rating": 5,
+        "reviews": 5
+      },
+      {
+        "rank": 19,
+        "title": "Shine Lawyers Ipswich",
+        "category": "Law firm",
+        "address": "11 Bell St, Ipswich QLD 4305",
+        "domain": "www.shine.com.au",
+        "cid": "8376559836228032914",
+        "rating": 4.9,
+        "reviews": 92
+      },
+      {
+        "rank": 20,
+        "title": "Sibley Lawyers",
+        "category": "Law firm",
+        "address": "Level 3/16 East St, Ipswich QLD 4305",
+        "domain": "sibleylawyers.com.au",
+        "cid": "2311535563457369742",
+        "rating": 5,
+        "reviews": 13
+      }
+    ]
+  },
+  "brisbane_family_maps": {
+    "query": "family lawyer Brisbane QLD",
+    "mtRank": null,
+    "mtInPack20": false,
+    "topCompetitors": [
+      {
+        "rank": 1,
+        "title": "Cudmore Legal | Family Lawyers Brisbane",
+        "category": "Family law attorney",
+        "address": "6/239 George St, Brisbane City QLD 4000",
+        "domain": "www.cudmorelegal.com.au",
+        "cid": "3880275358862259054",
+        "rating": 4.8,
+        "reviews": 128
+      },
+      {
+        "rank": 2,
+        "title": "Genuine Legal Family Lawyers",
+        "category": "Family law attorney",
+        "address": "Level 27/10 Eagle St, Brisbane City QLD 4000",
+        "domain": "genuinelegal.com.au",
+        "cid": "4816022867178190975",
+        "rating": 4.8,
+        "reviews": 462
+      },
+      {
+        "rank": 3,
+        "title": "Ramsden Family Law",
+        "category": "Family law attorney",
+        "address": "Ste 12A/15 Adelaide St, Brisbane City QLD 4000",
+        "domain": "ramsdenfamilylaw.com.au",
+        "cid": "13645565251502219978",
+        "rating": 5,
+        "reviews": 9
+      },
+      {
+        "rank": 4,
+        "title": "Kate Austin Family Lawyers",
+        "category": "Family law attorney",
+        "address": "Level 54/111 Eagle St, Brisbane City QLD 4000",
+        "domain": "www.kateaustinlaw.com.au",
+        "cid": "5053206769255693241",
+        "rating": 4.9,
+        "reviews": 187
+      },
+      {
+        "rank": 5,
+        "title": "Phillips Family Law",
+        "category": "Family law attorney",
+        "address": "145 Ann St, Brisbane City QLD 4000",
+        "domain": "www.phillipsfamilylaw.com.au",
+        "cid": "1701331094388052402",
+        "rating": 5,
+        "reviews": 33
+      },
+      {
+        "rank": 6,
+        "title": "Michael Lynch Family Lawyers",
+        "category": "Family law attorney",
+        "address": "Level 25/240 Queen St, Brisbane City QLD 4000",
+        "domain": "www.michaellynchfamilylawyers.com.au",
+        "cid": "1450964701493765150",
+        "rating": 4.4,
+        "reviews": 69
+      },
+      {
+        "rank": 7,
+        "title": "DA Family Lawyers",
+        "category": "Family law attorney",
+        "address": "8/193 N Quay, Brisbane City QLD 4000",
+        "domain": "www.dafamilylawyers.com.au",
+        "cid": "17977317215480951513",
+        "rating": 4.7,
+        "reviews": 78
+      },
+      {
+        "rank": 8,
+        "title": "Honest Grace Legal",
+        "category": "Legal services",
+        "address": "Level 10/144 Edward St, Brisbane City QLD 4000",
+        "domain": "honestgracelegal.com.au",
+        "cid": "8933031194917383364",
+        "rating": 5,
+        "reviews": 82
+      },
+      {
+        "rank": 9,
+        "title": "Australian Family Lawyers - Brisbane",
+        "category": "Family law attorney",
+        "address": "Level 4/40 Creek St, Brisbane City QLD 4000",
+        "domain": "www.australianfamilylawyers.com.au",
+        "cid": "20975971189062112",
+        "rating": 4.5,
+        "reviews": 37
+      },
+      {
+        "rank": 10,
+        "title": "KLM Solicitors Brisbane City",
+        "category": "Family law attorney",
+        "address": "Level 7/102 Adelaide St, Brisbane City QLD 4000",
+        "domain": "klmsolicitors.com.au",
+        "cid": "15174311417866743855",
+        "rating": 4.5,
+        "reviews": 61
+      },
+      {
+        "rank": 11,
+        "title": "Amicus Family Law",
+        "category": "Family law attorney",
+        "address": "123 Eagle St, Brisbane City QLD 4000",
+        "domain": "amicusfamilylaw.com.au",
+        "cid": "15890632290889343485",
+        "rating": 4.9,
+        "reviews": 29
+      },
+      {
+        "rank": 12,
+        "title": "Stewart Family Law",
+        "category": "Family law attorney",
+        "address": "Level 2/231 N Quay, Brisbane City QLD 4000",
+        "domain": "stewartfamilylaw.com.au",
+        "cid": "15410310346972821973",
+        "rating": 4.7,
+        "reviews": 66
+      },
+      {
+        "rank": 13,
+        "title": "Baystone Legal",
+        "category": "Law firm",
+        "address": "17/144 Edward St, Brisbane City QLD 4000",
+        "domain": "baystonelegal.com",
+        "cid": "9310019828504864645",
+        "rating": 5,
+        "reviews": 123
+      },
+      {
+        "rank": 14,
+        "title": "Elevate Family Law",
+        "category": "Family law attorney",
+        "address": "Level 10/95 N Quay, Brisbane City QLD 4000",
+        "domain": "elevatefamilylaw.com.au",
+        "cid": "10256142785588216161",
+        "rating": 5,
+        "reviews": 11
+      },
+      {
+        "rank": 15,
+        "title": "RO FAMILY LAW",
+        "category": "Legal services",
+        "address": "Level 3/240 Queen St, Brisbane City QLD 4000",
+        "domain": "www.rolaw.com.au",
+        "cid": "4942760182120998582",
+        "rating": null,
+        "reviews": 0
+      },
+      {
+        "rank": 16,
+        "title": "Hartley Family Law",
+        "category": "Solicitor",
+        "address": "Level 3/168 Edward St, Brisbane City QLD 4000",
+        "domain": "hartleyfamilylaw.com.au",
+        "cid": "17242994469390489763",
+        "rating": 4,
+        "reviews": 4
+      },
+      {
+        "rank": 17,
+        "title": "Damien Greer Lawyers",
+        "category": "Family law attorney",
+        "address": "40/123 Eagle St, Brisbane City QLD 4000",
+        "domain": "damiengreer.com.au",
+        "cid": "3011595442390001340",
+        "rating": 4.2,
+        "reviews": 21
+      },
+      {
+        "rank": 18,
+        "title": "Emerson Family Law",
+        "category": "Family law attorney",
+        "address": "8/231 N Quay, Brisbane City QLD 4000",
+        "domain": "www.emfl.com.au",
+        "cid": "16583110076546216732",
+        "rating": 4.7,
+        "reviews": 107
+      },
+      {
+        "rank": 19,
+        "title": "Acute Family Law & Mediations",
+        "category": "Family law attorney",
+        "address": "32 Turbot St, Brisbane City QLD 4000",
+        "domain": "www.acutefamilylawmediations.com",
+        "cid": "11954990419422160842",
+        "rating": 5,
+        "reviews": 4
+      },
+      {
+        "rank": 20,
+        "title": "Family Law Solicitors Qld",
+        "category": "Law firm",
+        "address": "Santos Place, Level 27/32 Turbot St, Brisbane City QLD 4000",
+        "domain": "famlawqld.com.au",
+        "cid": "406219701017215195",
+        "rating": 5,
+        "reviews": 5
+      }
+    ]
+  },
+  "brisbane_wills_maps": {
+    "query": "wills and estates lawyer Brisbane QLD",
+    "mtRank": null,
+    "mtInPack20": false,
+    "topCompetitors": [
+      {
+        "rank": 1,
+        "title": "The Estate Lawyers",
+        "category": "Law firm",
+        "address": "22/69 Ann St, Brisbane City QLD 4000",
+        "domain": "theestatelawyers.com.au",
+        "cid": "4653216533028382819",
+        "rating": 4.9,
+        "reviews": 88
+      },
+      {
+        "rank": 2,
+        "title": "Contested Will and Estate Lawyers",
+        "category": "Law firm",
+        "address": "Level 14/239 George St, Brisbane City QLD 4000",
+        "domain": "www.cwelawyers.com.au",
+        "cid": "13574660870752283592",
+        "rating": 5,
+        "reviews": 7
+      },
+      {
+        "rank": 3,
+        "title": "Direct Lawyers Wills and Estates",
+        "category": "Estate planning attorney",
+        "address": "The Greenhouse, West Village, Level 4/97 Boundary St, West End QLD 4101",
+        "domain": "www.directlawyers.com.au",
+        "cid": "8893670162717993604",
+        "rating": 4.9,
+        "reviews": 83
+      },
+      {
+        "rank": 4,
+        "title": "Will and Estate Lawyers Australia",
+        "category": "Estate litigation attorney",
+        "address": "Level 1/16 McDougall St, Milton QLD 4064",
+        "domain": "willandestatelawyers.com.au",
+        "cid": "7136446609335140345",
+        "rating": 5,
+        "reviews": 132
+      },
+      {
+        "rank": 5,
+        "title": "QLD Estate Lawyers",
+        "category": "Estate planning attorney",
+        "address": "level 18/150 Charlotte St, Brisbane City QLD 4000",
+        "domain": "qldestatelawyers.com.au",
+        "cid": "7872290523399534021",
+        "rating": 4.3,
+        "reviews": 19
+      },
+      {
+        "rank": 6,
+        "title": "de Groots wills & estate lawyers Brisbane",
+        "category": "Legal services",
+        "address": "River Quarter, Level 6/46 Edward St, Brisbane City QLD 4000",
+        "domain": "www.degroots.com.au",
+        "cid": "3843169278890086234",
+        "rating": 4.6,
+        "reviews": 28
+      },
+      {
+        "rank": 7,
+        "title": "O'Connor, Ruddy & Garrett Solicitors",
+        "category": "Law firm",
+        "address": "2/199 George St, Brisbane City QLD 4001",
+        "domain": "orglaw.com.au",
+        "cid": "8835789557419141841",
+        "rating": 4.9,
+        "reviews": 85
+      },
+      {
+        "rank": 8,
+        "title": "YHC Lawyers",
+        "category": "Law firm",
+        "address": "Level 15/100 Edward St, Brisbane City QLD 4000",
+        "domain": "www.yhclawyers.com.au",
+        "cid": "13354133889894345264",
+        "rating": 5,
+        "reviews": 97
+      },
+      {
+        "rank": 9,
+        "title": "Wills Estates Probate Lawyers",
+        "category": "Law firm",
+        "address": "level 8/241 Adelaide St, Brisbane City QLD 4000",
+        "domain": "willsestatesprobatelawyers.com.au",
+        "cid": "5698554332578738367",
+        "rating": 5,
+        "reviews": 1
+      },
+      {
+        "rank": 10,
+        "title": "Kate Redman & Associates",
+        "category": "Legal services",
+        "address": "Level 10/95 N Quay, Brisbane City QLD 4000",
+        "domain": "www.kateredman.com.au",
+        "cid": "11286914601945170153",
+        "rating": 4.9,
+        "reviews": 93
+      },
+      {
+        "rank": 11,
+        "title": "Queensland Probate",
+        "category": "Estate litigation attorney",
+        "address": "345 Ann St, Brisbane City QLD 4000",
+        "domain": "qldprobate.com.au",
+        "cid": "11538414877368811121",
+        "rating": 4.9,
+        "reviews": 157
+      },
+      {
+        "rank": 12,
+        "title": "Generations Law",
+        "category": "Probate attorney",
+        "address": "Santos Place, Level 27/32 Turbot St, Brisbane City QLD 4000",
+        "domain": "generationslaw.com.au",
+        "cid": "5577611082190671171",
+        "rating": 5,
+        "reviews": 41
+      },
+      {
+        "rank": 13,
+        "title": "ROC Legal – Will Dispute Lawyers Brisbane",
+        "category": "Estate litigation attorney",
+        "address": "Level 4/260 Queen St, Brisbane City QLD 4000",
+        "domain": "roclegal.com.au",
+        "cid": "9900064373194447592",
+        "rating": 5,
+        "reviews": 12
+      },
+      {
+        "rank": 14,
+        "title": "GLG Legal | Brisbane Commercial and Property Lawyers",
+        "category": "Law firm",
+        "address": "Level 25/240 Queen St, Brisbane City QLD 4000",
+        "domain": "www.glglegal.com.au",
+        "cid": "6673175920028865842",
+        "rating": 4.9,
+        "reviews": 126
+      },
+      {
+        "rank": 15,
+        "title": "Nurture Law",
+        "category": "Estate planning attorney",
+        "address": "Level 18/333 Ann St, Brisbane City QLD 4000",
+        "domain": "nurturelaw.com.au",
+        "cid": "17070056064866297524",
+        "rating": 4.9,
+        "reviews": 51
+      },
+      {
+        "rank": 16,
+        "title": "Baystone Legal",
+        "category": "Law firm",
+        "address": "17/144 Edward St, Brisbane City QLD 4000",
+        "domain": "baystonelegal.com",
+        "cid": "9310019828504864645",
+        "rating": 5,
+        "reviews": 123
+      },
+      {
+        "rank": 17,
+        "title": "Wills Estates Law Qld",
+        "category": "Law firm",
+        "address": "Fl 34/1 Eagle St, Brisbane City QLD 4000",
+        "domain": "www.welq.com.au",
+        "cid": "18421146023434910430",
+        "rating": null,
+        "reviews": 0
+      },
+      {
+        "rank": 18,
+        "title": "Estate First Lawyers",
+        "category": "Estate planning attorney",
+        "address": "level 18/324 Queen St, Brisbane City QLD 4000",
+        "domain": "estatefirst.com.au",
+        "cid": "3485636770862559503",
+        "rating": 5,
+        "reviews": 1
+      },
+      {
+        "rank": 19,
+        "title": "G.O.A.T Legal",
+        "category": "Law firm",
+        "address": "Level 11/133 Mary St, Brisbane City QLD 4000",
+        "domain": "goatlegal.com.au",
+        "cid": "8651799135581027207",
+        "rating": 5,
+        "reviews": 156
+      },
+      {
+        "rank": 20,
+        "title": "Little Estate Lawyers",
+        "category": "Law firm",
+        "address": "Watkins Medical Centre, Level 6/225 Wickham Ter, Spring Hill QLD 4000",
+        "domain": "littlelawyers.com.au",
+        "cid": "7385136481484105810",
+        "rating": 4.3,
+        "reviews": 6
+      }
+    ]
+  }
+}

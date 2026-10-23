@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane",
+  "pk": "wills_estate_planning",
+  "plat": "perplexity",
+  "text": "Who are the best wills and estates lawyers in Brisbane for drafting wills, testamentary trusts, and enduring powers of attorney?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane__wills_estate_planning__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:25:53.615Z",
+  "cost": 0.006225,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 33,
+      "output_tokens": 592,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005625,
+      "datetime": "2026-10-23 05:25:49 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For Brisbane, the strongest shortlist is **Thynne + Macartney, Cooper Grace Ward, HopgoodGanim, Direct Lawyers, and Rostron Carlyle**. The best choice depends on whether you need a straightforward estate plan or sophisticated advice involving trusts, business assets, tax, blended families, or asset-protection concerns.\n\n- **Thynne + Macartney** — A strong all-round option with more than 50 years of team experience. Its services include wills, testamentary trusts, enduring powers of attorney, health directives, superannuation and succession planning. Ashleigh Poole, Cathy Piccolo and Vicky Martin have current industry recognitions in wills, estates and succession planning.[1]\n- **Cooper Grace Ward** — Particularly suitable for high-net-worth families, business owners and complex structures. The firm combines estate planning with tax, superannuation, trusts, asset protection, business succession and estate-dispute expertise, and prepares wills with testamentary trusts and enduring powers of attorney.[2]\n- **HopgoodGanim** — A good option for complex estate planning and possible future disputes. Gregory Cox is recognised for estate planning, administration and litigation, including complex wills, powers of attorney and estate plans.[1]\n- **Direct Lawyers** — A Brisbane firm focused exclusively on wills, estates and succession law. It prepares wills, testamentary trusts, enduring powers of attorney and advance health directives, including plans for trusts, businesses and blended families.[3]\n- **Rostron Carlyle Lawyers** — A practical Brisbane CBD option for wills, testamentary discretionary trusts, enduring powers of attorney and health directives, with experience ranging from simple wills to complex estate planning.[4]\n- **Bennett Carroll Solicitors** — Worth considering if you want a Queensland-wide firm with Brisbane access and services covering testamentary trusts, wills, enduring powers of attorney, family trusts and estate disputes.[5]\n\n## How to choose\n\nAsk each firm:\n\n- Who will personally draft and review the documents?\n- How much experience do they have with **testamentary discretionary trusts**?\n- Will they review superannuation nominations, company and trust control, life insurance and jointly owned assets?\n- Do they advise on reducing risks from family provision claims or challenges to the will?\n- What are the fixed fees and what work is excluded?\n- Where will the original will be stored, and how are future reviews handled?\n\nFor a simple will and EPOA, a specialist wills-and-estates practice such as Direct Lawyers or Rostron Carlyle may be efficient. For substantial assets, business interests, family trusts, tax issues or a blended family, start with Cooper Grace Ward, Thynne + Macartney or HopgoodGanim. A Queensland solicitor should tailor the documents to your circumstances rather than relying on generic forms.",
+              "annotations": [
+                {
+                  "title": "Best Brisbane, Australia Trusts and Estates Lawyers",
+                  "url": "https://www.bestlawyers.com/australia/brisbane/trusts-and-estates",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills and Estates Lawyers | Brisbane & Sydney",
+                  "url": "https://rclaw.com.au/practice/wills-and-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estate Planning Lawyers Queensland",
+                  "url": "https://www.bcglaw.com.au/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills and Estate Lawyers Brisbane - Estate Planning Lawyer",
+                  "url": "https://cgw.com.au/expertise/succession-and-estate-planning/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Leading Wills and Estates Lawyers",
+                  "url": "https://www.thymac.com.au/expertises/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estate Planning Lawyers in Queensland",
+                  "url": "https://www.bcglaw.com.au/wills-estates-planning/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Estate Planning Lawyers Brisbane | Secure Your Legacy",
+                  "url": "https://www.directlawyers.com.au/estate-planning-brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Brisbane Wills and Estates | Rostron Carlyle Lawyers",
+                  "url": "https://rclaw.com.au/practice/brisbane-wills-and-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The 10 best Estate Planning Lawyers in Brisbane, Australia ...",
+                  "url": "https://lawzana.com/estate-planning-lawyers/brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Estate Planning Lawyers Brisbane | Protect Your Legacy Today",
+                  "url": "https://www.directlawyers.com.au/estate-planning",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

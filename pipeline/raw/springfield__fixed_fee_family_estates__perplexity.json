@@ -1,0 +1,106 @@
+{
+  "slug": "springfield",
+  "pk": "fixed_fee_family_estates",
+  "plat": "perplexity",
+  "text": "Which boutique law firms in Springfield and Greater Springfield, QLD offer free initial consultations, fixed-fee wills, or deferred-fee options for family law and wills and estates?",
+  "loc": 9191413,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\springfield__fixed_fee_family_estates__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:25:08.794Z",
+  "cost": 0.006135,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 43,
+      "output_tokens": 492,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005535,
+      "datetime": "2026-10-23 05:25:04 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "The strongest matches are:\n\n| Firm | Location/service area | Relevant fee option |\n|---|---|---|\n| **Stanford Legal Pty Ltd** | Springfield Central; serves Springfield, Ipswich and Brisbane | Offers **complimentary initial consultations** and handles family law plus wills and estates.[1] |\n| **Rangi Lawyers** | Brookwater, near Springfield; serves Queensland | Offers **free initial consultations** and acts in family law, wills and estates matters.[1] |\n| **VM Family Law** | Ipswich and Greater Springfield | Offers **fixed-fee agreements where possible** for family-law services.[10] |\n| **GLG Legal Springfield** | Brookwater Office Park; serves Springfield and Greater Ipswich | Handles family law and wills/estates, but its published information says initial family-law consultations have **set fees**, not that they are free.[2][4] |\n| **The Estate Lawyers** | Queensland-wide wills and estates practice | Provides a **free, confidential initial discussion**, **fixed fees** for estate work, and—only in approved estate administration or dispute matters—**deferred fees** payable after receiving an inheritance.[3] |\n| **QLD Estate Lawyers** | Queensland-wide wills and estates practice | Offers **deferred-fee arrangements** for eligible estate or probate matters, generally with payment from estate funds after resolution; ordinary will-drafting advice may not qualify.[5] |\n| **Genuine Legal** | Brisbane office; may serve Springfield clients | Offers one **free Queensland initial family-law consultation**, fixed-fee quotes and payment plans; confirm whether the consultation is available by phone or for a Springfield client.[9] |\n\n**Best local options:** Stanford Legal and Rangi Lawyers appear to be the clearest Springfield-area firms advertising free initial consultations across both family law and wills/estates.[1] For family law specifically, VM Family Law is the clearest local fixed-fee option.[10] For estate disputes or administration where upfront payment is difficult, The Estate Lawyers and QLD Estate Lawyers advertise deferred-fee arrangements, subject to eligibility.[3][5]\n\nBefore booking, confirm whether “free consultation” means a short preliminary discussion or substantive legal advice, what work the fixed fee includes, and whether GST, court filing fees, barrister fees or later correspondence are excluded.",
+              "annotations": [
+                {
+                  "title": "Find Trusted Family Lawyers near Springfield QLD",
+                  "url": "https://lawconnect.com/en-au/find/family-law/qld/springfield-4300",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "GLG Legal Springfield: Springfield and Ipswich Legal Experts",
+                  "url": "https://www.springfieldlegals.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The Estate Lawyers",
+                  "url": "https://theestatelawyers.com.au/home",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Divorce Lawyers Springfield | Family Law Experts | GLG Legal",
+                  "url": "https://www.springfieldlegals.com.au/areas-of-practice/family-law/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Deferred Fees",
+                  "url": "https://qldestatelawyers.com.au/deferred-fees/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Solicitors Lawyers in Springfield, QLD 4300",
+                  "url": "https://www.yellowpages.com.au/springfield-qld-4300/solicitors-lawyers",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Provision Legal Help QLD",
+                  "url": "https://www.armstronglegal.com.au/pages/cmcw-family-provision-legal-help-qld/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Fixed Fee Initial Consultation",
+                  "url": "https://stewartfamilylaw.com.au/initial-consultation/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Genuine Legal",
+                  "url": "https://genuinelegal.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "VM Family Law: Best Family Lawyers Ipswich & Springfield",
+                  "url": "https://www.vmfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

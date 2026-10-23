@@ -1,0 +1,537 @@
+{
+  "slug": "brisbane_east",
+  "pk": "wills_estate_planning",
+  "plat": "claude",
+  "text": "Who are the best wills and estates lawyers in Brisbane East and Bayside (Carindale & Wynnum) for drafting wills, testamentary trusts, and enduring powers of attorney?",
+  "loc": 9194035,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_east__wills_estate_planning__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:32:22.630Z",
+  "cost": 0,
+  "result": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_011CgJcxAiRX9VjYmbBJyL1L",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "server_tool_use",
+        "id": "srvtoolu_01WQLvCdj2kMkwavdsdqwfrp",
+        "name": "web_search",
+        "input": {
+          "query": "best wills estates lawyers Brisbane East Carindale Wynnum Bayside"
+        }
+      },
+      {
+        "type": "server_tool_use",
+        "id": "srvtoolu_01SzugYneZJvi1Bpf78ugti8",
+        "name": "web_search",
+        "input": {
+          "query": "wills testamentary trusts enduring power of attorney lawyers Carindale Brisbane"
+        }
+      },
+      {
+        "type": "server_tool_use",
+        "id": "srvtoolu_01WLdbn2zivYsuGsRL3GBLNk",
+        "name": "web_search",
+        "input": {
+          "query": "wills estates lawyers Wynnum Bayside Brisbane testamentary trusts"
+        }
+      },
+      {
+        "type": "web_search_tool_result",
+        "tool_use_id": "srvtoolu_01WQLvCdj2kMkwavdsdqwfrp",
+        "content": [
+          {
+            "type": "web_search_result",
+            "title": "30 Best Local Wills Probates Estates in Brisbane Bayside Suburbs, QLD",
+            "url": "https://www.yellowpages.com.au/brisbane-bayside-suburbs-qld/wills-probates-estates",
+            "encrypted_content": "EuAQCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDCoLHjMGD7526zTwVxoMRrdmoBeZDnq1kT4GIjCiq9WLQvpY45NAIItb96xivuV+zRPU547xjaiHb6Q9BC7rSQU/c0zHfTKKYsmLYYcq4w/WC2nTexcka0+Wqxngu8iohJ0mx3BWyHHpCQJBpJPBMBWPgwzem/wgxQkRN/eFxgkZhT1IRyko+2zHKvkjN3s9skWhDdVLOG+VSC7trPIjJeT2LLvzBBJ2YcP8ALWpQOhi7LHvBgt56EiWNN7BiubckiDhyArq2AfwyWM3iNCSjXAaqlyPr0LQd6PQsmD7j0bgW+tddCZgTLkh3gUzqi5DuUjUngsSRrD2ct3XZfqOoN7L77fNo3jx9XNHUm+Lwpy/VyrSBg+/gp8oNELm3csmRRJE1T2VNZ2JG022KTnKN5Odq+h5kCqjtZI4VSQWgib0BhFSesFhdX7Ydv3ZirRuQMpp8fqF+2bYcBZySml9HHOgsSC2AUR8LQr0Y0/pd2raexdNYQuDMA4Dmr4bNSYhpXMOr0fwFIBVyYhwjIOB5cP/L5OIYlXePtDDXKigfCG6NaO3VtB6w0AmSezsyypz8x6G9cf5KO242gKhHdEpgCsDRc06G9fh5jmiJJIpcdI5W+3mmuTvt/j8NT/i+JgQ3MhG/1beDgm3OgyGH0125dzmXUFazzYFX5AsMF3BTkLM7qfNsksWXjmWwfzug9ghPdNapKkI/DY2TuSm6t9pW48BKLMEk1oW+aYpOFtu1ENauD4ItUCxxaY9m2ph4u/7s89EQ3e3XyRiMY0DY8ThW9tjCVdJ0oI1Y5TlSOzHt89RAVUvYhx5gPXvPVdDjlV9dSvb/qjzGSivxHuRpNXOkLtLPXfro2WXLiKklhrTYB+OcmklcOBAqV8Z2hNploKVsl1fUVeGptKt34q3IbMDkL/J7yFXGIkJ4gp5n6ZvUSp+hJUNQj0VP4vqho4KIk1gGwTqOJNqocq0LqlMAjG4Wa44XvspsKaik9UzGqAirmaJ7eOx19cijG+FoKxhlDEaZnJjRBk+oO/v+65e1rDp6L+nQ7/hHRSthcifA502zQV1XM9ct/GCt0cz0X7bkbf9nPTf2YefbC/87v0lKsmixunIzmOnpLSZC7PdzfaW17if1KdEJkF5ICnuAgauARS68AWG8rodSdMSZNjiycP8FAY9vxXrgPpUBZtmDeV0VDIx6bBjqGiQbznJKjCrGiWoHiFZIcL5lIX7u3Cd6jtq3PQsIowCsZlfFE/J29+ymuPHX6Np/u6yGCsPVv/FHvwAZRNAldw0z3dH6UihnfNxQPo8MTOG1FaJ56E4rQ8Atqqy6xN80dgCl5J45DZMF0Lj9VuOV0UhgBQwelukFTMf/SSovrPJRpdVwt6PoNBKRz9l1CYZerWrdi56Y+XyCqfZYatcsckuRQHT1MknfytufbCS+9MvyF+eIsOq7/MpZm+bdRrXCn9R3d18ZlE/927TnIc5zvVEUefFMPSV+iYJXUXCTdMMZuXTY7b8azoNVWGUq3knLDf3iU+xK1+Ht2Zj5tAe75HwfLT+rPnXM0+NuCoR1f78Iy2ssnZb7iARmAxJlR+XluJM0cFXRMrO8RIVtq+htpS1MmyPKz9xotH8TF5jporIF3tjnQfLS0TL7Vv5aj/1frDyMMHUmudPdnbjGRt62en8X75jm4xaK/QBzi7/bFRl6NYeJ1Wj1c0OaN2Vtyk1VOQLEcr+PYr8BC07sUm5jdKHtYHGNsLqj0vcxmsfHBLnvIglklpUNyPG+Z1SvHB9xe1us86tLY3ARcN32CeM7OzLm3HV/VP6F33kyNYuZdkmj9Bmyi5Wm5LSvslyCuJ/+/pcbCCqRfMc2B3csmHvPO0y7zKygGrWaEg/H8h4YzN2rdvD9EkaT0zjFCTYqjOS9XWOEyj/6tMxiiHv4TbYYZfiG9cxS/4qKSAkJgrJ6ayVRSjEQmDRWHNopTaMPCWgub40DBJ0RdDmp7VR/78aEqRMzTgXPBvMXonTxiDF7RgzUJLWxMj8CjyL+/zxC5ahMz5hbq7goc4HTS/JTYqI27jLtVSfu94s3osRpncaY9k/KkWDuL1DNaFM/mHsFTU7XSxIe+j3oWDkpnYzSJq9XtXpj1i+qqRh3TYy5cMqWjkTSxHbkTXsQF5XPD0dmObYhYF9ntEyWcQRHH4zz24qhrdEgSw1SyCmiH8A/869I36DbqZnOfZ8SYo7MIJzPTfQ7GM5QMWngJm8N1DzmXLeZizwLIL1icvTbjcxLTgLSix2CNMA4TxJNMb07/vm8FSC0o6vz9225KuE6b/qWk5oVCnesLD7KvkacW0fYHBL9IwcFpWEUH0Yz8Qer/vyUWA/U9ovbTkhB8bJEjHPAWwj0YgoFdXhiXHKIcFbDWxHXOEtuMLQS4j6LPBnOQf5r8zfMWKDQB1I0GYGC8PDeV7qxibvDVYSjK9semnuk3ZYVu/WRNAykCDjIcNm4raZ3wkxUmdIqtNU5Dew5qHPL9SI8qekJCJOYIFY22TwtlvDgfaAYGfSNbPSFRCX+MdZV/gSfYF1VeFJ6tzAfEc46kzicaRJYodm+LoDIgIX5nF0p2ArHOM3maWSSd97uHoMjGqf9q/CP4Rpbmp0KnS6ILVFKqb1+frnKLX5NF1caWWo/hoDavDjn24al6nMMOfOUHbHFLRLokkoTT7xslv4qtZPJeojv8aZAI2Q11lDmqIndDD33fpFNAeBE9IwjdDh4QF6fHNEu59o1CiOhJ78xtfUmLwIKJKDzGMAxNt69TtdTmt9Yf4mykglc//Pi3BfAisYAw==",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "30 Best Local Wills Probates Estates in Carindale, QLD 4152",
+            "url": "https://www.yellowpages.com.au/carindale-qld-4152/wills-probates-estates",
+            "encrypted_content": "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",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Wills & Estates Lawyers Brisbane & QLD",
+            "url": "https://empirelegal.com.au/services/wills-and-estates/",
+            "encrypted_content": "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",
+            "page_age": "8 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Standard Wills Brisbane from $485",
+            "url": "https://www.gullicksonlawyers.com.au/brisbane-wills-estate-lawyers",
+            "encrypted_content": "EoIGCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDEwEgFxW52c605LXLxoMqjOiiTIzQ2l8djj5IjD4wt9xWYsWSuMu4Wvoq8vO4WdBBnkwMfqBXjy8si0elX7VRugjFUSFlk5fYoQ8uj0qhQV2vIDLySC2cDtiZ66OcG6c39zqDGFy3I/vMDOnnNm+so311w1A9khODWncTjSXQMgxP5hkrMw+qCA4kbkaDQLW1BABTwGYdMi08MnZjYAYdv/NqwSUSPsZX0wcr8R7Nma3wa3ObLjmk0vGEnxxG8wyIljrFSNM9g3jRc7qWhbWQZ8qmPkgX7d+WPnbzf2kPxLGwFS/JsqKScJBoEE37K2pWwUP4dLOkToQSbgJYY5BHz2Z7HblHIOgF28WWSr17Qya4quyyYRz2gS0RLqadS0KqAb/yjuRSAZgdN4vO1YGGSSvplML7lCa0VS12gBwpPb+CmFocharM0ajpenls6NnIjJ6HtYDeHIQR5J4yXvAy/fxZVJL7gGihuQJXCHuzdXRyay2F/tisLMj4aoaC2MmFL+DZwBVJzdp39GaeNwU3pmH22tDS/WbQm3mvMgiQfftYEK2ACT+uyREqdoeKoXrlh4SPB9DAZDaV9wjlVw32bo20ifEIrJTjSabxRJF8v904QOrHGped/uqnHj1xD4hUFhM0ptLv65uNYFQ1WhX4RIYuKdCLNJe4P3JD3nbkFe6NkQ0CscrYo5/6yZ8d2tvip2D++f0fnWY/4J39q6jd8cdv+ZBjvaKkmHeQPAD/ufWMiKZ/6OVmmUytTl+z8/AnWpFdbEsqkcBjS+O5RSkK80GGM2xh/47KvL2t+FjL4MegXIAy2IXxu6PFNItDFHTV3vaagC4zohYQs3GGm4nRVt3ds2rjaYFJU1kgZwHRZviNYoay53wM4AZQ8f/YXOt6JGZQEBiepguSBntut0VcrT2E1o8xqD2L+FMJo5Zn8NGqLEDC5QqrZE0II0tDiWv/D9oztMYAw==",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Find Estate Administration Lawyers in Wynnum, QLD",
+            "url": "https://lawconnect.com/en-au/find/estate-administration/qld/wynnum-4178",
+            "encrypted_content": "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",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Find Wills and Estates Lawyers in Wynnum QLD - Lawconnect",
+            "url": "https://finchly.com.au/find/wills-and-estates/qld/wynnum-4178",
+            "encrypted_content": "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",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Kate Redman & Associates",
+            "url": "https://kateredman.com.au/",
+            "encrypted_content": "EpgGCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDHvJyhU+VuGx+lnlDRoMucSdprEjUqT0tBkWIjAkr6uh+jdbFHNQtP7GKBR5uHpS93MOl1dT9EpgkPQtR77FnAYP3d+D/5Asqv7isHIqmwWA4h6FpbjRFQYUZKv/HqG5537FNJlEVxoeNXxCpT/sT7ztdWFK3WmkaI4VBBJSTH+m0Mm1mdKKdbW0bKvmgACGCDmWoduAaXftD5RLKs3suwgm98ESpY6wlkQKwOOvPV4NLSoiiXUqvakBG70SA2B2cIf0nlSEur2KYeJ8CzUg81wWFf5uMysho1n0xEWUv1c2Ljg+gs2+yYBmeJPxagCrN7Ba40J9LTd+OxzgdbwbIPIDpgQCvcAVGN8wmkiPdFr7qP915dl5Lr6hx+RBeZueqM0ut9GZ2PM9uhQbOtUsifp7ktbbkG6hL4ltwJULpdFlqsizcg5EsUZmqxl0rLwC9c/X4UVpoi1hrBABc5aud3cx6XMHKjbIOZcB7MkT1GEh6zIU8QDpOKTkpFL3EgorGCF3khw9npzqU3Qr5D3WWKir0cBw8vtYaxs/8ZAkB1YKBG9/zCpFRumqA0MDOZWsg8fKafNZAMohd2s42AwmEqWanK8FYhNjz5NU+c/NeL8BP6gUynSaIHdYPSl/yKCEbtKi3RFkYxoqwDtw6K/p+VbCGgRMUAbhMo2qcNus+D1892S7DdqZxpmi1+UmUIv+V16oAtShOOabQqFIAVXTm6/gKOIiPuZXMkCTtk+iDfL2y5a5pcvIt+iRvdUYcGhMgkIb3imYE5/NXptw2I+RoxpVD7HBj3qbww/DRq8gg5UKxsms0Ku1G5GoYll9gx+iQ0Ljr1utr1RrmRxDUw2fHkncaw8dAQ8lkOk5uNhI5vaHmggW0DKkHbRnhOdYuUoRdZmY+GRmDCDtRj743FKOD00vTnGte9u0ZdbBgBNL8CEKtxQT20AfJFOR+8YzPxmlEqACsEGNHY2GisbWPIBHzBFBBfZBDNy1fYttGAM=",
+            "page_age": "20 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "The Estate Lawyers",
+            "url": "https://theestatelawyers.com.au/",
+            "encrypted_content": "EoAECioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDDJEXAKdMamT79AeoxoMOCHyqRoWFTF5IqqQIjDTqXKn3pAFcWh43MryaGSzkY4lGencJt5ejjdvq8B0py6Ct4WyRcnCkpKJgCmB2OIqgwO4mKUyrnJxSdGlP7i+pfM/eYy/Zhh2MoK+wO2EZlkuTYosICLcY+wn9qB+7ZO5uvNMmMAji7/vPYD6rFfHvkeDeOidrRfkU5AUSZkBht0WX45CGIhEFM2mbRMlVHZ/DGiBKDGfmUf8+AkhUno92VVSPd9tKxd0kKu9u8j/s/11RcYxVBbQMyB+vvqeoGlMLK/snYW5IO+p6NtG02JGrrEewR8ltPF1+JiS22wB/HScSKFBNN8fW5/GpgykF2mZmgr4j92LvDopHMaVIiHrHhwSCjH2pFTkUE5dgv5H4zug+vFor0T9J6kfnqCGaQcI0B3s5VXTHdIecVjrNHXJl9gI34czXpqICh0Uje3Fn2NHpbwZMTDJDOG6SqddDqfnCoyafB302xhW3bu/xdRe2/wpfYSoGUiT6vq61XcYYDLP+5Q5XURl188B14Z0cedrdwyWsrrWS8LiloQHK/qrBoBLSr98Aml654OfObD8K7zsb2p2PvtJ3RQTuJ3aTJu4d4wqDOYYAw==",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Compare 46 Wills and Estates Lawyers in Brisbane, QLD",
+            "url": "https://lawconnect.com/en-au/find/wills-and-estates/qld/brisbane-4000",
+            "encrypted_content": "Ev4DCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDLiBhK7XF0SzpE7n4BoMLoBPDrZTttYB+iNoIjBykk3kZVu8fTTxapz6Y3sqAz1KwD4cMjqgTwDHUIIUzEuXbRoABbeseeh9IBt5BucqgQNdZz2RaQGhrsKPh1NDENow5A1ivwJ0AtmdE8bYmfc4Ju/EBADpxyepMOjr14grhHEF67zXcbJTP1uleFuuxEfQTIo+6KWz4LcaEFgwW9fzUy800oM0y+UD9fsMO5gxlIKNW+Gich3rq5Gf0YtMS/ZqoWxJD+ZeRNyhh+6sQeq9PMxsTReHOPpNF0Te7oOiWWIgaAovqTmqoWBzJc2GxdJUN89HVnuk2VOOtFq7zYprqjQduNSM+aQ6FDx79ENMunS2yV040wzk16WqWkDroZnWki7vyG0l3luzpYZmJWLkqjP5M5GXrhn9ofKvRemSLDQFJopKfB6n6h4zV+ERNtNSt5rmRZBq45jkdzImJAK+qE1uV25HEUf4GarhPp7t/t656N/4fHUS9SFT8Tc1/LVxNbiwuayC5XRh6kOb3yZEeLjoOd/sG6SZY+8aTTdFz/2TWZb9HkcRkXnwKs+7YCOHVN+LpfY9NOl5lKpZH6H4IPPsLGTtxGqVjqI1La08yQYsGAM=",
+            "page_age": null
+          }
+        ],
+        "caller": {
+          "type": "direct"
+        }
+      },
+      {
+        "type": "web_search_tool_result",
+        "tool_use_id": "srvtoolu_01SzugYneZJvi1Bpf78ugti8",
+        "content": [
+          {
+            "type": "web_search_result",
+            "title": "Brisbane",
+            "url": "https://qldestatelawyers.com.au/contact/brisbane/",
+            "encrypted_content": "EsQPCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDA/n/i6GqSxZRJA6HhoM36cYKqGJos/0plcYIjDVL0zQiv9lMpqf1xEbnhsDs04yYhURVb5/iS8z2d2WM3A3RGzpP4LNeqEA78oeKi4qxw6YZtShiLdStMtOR4M0rrUULsXPhNrNeefDquE6vu9x3CAK/AZ9biWF/zquB1Fub6SgXTtm4wXPGOuPyyEMXPuo0fVfrRUirjnAx+gKEX6zjJv7SaOth5lM2m0rQ6rt8rONmYoWSu3InYLscVYkFFSOo8hhRcECBg2wVzUYbLGAIrAcDSJSGHJ0u2F69gcxYEKcvYVbxd2UBrclZwg2nNoENT31zPgWMau9jCxGQJ7xvI+J7Dj2GqwbpxpUtgKuvkevNgAIOphv8tHlSFF1+ibNuzJbStxavm/Jlv4BMHM1QAiP6xY1KHLqR4Q0Fnl+j2bXMqwwghOq0e+hUk2if3lbpEwNPQPPwhUCmjyhgON6WYL4KC7Ud8LU+fywX7xGneMpZI2dHV4kvZs+uJGAOIUCBhPNo70HVNGltLj6nxbqYtJnefAOE0FMmezashoO0P403gXBkIn8A/m67YfLwlx4uiPYIFhcZI/G0uwMCt6GgC5fQd6drUYOxJlPRE2jZvszqXvXewQF01Prc6F3ivYO/b0qPtCyFcxxgYJerhEtUWGW0TKWGi7zmOSaLrmekxK0YbpQM/NHwYTX3xjMptQJA9r+9s7zHN35Z2NijBvW8DRmkbjY6JTq9+MiF37qAcsBzLDoY0ZNScYvi0iXz0wSPaHS1vs9qlb7nTAtLWrFo+I9k7Sb7EBIwgcnjiZof3hZP5QvVyOA/SN0NCtDiajAUqcLw62BRAn/JR/rNgEjedPQOwhgGiovt1fuTy2tVim+t1o4SxFVV58PWuZRXN2nRGYD3xIcNogs+5+ike4dzDMnDC7oesNMvd3Mrz8vZW0TKEbcosoxTU9qLDfdOTox6jVNmFOnYJwH6dORNwAOu/OSCLmFNIliVvQ63elWoXlDiK4KFQV9Vv23Bd3Jffw+3l0BroQ0MPXwe7/l++5lNCuEck/+8v2qjYoRnQu6gwJNym7SZVjrg4QA4A1dbKMrUsN/jEv0p0GM4IXappczrFvftcRu3VNWe3D4RwiBRzuoQCYfPUzZ1M0kufzNknzD/Nym4IYIueLvnENj96zRhbPFyIFQOWicb3EMHScAAGDwfvmdIk607EdNJnTUK/3NuroirBNB2aoX0SmwBeNWzVJp9amV2u01z3b0TuUjIZuIVMdRdKg/GKH90ZLB+LETmA9nNRWP7t2N9iA+N1BHMAhxlnMcSa7TwHTqq38J/waPoYKUOiescA2j7aSfbQP5JcufnfiMvbZD20ZJ+PPB3uxOuHyteBORyYxf4aRfG0CIg+mfooYvfaKV3dXlQ6Vt2jXWs20wNbWiV1iUg7s0DqLu0fF5xWWNxmVgAdJ+b66UWXRzQM4ClArrHEGDQgmM92oKwV7WWbMtIekhW8UH/aw5lEmwT9ZvzkREfaWKKQ8GCGQDThty//Ged7Wz9rVEcXk+JLAEvjlCf/TsaMJM0HjG61ulNd33TJKNB8oKxuqe/y/vnmnqNW9zcr/fc+tRw01VtLBNzKBvJg7q/knomgBAtHmeX6OpJG4Dyv5kHXWmMQWPMdww9/O497nxtkhAHKgL68hr6DCmTxI/YldC25XUJDycVFYENDSmsmBmA6fPk11JG+Zi9Jsh9Bx2a5Dx1r86kSrb34yfNGJ9/hlnMxwXidnMuBNvaeogY0M4v9iQYDpRhuM9Qj88WHr7j1ZXAD1KCkY6GNAu+SApGvgBZuOA60wC97zceEOZAswUrqJkeAM8LIYpUKscvqJ5Zr8rWPZ4b6vLKtvPhcuCLzZvkz8F5XiYk2tkY00y5sKJrDOZ6jrJn9ePfcZ1nGnwspugVFWMpo9Gj6tgB/mCbQS8K6ltRYdiUAn9RILUiif/cDW8ER31X1XX1RKydUSgy5kn1uyAar2d0/lwmBDxn61c0uIToWKwYO2W7K8TSc5/6Xh25adpZpKBUMmc51JTni6xDqdfKCx/J6AqPlPKLxcsQRmFFUYz62xQQGrMd5YbkgxF0478QT4jnFJOffV3d8yUkFPdmJFvtoMBKExKI1zez3forXgXS9dXY2gYpy5N9ahKiG1aLeFazNhFAjj5Eg6UM7/vNYgvTYdua9HL1bklSI9zDPZx4vLcmuVNnJu9GtKuHLAWyFpLqiS+zn/RDL+Pkwoj7ckGGnEpKRhcGPj9KlVRYl53f38HVK6dL+8X+6kf+gsSK9OtbXnXig9vsYLpxE3YJN5kcEBKHXtzB6/U6tZy54SK3jBeuuBRm2eUJJ582qXQKD1bDw+qaEb4XeKQDdmBhY/MsnpbFKcTck7VbesqSPpx1PzMuFsTwIRwm3q5sz6E0jt6JBUR2L5eF/l4qAbEHbgqT+T9bnrooBvKzxV4mPdsWb6vpZXjn5kyFlpEuopQh6rxC3mo1xRTWPWAqTNyzKDRccAg6AN6Jaaku2sxRsRaXh1RLW2OUtxfVbGgHsct3u0t2UyVCLJ8XTXKn1K0jPsRmUFKmITupkKkTqGvUVeJCNYYAw==",
+            "page_age": "675 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Wills and Estates Lawyers Brisbane - Wills & Estates Lawyer",
+            "url": "https://www.mclaughlinlawyers.com.au/wills-and-estates-lawyer-brisbane/",
+            "encrypted_content": "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",
+            "page_age": "170 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Wills and Estate Lawyers Brisbane",
+            "url": "https://www.imlawyers.com.au/legal-expertise/estate-planning/",
+            "encrypted_content": "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",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Wills & Elder Law Lawyers QLD",
+            "url": "https://www.bcglaw.com.au/wills-estates-planning/",
+            "encrypted_content": "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",
+            "page_age": "7 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Wills & Estates Lawyers Brisbane & QLD",
+            "url": "https://empirelegal.com.au/services/wills-and-estates/",
+            "encrypted_content": "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",
+            "page_age": "8 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Wills and Estates Lawyers Brisbane",
+            "url": "https://www.directlawyers.com.au/",
+            "encrypted_content": "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",
+            "page_age": "32 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Brisbane Wills & Estate Lawyers",
+            "url": "https://www.brisbanecitylawyers.com.au/personal/wills-and-enduring-power-of-attorney/",
+            "encrypted_content": "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",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Wills & Estate Planning Lawyers Queensland",
+            "url": "https://www.bcglaw.com.au/wills-estates/",
+            "encrypted_content": "EsgICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDFD0K6kMnblv0G0imRoM9Qjpk2Jg2AHrdu+DIjDUY2WPaKQG4gKma3fkH0oFWp4yaGi800jiGdlzAnPFSuysMN9MLFUa/PYbKgTMMZQqywdoLDBZ7F3CnnNiETk3kFPCNNjDPtCf1JLMPZnFuQ35b8VcXzEKwk85ICv589To4GOmBvL8OshokyM4XP58WCEAmOUgYcmJfKGZCFunICDORQqpswR4qPWy65VDvT8kXbmsV8w9GUxO3IkyP/XrFKn29VQ57chKYj6k3R2IybIeTslgs5KzhinNgg3XwNcMxeS6H8OY6MXZ0r9Vlr4YhrUapLj/xp7b75pRtxvtudH/LQSn2HNJsFLP3W/hu0ekCq/75v5j6FOVmX2cr+T5DcY5qgPaSbRzqPvfzG2armZDciV+qFLIM+cHFFH8pGs2rDtOHgZqtd4cdbKG/Ou0Dw/ErLvvA8wfmKaZP6CYdZTrT30+Nc1vqiMadrn9OICECEejmSvCREY3hxH9hd6DdL4fI3Y0q5yyF6qZevOfgFGrDf9veoCF2fQQYSoqcaj55TJf0kCmoBjfpgeQFLcipffZRMd891v4hdCH5XGaUgWZwW09yAMHvc4tl+jHnePK6jI8kSiFWD75z0C17LpMJWXs434TYCrIfKrJ0BOVJgLQS/co93+FsasD/CGEYghyMB0h+vlQoWLXloh0P25aDVLwwaBnj1QHOQhD6lMIFFzDcBmRikTQP6Pr1qdR51BwluFYn2OBRuGmxoMVrPIMu+4SoQuR4jGxublYsB3WM9p6HNaM6qm1kj821qsbSX0lfnjT0LdHa/YBZAtTYyfcWyl3AioqNnIZAvBZ1Yccqb0aZz5SWL2tDQ3JLmzSHu5rqwCaxBB30OlnUEHPr1i9dHPYrPsNr7YXx3JHgs6ECUY6UJqO+g8Qi3ZaU87rzy7DgPiISU51SNZ9QaISlalO89kDU565D+OuN1TLLF1dkzBu7/JgewpXJeDFjHF8UGguZf0qv1CVIkX4YCzGwabAr/kSzc8TnYKmxxbMWtdJfwVKgca5OTne590mtt95feLjUi946LpIv9B7wdHVQtQpJVKAsOtp56aFEj8DAGMBurOSefmhblDbg63nDz+5mGzrB1BV6/wFkmuXkprXuJ1PxfN8YWsrYaZRSotebftOermuJQtUrf9xGv1um3Kgx9qKTJMTW22AAuKbiRA5rFj6l6E1ccZyN7Kp6/dSKDfi3ogiwQggNoMBBktMRdLx6vIVpVKGOEdjN84t9lFepLJyyJCvOqDdj/qNC7ZlckvL3VlKzHPMrS1eOkb/zcVu6C+HHhEJaVw3mHOt9sHc/2+urIWnZ3f73u95CU2UY3Jv6gpp7H1+n3c42wSk9rMNTH1e15Dz1TkV3C4u5c7yFhgD",
+            "page_age": "213 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Standard Wills Brisbane from $485",
+            "url": "https://www.gullicksonlawyers.com.au/brisbane-wills-estate-lawyers",
+            "encrypted_content": "Ep0PCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDHqTRSYcR2hdZSWr8BoM5XFx/tvOPIruu30NIjAkcVbLu6B0bOH08y9jUnlREcWmt2MK1PlqVPI8RXLW+HNa99rKGdHLGbLhhLBv+JgqoA7huQIPQNmOVpCe06aYsevXN9zvLr6iti0dd70XIVkDRusPbiEYfPu6mD6RNh/VjO9Jbg3Y/wbIu4sIXa4NYKK+GXC29LNjohLLVtDM1aLHJhTTYb/BmylrCnlOQB2CUpl9xzX7QXCxEEtu5uPL5oqLN47l8sKs0+Z7WZoVvx4XxMEtYOlmye1T3WTpOMLTF/elFePBx7/aZMR3h/4Zjs3MHy208quLFBqBp28vz995LTtjAVIl0uRo6mJOGm2q32HsAmryRo7wbd5DDRUEvopjEFNPfYWaLqzsCtkj1++cYpD84sXbfJ1UKtt7wpMwI85QRtk7JFjlL6C3kIsiRKP3dBNtBXrflhcxEnOGRZPXrONlAOpMiLMewM0veXjdiPSuqOo4xTnov8mBw1MJmzR9JCT80vzWSzmcDmMREsdkGhEikyvtNBOZjoaKVIOXnabszZ3WawibLRpkTVWLbPgoh4WXRA9yF/xNNc5KzNrkEwr2fAy3AQPE20Ad5YG4Us3ox/qyRfX69wZ2Atfe8Abi9+f2HV5Y1fxSfucImfGUhlwQr88Gv7UZav9s/j7J1D1s/e3PEI3NZMeqafubhtJEY1ATGm7Vu+ErBTsV5AWxSNgmksuEgOuQFJm5+C4h/j0NCuXye0eQJRnVoGVxJb24eFSrNSXRTu/Ovlsec/GEl00odxpatJZuCTZEzn9dUrqW0J5XS+aXhrBK1Zb+TN6mQAwoCm6JL5DxV/wk0ZvBnRlK4DMNbaeivAsRTrWt6RxNwyYszqyaIKoMsmS7/dkkM+rAQEWJ10JyAZjd5Z/h9FNVgHGHEhuJaVVh6MWemWDbUtFOiW7LZE42wZKJXVkLwXeXfB/cNIQG1DHkp53ZHh+Vd93VYFnXgHnwM3Rknq7ETfz4NCCoyImhuCFiPthlLV3Q91snm8TqX23xjaCnym2eEIhygqDeQSsikBdduqGXacLP9dgOPx8zVhd4t503KOw1rudASlc6Vr4BKzfmg4Rxr+dIqUyYy/KIptsdbA7ezaS3yBbQoTqmJUcJ2ihd7E0tfpKOS4D8hrkXEHSSLDco5wrLY/i0EdO1GB2gp4cEZyP/xAzSIy8NjjmGB/J+VjJqEGqCQBpIPal6sNFx1ZtYI8x6zCkueYLYTiDQSHgtsKlQ6Oan5URzdWPPHpptHj2QArlq9Bq1HQEX1RJ4piMeZWPMhC1GOD6E/dMGAWLkrkugwGeUfO5tGrjtxpNUd7AalieFnxefeA33asoLbuLrhBKtsVsIyulc7UWgzHsA9hNeRJ5xHlDVDTplDGTkG9XKRTHEEFLQBqA3JG3NkMoHzx29jX+/sfDB67eixxiu9beSfcxV7MM++IQtsYumqA+Sg55aycDajgRec2uxO6CAdI96hEXgmJGN44EgSpTp5S+7NSA7BGXt0UxgAsI9Z/7d5Glq0aTpFDMTpptlgyCn+1MIIn/GKuYNxtZJfKY4Dy+DHTMztsUmjk1AiyZ1jMh4zfjYCjEc200oVZVY8EWmT+YTQpeUIpckmEnlk1ouxC8kQQdAQ9urqb3aAXX3ECz7zUueeCpnBubOBfMNmC/63ecx44tirDxMtGwdL0GPh6KqJ3x24Ta1DXaarIZmPvJOMI9++8a3Gh2gQH3/kWt20s9/El+8AqhlMRU4ex7L158LHSEG1ClbLbOFdL1iEYieBJyk0VH7/ETN5vaBqbqQS/y9gC9rDnxwYu+oRQ7TKp1gkS4ExNRwii8oa8ZNWbAXVsI3QN3bJQ3BpADTY5Mh5NIMLvNbFut4oziGzEprSK32vpVyPWc/YZcjTnyZp0Jx9DdQCw+TsEMlg4I7DAD+IMV+TwvwNE0UHdYKxEmuqoQl88zS0o9zTkqbiQJrp40O4xawc9y7eC7kfOMlb9t3g7JtKfak1sQfsTHaailXwr8wVuIoZ7NOyIlOEs/stMcCC0z5cYj8S8sTwemldvsXNs+Nj4wk2LixbN2BBkw3q/e23fr63AryqoJIleYEu2QbpEpS0J7iqTM5wTU3+B7IN1XoSqo3gmkJkzCH4YRn69+hvFGhzcbgqsSTQPOZz0TejdOH4I2/cPx9gjVBcSwk2YnaFiV+K249WIw3Ehy5A1wCUeLHh1r/c1NNZdnp9axVRgi/45VX06/DSmvIAOJZQmCp9OtVzbmyIrE5ZB3atJ48UKM3FvkOZsoQYtsHocfhfKfLSPolfHj1DbISy+vDRdDBnHeYm5j90DDP3iUmy3rb7PhgKW9hTJgNNnx8aeu/sU+KFy7XFF7BoMt7hlYJZdMCAVMnsQkp++0z8T2mu7r+uURoBNNzNkbSCUNnY2yRukj/nUa/Th+Ysirw7HQdyyyUQ3L32hDPOjzqbkoXm4NbXmykluQRWakrbsYTdgRZuF3Lgp8GYROCPEoaMentaUji6F/6sWCJNcCBDSIYAw==",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Estate Planning in Brisbane",
+            "url": "https://connorhunter.com/estate-planning-in-brisbane/",
+            "encrypted_content": "EuMICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDMb4S11Exf/skZRrEBoMriY5UG/mk3qvQ9G8IjBN43PkLrRJKGytE/XvThi51RFbcs1dUwvp5v6H48mfugQCIAFs6+Xpdy3DfoIpKUkq5gcoMZw99OwV8r8y09Ewmbv0jjqckrUTpt0aDPX1pTZxg/Gas6y/hd1avO9+58qSkRPQ8rOVil9VPOPsfJ1vf9xOQd8EuznYwBLItFVFbyD6Cov1WOAwbq2fpL46NP5CrSNvJAoeerpUXby/dotPUMEMets0ub+mlepUh2Le9dAPaOpRqrV44kaVofuetkxsNWoCB25wOfjA8xqPz2vcmq7yvv/An/o9ODV6SaccHceg3RmAa+dxoEnxDBcw72SBnzNpE6b17EJf5FZjkMvn4slIjMXlZWLcy3L8wWHFYoE8QIjmsF9/dSF+hRdnL8L32EE0D+p6h1GR8AzVo99I6WsHcBo32gQkFexYel+hKhMYHIrwgJ40xmJPEJ0a1jBCWwwcDCgW5vlJi0uE5p3iE1uE3HasbQuTIuWenpTpXzAqz1o9UeXTiKYRlfNWMJ6jPSeVSWDCQ9mcA8ykxlBjCV7PZCWtygrmdy5ohauf7qRdF+ZN2cGl++CuDEbv4FUYSRWGnt0Tm2FWjmwcTfEqXYlJLZF28KLDVazEQdgiGa9yYfsS54WNvM6PlOJWGn+PI6xSiyyZWAwObAYzJ4VonX5PSH5BtnvtiGZnMDL3sDhv74oFB7zyD9+rmkFDND5QC/aRzf0IvEqDQPa0w0pYI+xMHevELQMzVtVWZSGdCHi2fC/NoQVRN60KxsRmCldHtxQaJ5OFrs57BUHyTK+EfPjG+npNJTT1jmg2sUr3hR7jlDUOOdTcN98QMRQvWo+AKb04hYbgINMg5yd+lWUHAnCFoTj2dypBKWa5Z0v6334TaR6n2GCtefU5mMaMh5R2GY3qZpwNh+WATeXuU0HW0L8FO3PY8LIoRkm5QMJ8m3bthMh6oPuzpw97tvwb87w7CAQtuzvsYHlsoOuQncdjposX2KbWoG8JMxZpaSVQTJMiTgvrKKqxTXAGxaQRjdbjjmOapbgF2XCIcDIKNhNFsyGEfhwwSqeTYVsJy8iAqvSZ1QgbxMta7JDtGX3Q7jd3fT1e0Y2Pjy3UCxZ7Y29FlCWaITAfopP5KiajmMF2bOYT3e8chowWBCfW2QQSDCuBdoW6MV9IiTT6AT7QqKIdFdXJwuEYEpY7D6ZQR8Xa0LY42woYzOelU1qu1RyPKlEJXOAZVypoAtcslh5KbNhAQhRBWD9PGuFY0G+iQfWNA4ye6DU/32L067zB1FPrHDb9et/lpUagzivI7Wf2BuCS4PLFggMOfId/lkSuP+mnhy54EGhE2M7fAibWPMegKQr+HSbcABryqOeN8d0oSkhFl3pUVGn2dUhN63Df/184vdyA5oHZbxPq5BgD",
+            "page_age": "323 days ago"
+          }
+        ],
+        "caller": {
+          "type": "direct"
+        }
+      },
+      {
+        "type": "web_search_tool_result",
+        "tool_use_id": "srvtoolu_01WLdbn2zivYsuGsRL3GBLNk",
+        "content": {
+          "type": "web_search_tool_result_error",
+          "error_code": "max_uses_exceeded"
+        },
+        "caller": {
+          "type": "direct"
+        }
+      },
+      {
+        "type": "text",
+        "text": "Here is a curated guide to the **best wills and estates lawyers in Brisbane East and Bayside (Carindale & Wynnum)** for drafting wills, testamentary trusts, and enduring powers of attorney (EPOAs):\n\n---\n\n## 🏆 Top Wills & Estates Lawyers – Brisbane East, Carindale & Wynnum Bayside\n\n---\n\n### 1. 🥇 **Empire Legal – Bayside (Wynnum Office)**\n📍 98 Glenora St, Wynnum QLD 4178\n📞 07 3088 7675\n🌐 empirelegal.com.au\n\nEmpire Legal is arguably the **standout local choice** for Wynnum and Bayside residents. "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "# Wills & Estates Lawyers Queensland\n## Standard-fee wills, powers of attorney and probate\n### Finalise your wishes with our friendly Brisbane, Baysid...",
+            "url": "https://empirelegal.com.au/services/wills-and-estates/",
+            "title": "Wills & Estates Lawyers Brisbane & QLD",
+            "encrypted_index": "EpABCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDE7lVoKL3gi9dL1z9RoMQ0CR+0xQfd01D4JUIjBK9a54MJiP2uFCwfrsqPAtJ9BqkcyXI7jAH91wfOvcCoejdarx2k/tRP5zmWv7yNgqFBX0xahjQqd/qaw516/m70Q2BnveGAQ="
+          }
+        ],
+        "type": "text",
+        "text": "They have earned an impressive **5.0 stars from over 3,068 Google reviews**"
+      },
+      {
+        "type": "text",
+        "text": ", making them one of the most trusted firms in Queensland. "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Standard-fee wills from $660, plus power of attorney, advance health directives and probate. ",
+            "url": "https://empirelegal.com.au/services/wills-and-estates/",
+            "title": "Wills & Estates Lawyers Brisbane & QLD",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDPUSHlUrEnHdD9/nwhoMGQthMr8ZLrSc8WGTIjAkCcfY/OD2npE0iFZBRQOR2wMUEBryU3EZqlYRWcDzy+xcuE6kyt9b+3u+Plm5vdEqE3m7Ymq136F5P0ELON3oyH0jjF8YBA=="
+          }
+        ],
+        "type": "text",
+        "text": "They offer standard-fee wills from $660, plus powers of attorney, advance health directives, and probate."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "A testamentary trust is a trust that springs into life through your will when you pass. It can hold assets for beneficiaries instead of handing them o...",
+            "url": "https://empirelegal.com.au/services/wills-and-estates/",
+            "title": "Wills & Estates Lawyers Brisbane & QLD",
+            "encrypted_index": "EpQBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDCSu84O3ZRQhv8wn6BoM1+g/4ESk1Q/KC6GNIjCNBx8EuLCQN9zxwsRGAvfTZU55rXS7s+T+VwJPW1Ofb5SXjTsQAUYS+TVUGt54FzUqGPJ6lhQqejAe4dZDEdhP35yB5JkxpQoWixgE"
+          }
+        ],
+        "type": "text",
+        "text": "A testamentary trust is a trust that springs into life through your will when you pass — it can hold assets for beneficiaries instead of handing them out as a lump sum, and is most often set up for children under 18, beneficiaries who are not great with money, blended families, or asset protection where a beneficiary works in a high-risk profession."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Our wills lawyer team will tell you straight if it would actually help you, rather than charging for one you do not need.\n\n",
+            "url": "https://empirelegal.com.au/services/wills-and-estates/",
+            "title": "Wills & Estates Lawyers Brisbane & QLD",
+            "encrypted_index": "EpEBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDEwXpsRjn6LFnEQVZRoMs1R8f9GAsSnmph/SIjDaSVvKvBGbCZVfSuUq1FUOq6aur73TpDTBc2m2V9TtIyOJf7by7NyN4HN36/1kXBoqFQu6yB68b1TADDI2Oa2i35v0J7P6ABgE"
+          }
+        ],
+        "type": "text",
+        "text": "Their wills lawyers will advise you honestly on whether a testamentary trust would actually help you, rather than charging for one you don't need."
+      },
+      {
+        "type": "text",
+        "text": "\n\n**Best for:** Wynnum/Bayside locals, fixed-fee certainty, blended families, testamentary trusts\n\n---\n\n### 2. 🥈 **Gullickson Lawyers – Serving Carindale & Bayside**\n🌐 gullicksonlawyers.com.au\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "At Gullickson Lawyers, we provide cost-effective, practical legal advice for wills, powers of attorney, probate and estate disputes in Brisbane. ",
+            "url": "https://www.gullicksonlawyers.com.au/brisbane-wills-estate-lawyers",
+            "title": "Standard Wills Brisbane from $485",
+            "encrypted_index": "EpABCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDJEUCXShJJJzbqnlIxoMlWJkqm6RbnKwNQWOIjCejT/zo+6f+4/h1YUXF1N+hWgPmgA1b+h8DX30heZcqE6OAp4hLy8K3I0HK2BVucAqFNAJ+ZcWAkqhRtposRG3gJzCEordGAQ="
+          }
+        ],
+        "type": "text",
+        "text": "Gullickson Lawyers provides cost-effective, practical legal advice for wills, powers of attorney, probate, and estate disputes in Brisbane."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "We help individuals and families across Brisbane with:\n\n- Drafting valid, legally enforceable **wills**\n- Preparing **enduring powers of attorney**\n- ...",
+            "url": "https://www.gullicksonlawyers.com.au/brisbane-wills-estate-lawyers",
+            "title": "Standard Wills Brisbane from $485",
+            "encrypted_index": "EpABCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDGjBnnY4UvOuvc59lhoMOhV1ZUDMvxnFwdPGIjDPFdLrr73l6rETls0+i8XwIAAOskBtH47wc/KSXnCvaIS+8V529ehKLfrSr9FTo9YqFMXaC0qdrSPVuCChdIM5nA3zIuXlGAQ="
+          }
+        ],
+        "type": "text",
+        "text": "They help individuals and families with drafting valid, legally enforceable wills, preparing enduring powers of attorney, navigating probate and estate administration, resolving estate disputes, and structuring your estate to protect assets — including **testamentary trusts**."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "## Serving Brisbane & Surrounding Areas\nWe assist clients in:\n\n- Brisbane City & CBD\n- North Brisbane\n- South Brisbane\n- Brisbane’s Inner East Suburbs...",
+            "url": "https://www.gullicksonlawyers.com.au/brisbane-wills-estate-lawyers",
+            "title": "Standard Wills Brisbane from $485",
+            "encrypted_index": "EpABCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDAPUTrjGMVZo/KpvehoMsethKV6HzrSgz5oXIjDz/tv2b5VBq16R24cbHzXkVjoNe+tygLhARlD1wSVAKK4RFlsVIgXLUipmhDL8IlQqFJYZwHtiadaFYyOARIoQ+MJ8h1JVGAQ="
+          }
+        ],
+        "type": "text",
+        "text": "They specifically service Brisbane's Inner East suburbs (Norman Park, Bulimba, Hawthorne, Morningside), Bayside suburbs (Wynnum, Manly, Lota, Tingalpa, Hemmant), and Carindale."
+      },
+      {
+        "type": "text",
+        "text": "\n\n**Best for:** Cost-effective advice, Carindale & Bayside coverage, testamentary trusts, will disputes\n\n---\n\n### 3. 🥉 **Barto Du Plessis Solicitors – Carindale**\n📍 Carindale, QLD\n🌐 lawconnect.com.au\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "### Barto Du Plessis Solicitors\nCarindale, QLD (10.4 km from Wynnum)0434 47 ..\n\n5.0 5 ratings\n\nBarto du Plessis is a solicitor with 25 years of divers...",
+            "url": "https://lawconnect.com/en-au/find/estate-administration/qld/wynnum-4178",
+            "title": "Find Estate Administration Lawyers in Wynnum, QLD",
+            "encrypted_index": "EpEBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDEQiZvYy1DBEI+LNPhoM5PkXbQoraCSClSezIjCmmVHOwDN60Bmgbytddj74ojd5IniXw591Etx+JrgwrfiVwkwUI1sJmjwcvPyP+YMqFdbs/In4ANBkwkuBsnEJHNu/xNTbSRgE"
+          }
+        ],
+        "type": "text",
+        "text": "Barto du Plessis is a solicitor with **25 years of diverse legal experience** based in Carindale, south of Brisbane. His firm provides services in contracts, wills, conveyancing, and civil disputes."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Their robust litigation practice covers commercial, business, and employment cases, including unfair dismissal, divorce, will disputes, debt recovery,...",
+            "url": "https://lawconnect.com/en-au/find/estate-administration/qld/wynnum-4178",
+            "title": "Find Estate Administration Lawyers in Wynnum, QLD",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDILSRaVRbD+cnm/gQxoMFen2NxANEdlb8mRSIjDakVZ8mXgOMzoMYaIYJbs0lDMMvOMgvY1N6xgkUxWhJ459GnHeXJKWk1uI9BnXzzcqEzctIH5zG46ecoKR+QatMLbogBQYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "Their robust litigation practice also covers will disputes, divorce, debt recovery, and breaches of contract."
+      },
+      {
+        "type": "text",
+        "text": " With a **5.0-star rating**, this is an excellent boutique option for Carindale residents wanting personalised, experienced local service.\n\n**Best for:** Carindale residents, personalised boutique service, wills & disputes\n\n---\n\n### 4. **DBL Solicitors – Wynnum/Bayside**\n🌐 finchly.com.au\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "DBL Solicitors brings over 25 years of trusted experience to help families navigate essential estate matters including will preparation, enduring powe...",
+            "url": "https://finchly.com.au/find/wills-and-estates/qld/wynnum-4178",
+            "title": "Find Wills and Estates Lawyers in Wynnum QLD - Lawconnect",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDNkOtE31seZfyxOoQBoMRZbPgzTdTUAYDEBpIjBzX4K7ShROrICJL5yhuV9fiTBABnBw6AyKKsgQeVkOYYn+t6+wqpBqjoWRDMajnwwqE/5h5OvLltP9xWZEkHB0yLxi2voYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "DBL Solicitors brings over **25 years of trusted experience** to help families navigate essential estate matters, including will preparation, enduring powers of attorney, deceased estate administration, and will disputes."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "The firm's personalised approach ensures Wynnum clients receive clear guidance through complex inheritance issues, estate settlements, and probate pro...",
+            "url": "https://finchly.com.au/find/wills-and-estates/qld/wynnum-4178",
+            "title": "Find Wills and Estates Lawyers in Wynnum QLD - Lawconnect",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDOYtxeIvuO/e5sfG3hoMZZEsW2jjVQcPEVTVIjBw01MaUQEPxBt2eE4RF85fWwbbixCFT/gABjsKNyp2Q7C9iLnnkoejlYexoFl1lT8qE6zu4x2OpET+YgJ2R9c9B7NdMCgYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "The firm's personalised approach ensures Wynnum clients receive clear guidance through complex inheritance issues, estate settlements, and probate processes during what can often be emotionally challenging times."
+      },
+      {
+        "type": "text",
+        "text": "\n\n**Best for:** Wynnum locals, comprehensive estate administration, will disputes\n\n---\n\n### 5. **Webb & Co Lawyers – Bayside**\n🌐 Available via lawconnect.com.au\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "### Webb & Co Lawyers\nWebb & Co Lawyers offers clear, practical, client-focused legal advice across a range of services. Specialising in commercial la...",
+            "url": "https://lawconnect.com/en-au/find/estate-administration/qld/wynnum-4178",
+            "title": "Find Estate Administration Lawyers in Wynnum, QLD",
+            "encrypted_index": "EpMBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDKiMrHR55uiRJZQJKRoMk9aKzqWdlsLkU5bfIjDGeCuvwX/aCM+uHkX8A9QsAIH0MGIbaCIfqtFmUoyCcOix0vMted1Y8NTQPi1hlM4qFxnXVFQgPPyP0c+zy5YT0HuNUQQ5KR7eGAQ="
+          }
+        ],
+        "type": "text",
+        "text": "Webb & Co Lawyers offers clear, practical, client-focused legal advice. Specialising in commercial law and civil litigation, they also handle wills and estates matters, providing tailored solutions for wills, trusts, powers of attorney, probate, and estate disputes."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Based in Brisbane, Ipswich, Bayside, and the Sunshine Coast, Webb & Co prioritises rapid response and invites clients to a free 30-minute consultation...",
+            "url": "https://lawconnect.com/en-au/find/estate-administration/qld/wynnum-4178",
+            "title": "Find Estate Administration Lawyers in Wynnum, QLD",
+            "encrypted_index": "EpABCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDEXr6N97cX5i5rRzExoMtbLfKGzOoc68KubqIjAB5a7YtPwVIEtqj37hUeJ8cFzldqdwXOA40s0UA4s46ZY7Qrgcu/fOX/HokCYdB88qFFlygUnXzCpO3CtP+EPjcnzk2hhGGAQ="
+          }
+        ],
+        "type": "text",
+        "text": "Based in Brisbane, Ipswich, Bayside, and the Sunshine Coast, Webb & Co prioritises rapid response and invites clients to a **free 30-minute consultation**."
+      },
+      {
+        "type": "text",
+        "text": "\n\n**Best for:** Free initial consult, wills, trusts, POA, Bayside\n\n---\n\n### 6. **Macfie Curlewis Spiro – Capalaba (nearby East Bayside)**\n📍 72 Old Cleveland Road, Capalaba QLD 4157\n📞 (07) 3390 2122\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Led by Warren Rosen, an accredited family law…\n\n## Anderssen & Company\nWills, Probates & Estates\n\n**69 Years**\n\nin Business\n\n115 Gotha Street\n\nFortitu...",
+            "url": "https://www.yellowpages.com.au/carindale-qld-4152/wills-probates-estates",
+            "title": "30 Best Local Wills Probates Estates in Carindale, QLD 4152",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDDj0TVhpPBybsj7opxoMKZuo4Zouah0ujr4BIjC+p61tfLec2XzHA/Dh/FIEQwFuhoN7mkcswWFjjOByd5Anbws2o1zC2BuwC83DHnwqE0FmlDEbvwTVE6tVOK+vWGjl4yMYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "Macfie Curlewis Spiro is a well-established firm and appears among the top recommended wills, probates, and estates firms serving the Carindale and Bayside area."
+      },
+      {
+        "type": "text",
+        "text": " Located in nearby Capalaba, they are conveniently accessible for East Brisbane and Bayside residents.\n\n**Best for:** East Bayside/Redlands proximity, general estate planning\n\n---\n\n### 7. **Kate Redman & Associates – Mobile Service (Brisbane-wide)**\n🌐 kateredman.com.au\n\nA great option if you prefer a lawyer to come to **you**. "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Kate Redman & Associates are the mobile wills & estates lawyers in Brisbane & Sunshine Coast.\n\nKate Redman & Associates are the mobile wills & estates...",
+            "url": "https://kateredman.com.au/",
+            "title": "Kate Redman & Associates",
+            "encrypted_index": "EpEBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDOf+E8pFYyCHu8U9LhoMB+UNPW8xtimBqMcoIjCOW2HLuC+o80qUKKqNQctAA4V6D8xZeRcSufdsfyIpmf3oew5A2chMtphkDeNitsYqFeyN7QirQYH2QZ+PqOV/Wlpl6AXadxgE"
+          }
+        ],
+        "type": "text",
+        "text": "Kate Redman & Associates are mobile wills and estates lawyers serving Brisbane and the Sunshine Coast, offering expert advice in wills, estate planning, administration, and litigation."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "We come to you across Brisbane and the Gold Coast, charge fixed fees, and explain everything in plain English. ",
+            "url": "https://kateredman.com.au/",
+            "title": "Kate Redman & Associates",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDM7DHqCLVAeJwYPxqBoMcqn+8z0QnC+NUaVEIjBFcDTCsFHQyMF/MMLONNA/GPR3RHHEdm1Fe2nQGFHF5yr07MP8WJ7z7Vdh6bhyAqwqEy3NnMqXvsQizgdNsqCqWkrFuBAYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "They come to you across Brisbane, charge fixed fees, and explain everything in plain English."
+      },
+      {
+        "type": "text",
+        "text": "\n\n**Best for:** Elderly clients, mobility-limited clients, home visits, fixed fees\n\n---\n\n## 📋 Key Services to Ask About\n\nWhen engaging any of these firms, make sure to ask about:\n\n- ✅ **Wills** (simple and complex)\n- ✅ **Testamentary Trusts** – "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "A testamentary trust is a trust established by a will, which comes into effect upon the will-maker’s death. It can provide asset protection and tax be...",
+            "url": "https://www.mclaughlinlawyers.com.au/wills-and-estates-lawyer-brisbane/",
+            "title": "Wills and Estates Lawyers Brisbane - Wills & Estates Lawyer",
+            "encrypted_index": "EpIBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDNrbXY9VaGc1HSmWXxoMyJjWjfFbGI5LaqGrIjCNtZ7vhqlVcq/oVH0RFw4k5sy0Gf/581HC061Rt2vIyccJUv+hQhJnQodfIZHbOR8qFi3MdErZV0ROtlT00aGEedAYAzSyCOIYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "A testamentary trust is established by a will and comes into effect upon the will-maker's death; it can provide asset protection and tax benefits for beneficiaries."
+      },
+      {
+        "type": "text",
+        "text": "\n- ✅ **Enduring Powers of Attorney (EPOA)** – "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "An enduring power of attorney is a legal document prepared by wills and estates lawyers that allows you to appoint someone to make financial, personal...",
+            "url": "https://www.mclaughlinlawyers.com.au/wills-and-estates-lawyer-brisbane/",
+            "title": "Wills and Estates Lawyers Brisbane - Wills & Estates Lawyer",
+            "encrypted_index": "EpABCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDPUU55pfllCj4q5zkBoMnX8jNWWtT30zOKUEIjDq8eTtrVBrAW+ooQWRhq9DmBckq0nCJwNslHIVAV1eB/QkBBea674vH8a3sF368Z8qFAMwCMP9KExKCQqaN/TQifRYi3TTGAQ="
+          }
+        ],
+        "type": "text",
+        "text": "An EPOA allows you to appoint someone to make financial, personal, and health decisions on your behalf if you lose capacity."
+      },
+      {
+        "type": "text",
+        "text": "\n- ✅ **"
+      }
+    ],
+    "container": null,
+    "stop_reason": "max_tokens",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 16367,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1974,
+      "service_tier": "standard",
+      "inference_geo": "global",
+      "speed": "standard",
+      "server_tool_use": {
+        "web_search_requests": 2,
+        "web_fetch_requests": 0
+      }
+    },
+    "diagnostics": null
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "slug": "springfield",
+  "pk": "probate_administration",
+  "plat": "aimode",
+  "text": "I am an executor handling probate and deceased estate administration in Springfield and Greater Springfield, QLD. Which law firms specialise in Queensland probate and estate administration?",
+  "loc": 9191413,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\springfield__probate_administration__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:24:56.262Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "I am an executor handling probate and deceased estate administration in Springfield and Greater Springfield, QLD. Which law firms specialise in Queensland probate and estate administration?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 9191413,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=I%20am%20an%20executor%20handling%20probate%20and%20deceased%20estate%20administration%20in%20Springfield%20and%20Greater%20Springfield%2C%20QLD.%20Which%20law%20firms%20specialise%20in%20Queensland%20probate%20and%20estate%20administration%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCRFktRYbSpFrEUDb3vNaowIF",
+      "datetime": "2026-10-23 05:24:51 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "If you are acting as an executor, `several local law firms located directly in Springfield, Springfield Central, Brookwater, and Augustine Heights` specialize in or regularly handle Queensland probate, Letters of Administration, and comprehensive deceased estate administration.\n\nLocal options situated in the Greater Springfield area include:\n\n\n\n---\n\n![](https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QurfQ83WEnqjU5YZaWmO8A&cb_client=search.gws-prod.grass&yaw=94.6419&pitch=-11.619396&thumbfov=100&w=82&h=82)\nBrookwater Legal 4.8 (326)  \nLegal services  \nOpen Augustine Heights QLD  \nCall Directions Website**Brookwater Legal** (Augustine Heights / Brookwater) – Offers dedicated services covering deceased estates, administering complex estates, and inheritance protection alongside general estate planning. You can view their scope via Brookwater Legal.\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLe9EsEEjVOdtXgXLV3B2JNVqhcVzcz0SMIdLhPIye4RXjr_0ZHftjXMA9IflSyG5-VGd6XWqyeUX1js3azgYWHNBFrbX29oBGnS8HUX4H49GsoK9s6qyj2pR-h-Sd6EhNVdWs_gPDrzpCVS=s192-w192-h144-n-k-no)\nMcNamara Law 4.7 (152)  \nLegal services  \nOpen Springfield Central QLD  \nCall Directions Website Features practitioners who focus heavily on Wills and Estates law, handling both the administrative side of losing a loved one and any potential contentious estate litigation.\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLfvFKFnXqPHQGvhFsnnDAv1v2iO0c4srD4klOzFXeVqh--RmEVrEmmjuuVIhPO7sODsMkD6GSdsbTNHhalZo3fZEaN8NXTifCTqc45BFCTbaab3EL1W2_c_k4RnMYwwh5SOUc24Zw=s192-w192-h144-n-k-no)\nLadyBird Wills & Estates / LadyBird Law & Conveyancing 4.7 (337)  \nConveyancer  \nOpen Springfield Central QLD  \nCall Directions Website Provides localized, dedicated assistance for getting personal affairs and succession documentation in order.\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLcsuDgXMUwo6hL4qr64b9JEjiXJZpAqQG5yw2l7bsz76S1pU4sE4vQ_LocdMRFV3zKzfSxuxUlDvObXlGE78uCnl8UjrkmZhi0Snlv0qExxtdNDaeJ7s-JaqZOfTHdyuJnDx900R6neMA9g=s192-w192-h144-n-k-no)\nTrilby Misso Lawyers 4.9 (46)  \nLegal services  \nOpen Springfield QLD  \nCall Directions Website Located in Orion Springfield Central, well-known across Queensland for handling succession, probate, and estate administration services.\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLc9CpmbFiawizg68w2Yh0W3Y_0kIUQchIX92pUPj9oKX3EA7HMOlk81Hj6ip_hZp6wXita4btH4n5l_uFQ_GcHXs1MGJlN8TNF49ZLUv6p2J8QU97u0pH_M95XHk7ictUVppFpa=s192-w192-h144-n-k-no)\nKeane Legal 4.5 (16)  \nLaw firm  \nOpen Brookwater QLD  \nCall Directions Website Operates out of Brookwater Office Park and services the Greater Springfield/Ipswich regions with succession law services, including estate administration and will disputes.\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLfRLjuozMEMrISUBSdE5xtM262E6wPlwA0n_UExw15j2UvtNbTx_FcdNIO0C-qHHp2ru7LKiy3emnU-9kD1akrUMyCSi7Mfwib6WcKC8MB9I52S5MtRhVDPsonTwhYcV5GvDO8Z=s108-w108-h144-n-k-no)\nNurture Law 5.0 (17)  \nEstate planning attorney  \nOpen Forest Lake QLD  \nCall Directions Website Frequently assists clients across the border of Greater Springfield with prompt, specialized support specifically for Grant of Probate and estate processes.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVd0aWJETmpiWE0xGAo)\n\nWhen choosing a firm, it is usually helpful to confirm whether they charge a fixed fee for straightforward probate applications or bill on an hourly basis for full estate administration.\n\nWould you like me to help you find their **contact numbers/websites** , or do you need assistance knowing **what documents to gather** for a Queensland probate application first?",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you are acting as an executor, several local law firms located directly in Springfield, Springfield Central, Brookwater, and Augustine Heights specialize in or regularly handle Queensland probate, Letters of Administration, and comprehensive deceased estate administration.",
+              "markdown": "If you are acting as an executor, `several local law firms located directly in Springfield, Springfield Central, Brookwater, and Augustine Heights` specialize in or regularly handle Queensland probate, Letters of Administration, and comprehensive deceased estate administration.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Local options situated in the Greater Springfield area include:",
+              "markdown": "Local options situated in the Greater Springfield area include:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Brookwater Legal 4.8 (326) Legal services Open Augustine Heights QLD Call Directions Website Brookwater Legal (Augustine Heights / Brookwater) – Offers dedicated services covering deceased estates, administering complex estates, and inheritance protection alongside general estate planning. You can view their scope via Brookwater Legal.",
+              "markdown": "---\n\n![](https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QurfQ83WEnqjU5YZaWmO8A&cb_client=search.gws-prod.grass&yaw=94.6419&pitch=-11.619396&thumbfov=100&w=82&h=82)\nBrookwater Legal 4.8 (326)  \nLegal services  \nOpen Augustine Heights QLD  \nCall Directions Website**Brookwater Legal** (Augustine Heights / Brookwater) – Offers dedicated services covering deceased estates, administering complex estates, and inheritance protection alongside general estate planning. You can view their scope via Brookwater Legal.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QurfQ83WEnqjU5YZaWmO8A&cb_client=search.gws-prod.grass&yaw=94.6419&pitch=-11.619396&thumbfov=100&w=82&h=82"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "McNamara Law 4.7 (152) Legal services Open Springfield Central QLD Call Directions Website Features practitioners who focus heavily on Wills and Estates law, handling both the administrative side of losing a loved one and any potential contentious estate litigation.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLe9EsEEjVOdtXgXLV3B2JNVqhcVzcz0SMIdLhPIye4RXjr_0ZHftjXMA9IflSyG5-VGd6XWqyeUX1js3azgYWHNBFrbX29oBGnS8HUX4H49GsoK9s6qyj2pR-h-Sd6EhNVdWs_gPDrzpCVS=s192-w192-h144-n-k-no)\nMcNamara Law 4.7 (152)  \nLegal services  \nOpen Springfield Central QLD  \nCall Directions Website Features practitioners who focus heavily on Wills and Estates law, handling both the administrative side of losing a loved one and any potential contentious estate litigation.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe9EsEEjVOdtXgXLV3B2JNVqhcVzcz0SMIdLhPIye4RXjr_0ZHftjXMA9IflSyG5-VGd6XWqyeUX1js3azgYWHNBFrbX29oBGnS8HUX4H49GsoK9s6qyj2pR-h-Sd6EhNVdWs_gPDrzpCVS=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "LadyBird Wills & Estates / LadyBird Law & Conveyancing 4.7 (337) Conveyancer Open Springfield Central QLD Call Directions Website Provides localized, dedicated assistance for getting personal affairs and succession documentation in order.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLfvFKFnXqPHQGvhFsnnDAv1v2iO0c4srD4klOzFXeVqh--RmEVrEmmjuuVIhPO7sODsMkD6GSdsbTNHhalZo3fZEaN8NXTifCTqc45BFCTbaab3EL1W2_c_k4RnMYwwh5SOUc24Zw=s192-w192-h144-n-k-no)\nLadyBird Wills & Estates / LadyBird Law & Conveyancing 4.7 (337)  \nConveyancer  \nOpen Springfield Central QLD  \nCall Directions Website Provides localized, dedicated assistance for getting personal affairs and succession documentation in order.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfvFKFnXqPHQGvhFsnnDAv1v2iO0c4srD4klOzFXeVqh--RmEVrEmmjuuVIhPO7sODsMkD6GSdsbTNHhalZo3fZEaN8NXTifCTqc45BFCTbaab3EL1W2_c_k4RnMYwwh5SOUc24Zw=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Trilby Misso Lawyers 4.9 (46) Legal services Open Springfield QLD Call Directions Website Located in Orion Springfield Central, well-known across Queensland for handling succession, probate, and estate administration services.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLcsuDgXMUwo6hL4qr64b9JEjiXJZpAqQG5yw2l7bsz76S1pU4sE4vQ_LocdMRFV3zKzfSxuxUlDvObXlGE78uCnl8UjrkmZhi0Snlv0qExxtdNDaeJ7s-JaqZOfTHdyuJnDx900R6neMA9g=s192-w192-h144-n-k-no)\nTrilby Misso Lawyers 4.9 (46)  \nLegal services  \nOpen Springfield QLD  \nCall Directions Website Located in Orion Springfield Central, well-known across Queensland for handling succession, probate, and estate administration services.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcsuDgXMUwo6hL4qr64b9JEjiXJZpAqQG5yw2l7bsz76S1pU4sE4vQ_LocdMRFV3zKzfSxuxUlDvObXlGE78uCnl8UjrkmZhi0Snlv0qExxtdNDaeJ7s-JaqZOfTHdyuJnDx900R6neMA9g=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Keane Legal 4.5 (16) Law firm Open Brookwater QLD Call Directions Website Operates out of Brookwater Office Park and services the Greater Springfield/Ipswich regions with succession law services, including estate administration and will disputes.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLc9CpmbFiawizg68w2Yh0W3Y_0kIUQchIX92pUPj9oKX3EA7HMOlk81Hj6ip_hZp6wXita4btH4n5l_uFQ_GcHXs1MGJlN8TNF49ZLUv6p2J8QU97u0pH_M95XHk7ictUVppFpa=s192-w192-h144-n-k-no)\nKeane Legal 4.5 (16)  \nLaw firm  \nOpen Brookwater QLD  \nCall Directions Website Operates out of Brookwater Office Park and services the Greater Springfield/Ipswich regions with succession law services, including estate administration and will disputes.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc9CpmbFiawizg68w2Yh0W3Y_0kIUQchIX92pUPj9oKX3EA7HMOlk81Hj6ip_hZp6wXita4btH4n5l_uFQ_GcHXs1MGJlN8TNF49ZLUv6p2J8QU97u0pH_M95XHk7ictUVppFpa=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Nurture Law 5.0 (17) Estate planning attorney Open Forest Lake QLD Call Directions Website Frequently assists clients across the border of Greater Springfield with prompt, specialized support specifically for Grant of Probate and estate processes.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLfRLjuozMEMrISUBSdE5xtM262E6wPlwA0n_UExw15j2UvtNbTx_FcdNIO0C-qHHp2ru7LKiy3emnU-9kD1akrUMyCSi7Mfwib6WcKC8MB9I52S5MtRhVDPsonTwhYcV5GvDO8Z=s108-w108-h144-n-k-no)\nNurture Law 5.0 (17)  \nEstate planning attorney  \nOpen Forest Lake QLD  \nCall Directions Website Frequently assists clients across the border of Greater Springfield with prompt, specialized support specifically for Grant of Probate and estate processes.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVd0aWJETmpiWE0xGAo)",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfRLjuozMEMrISUBSdE5xtM262E6wPlwA0n_UExw15j2UvtNbTx_FcdNIO0C-qHHp2ru7LKiy3emnU-9kD1akrUMyCSi7Mfwib6WcKC8MB9I52S5MtRhVDPsonTwhYcV5GvDO8Z=s108-w108-h144-n-k-no"
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVd0aWJETmpiWE0xGAo",
+                  "title": "LadyBird Wills & Estates",
+                  "text": "With shared values of service, commitment and delivery for clients, the LadyBird Wills & Estates partners bring extensive industry..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "When choosing a firm, it is usually helpful to confirm whether they charge a fixed fee for straightforward probate applications or bill on an hourly basis for full estate administration.",
+              "markdown": "When choosing a firm, it is usually helpful to confirm whether they charge a fixed fee for straightforward probate applications or bill on an hourly basis for full estate administration.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Would you like me to help you find their contact numbers/websites, or do you need assistance knowing what documents to gather for a Queensland probate application first?",
+              "markdown": "Would you like me to help you find their **contact numbers/websites** , or do you need assistance knowing **what documents to gather** for a Queensland probate application first?",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Google",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVd0aWJETmpiWE0xGAo",
+              "title": "LadyBird Wills & Estates",
+              "text": "With shared values of service, commitment and delivery for clients, the LadyBird Wills & Estates partners bring extensive industry experience and know-how under one convenient roof. The LadyBird Wills & Estates team is dedicated to providing the very best in personal service to help take the stress out of preparing your Will and all Estate Planning matters such as setting up an Enduring Power of Attorney and your Advanced Health Directive."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Google",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEhCdU1uSTFhdxgK",
+              "title": "GLG Legal Springfield",
+              "text": "Legal services firm specializing in conveyancing and estate planning."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Google",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhFME1uazFhbDkwGAo",
+              "title": "Stanford Legal",
+              "text": "Queensland law firm specializing in residential conveyancing and property transactions."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Google",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdkdGRHaDZlVFJzGAo",
+              "title": "Keane Legal | Brookwater",
+              "text": "Bldg 5/22 Magnolia Dr, Brookwater QLD 4300 · Keane Legal is a law firm, with offices in Ipswich and Brookwater QLD, that services Ipswich and the Greater Springfield regions, as well as the Western Suburbs and Brisbane. Our firm provides legal services in the areas of Family Law, Domestic Violence Law, Commercial Law, Workplace and Employment Law, as well as Mediation & Family Dispute Resolution (FDR) services. We are committed to providing tailored advice, strategic insight and practical solutions."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

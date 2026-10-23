@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane_east",
+  "pk": "divorce_property",
+  "plat": "perplexity",
+  "text": "I am going through a separation and complex property settlement in Brisbane East and Bayside (Carindale & Wynnum). Which family law firms have the strongest track record for property division and binding financial agreements?",
+  "loc": 9194035,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_east__divorce_property__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:30:57.509Z",
+  "cost": 0.006242,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 49,
+      "output_tokens": 593,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005642,
+      "datetime": "2026-10-23 05:30:53 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For a complex property settlement involving Carindale and Wynnum, the strongest shortlist appears to be:\n\n- **Best Wilson Buckley Family Law (BWB)** — a specialist family-law firm established in 2009, with experience in complex property pools, businesses, spousal maintenance and disputed asset division. It also has nationally accredited mediators and handles matters through negotiation, mediation or litigation.[8]\n- **Australian Family Lawyers Brisbane** — a large specialist family-law practice with numerous Accredited Family Law Specialists. It specifically handles high-value separations involving businesses, trusts and complex assets, and drafts tailored BFAs.[4]\n- **Cudmore Legal, Capalaba** — particularly convenient for Wynnum, Redlands and Brisbane’s east. Its stated service area includes Wynnum, Manly and Carindale, and it handles complex property matters involving businesses and multiple properties, as well as BFA drafting and review.[7]\n- **Chamberlains Law Firm Brisbane** — advertises experience with real estate, superannuation, businesses and trusts, and provides BFA drafting, review and advice.[1]\n- **Stewart Family Law** — a Brisbane-based firm identified as a Doyle’s Recommended Family Law firm, offering property negotiations, financial agreements and consent orders.[5]\n- **Avokah Legal** — offers property-settlement advice for complex matters and BFA preparation, including independent legal advice for each party where required.[2]\n\n## Recommended order of enquiries\n\n1. **BWB** for a high-value, heavily contested or business/trust-related property pool.\n2. **Australian Family Lawyers** if you want a larger specialist practice with access to Accredited Family Law Specialists.\n3. **Cudmore Legal** for a locally convenient option in the east/Redlands corridor.\n4. **Chamberlains or Stewart Family Law** for a specialist Brisbane practice with property and BFA capability.\n\nNo public source can reliably prove which firm has the “strongest” outcomes: settlements are usually confidential, and advertising claims are not equivalent to independently audited win rates. Before choosing, ask each firm for the specific solicitor’s experience with:\n\n- Family businesses, trusts, companies and complex valuations\n- Multiple properties and disputed financial contributions\n- Superannuation splitting and SMSFs\n- Urgent asset-protection measures\n- BFAs challenged for undue influence, lack of disclosure or defective advice\n- Mediation versus Family Court litigation\n- Likely total fees, barrister costs and expert-valuation costs\n\nFor a BFA, both parties generally need separate independent legal advice; do not use the same solicitor for both sides. Also ask whether the firm recommends a **BFA, consent orders or both** for your post-separation settlement, because the appropriate mechanism depends on the circumstances and the need for court enforceability.[2][5][10]",
+              "annotations": [
+                {
+                  "title": "Family Law Brisbane | Contact Us - Chamberlains Law Firm",
+                  "url": "https://chamberlains.com.au/expertise/family-law/brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Separation Lawyers Brisbane",
+                  "url": "https://www.avokahlegal.com.au/separation-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Property Settlement Orders",
+                  "url": "https://landersolicitors.com.au/family-law/property-settlement-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Divorce And Separation Lawyers Brisbane",
+                  "url": "https://www.australianfamilylawyers.com.au/cm-divorce-and-separation-lawyers-brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Property Settlement Lawyers Brisbane - Free Initital Consult",
+                  "url": "https://stewartfamilylaw.com.au/property-settlement-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Property Lawyer Brisbane",
+                  "url": "https://www.australianfamilylawyers.com.au/cm-divorce-and-property-lawyer",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Capalaba Family Lawyers - Cudmore Legal",
+                  "url": "https://www.cudmorelegal.com.au/family-lawyers-capalaba/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Property Settlement Lawyers Brisbane | BWB Family Law",
+                  "url": "https://bwbfamilylaw.com.au/how-we-help/property-settlement-lawyers-brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Cudmore Legal: Family Lawyers Brisbane | Divorce Law Firm",
+                  "url": "https://www.cudmorelegal.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Property Settlement Lawyers Brisbane & Gold Coast",
+                  "url": "https://www.cudmorelegal.com.au/property-settlement-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

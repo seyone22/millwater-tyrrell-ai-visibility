@@ -1,0 +1,217 @@
+{
+  "slug": "brisbane_south",
+  "pk": "contesting_wills",
+  "plat": "aimode",
+  "text": "Which wills and estates law firms in Brisbane Southside (Mount Gravatt & Sunnybank) specialise in contesting a will, Family Provision Applications (FPA), and estate litigation?",
+  "loc": 9060851,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_south__contesting_wills__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:29:04.366Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which wills and estates law firms in Brisbane Southside (Mount Gravatt & Sunnybank) specialise in contesting a will, Family Provision Applications (FPA), and estate litigation?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 9060851,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20wills%20and%20estates%20law%20firms%20in%20Brisbane%20Southside%20%28Mount%20Gravatt%20%26%20Sunnybank%29%20specialise%20in%20contesting%20a%20will%2C%20Family%20Provision%20Applications%20%28FPA%29%2C%20and%20estate%20litigation%3F&udm=50&uule=w+CAIQIFISCUtNXk8xW5FrERCc3vNaowIF&hl=en&gl=AU",
+      "datetime": "2026-10-23 05:28:59 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "When looking for wills and estates legal representation focused on **contesting a will**, **Family Provision Applications (FPA)** , and **estate litigation** in the Brisbane Southside area (specifically around Mount Gravatt and Sunnybank), `a few local practices handle these specific types of estate disputes`:\n\n\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLd9_M6rzcj9a5_pD8zJZCRT2-vhZCwKHlOj6lq9aP2iO3T2OO44I2cd-PuEQsDxdU_usLcVJX1_sOAo3IinYNReFce-uV6ZmuoIqG6R0r2VBHMy0bR7cUWsrLrRgSuQb5zvZks8Fss-T5M6=s192-w192-h144-n-k-no)\nBennett Carroll Solicitors (BCG Law)4.7 (62)  \nLegal services  \nOpen 2/33 Sanders St  \nCall Directions Website\n\n- **Location:** 33 Sanders Street, Upper Mount Gravatt, QLD 4122 (near Westfield Garden City)\n- **Focus:** They feature a dedicated [BCG Law Wills & Estates Practice](https://www.bcglaw.com.au/wills-estates/) that explicitly handles estate disputes, **contesting a will** , QCAT/tribunal guardianship matters, and contentious estate litigation alongside standard estate planning and probate.\n\n\n\n---\n\n![](https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MrkhXYNIbWA25eScUQO5BA&cb_client=search.gws-prod.grass&yaw=44.927185&pitch=0&thumbfov=100&w=82&h=82)\nKanoon Law Group 4.8 (39)  \nLaw firm  \nOpen 4/1420 Logan Rd  \nCall Directions Website\n\n- **Location:** Servicing the Mount Gravatt and Sunnybank region (Led by Principal Hazra Ahmed)\n- **Focus:** Offers general wills and estates practice with personalized advisory, though they lean heavily into personalized/multicultural asset planning and specialized community-tailored provisions (such as Islamic considerations in estate workflows).\n\n\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLfOOikvp0LnPBlFU_1hF5jswa_AH10I7psFiw27YUj0L-dVyUxsq38juK82MQFweplZpjJDvf5jLS62dKWbTyRlfbZ2Kc5Vb7RwFhdLhjJU5mkXMDnCy2BLb2sEUSZZ458qzQcY-g=s192-w192-h144-n-k-no)\nLife Law Solutions 3.9 (32)  \nSolicitor  \nOpen 22 Carrara St  \nCall Directions Website\n\n- **Location:** 22 Carrara Street, Mount Gravatt East, QLD 4122 (serving the broader Mt Gravatt / Sunnybank / Southside footprint)\n- **Focus:** While primarily recognized for family law, mediation, and collaborative law, they provide localized advice on wills, estate planning, and dispute mitigation. *(Note: For heavy court-based contested FPA litigation, specialized contentious probate firms like BCG Law or centralized Brisbane-wide estate litigation specialists are typically better equipped).* [[1]](https://lifelaw.com.au/legal-services/wills-estate-planning/)[[2]](https://www.bcglaw.com.au/brisbane-south-upper-mount-gravatt-lawyers/)[[3]](https://www.bcglaw.com.au/wills-estates/)[[4]](https://lawconnect.com/en-au/find/wills-and-estates/qld/sunnybank-4109)[[5]](https://lifelaw.com.au/)\n\nIf you'd like, I can help you:\n\n- Outline the **strict QLD time limits** for filing a Family Provision Application\n- Detail the **eligibility criteria** to contest a will in Queensland\n- Find specialized **boutique estate litigation firms** operating in the Brisbane CBD if you require an exclusive wills dispute barrister or specialist.\n\nLet me know how you would like to proceed.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "When looking for wills and estates legal representation focused on contesting a will, Family Provision Applications (FPA), and estate litigation in the Brisbane Southside area (specifically around Mount Gravatt and Sunnybank), a few local practices handle these specific types of estate disputes :",
+              "markdown": "When looking for wills and estates legal representation focused on **contesting a will**, **Family Provision Applications (FPA)** , and **estate litigation** in the Brisbane Southside area (specifically around Mount Gravatt and Sunnybank), `a few local practices handle these specific types of estate disputes`:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Bennett Carroll Solicitors (BCG Law) 4.7 (62) Legal services Open 2/33 Sanders St Call Directions WebsiteLocation: 33 Sanders Street, Upper Mount Gravatt, QLD 4122 (near Westfield Garden City)\nFocus: They feature a dedicated BCG Law Wills & Estates Practice that explicitly handles estate disputes, contesting a will, QCAT/tribunal guardianship matters, and contentious estate litigation alongside standard estate planning and probate.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLd9_M6rzcj9a5_pD8zJZCRT2-vhZCwKHlOj6lq9aP2iO3T2OO44I2cd-PuEQsDxdU_usLcVJX1_sOAo3IinYNReFce-uV6ZmuoIqG6R0r2VBHMy0bR7cUWsrLrRgSuQb5zvZks8Fss-T5M6=s192-w192-h144-n-k-no)\nBennett Carroll Solicitors (BCG Law)4.7 (62)  \nLegal services  \nOpen 2/33 Sanders St  \nCall Directions Website\n\n- **Location:** 33 Sanders Street, Upper Mount Gravatt, QLD 4122 (near Westfield Garden City)\n- **Focus:** They feature a dedicated [BCG Law Wills & Estates Practice](https://www.bcglaw.com.au/wills-estates/) that explicitly handles estate disputes, **contesting a will** , QCAT/tribunal guardianship matters, and contentious estate litigation alongside standard estate planning and probate.",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "BCG Law Wills & Estates Practice",
+                  "description": null,
+                  "url": "https://www.bcglaw.com.au/wills-estates/",
+                  "domain": "www.bcglaw.com.au"
+                }
+              ],
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9_M6rzcj9a5_pD8zJZCRT2-vhZCwKHlOj6lq9aP2iO3T2OO44I2cd-PuEQsDxdU_usLcVJX1_sOAo3IinYNReFce-uV6ZmuoIqG6R0r2VBHMy0bR7cUWsrLrRgSuQb5zvZks8Fss-T5M6=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Kanoon Law Group 4.8 (39) Law firm Open 4/1420 Logan Rd Call Directions WebsiteLocation: Servicing the Mount Gravatt and Sunnybank region (Led by Principal Hazra Ahmed)\nFocus: Offers general wills and estates practice with personalized advisory, though they lean heavily into personalized/multicultural asset planning and specialized community-tailored provisions (such as Islamic considerations in estate workflows).",
+              "markdown": "---\n\n![](https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MrkhXYNIbWA25eScUQO5BA&cb_client=search.gws-prod.grass&yaw=44.927185&pitch=0&thumbfov=100&w=82&h=82)\nKanoon Law Group 4.8 (39)  \nLaw firm  \nOpen 4/1420 Logan Rd  \nCall Directions Website\n\n- **Location:** Servicing the Mount Gravatt and Sunnybank region (Led by Principal Hazra Ahmed)\n- **Focus:** Offers general wills and estates practice with personalized advisory, though they lean heavily into personalized/multicultural asset planning and specialized community-tailored provisions (such as Islamic considerations in estate workflows).",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MrkhXYNIbWA25eScUQO5BA&cb_client=search.gws-prod.grass&yaw=44.927185&pitch=0&thumbfov=100&w=82&h=82"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Life Law Solutions 3.9 (32) Solicitor Open 22 Carrara St Call Directions WebsiteLocation: 22 Carrara Street, Mount Gravatt East, QLD 4122 (serving the broader Mt Gravatt / Sunnybank / Southside footprint)\nFocus: While primarily recognized for family law, mediation, and collaborative law, they provide localized advice on wills, estate planning, and dispute mitigation. (Note: For heavy court-based contested FPA litigation, specialized contentious probate firms like BCG Law or centralized Brisbane-wide estate litigation specialists are typically better equipped).",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLfOOikvp0LnPBlFU_1hF5jswa_AH10I7psFiw27YUj0L-dVyUxsq38juK82MQFweplZpjJDvf5jLS62dKWbTyRlfbZ2Kc5Vb7RwFhdLhjJU5mkXMDnCy2BLb2sEUSZZ458qzQcY-g=s192-w192-h144-n-k-no)\nLife Law Solutions 3.9 (32)  \nSolicitor  \nOpen 22 Carrara St  \nCall Directions Website\n\n- **Location:** 22 Carrara Street, Mount Gravatt East, QLD 4122 (serving the broader Mt Gravatt / Sunnybank / Southside footprint)\n- **Focus:** While primarily recognized for family law, mediation, and collaborative law, they provide localized advice on wills, estate planning, and dispute mitigation. *(Note: For heavy court-based contested FPA litigation, specialized contentious probate firms like BCG Law or centralized Brisbane-wide estate litigation specialists are typically better equipped).* [[1]](https://lifelaw.com.au/legal-services/wills-estate-planning/)[[2]](https://www.bcglaw.com.au/brisbane-south-upper-mount-gravatt-lawyers/)[[3]](https://www.bcglaw.com.au/wills-estates/)[[4]](https://lawconnect.com/en-au/find/wills-and-estates/qld/sunnybank-4109)[[5]](https://lifelaw.com.au/)",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfOOikvp0LnPBlFU_1hF5jswa_AH10I7psFiw27YUj0L-dVyUxsq38juK82MQFweplZpjJDvf5jLS62dKWbTyRlfbZ2Kc5Vb7RwFhdLhjJU5mkXMDnCy2BLb2sEUSZZ458qzQcY-g=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Life Law Solutions",
+                  "domain": "lifelaw.com.au",
+                  "url": "https://lifelaw.com.au/legal-services/wills-estate-planning/",
+                  "title": "Wills and Estate Planning - Life Law Solutions",
+                  "text": "22 Carrara Street, Mount Gravatt East Q 4122. PO Box 6007. Upper Mt Gravatt Q 4122. (07) 3343 9522."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Bennett Carroll Solicitors",
+                  "domain": "www.bcglaw.com.au",
+                  "url": "https://www.bcglaw.com.au/brisbane-south-upper-mount-gravatt-lawyers/",
+                  "title": "Brisbane South Solicitors | Upper Mount Gravatt Lawyers",
+                  "text": "33 Sanders Street, Upper Mount Gravatt, Brisbane Queensland 4122 Our Upper Mount Gravatt office is located just off Sanders Street..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Bennett Carroll Solicitors",
+                  "domain": "www.bcglaw.com.au",
+                  "url": "https://www.bcglaw.com.au/wills-estates/",
+                  "title": "Wills & Estate Planning Lawyers Queensland | Wills, EPOA & Estate Disputes",
+                  "text": "Services: Wills, estate planning, probate and estate administration, estate disputes, contesting a will, tribunal matters. remotel..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "LawConnect",
+                  "domain": "lawconnect.com",
+                  "url": "https://lawconnect.com/en-au/find/wills-and-estates/qld/sunnybank-4109",
+                  "title": "Wills and Estates Lawyers in Sunnybank, QLD - LawConnect",
+                  "text": "Mount Gravatt, QLD … respected legal firm led by Ms Hazra Ahmed, boasting over 20 years of experience. We specialise in family law..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Life Law Solutions",
+                  "domain": "lifelaw.com.au",
+                  "url": "https://lifelaw.com.au/",
+                  "title": "Life Law Solutions: Family Lawyers",
+                  "text": "Life Law Solutions provides comprehensive legal services, including family law, divorce and separation, parenting arrangements, pr..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you'd like, I can help you:",
+              "markdown": "If you'd like, I can help you:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Outline the strict QLD time limits for filing a Family Provision Application Detail the eligibility criteria to contest a will in Queensland Find specialized boutique estate litigation firms operating in the Brisbane CBD if you require an exclusive wills dispute barrister or specialist.",
+              "markdown": "- Outline the **strict QLD time limits** for filing a Family Provision Application\n- Detail the **eligibility criteria** to contest a will in Queensland\n- Find specialized **boutique estate litigation firms** operating in the Brisbane CBD if you require an exclusive wills dispute barrister or specialist.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Let me know how you would like to proceed.",
+              "markdown": "Let me know how you would like to proceed.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Life Law Solutions",
+              "domain": "lifelaw.com.au",
+              "url": "https://lifelaw.com.au/legal-services/wills-estate-planning/",
+              "title": "Wills and Estate Planning - Life Law Solutions",
+              "text": "22 Carrara Street, Mount Gravatt East Q 4122. PO Box 6007. Upper Mt Gravatt Q 4122. (07) 3343 9522."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Life Law Solutions",
+              "domain": "lifelaw.com.au",
+              "url": "https://lifelaw.com.au/",
+              "title": "Life Law Solutions: Family Lawyers",
+              "text": "Life Law Solutions provides comprehensive legal services, including family law, divorce and separation, parenting arrangements, property settlements, wills and est..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "LawConnect",
+              "domain": "lawconnect.com",
+              "url": "https://lawconnect.com/en-au/find/wills-and-estates/qld/sunnybank-4109",
+              "title": "Wills and Estates Lawyers in Sunnybank, QLD - LawConnect",
+              "text": "Mount Gravatt, QLD … respected legal firm led by Ms Hazra Ahmed, boasting over 20 years of experience. We specialise in family law, personal injury, wills and esta..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

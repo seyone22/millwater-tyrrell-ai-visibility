@@ -1,0 +1,254 @@
+{
+  "slug": "brisbane_north",
+  "pk": "fixed_fee_family_estates",
+  "plat": "aimode",
+  "text": "Which boutique law firms in Brisbane Northside (Chermside & North Lakes) offer free initial consultations, fixed-fee wills, or deferred-fee options for family law and wills and estates?",
+  "loc": 9060852,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_north__fixed_fee_family_estates__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:30:35.796Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which boutique law firms in Brisbane Northside (Chermside & North Lakes) offer free initial consultations, fixed-fee wills, or deferred-fee options for family law and wills and estates?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 9060852,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20boutique%20law%20firms%20in%20Brisbane%20Northside%20%28Chermside%20%26%20North%20Lakes%29%20offer%20free%20initial%20consultations%2C%20fixed-fee%20wills%2C%20or%20deferred-fee%20options%20for%20family%20law%20and%20wills%20and%20estates%3F&udm=50&uule=w+CAIQIFISCV_fhDGw4pNrEXCE3vNaowIF&hl=en&gl=AU",
+      "datetime": "2026-10-23 05:30:31 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "`Several boutique law firms operating in the Brisbane Northside region (specifically around Chermside and North Lakes) provide flexible arrangements like initial discovery calls, fixed fees, or alternative payment structures for family law, wills, and estate matters`.\n\n### Local Boutique Firms on Brisbane Northside\n\n\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLeuc7ba2qkLkV6qd-MUlO-cAYT7lEUCAcM9GRVybiI5RP3iMdjwaox0451ADMmsTOnvE9ZZBPWOoiNmMRy0T8GA-QbcCFRjPcv3wC3AkMYVVrNZfpsoxXDmSOks2-uGY9yH_AK6=s192-w192-h144-n-k-no)\nNorthside Family Law Centre 4.9 (8)  \nSolicitor  \nOpen 89 Brighton Rd  \nCall Directions Website\n\n- **Locations:** C1, 1 Kingsmill St, Chermside QLD 4032 / 89 Brighton Rd, Sandgate QLD 4017\n- **Consultations:** Offers a **free initial 20-minute phone consultation** (no-obligation) to discuss preliminary steps and direction, followed by a discounted 1-hour in-depth initial consultation.\n- **Services & Fees:** Covers family law, child custody, divorce, and conveyancing/wills, featuring structured, affordable fixed pricing for specific professional services. You can check more details directly via the [Northside Family Law Centre](https://northsidefamilylaw.com.au/).\n\n\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLd_oIg17wW3413gDAVUQNDzpM_Td_HM-7xSVp4x_vW6n6VuCUhV9pRPtC-OhdMWwvtzqPNFH9oIta57dLTI2FVMmjGFczYt3jqc0CAjBWLcyg2TsLDvWEsjorzvlKxYWcwoF1E9PKJ9e74=s192-w192-h144-n-k-no)\nNorth Brisbane Law 4.3 (12)  \nLaw firm  \nOpen 8/6 Endeavour Blvd  \nCall Directions Website\n\n- **Location:** North Lakes QLD 4509\n- **Consultations:** Provides a **free 15-minute discovery call** for family law and estate inquiries.\n- **Services & Fees:** Handles family law (divorce, parenting, property settlements, consent orders, binding financial agreements) alongside wills, probate, and estate administration. They focus on transparent, practical advice and personalized fee structures. Learn more through North Brisbane Law.\n\n\n\n---\n\n![](https://api.dataforseo.com/cdn/i/10230530-2877-0139-0000-780460f17416:4)\nJourney Family Lawyers 4.4 (7)  \nFamily law attorney  \nOpen 5/13 Discovery Dr  \nCall Directions Website**Journey Family Lawyers** (Northside & Brisbane-wide mobile/hybrid services)\n\n- **Consultations:** Offers a **free 15-minute phone consultation** , with standard initial structured face-to-face or virtual consultations offered at a flat fixed rate (e.g., $275.00).\n- **Services & Fees:** Exclusive focus on family law, property settlements, and domestic violence matters with transparent, fixed-fee options and alternative payment pathways where appropriate. Details are outlined on [Journey Family Lawyers](https://www.brisbanefamilylawyers.com.au/).[[1]](https://northsidefamilylaw.com.au/contact/)[[2]](https://northsidefamilylaw.com.au/services/)[[3]](https://northsidefamilylaw.com.au/)[[4]](https://northsidefamilylaw.com.au/services/conveyancing/)[[5]](https://northbrisbanelaw.com.au/)[[6]](https://www.brisbanefamilylawyers.com.au/)\n\n### Regarding Deferred-Fee and Pay-At-The-End Options\n\nTrue \"deferred-fee\" arrangements (where legal fees for family law property settlements are delayed until the final property settlement disbursement) are generally evaluated on a case-by-case basis rather than advertised as a blanket policy, as they depend on the existence of liquid assets or real estate in the pool. Some regional boutique firms also coordinate with third-party specialist legal disbursement funders (such as JustFund) if litigation or heavy settlement work is required.[[1]](https://bartonfamilylaw.com.au/fixed-fees/)\n\nIf you'd like to narrow this down, let me know:\n\n- Are you looking specifically for **family law property/parenting** or **wills and estate planning**?\n- Do you prefer an office visit in **Chermside** or **North Lakes** , or are you happy with **phone/video consultations**?\n\nI can help clarify which of these firms best aligns with your exact legal needs.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Several boutique law firms operating in the Brisbane Northside region (specifically around Chermside and North Lakes) provide flexible arrangements like initial discovery calls, fixed fees, or alternative payment structures for family law, wills, and estate matters.",
+              "markdown": "`Several boutique law firms operating in the Brisbane Northside region (specifically around Chermside and North Lakes) provide flexible arrangements like initial discovery calls, fixed fees, or alternative payment structures for family law, wills, and estate matters`.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Local Boutique Firms on Brisbane Northside",
+              "text": "Northside Family Law Centre 4.9 (8) Solicitor Open 89 Brighton Rd Call Directions WebsiteLocations: C1, 1 Kingsmill St, Chermside QLD 4032 / 89 Brighton Rd, Sandgate QLD 4017\nConsultations: Offers a free initial 20-minute phone consultation (no-obligation) to discuss preliminary steps and direction, followed by a discounted 1-hour in-depth initial consultation.\nServices & Fees: Covers family law, child custody, divorce, and conveyancing/wills, featuring structured, affordable fixed pricing for specific professional services. You can check more details directly via the Northside Family Law Centre.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLeuc7ba2qkLkV6qd-MUlO-cAYT7lEUCAcM9GRVybiI5RP3iMdjwaox0451ADMmsTOnvE9ZZBPWOoiNmMRy0T8GA-QbcCFRjPcv3wC3AkMYVVrNZfpsoxXDmSOks2-uGY9yH_AK6=s192-w192-h144-n-k-no)\nNorthside Family Law Centre 4.9 (8)  \nSolicitor  \nOpen 89 Brighton Rd  \nCall Directions Website\n\n- **Locations:** C1, 1 Kingsmill St, Chermside QLD 4032 / 89 Brighton Rd, Sandgate QLD 4017\n- **Consultations:** Offers a **free initial 20-minute phone consultation** (no-obligation) to discuss preliminary steps and direction, followed by a discounted 1-hour in-depth initial consultation.\n- **Services & Fees:** Covers family law, child custody, divorce, and conveyancing/wills, featuring structured, affordable fixed pricing for specific professional services. You can check more details directly via the [Northside Family Law Centre](https://northsidefamilylaw.com.au/).",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Northside Family Law Centre",
+                  "description": null,
+                  "url": "https://northsidefamilylaw.com.au/",
+                  "domain": "northsidefamilylaw.com.au"
+                }
+              ],
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeuc7ba2qkLkV6qd-MUlO-cAYT7lEUCAcM9GRVybiI5RP3iMdjwaox0451ADMmsTOnvE9ZZBPWOoiNmMRy0T8GA-QbcCFRjPcv3wC3AkMYVVrNZfpsoxXDmSOks2-uGY9yH_AK6=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "North Brisbane Law 4.3 (12) Law firm Open 8/6 Endeavour Blvd Call Directions WebsiteLocation: North Lakes QLD 4509\nConsultations: Provides a free 15-minute discovery call for family law and estate inquiries.\nServices & Fees: Handles family law (divorce, parenting, property settlements, consent orders, binding financial agreements) alongside wills, probate, and estate administration. They focus on transparent, practical advice and personalized fee structures. Learn more through North Brisbane Law.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLd_oIg17wW3413gDAVUQNDzpM_Td_HM-7xSVp4x_vW6n6VuCUhV9pRPtC-OhdMWwvtzqPNFH9oIta57dLTI2FVMmjGFczYt3jqc0CAjBWLcyg2TsLDvWEsjorzvlKxYWcwoF1E9PKJ9e74=s192-w192-h144-n-k-no)\nNorth Brisbane Law 4.3 (12)  \nLaw firm  \nOpen 8/6 Endeavour Blvd  \nCall Directions Website\n\n- **Location:** North Lakes QLD 4509\n- **Consultations:** Provides a **free 15-minute discovery call** for family law and estate inquiries.\n- **Services & Fees:** Handles family law (divorce, parenting, property settlements, consent orders, binding financial agreements) alongside wills, probate, and estate administration. They focus on transparent, practical advice and personalized fee structures. Learn more through North Brisbane Law.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd_oIg17wW3413gDAVUQNDzpM_Td_HM-7xSVp4x_vW6n6VuCUhV9pRPtC-OhdMWwvtzqPNFH9oIta57dLTI2FVMmjGFczYt3jqc0CAjBWLcyg2TsLDvWEsjorzvlKxYWcwoF1E9PKJ9e74=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Journey Family Lawyers 4.4 (7) Family law attorney Open 5/13 Discovery Dr Call Directions Website Journey Family Lawyers (Northside & Brisbane-wide mobile/hybrid services)Consultations: Offers a free 15-minute phone consultation, with standard initial structured face-to-face or virtual consultations offered at a flat fixed rate (e.g., $275.00).\nServices & Fees: Exclusive focus on family law, property settlements, and domestic violence matters with transparent, fixed-fee options and alternative payment pathways where appropriate. Details are outlined on Journey Family Lawyers.",
+              "markdown": "---\n\n![](https://api.dataforseo.com/cdn/i/10230530-2877-0139-0000-780460f17416:2)\nJourney Family Lawyers 4.4 (7)  \nFamily law attorney  \nOpen 5/13 Discovery Dr  \nCall Directions Website**Journey Family Lawyers** (Northside & Brisbane-wide mobile/hybrid services)\n\n- **Consultations:** Offers a **free 15-minute phone consultation** , with standard initial structured face-to-face or virtual consultations offered at a flat fixed rate (e.g., $275.00).\n- **Services & Fees:** Exclusive focus on family law, property settlements, and domestic violence matters with transparent, fixed-fee options and alternative payment pathways where appropriate. Details are outlined on [Journey Family Lawyers](https://www.brisbanefamilylawyers.com.au/).[[1]](https://northsidefamilylaw.com.au/contact/)[[2]](https://northsidefamilylaw.com.au/services/)[[3]](https://northsidefamilylaw.com.au/)[[4]](https://northsidefamilylaw.com.au/services/conveyancing/)[[5]](https://northbrisbanelaw.com.au/)[[6]](https://www.brisbanefamilylawyers.com.au/)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Journey Family Lawyers",
+                  "description": null,
+                  "url": "https://www.brisbanefamilylawyers.com.au/",
+                  "domain": "www.brisbanefamilylawyers.com.au"
+                }
+              ],
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/10230530-2877-0139-0000-780460f17416:3"
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Northside Family Law Centre",
+                  "domain": "northsidefamilylaw.com.au",
+                  "url": "https://northsidefamilylaw.com.au/contact/",
+                  "title": "Contact Us | Free 20 Min Consultation | Northside Family Law ...",
+                  "text": "C1, 1 Kingsmill StChermside, QLD, 4032 Contact Us Phone: (07) 3062 7000Fax: (07)3869 3424Email: info@northsidefamilylaw.com.au"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Northside Family Law Centre",
+                  "domain": "northsidefamilylaw.com.au",
+                  "url": "https://northsidefamilylaw.com.au/services/",
+                  "title": "Services | Brisbane Family Lawyers",
+                  "text": "Free initial 20 min on the phone. This is Free no obligation service that will discuss your matter and give you professional advic..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Northside Family Law Centre",
+                  "domain": "northsidefamilylaw.com.au",
+                  "url": "https://northsidefamilylaw.com.au/",
+                  "title": "Northside Family Law Centre: Experienced Brisbane Family ...",
+                  "text": "With years of experience as lawyers in Family Law covering all aspects of Family Law, Divorce, Separation, Child Custody Matters, ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Northside Family Law Centre",
+                  "domain": "northsidefamilylaw.com.au",
+                  "url": "https://northsidefamilylaw.com.au/services/conveyancing/",
+                  "title": "Fixed Fee Conveyancing Brisbane Northside",
+                  "text": "We offer one of the lowest priced Brisbane conveyancing service. Fixed priced professional fees* SAle $1,100.00 Includes GSTSee"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "North Brisbane Law",
+                  "domain": "northbrisbanelaw.com.au",
+                  "url": "https://northbrisbanelaw.com.au/",
+                  "title": "North Brisbane Law | Home",
+                  "text": "Location: North Lakes, 25km north of Brisbane CBD (Phone: 07 3467 0002). Services: Family Law (Divorce, child-focused parenting, c..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Journey Family Lawyers",
+                  "domain": "www.brisbanefamilylawyers.com.au",
+                  "url": "https://www.brisbanefamilylawyers.com.au/",
+                  "title": "Family Lawyers Brisbane /Journey Lawyers/ Northside and City 07 3448 2199",
+                  "text": "Free 15-minute phone consultation; initial consultation fixed at $275.00; fixed fee and alternative payment options available."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Regarding Deferred-Fee and Pay-At-The-End Options",
+              "text": "True \"deferred-fee\" arrangements (where legal fees for family law property settlements are delayed until the final property settlement disbursement) are generally evaluated on a case-by-case basis rather than advertised as a blanket policy, as they depend on the existence of liquid assets or real estate in the pool. Some regional boutique firms also coordinate with third-party specialist legal disbursement funders (such as JustFund) if litigation or heavy settlement work is required.",
+              "markdown": "True \"deferred-fee\" arrangements (where legal fees for family law property settlements are delayed until the final property settlement disbursement) are generally evaluated on a case-by-case basis rather than advertised as a blanket policy, as they depend on the existence of liquid assets or real estate in the pool. Some regional boutique firms also coordinate with third-party specialist legal disbursement funders (such as JustFund) if litigation or heavy settlement work is required.[[1]](https://bartonfamilylaw.com.au/fixed-fees/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Barton Family Lawyers",
+                  "domain": "bartonfamilylaw.com.au",
+                  "url": "https://bartonfamilylaw.com.au/fixed-fees/",
+                  "title": "Fixed Fees - Family Lawyers Brisbane",
+                  "text": "Barton Family Lawyers has partnered with JustFund, a specialist provider of funding solutions for family law matters, to provide e..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you'd like to narrow this down, let me know:",
+              "markdown": "If you'd like to narrow this down, let me know:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Are you looking specifically for family law property/parenting or wills and estate planning ? Do you prefer an office visit in Chermside or North Lakes, or are you happy with phone/video consultations ?",
+              "markdown": "- Are you looking specifically for **family law property/parenting** or **wills and estate planning**?\n- Do you prefer an office visit in **Chermside** or **North Lakes** , or are you happy with **phone/video consultations**?",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "I can help clarify which of these firms best aligns with your exact legal needs.",
+              "markdown": "I can help clarify which of these firms best aligns with your exact legal needs.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Northside Family Law Centre",
+              "domain": "northsidefamilylaw.com.au",
+              "url": "https://northsidefamilylaw.com.au/contact/",
+              "title": "Contact Us | Free 20 Min Consultation | Northside Family Law ...",
+              "text": "C1, 1 Kingsmill StChermside, QLD, 4032 Contact Us Phone: (07) 3062 7000Fax: (07)3869 3424Email: info@northsidefamilylaw.com.au"
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Northside Family Law Centre",
+              "domain": "northsidefamilylaw.com.au",
+              "url": "https://northsidefamilylaw.com.au/services/",
+              "title": "Services | Brisbane Family Lawyers",
+              "text": "Free initial 20 min on the phone. This is Free no obligation service that will discuss your matter and give you professional advice on your next steps or how to pr..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Barton Family Lawyers",
+              "domain": "bartonfamilylaw.com.au",
+              "url": "https://bartonfamilylaw.com.au/fixed-fees/",
+              "title": "Fixed Fees - Family Lawyers Brisbane",
+              "text": "Barton Family Lawyers has partnered with JustFund, a specialist provider of funding solutions for family law matters, to provide eligible clients with greater flex..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "slug": "springfield",
+  "pk": "family_lawyers",
+  "plat": "claude",
+  "text": "Who are the best family lawyers in Springfield and Greater Springfield, QLD? Give me a shortlist of reputable family law firms with reasons.",
+  "loc": 9191413,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\springfield__family_lawyers__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:24:35.652Z",
+  "cost": 0.058471,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 9917,
+      "output_tokens": 1208,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.057871,
+      "datetime": "2026-10-23 05:24:31 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a shortlist of reputable family law firms in **Springfield and Greater Springfield, QLD**, based on ratings, reviews, and local reputation:\n\n---\n\n### 🏆 1. **GLG Legal Springfield**\n- **Location:** Brookwater, QLD (serving Springfield, Ipswich & surrounds)\n- **Why they stand out:** ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "GLG Legal Springfield provides trusted family law services to clients across Springfield, Ipswich and surrounding areas. As part of the Galleon Law Group, they work closely with their sister firm, the highly respected Michael Lynch Family Lawyers — one of Brisbane's leading family law firms — giving clients access to a comprehensive team experienced in divorce, separation, property settlement, and child custody matters.",
+              "annotations": [
+                {
+                  "title": "Divorce Lawyers Springfield",
+                  "url": "https://www.springfieldlegals.com.au/areas-of-practice/family-law/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- **Ratings:** ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "GLG Legal holds a strong 4.9 stars from 125 recommendations on LawConnect.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers in Springfield Central, QLD",
+                  "url": "https://lawconnect.com/en-au/find/family-law/qld/springfield-central-4300",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- **Contact:** (07) 3288 3511\n\n---\n\n### 🏆 2. **Stanford Legal Pty Ltd**\n- **Location:** Springfield Central, QLD\n- **Why they stand out:** ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Stanford Legal, based in Ipswich and serving Springfield and Brisbane, specialises in family, property, commercial, and wills and estate law. The firm prioritises empathy, education, and empowerment, providing personalised legal services. In family law, they assist with divorce, parenting agreements, consent orders, and domestic violence issues, including international matters.",
+              "annotations": [
+                {
+                  "title": "Divorce and Separation Lawyers near Springfield, QLD",
+                  "url": "https://lawconnect.com/en-au/find/divorce-and-separation/qld/springfield-4300",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- **Ratings:** ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Stanford Legal holds an impressive 4.9 stars from 100 recommendations.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers in Springfield Central, QLD",
+                  "url": "https://lawconnect.com/en-au/find/family-law/qld/springfield-central-4300",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 🏆 3. **VM Family Law**\n- **Location:** Serving Ipswich, Springfield & West Brisbane\n- **Why they stand out:** ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "VM Family Law guides clients \"from confusion to clarity with strength and compassion,\" serving Ipswich, Springfield, Toowoomba, and Gold Coast families.",
+              "annotations": [
+                {
+                  "title": "Best Family Lawyers Ipswich & Greater Springfield",
+                  "url": "https://www.vmfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their team consists predominantly of female lawyers, making them an excellent choice for those seeking a female solicitor in the Springfield or Ipswich area, including for domestic violence matters.",
+              "annotations": [
+                {
+                  "title": "Best Family Lawyers Ipswich & Greater Springfield",
+                  "url": "https://www.vmfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- **Contact:** 07 3447 8966\n\n---\n\n### 🏆 4. **Brookwater Legal**\n- **Location:** Augustine Heights, QLD 4300 (Greater Springfield)\n- **Why they stand out:** ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Brookwater Legal are property and family law experts in Greater Springfield & Ipswich, and describe themselves as an experienced, community-first law practice for the Greater Springfield region and Brisbane surrounds.",
+              "annotations": [
+                {
+                  "title": "Welcome To Brookwater Legal",
+                  "url": "https://www.brookwaterlegal.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They offer family law & mediation services with compassionate support, and pride themselves on being local, flexible, economical, and accessible.",
+              "annotations": [
+                {
+                  "title": "Welcome To Brookwater Legal",
+                  "url": "https://www.brookwaterlegal.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- **Contact:** (07) 3437 8555\n\n---\n\n### 🏆 5. **Savannah Legal**\n- **Location:** Brookwater, QLD (Greater Springfield)\n- **Why they stand out:** ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Savannah Legal is rated 4.4 stars from 108 recommendations on LawConnect",
+              "annotations": [
+                {
+                  "title": "Family Lawyers in Springfield Central, QLD",
+                  "url": "https://lawconnect.com/en-au/find/family-law/qld/springfield-central-4300",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", making them one of the more reviewed local firms in the area. They are a well-established option for family law matters in the Brookwater/Springfield precinct.\n\n---\n\n### 🏆 6. **KIT Lawyers**\n- **Location:** Serving Springfield area\n- **Why they stand out:** ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "KIT Lawyers specialise in commercial contracts, family law, and advocacy, offering nearly ten years of experience. Founded by Principal Solicitor Chito Mapipo Boamah, who is admitted to both the Supreme Court of Queensland (2015) and the High Court of Australia (2021), they provide expert advice in divorce, parenting, and property settlement.",
+              "annotations": [
+                {
+                  "title": "Divorce and Separation Lawyers near Springfield, QLD",
+                  "url": "https://lawconnect.com/en-au/find/divorce-and-separation/qld/springfield-4300",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 💡 Tips for Choosing the Right Firm:\n- **For a female-led, compassionate approach:** VM Family Law\n- **For community-focused, local service:** Brookwater Legal\n- **For a firm backed by a major Brisbane family law brand:** GLG Legal Springfield (linked to Michael Lynch Family Lawyers)\n- **For highly rated personalised service:** Stanford Legal\n\nIt's always recommended to book an initial consultation (many firms offer this) to find the best fit for your specific situation.",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "best family lawyers Springfield QLD",
+        "top family law firms Greater Springfield Queensland"
+      ]
+    }
+  ]
+}

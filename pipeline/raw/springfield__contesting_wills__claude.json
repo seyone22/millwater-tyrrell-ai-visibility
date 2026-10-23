@@ -1,0 +1,254 @@
+{
+  "slug": "springfield",
+  "pk": "contesting_wills",
+  "plat": "claude",
+  "text": "Which wills and estates law firms in Springfield and Greater Springfield, QLD specialise in contesting a will, Family Provision Applications (FPA), and estate litigation?",
+  "loc": 9191413,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\springfield__contesting_wills__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:25:24.587Z",
+  "cost": 0.059401,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10162,
+      "output_tokens": 1221,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.058801,
+      "datetime": "2026-10-23 05:25:20 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Based on the search results, here are law firms in **Springfield, Springfield Central, and Greater Springfield/QLD** that specialise in contesting wills, Family Provision Applications (FPAs), and estate litigation:\n\n---\n\n### 1. 🏛️ **Stanford Legal** *(Springfield Central)*\n**Address:** Level 8, Springfield Tower, 145 Sinnathamby Boulevard, Springfield Central, QLD\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Stanford Legal is a Queensland law practice **based in Springfield Central**, acting for clients across Ipswich, Brisbane, and South East Queensland. Their services include wills and estates, estate disputes, probate and estate administration, and succession planning.",
+              "annotations": [
+                {
+                  "title": "Contesting a Will in QLD",
+                  "url": "https://stanfordlegal.com.au/wills-and-estate-law/estate-dispute-lawyer",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They handle Queensland family provision claims, including the key deadlines — you must give written notice of your intention to claim to the executor within six months of the date of death, and the application itself must be filed in court within nine months of the date of death.",
+              "annotations": [
+                {
+                  "title": "Contesting a Will in QLD",
+                  "url": "https://stanfordlegal.com.au/wills-and-estate-law/estate-dispute-lawyer",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 2. 🏛️ **GLG Legal Springfield** *(Springfield)*\n**Website:** springfieldlegals.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Solicitors at GLG Legal Springfield are experts in handling will and estate cases. They have helped clients create and contest wills for many years, with knowledge and experience ensuring the process is as quick and stress-free as possible.",
+              "annotations": [
+                {
+                  "title": "Springfield and Ipswich Legal Service",
+                  "url": "https://www.springfieldlegals.com.au/areas-of-practice/wills/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their team of expert estate litigation lawyers can guide clients through every step of the contesting process, including assisting with making or managing any type of will dispute.",
+              "annotations": [
+                {
+                  "title": "Springfield and Ipswich Legal Service",
+                  "url": "https://www.springfieldlegals.com.au/areas-of-practice/wills/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They confirm that in Queensland, spouses, children, and dependants are eligible to make a Family Provision Claim if they believe they have been unfairly left out or not properly provided for.",
+              "annotations": [
+                {
+                  "title": "Springfield and Ipswich Legal Service",
+                  "url": "https://www.springfieldlegals.com.au/areas-of-practice/wills/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. 🏛️ **Stonegate Legal** *(Serving Greater Springfield/QLD)*\n**Website:** stonegatelegal.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "If you are an eligible person and want to contest a will by making a family provision application, Stonegate Legal's wills and estates lawyers can help.",
+              "annotations": [
+                {
+                  "title": "Contesting A Will in Qld (Family Provision Claim) - Stonegate Legal",
+                  "url": "https://stonegatelegal.com.au/contesting-a-will-in-qld-family-provision-claim/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They assist clients in contesting a will via a family provision application in the District Court or the Supreme Court in Queensland, and their estate litigation lawyers explain everything clients need to know about the process.",
+              "annotations": [
+                {
+                  "title": "Contesting A Will in Qld (Family Provision Claim) - Stonegate Legal",
+                  "url": "https://stonegatelegal.com.au/contesting-a-will-in-qld-family-provision-claim/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 4. 🏛️ **Armstrong Legal** *(QLD-wide, including Greater Springfield region)*\n**Website:** armstronglegal.com.au/contested-wills/qld/\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Armstrong Legal's experienced Queensland contested estates lawyers provide practical advice and compassionate support to individuals involved in estate disputes. They assist with all aspects of estate litigation including family provision claims, challenges to the validity of wills, probate disputes, and executor disputes.",
+              "annotations": [
+                {
+                  "title": "Wills and Estates Lawyers Queensland",
+                  "url": "https://www.armstronglegal.com.au/contested-wills/qld/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their dedicated Contested Wills & Estates team has been highlighted in **Doyle's Guide** as a Recommended Wills & Estates Litigation Law Firm every year from 2021 to 2025.",
+              "annotations": [
+                {
+                  "title": "Grant Of Probate QLD",
+                  "url": "https://www.armstronglegal.com.au/pages/cmcw-grant-of-probate-qld/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 5. 🏛️ **The Estate Lawyers** *(QLD-wide)*\n**Website:** theestatelawyers.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The Estate Lawyers are Queensland will and estate lawyers who specialise in contested wills and estates matters, and also represent executors of wills or beneficiaries of estates during deceased estate administrations.",
+              "annotations": [
+                {
+                  "title": "The Estate Lawyers",
+                  "url": "https://theestatelawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They practise solely in QLD wills and estate law and have had significant court success in contesting wills for their clients.",
+              "annotations": [
+                {
+                  "title": "The Estate Lawyers",
+                  "url": "https://theestatelawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### ⚠️ Key Reminders for FPAs in QLD:\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "In Queensland, a family provision claim has two time limits: you must give written notice of your intention to claim to the executor **within 6 months** of the date of death, and the application itself must be filed in court **within 9 months** of the date of death — both running from the date of death, not from the grant of probate or from when you found out about the will.",
+              "annotations": [
+                {
+                  "title": "Contesting a Will in QLD",
+                  "url": "https://stanfordlegal.com.au/wills-and-estate-law/estate-dispute-lawyer",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\nIt is recommended to contact these firms directly to confirm their current office locations, availability, and specific expertise relevant to your matter.",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "wills estates law firms Springfield QLD contesting will Family Provision Application estate litigation",
+        "estate litigation lawyers Greater Springfield Queensland FPA contesting will"
+      ]
+    }
+  ]
+}

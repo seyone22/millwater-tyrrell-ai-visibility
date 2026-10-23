@@ -1,0 +1,351 @@
+{
+  "slug": "brisbane",
+  "pk": "fixed_fee_family_estates",
+  "plat": "claude",
+  "text": "Which boutique law firms in Brisbane offer free initial consultations, fixed-fee wills, or deferred-fee options for family law and wills and estates?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane__fixed_fee_family_estates__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:26:53.899Z",
+  "cost": 0.066781,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10332,
+      "output_tokens": 1679,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.066181,
+      "datetime": "2026-10-23 05:26:49 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a roundup of boutique and smaller law firms in Brisbane that offer **free initial consultations**, **fixed-fee wills**, or **deferred/flexible fee options** for family law and wills & estates:\n\n---\n\n## 🏛️ Brisbane Law Firms with Flexible Fee Options\n\n---\n\n### 1. **Aspire Lawyers Brisbane**\n📍 Level 18, 324 Queen Street, Brisbane CBD | ☎ (07) 3709 6380\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Aspire Lawyers is located in central Brisbane and covers Family Law, Business & Commercial Law, Wills & Estates, and Mediation.",
+              "annotations": [
+                {
+                  "title": "Fixed-Price Brisbane Lawyers",
+                  "url": "https://aspirelawyers.com.au/brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They are an expert fixed-price law firm, making it easy to plan your legal costs with fixed-priced services and the convenience of in-person, video, or phone appointments.",
+              "annotations": [
+                {
+                  "title": "Fixed-Price Brisbane Lawyers",
+                  "url": "https://aspirelawyers.com.au/brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Fixed-Price Brisbane Lawyers",
+                  "url": "https://aspirelawyers.com.au/brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "You can book a free consult with their team today.",
+              "annotations": [
+                {
+                  "title": "Fixed-Price Brisbane Lawyers",
+                  "url": "https://aspirelawyers.com.au/brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 2. **Will and Estate Lawyers Australia (Brisbane)**\n☎ (07) 3073 2405\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They offer transparent, fixed-fee pricing for wills, probate, and letters of administration, and for will disputes and family provision applications, they work on a **no win, no fee** basis.",
+              "annotations": [
+                {
+                  "title": "Wills and Estate Lawyers Brisbane",
+                  "url": "https://willandestatelawyers.com.au/wills-and-estate-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their fixed fees include: Individual Wills at $799, Couple Wills at $999, Probate Applications at $1,490, and Will Disputes on a no win, no fee basis.",
+              "annotations": [
+                {
+                  "title": "Wills and Estate Lawyers Brisbane",
+                  "url": "https://willandestatelawyers.com.au/wills-and-estate-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. **LGM Family Lawyers (Ashgrove & Brisbane CBD)**\n📍 Ashgrove & Level 38, 71 Eagle Street, Brisbane | ☎ (07) 3506 3651\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "LGM Family Lawyers offer a free initial phone consultation before booking an appointment.",
+              "annotations": [
+                {
+                  "title": "LGM Family Lawyers",
+                  "url": "https://www.lgmfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They also offer a fixed-price in-person consultation for those who want more detailed advice.",
+              "annotations": [
+                {
+                  "title": "LGM Family Lawyers",
+                  "url": "https://www.lgmfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " This boutique firm focuses exclusively on family law, making it a strong choice for separation, divorce, and parenting matters.\n\n---\n\n### 4. **Cudmore Legal (Brisbane & Gold Coast)**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Cudmore Legal offers a free 20-minute family law consultation to help you gain clarity and understand your legal options.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Brisbane and Gold Coast Free Consultation",
+                  "url": "https://www.cudmorelegal.com.au/family-lawyers-free-consultation/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "In the initial consultation, you will speak directly to a family lawyer who can advise on children, property, or domestic violence matters.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Brisbane and Gold Coast Free Consultation",
+                  "url": "https://www.cudmorelegal.com.au/family-lawyers-free-consultation/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Note: ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "they have at times been at capacity for free family law consultations, with a paid initial consultation available at a discounted rate.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Brisbane and Gold Coast Free Consultation",
+                  "url": "https://www.cudmorelegal.com.au/family-lawyers-free-consultation/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 5. **Australian Family Lawyers (Brisbane)**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They offer a free initial consultation — a no-obligation phone appointment at no cost — to help you understand the family law process.",
+              "annotations": [
+                {
+                  "title": "Leading Family & Divorce Lawyers Brisbane",
+                  "url": "https://www.australianfamilylawyers.com.au/locations/brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Transparent fixed fees help you plan ahead without unexpected charges, and they can work closely with you to find viable payment solutions at the beginning of your engagement.",
+              "annotations": [
+                {
+                  "title": "Leading Family & Divorce Lawyers Brisbane",
+                  "url": "https://www.australianfamilylawyers.com.au/locations/brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 6. **Genuine Legal (Queensland)**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They offer free appointments only in Queensland, and are pleased to provide one free initial consultation with their experienced solicitors, ensuring you receive expert guidance right from the start.",
+              "annotations": [
+                {
+                  "title": "Genuine Legal",
+                  "url": "https://genuinelegal.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The free consultation includes a 1-hour session with a Principal Solicitor or Practitioner Director, available face-to-face, telephone, or via video call.",
+              "annotations": [
+                {
+                  "title": "Genuine Legal",
+                  "url": "https://genuinelegal.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 7. **ROCHE Legal (Brisbane City)**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "ROCHE Legal is a Brisbane City firm specialising in Wills & Estates, offering fixed fees, free consultation, no win no fee, and a \"we come to you\" service.",
+              "annotations": [
+                {
+                  "title": "The Best Law Firms in Brisbane City, QLD Rated By Past Clients",
+                  "url": "https://www.lawchoice.com.au/qld/brisbane-city/law-firm",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " This makes them particularly accessible for clients who cannot easily travel to an office.\n\n---\n\n### 8. **Southern Legal (Boutique Firm)**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Southern Legal is a boutique law firm offering legal work including wills and estates, probate, family law, conveyancing, powers of attorney and enduring guardianship, contracts, and leases at reasonable prices.",
+              "annotations": [
+                {
+                  "title": "HOME",
+                  "url": "https://www.southernlegal.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They offer a free initial consultation for those unsure whether they have a legal problem or how their matter may progress.",
+              "annotations": [
+                {
+                  "title": "HOME",
+                  "url": "https://www.southernlegal.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 📋 Quick Comparison Table\n\n| Firm | Free Consult | Fixed Fees | No Win/No Fee | Deferred/Flexible Payment |\n|---|---|---|---|---|\n| Aspire Lawyers | ✅ | ✅ | ❌ | ✅ |\n| Will & Estate Lawyers Aus. | ✅ (quote) | ✅ | ✅ (disputes) | ❌ |\n| LGM Family Lawyers | ✅ (phone) | ✅ (consult) | ❌ | ❌ |\n| Cudmore Legal | ✅ (20 min) | ❌ | ❌ | ❌ |\n| Australian Family Lawyers | ✅ (phone) | ✅ | ❌ | ✅ |\n| Genuine Legal | ✅ (1 hr, QLD) | ❌ | ❌ | ❌ |\n| ROCHE Legal | ✅ | ✅ | ✅ | ❌ |\n| Southern Legal | ✅ | ❌ | ❌ | ❌ |\n\n---\n\n### 💡 Tips When Choosing:\n- **For wills & estates on a budget**, Will & Estate Lawyers Australia and Aspire Lawyers offer the clearest fixed-fee pricing.\n- **For family law with payment flexibility**, Australian Family Lawyers is notable for working with clients on payment solutions.\n- **For a no-obligation first step**, Genuine Legal's free 1-hour Queensland consultation is particularly generous.\n\nAlways confirm current fee arrangements directly with the firm, as pricing and availability can change.",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "boutique law firms Brisbane free initial consultation fixed fee wills family law",
+        "Brisbane boutique law firm deferred fee family law wills estates"
+      ]
+    }
+  ]
+}

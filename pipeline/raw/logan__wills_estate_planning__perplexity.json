@@ -1,0 +1,106 @@
+{
+  "slug": "logan",
+  "pk": "wills_estate_planning",
+  "plat": "perplexity",
+  "text": "Who are the best wills and estates lawyers in Logan and Western Corridor (Ipswich to Brisbane) for drafting wills, testamentary trusts, and enduring powers of attorney?",
+  "loc": 9112660,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\logan__wills_estate_planning__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:32:45.393Z",
+  "cost": 0.006266,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 44,
+      "output_tokens": 622,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005666,
+      "datetime": "2026-10-23 05:32:41 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For **Logan and the Ipswich–Brisbane Western Corridor**, the strongest shortlist based on local presence and clearly advertised services is:\n\n- **RHC Solicitors — Shailer Park / Logan area:** A practical local option for wills, estate planning, probate and estate administration, with more than 40 years’ legal experience. Their service area includes Shailer Park, Loganholme, Springwood and Cornubia.[9]\n- **Lightning Legal — Forest Lake:** Convenient for Forest Lake, Springfield and the western suburbs. The firm specifically offers professionally drafted wills and estate-planning assistance from its Forest Lake office.[4]\n- **Fallu McMillan Lawyers — Ipswich:** A strong choice for complex planning, advertising wills, enduring powers of attorney, testamentary trusts, probate and estate disputes.[5][7]\n- **Walker Pender Group — Ipswich:** A long-established Ipswich practice with nearly 150 years of local history. It handles wills, estate planning and enduring powers of attorney.[6]\n- **Turner Freeman Lawyers — Logan and Ipswich:** A larger specialist practice offering wills, powers of attorney, trusts, probate, estate administration and estate litigation, with offices servicing both Logan and Ipswich.[1][8]\n- **Bennett Carroll Solicitors — Ipswich and Brisbane:** Suitable if you prefer a firm offering in-person and electronic consultations. Its advertised services include wills, enduring powers of attorney, trusts and broader estate planning, with more than 50 years of combined experience.[2][3]\n\n### Best fit by situation\n\n| Situation | Firms to consider |\n|---|---|\n| Straightforward will and EPOA near Logan | RHC Solicitors; Turner Freeman |\n| Forest Lake, Springfield or western Brisbane | Lightning Legal; Bennett Carroll |\n| Testamentary trust or complex family structure | Fallu McMillan; Turner Freeman; Bennett Carroll |\n| Blended family, vulnerable beneficiary or likely dispute | Turner Freeman; Fallu McMillan |\n| Ipswich-based local service | Walker Pender; Fallu McMillan |\n\nFor a **testamentary trust**, ask specifically whether the solicitor routinely drafts discretionary testamentary trusts and can coordinate the will with superannuation nominations, company or trust structures, guardianship provisions and tax advice. A testamentary trust is not automatically appropriate for every estate.\n\nBefore instructing a firm, obtain a written estimate and confirm:\n\n- The solicitor’s experience with testamentary trusts, not merely simple wills.\n- Whether the fee includes an EPOA and advance health directive.\n- Who will review family, tax, superannuation and business-structure issues.\n- Whether the firm stores the original will and provides a review service.\n- The process for signing and witnessing documents under Queensland law.\n\n“Best” depends heavily on complexity and fee structure, so obtaining **two or three consultations**—for example, one local Logan firm and one Ipswich specialist—is sensible before choosing.",
+              "annotations": [
+                {
+                  "title": "Wills & Estate Lawyers Australia",
+                  "url": "https://www.turnerfreeman.com.au/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estate Planning Lawyers in Queensland",
+                  "url": "https://www.bcglaw.com.au/wills-estates-planning/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estate Planning Lawyers Queensland",
+                  "url": "https://www.bcglaw.com.au/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estates Solicitor | Lightning Legal Forest Lake, Logan, Ipswich",
+                  "url": "https://www.lightninglegal.com.au/wills",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills and Estate Planning Ipswich",
+                  "url": "https://www.fmlaw.com.au/practice-areas/wills-estate-law/wills-and-estate-planning/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills Lawyers",
+                  "url": "https://walkerpender.com.au/will/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills and Estate Lawyers Ipswich | Fallu McMillan Lawyers",
+                  "url": "https://www.fmlaw.com.au/practice-areas/wills-estate-law/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estate Lawyers Ipswich",
+                  "url": "https://www.turnerfreeman.com.au/wills-estates-lawyers-ipswich/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Affordable Wills & Estate Lawyers | Shailer Park",
+                  "url": "https://www.rhcsolicitors.com.au/wills",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estates Lawyers Logan QLD",
+                  "url": "https://www.gotocourt.com.au/qld/logan-lawyers/wills-and-estates",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

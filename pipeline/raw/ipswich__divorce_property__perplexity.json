@@ -1,0 +1,106 @@
+{
+  "slug": "ipswich",
+  "pk": "divorce_property",
+  "plat": "perplexity",
+  "text": "I am going through a separation and complex property settlement in Ipswich. Which family law firms have the strongest track record for property division and binding financial agreements?",
+  "loc": 9060853,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\ipswich__divorce_property__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:23:23.582Z",
+  "cost": 0.006135,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 38,
+      "output_tokens": 497,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005535,
+      "datetime": "2026-10-23 05:23:19 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For a complex property settlement or binding financial agreement in **Ipswich, Queensland**, the strongest local shortlist appears to be:\n\n- **Millwater Tyrrell Law** — Particularly relevant for complex asset structures involving the family home, superannuation, businesses and trusts. It handles negotiated settlements, consent orders, financial agreements, asset-protection steps, subpoenas and court proceedings.[1][5]\n- **Fallu McMillan** — Ipswich-based and specifically advertises both property division and comprehensive binding financial agreements, with tailored strategies for separation and asset division.[2]\n- **Best Wilson Buckley Family Law** — A specialist family-law firm with an Ipswich office. Its published client feedback specifically mentions assistance with property settlement, communication and cost transparency.[6]\n- **McNamara Law** — Ipswich and Springfield practice offering property settlements and BFAs for married and de facto couples. Its guidance stresses the importance of each party receiving appropriate independent legal advice before signing a BFA.[8]\n- **Ipswich Family Lawyers** — Boutique local practice covering asset identification, valuation, contributions, negotiations, court proceedings, property settlements and BFAs.[4][10]\n- **Australian Family Lawyers Ipswich** — National specialist family-law network handling property settlements and BFAs, including matters involving high-value assets, businesses and family trusts.[3]\n\n**Best-fit starting points:**  \n1. **Millwater Tyrrell** for business, trust, superannuation or disputed-asset complexity.  \n2. **Fallu McMillan** for a locally based firm with clearly stated BFA and property-settlement services.  \n3. **Best Wilson Buckley** if you want a specialist family-law practice with an Ipswich office and publicly visible client feedback.\n\nNo public source establishes a reliable, independently audited ranking of “success rates” among these firms. During initial consultations, ask each firm about the individual solicitor’s experience with matters resembling yours, likely court versus negotiation strategy, forensic accounting or valuation support, costs, and who will personally handle the file.\n\nFor a BFA, each party generally needs **separate independent legal advice**; a poorly prepared or improperly advised agreement may later be challenged. Also check limitation dates promptly: property proceedings generally have strict deadlines—commonly 12 months after divorce for married couples and two years after separation for de facto couples.[1][8][10]",
+              "annotations": [
+                {
+                  "title": "Family Law",
+                  "url": "https://millwatertyrrell.com.au/family-law",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "How We Help",
+                  "url": "https://www.fmlaw.com.au/practice-areas/family-law/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Law Ipswich",
+                  "url": "https://www.australianfamilylawyers.com.au/cm-family-law-ipswich",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "About Us",
+                  "url": "https://familylawipswich.com.au/about-us/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Lawyers Ipswich - Family Law Solicitor Ipswich — Millwater Tyrrell Law",
+                  "url": "https://millwatertyrrell.com.au/property-settlement",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Wilson Buckley Family Law: Why Choose Our Lawyers?",
+                  "url": "https://bwbfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "3 Best Family Law Solicitors in Ipswich - Expert Recommendations",
+                  "url": "https://threebestrated.co.uk/family-law-solicitors-in-ipswich",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Law | McNamara Law | Ipswich | Springfield",
+                  "url": "https://mcna.com.au/family-law/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Divorce Lawyers & Family Solicitors in Ipswich",
+                  "url": "https://www.stowefamilylaw.co.uk/offices/ipswich/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Ipswich Family Lawyers",
+                  "url": "https://familylawipswich.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

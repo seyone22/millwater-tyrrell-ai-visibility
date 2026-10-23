@@ -1,0 +1,616 @@
+{
+  "slug": "springfield",
+  "pk": "parenting_custody",
+  "plat": "claude",
+  "text": "Which family lawyers in Springfield and Greater Springfield, QLD are best for parenting arrangements, child custody disputes, and accredited family dispute resolution (mediation)?",
+  "loc": 9191413,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\springfield__parenting_custody__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:25:11.986Z",
+  "cost": 0,
+  "result": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_011CgJcRDUVv7G5Epn8QgN6s",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "server_tool_use",
+        "id": "srvtoolu_01EaGydLnEEt2UvUzW7yo7pt",
+        "name": "web_search",
+        "input": {
+          "query": "best family lawyers Springfield QLD parenting arrangements child custody"
+        }
+      },
+      {
+        "type": "server_tool_use",
+        "id": "srvtoolu_015HCEDhgT87V5iRmiN4U7RC",
+        "name": "web_search",
+        "input": {
+          "query": "accredited family dispute resolution mediators Springfield Greater Springfield QLD"
+        }
+      },
+      {
+        "type": "web_search_tool_result",
+        "tool_use_id": "srvtoolu_01EaGydLnEEt2UvUzW7yo7pt",
+        "content": [
+          {
+            "type": "web_search_result",
+            "title": "Best Family Lawyers Ipswich & Greater Springfield",
+            "url": "https://www.vmfamilylaw.com.au/",
+            "encrypted_content": "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",
+            "page_age": "147 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Recovery Orders & Family Law",
+            "url": "https://www.keanelegal.com.au/recovery-orders-family-lawyer-springfieldqld",
+            "encrypted_content": "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",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Local Family Lawyers",
+            "url": "https://brookwaterlegal.com.au/family-law-greater-springfield/",
+            "encrypted_content": "EqkLCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDNjgBZ7kRKzmFooOIxoMJH3guHW7+39T75hiIjAdDyC9+f9iwwkuUX3xdNxGDQ8ykIJksy7E703bPdpytzDKRHFy5GsAB/c43FmgSGYqrAq/Q6lwv4WE3zIly0qkcip7A/gaBd7afvJn6z529Wqqe/rFgTcfPoZ6pBTUIEOPok939h4AjMLxi29VzLTEx3xdgmRnsSYdRCs4SWlMixvp+jhxT/fct5t1/wk5PCUrnxT65px/qtlNuW+L1cGFx6+4ZZz0eJdU+CfUburm8wFRz7dMauODO4HQPvxdGF4LE4snp5XSh64humL0ZY8RSAjGH8od8413ZLry8QGo9YD/CbU+lPhLVZXE9Sv7BNUTQhxzcAc1mDGNCOB38Hn+2SH4LPgqPWOqOKgzT8Xuacg1lI5da7R2+5BGOEZ7RzLXtvPmwsgSgnLsTWXUeaQCX0+mFEHHQdxkNpxoCxMWj+aCIaD7NQu1Hcgl41Nt1m/0FZHX6p7VjOe484igZkwrT0BKWnL0ErnDaLNQ7LpEzwemtvDLSifewwmnLogJqBAlb0TO4vDORm5nVpTatMFX9sQUFKSz/DvyjINpVMjRFkfJM+SrRCs7pyi+l4POAgfHEsqI55xSIk4b8CE97pWtu1TQnlV+YK+GMxGR/ho2a3lXOcSa97Tt0jyiO1u16bSI+72/5K4DFwcAqgrCeqnHpFeK8hjrp1ry0XXBkj80vE26X0hVByRq3LG9GsQe1w5wzogTvEMKCjPDzyxHBC/8LZbgrsCoSOiWadS25yNdazPmANGEkZBBgHFkg5rebxZLuRKIgkaqXX+K4dZSLF9jiVUfkvDH/EYDVs+B0eCy7Jfdb+X23zKgnF1eyHTLbV/mOKtKmITMnp8lXeRPFFv/H7hdcvFqGgmDSpabXD1n/dedQ0pLeIJuGC65E+FkVFvHJO+UibrjZGhyAXyZGoyNxyYizjUxjMjY5ctkHd/ZTmOgu0xScBNba1mm4AJbMVwZgD+VmHVKqIeJBSj3lcIDMrGTmiq+3dKuZoE1QRe8LrF6R1lMt3JxHe9Mpwr3FAlik/Pzlz+rMpKo4Bddahnu8HVjj4FQn07CW6uJcvZDHYuvGQitFUSeZUdcai9678ZNfDHvw35wqYNgBrdCEANixynSJpgqnjfZVkwE61LpaaeaCTzxwVwyDvCTQC15OqcKqZgKeSwAohJ0eSJFoW/1oJWAIOP8tWOXOdV2W3dbbQYIGfPi8MF6ImtL0Rtf9wu0UqDsYKwH9yxnM0iEgiaySGgwMJOE5KjNTbLFtKutpFOo88nWM6SotNdcDF0dBq/aKEgV+yzOZOIW5kKWxYAuThI6H/yGTazpIl1FF0Nt304ZTlB5h0ePpPH/yjAWv9Ex4V3hF/ZDAHOUkgt4SO4/zKiSNF/K7vMMuBFTQsuzMtvqwBU9+fIZdvCnTAtCryPgUlGmJB5kND88K4Q6McvcG6GQKkwbEdxWO93xS+CPG/+21BrezEydhX6fXBGZgNB3rAOW/WQZyxf85jLRV/zDuJML/3kS4Evq0Vxcezwwuah4t1wfNn0Am87DaVOiZUAHzar4wn/UNEfPJeHQPpO4q9hAOtnsud8i+nKgEfGypGFR++NkMVf6ERr7A63l1W6QRLjgi1LCA6rtkCufrLb+HopWeKyC7iEv1KIkIKr3TOnppq0t2YQiYr5Y1+Z1e01KfkFqmgRQWWKhyCUDUjpAwoU8ddJmO50X7Uc+KPXreq8YsNNHz7ZErKsT4qc8nQyK+Rig5tQ5d4vOYxmoQG3cWGfxKOR6ULN1UvV44WQF8e+SbxS7ILKp0IDzZySQLreQl+j72Pcp0WAdlWoLe0cnvOt0F0Ehc71AdblQMHgjGAM=",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Parenting Arrangements for the 0-4 Year Olds in Queensland: What Works Best? - VM Family Law",
+            "url": "https://www.vmfamilylaw.com.au/parenting-arrangements-0-4-year-age-group-queensland/",
+            "encrypted_content": "EuoECioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDLXou2qkUVI3DN1DaBoMlyWUeXPKRBXz+yfbIjCLvXcU4As8PG1D+/c1Hnh7hZhpiRPeF/sUO95xFjJw6KWHbNknXxtEpcDqwE/ZssMq7QPCjF+BDN/d4KpRDErRfAt8oHlOSA6oQU/lgnUDfKgjg6MpwBBiRhmPlXCiSKfBhrkuxCLB2qTGeBZQgb8NwnnaqNQwFToLvTjV5Ib0EOwuvWErScjMygXIUqVep58eBxZ4hMlcGo9ECvYETJwRPLzX6GdWXN6T2j90IhXn8Pmh65ttXpbThqbqJFhIP1k9100v4bRTSP9ELs7oTTcIThg1lJfCgT7dOthxOBK330+PtBfFp3maPyX2bO5BdF6z5JUg09P/8M516yF70Gfjwp9ntlIHkk4OIeuCbIBFVhCfv1rtyo9QAoLxbd3haTt/lF15N3IoR5pNNC6wiv3tIpyJoY6aXxJ5NWWgjQMcu7Bu87f0q91yf/8bCXi9WxOk8BhyBiLB2yLsGCa8LT3jGM2h/wT/4yJQ8bOmNLwBBsbW+6+UvKEfqK4lEUZq6/a0s6Hq6voXZOan+7FDPneLgnYTzN8vClI3QvVt8vBBp9hutLzZ+zWAyneToaEEY4K/Y+sGy9xCXmqA6+cf+bI412t4NGnT+NFFW73jp28qcXKNSozf7RbOq8kugw+k7JfU8g4zA+arbTtAY0dgbLe2Zv742YxvMZH5JSUcv73Abye53IOw4/TT6WoISr3NlQPfuJwyeqLHdjnNU1Q316J6GAM=",
+            "page_age": "157 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Family Lawyers",
+            "url": "https://www.keanelegal.com.au/familylawyers-brookwater-ipswich-greaterspringfield",
+            "encrypted_content": "EqQICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDB5cp9xctngxU8//HRoM6m69FYrGCAf/W1p0IjB0qeujp0ruVBoK9HbM8KlSvD/Beb7aJJ+z/rnB2z9UtXhdDmTRD7z3pG+Ajf9UPyMqpwdF0+uZzS1MwcOaKCk7CKSn2RBrG/sjcg8UNVnnRHF+MkqrnML41FdNvsxWKwRKSeJ9xZYI2qVFiWbUEa3tnxeQpwvLpHZ2ReXlEXOcuEIEUBU59WrWSeouYS0DXWe8rFY5sJ6Jfkalxnvijqg95E78217VNqiQUegJ2XYTZi7d/LCZ/qSZR+8okUQG0ikPlyZGeoEjSXgoPdlxZk/OwcL4HeMzORstk34va0qKgvFIbwGowPB1y9t+knQe8lcVT4ACDb0WKcoRKSt/kvm+ZZFk1AuLP8e3vjKTz7HM3PmUl+6QJ46rGe1xkmKltsXgZsbz90BhPGRgOVkvdX70zu6M6obfYuIAIpWkK1cr1TIZx57+LvQMG2auPk++h6Y1fDMpZSmMV7ynal29Og2AvSAVwEZdGolVtIe9Agct4zRQTzsr00mxUMJFRzFXB+XZ50VTGvvBsr09u/sQlfQ7RatTYptNE6utZYD+00R+QjvHsxJ2IIAIJ/o3Ex55UeOmwmdtyFnasNFwxOkDG01KCI8RWxf1xy2QTWVmu5ZmVHqsst82+bmF0mHCtIW/VZxDJVCi/TRY/4zHLGa1l/8zeFgf7z5Ogp2IK2rr2RmE+sVHHMsAMxIY9iCBrFcIVEDeijwM4Oy6gk/O9rNTxurW9on0IaTrENKdpTMzysIQEmlTG3uyilcVJBnLsdx5n/oPfU+EDDI6Cn7YgbbsOsDOZtLVULrE41C5wb+SHRFqwi+3D1Ho6cc/y8/0OVxy9toJ0Z7YZ6TFMGyFtjGnQHqRc3KKZXUAgrSn+QMGHUrrY7j07uqToKD2O1lE0LfrTezNl/DTdJXSSJfyHVYlrRatqEUuWyr1a738uJ17tq6y9KRHTthWHHGJoj6WWRpvglTgDtcLK1kBGBj1Ze0VVN64g8i+cOPc30NUm7h3KAmy0j3UDHUKS2c43oIiqKkzC9N94Gz0mypeO82R/cZS49L12fBWSjgEcs4HloLgYivNCPlY4gvPQq32Rsd1X6mgCfiqyPFcqrx5H+PmfeNsxn7lun/uuIryVaEqejxp/cte0rWhUzVRS5PAHuy7T+15GBWvk2l0knH94eN3BG1F2N227X90fejkic5XEX6+RUQpW7NglQ9vfjk/7x1EUMqHWois01vlAr4IhR+/FzpMJga9x+SJdwlqykpMKxD2sxQLXeHOBQQAbuX8foIjdFWyR1WqtY85ohnQ397/7CyoITy6geYz/blFnEadTBgD",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Divorce Lawyers Springfield",
+            "url": "https://www.springfieldlegals.com.au/areas-of-practice/family-law/",
+            "encrypted_content": "EvMICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDAzusefD41CQ6nDWthoM1nKhc9q81qkeU4eZIjCLH+tdOrApcU5ZgfQwcO4PbRvcJUGWPc85+R4mQEfj3SEX3SoQmAZztvvO47EKSC8q9gdbZ0qFWyqWUvAhQ8MwBotiHCGaOhaur9YQh+ikxEjuGC3B/kvh6JRvNz6UBLvgJ0q1rc5IiZXFGSDtq9vzn0a8Q1Ww0w4eY8as5GMiBhcyjZBLzCgQHtBI1paXEItCzoksLrt1FQUKWxydcXdN8Kk3F7Ir4kmps3LDz5H2J8hCCbuZTv0bfirwFeqMcdlIAiv53HJBkL5I9GTL0W632c+2Q/AFFYHQg1ZlnaXGx6gsSV7Ffuimw0dgxCVs5NVbnt49CdKHHD1eYX6mN2MV4hvE+QDGKqSzKZbwYZgpfJaI8dXPTLkTJd7LD40Mg9mp14jmRoKi1ghpYQqjq5WoK2kVgEwP04KFmpICjOV/OZvbZHsqo4b3AlZ/52UMm/TZte9TxZ8PfEqQ4cNpWACIA6MEnTicEsJTd7ePoZeTUyqL6fuBMIdDIjdIA2iHfLEjxB3yf2QuiZ4DOuGfH9sMMIR034wJ/a6AmUKYcjetvH0JtQ55Ccft/Bo/1EjUo7BAGQNl/rOnJESYKbs8IvbpOyPXAo+tHtNSNerrAniWftdXVgHPWxA4Ohj3ziPp6PfvLgP19U9heqFNRhrXWwTvGDFwEr84uhZi9YkkhlJ1JilokTcmg6fup/kMyK5+JCEIH7qtaHTSEyNGtDJ6QPbJwkZkyooTlhHPGYqi+9Omc8ANwwOreRcGnAvNlCp3NLuS8S3oVfT35xSb4DUluI88EyMJM49jydffYOnSuQfC4xO3/j3tE8/fMmQtREamFZAkKfEt2Fa62SQRSB8hGulNVp5NiwmKtfQHDv5LAnyNSYOKZNpxg5tivuc41VYLeRSDoiZZAwBKXksU2wu/vKcisLV9pC2dhntoY5WFq0u7UFUWiJ+GqNjY8rrv+8KAnE/2nPb/9f5x5XbfBgRALUNoA3kyLAh2SdWXZufI6gdlSAy8r8M5dClXGEGTvbolMR1HzZgT3qA0nPnKMQwxuS7VwjYiEnZSspbqK8Wn10pIumEBcU6X81r5gXOXw/AIUpT/j05fPbeKsCo88DGIg0kddmEdXnQ0RONqRtOmGbhY+AaJ0Df8DENxg2fiLpNWikmm2ziF2kufGZrSaB8j5rPJJLeRkbq1VkwfojirfgPuvs1G+T0Ve8ZwMFW3PZwea0LaulwhQJrpsiQqPp3iTdy1XCZ+qS+be+bdujZefQtTtWCg0+i4vikeUReyh+nYOYarDZK7WaD5APfepAGprOMHl/+YR1/Erepf2KqZU/vXunSXGrrzUFgcsa8xPqKSzp+SM+ROzw9+h0+RSGM0QC5nv2ONeXV0EZKj7GReU9Lu22I6PJCzf1Cs5Xv46n75VFax2jUu+j2cPXEYAw==",
+            "page_age": "395 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Springfield Family Lawyers​",
+            "url": "https://jpflm.com/locations/springfield-family-lawyers/",
+            "encrypted_content": "Eu8HCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDHWLwwG8horQ4ObBsRoM2Za/8xB5DmUx3IWDIjBuViV7t4XPDzpbGnPq47tBdlIffhkW4Xwghop8OeDwDFRR4sfP3BjswPn55BQcbqgq8gZ8uPM/7bctY08VdFlMvf6yKHwqyqhaSKtLECf2NQobwNXZw7eAD9dXsVqVDLaW7mLXJP15/uhDEHNp777hdkkSCCitMbQpcks3INGPoTeI6nfxoyik8vcZQ/fCcSWSnaFrKHoxaQUXjPLaFx6Rikix9nlk3rTsil3ua+38HUlV6OD2/OOixpGLh7R6amr1RAubZLhhZ1fBxMdsc2HFRGhHxZYKf/6/4fntf8HgFayQ6DZAHS7PLMGQYhsXWZL/TwlFCnLyqWeatsJ/ccOdS1IZcoJQNAFBmlm0mo0Agi9x+UROPvqZzQ2xEL3gV56PB22YKJ6D2Hct0uMKPjsddSsHQU3hpkQ8EQPRa0JcSrw/apbyhR4ijAEqa9NSt8GyRaKkoHr61a4YPnpCfTnwgDcPmjEPuckDgGqg/7ywS82ubJuiQDxlnLKhLNDfrVIcnEdq0tOiPZ4c71nvSY+nLZ7lM/wT3b34rHN5t+2GilaezKzSe/QB+Nw49SBGptiw0P9XWSnvYG8bisXNDv8BqXuy5Z9mXQ6SoSbWcLHO9JeDtntxY9mRXPpFt3C9bBn1uqknsOe4AwARaPIBjHt2d7eg11LsIdt08YiRcIDQbnjUhffiEKt0CzsbxK3ulGER/41Z/gCidCwlKy4jzqwsnZKGrFQ0uVM24a6UShhVDYlNbO5kEpHfwDS1QjR2ALhpSaUr8Beb6vFrMGtO8gKtuEbE0VxjsO0NDg/7ssqf868fA17K0Jg22fdw8ywHMv0IIJxZLJTWYcqXeQl7FZ1aV0DaeFS9eBslA/yHPARlsJm/T7bmSb7KCb0HmHCwDDqQzkP1VPAEcdsTtyhobGYIJ4EnZa0o4D04euAolGY0JtLlUGDh9q2KdZSrexavlecNef/u14HX/raViC6wO6/c5Mujs4x/u6QZLwTrvpAQLf+B4RLVpGHeTUuPmZMYwykFNYH81hoLmneEAI5N0rFd8kwYXzqA8iO+eQQLmXwjj27k5LlwZc9v8hlOX/J0hgnRri4Gnim1edMq4ZarOCEjKwYKisdvgTNZ50rSWcYnpSBHroAH9D+jSTwsT/LfVY3khSoW3K/9xbZN+HVu6BDGNI1VOOXZ43wKigXaeTj+Wzs5Ei4IkBQmlkzvtBShPJrK/8eEFsAxmZIFmb++PuxPk8SmmQkYAw==",
+            "page_age": "505 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Find Family Lawyers in Springfield QLD - Lawconnect",
+            "url": "https://lawconnect.com/en-au/find/family-law/qld/springfield-4300",
+            "encrypted_content": "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",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Family Lawyers in Springfield Central, QLD",
+            "url": "https://lawconnect.com/en-au/find/family-law/qld/springfield-central-4300",
+            "encrypted_content": "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",
+            "page_age": null
+          }
+        ],
+        "caller": {
+          "type": "direct"
+        }
+      },
+      {
+        "type": "web_search_tool_result",
+        "tool_use_id": "srvtoolu_015HCEDhgT87V5iRmiN4U7RC",
+        "content": [
+          {
+            "type": "web_search_result",
+            "title": "Sharing information with specific agencies",
+            "url": "https://www.families.qld.gov.au/about-us/our-department/partners/information-sharing/sharing-information-specific-agencies",
+            "encrypted_content": "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",
+            "page_age": "378 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Understanding Mediation in family law",
+            "url": "https://www.springfieldlegals.com.au/understanding-mediation-in-family-law/",
+            "encrypted_content": "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",
+            "page_age": "213 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Mediation, QLD - Spencer Family Law and Mediation",
+            "url": "https://sflm.com.au/services/mediation/",
+            "encrypted_content": "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",
+            "page_age": "322 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "18 Best Local Mediation in Springfield Central, QLD 4300",
+            "url": "https://www.whereis.com/springfield-central-qld-4300/mediation",
+            "encrypted_content": "Eo4JCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDMOxG5gSKUABRcKLIRoMCZO23WDa3aPB+VIbIjDCR0Z81zF5Fls/rm6X8UxMz+FjVDZPzvK2oYZ1fHzVxI0P9SBBkwdf7/aJZkM5wRUqkQgOyPjH05EPyYdtEtVGQa4NmI0Ky0MD4o302Hfg3cIUk2xyZhTp2YVOBiKUcTaM6rwlS3RpZC3QgCkZJT+k6lVzBXkPFISWam8sXUJC1ZdxrbWtO6SK9NlQGWnbJ9sYMlaaz3Tg+lY5FphDrggc5DCINbLM5rEv8yoHIvCzG/ZW79vwNf+PoyZqJUWTPn1DNVlAVZRBof27PJ69l2uHSyuBA9LZUg/m0LnGPOLnBjxAGkguPPRfQ8zaUSPvM5XMr6ZRq4q0p6msDJ2grS++ayR7wUAi08LIo3EefPoTsqmJttE3DKf6IvavDc5TyJO+B7VzeskTg959YmmhY7i5sQ+3ThHWl7WRitZgkg7tOIF+QYEl8qmlvDb1Bu4Rv+iznFbM5Qn8R7b25lTikkpexxDjQ/e+6MDm4JydQwT4XX7s7jMYZcIxgJIwjI3DklScrcjjkKJVFOTprnSdNX4UTv/z55n6taIpYP9C4K7zn4yR7K86HsOIynW1Zy5ykQ7ccxMuOnbbLjuvTSDOBf33uVyV/fIO9br4bhHF3slOYwyHZUcu6v7o60CU4ppvMFegXH7D9kBjhcO4k1u8+Cigyrk1/wxCgNDmG/HR8DyD2qqeXR3DCWSI46dF5x5VnU6QHKUKKYaM3/mhiY6Dk9DZpBc0bRKGjPoONG9/Tb9KLB7uEmGkljjDVY9BjkCa4xb3oG17Ygr070RctjJ7kIKaRYIMfMMazPhqYOWSiw4nAKzQWkr9fx31I33LvqVgkm+3Gv/sHqBB3JfDBIIiEhy9JV/dLgUfiu+phQpGQvQqIJEeluy7rJO+wiQR1iRqZfdVLvai8EeL52q4/8ulzrJ/8rmPto2S366/rHe99/O3q7FiZeGmIm8P4JyGMdezc8FOgzZEj7FLon1ZPi0BfXmAJZ2LGmPige2BnO7pi5cqpvvc71eWKNdrJ12ynhjxG5jRSZ5c8uXsfE7LQWhEfVWPJ+1Jh06I5UK6kJ44iAcRG4ZMSSMAh/yJpjuA5/ql1hVCSFEQbtRqd3Yk6cSjyrsKSrabRQP5L6dUsh2Y0iPQ+fDNV3MHm5AB64PqWjM9NeVq8owo1H6dYy7HG8mMRLQ0bIaCLXIodgTK7/wpishHvzHGpuSQWaAV87A4iwFVCJGAuT9qByAJY/bPytQ4q1mT18W1rnEjPqd0UmTCIxrBll6UlRE4VHX+7eqaesXLUD/fKIu0DyQs5jDRxc+9GNow6OstohfDzasIHgi/KOJB+496rcHtn7L5QyTn89hPkaYx0goyM0ueFP9hVsIAUWrqx2xWFPDhF8+vOyyn9n0fa4BV0kCOTi7iQ8MK6EUcpwcKN88EZf2tL4r0QIwPJlbLcbhhPAAdIi/Qc2iOl7eh4QkrVhcYAw==",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Family Mediation QLD - Family Dispute Resolution Service",
+            "url": "https://www.mediationforfamilies.com.au/location/qld/",
+            "encrypted_content": "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",
+            "page_age": "1431 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Greater Springfield, Queensland",
+            "url": "https://en.wikipedia.org/wiki/Greater_Springfield,_Queensland",
+            "encrypted_content": "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",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Family dispute resolution - Centacare Brisbane",
+            "url": "https://centacare.com/family-and-relationship-care/family-dispute-resolution/",
+            "encrypted_content": "ErgLCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDHXmaWRPbXJoCETfKRoMWKnuKT1MR+1iUTvCIjATjSud6dfHl9iuRkPW7eb414v2OBUpr7P20+ofPy0LYiwZi2hqC0/V3Tbth1rH52squwpj33kmxWAYqgefhG4mGZwIQSIiFDk/CUlk2bTWFH3VJcZ5Zv5JL1IGUq/TEuz03V5MGKgAYTkCUH4ntg1Y1qgY6JgmNL7rmW9Bd0dsFikpDSNpd9M2M8WtOqlhwnERzgnrIpJpWCKx1eEhCXmOUoR4DwqDXmpredS3ZPytK+PUvFInbdbHVHiNrffkbfHoLM//lxedVgUC6HGpRDO1A+MSb2yyrdMvW95oznSGWyoB2HRYSLE7mfKDpv2I9UhvuzTaQZOUHb65rHjLDNMlcbZL5AoeXGB++GbI5OODuIwJ7DnSXcJlNcAXckmo/5GblnVq51Ato9frfaGKf4BTID03I+E7oqaGzrE7qxF7qWDjwSDRQb2zCg6e6wUWpFAogb876V4KCYtd/gmqd6Ta2MmWm4G9vZVYZS1y8BxHYBT+wi6c2HmkG49IO4SrEjV/h2pdFaXY667ofSJDw2afUi0HvQM75XS8xz26KARcKu8GPZc2ZROToAt7/Gvk9IzLkvN2aQuI0Lbsn8ExlPTNFQLycK8aYoV2eQhtleG1znc59YGXc1Kh75HuAqR08DY/6OwMoZZ1OPZodKXM1Qs+DZ3cgfWrQtGpTTROwW6f9jXK2BCbmenF7KLLg4zgxH9lTe2lNpDxgY9dfWxaeOWgGZFiVxnyyNuQF7btqf5bBW0Zm4K/07aY8o93Y7ya7vx0ivNBT/tOEEEjizT+d0ZvlpfGVaZVGt8DrzVvxlOxI1Wq2sNSJ66VdE+6BDvQvFl0TwUeoJvMV8UKWQtnucty7gBIK+WYaU4S3DabTKuKzOGDvV/iBFSMi9dmgok8jtWRuKyFNiHdnoyNnz+DhleszXZIkrkW1HMGQ3xE3OZ4jxj4G50FjvMVVL85r14QXNrNKwyluPP9b++0dG3F/oi09EI/R9Q3bpeMTpqDure5PRbxehu4a7L5J0t4ktsmVS6fU2lnaAC3a8yMO+g+3jtOHXf8elp4Xnt+0HgvjbTTl3T17dbd1ntEhkP3+Ksaf9SPxCN3QEp9QnP8zsrgZGxYpWmIMgEfujCvkZEOYI2RHI8/IvcHSeILS0I98oe93Gly4uO8gnR5zD0r2zSZ4dexCVQ5H/gWxLixj/fEuQCsacP4r/8kN1isr/CPpm8jwIiwqE2lVsD/usjPRlhkVRNFOZlol+36Tw9ItjdMBkJDpvbowCjHCupu+OGZwY5Sj5gcgfQqqeynd7IyYzQydC0Qf8z0+Eazh88Ogup8EafqkO3a6DwE2fBTe1BTPg2Zds4tIgOCZK9V9GRNKqVvGxoRra2T9//yLj8mdjNGF555ApPBUTGMqy9dwVoteCFS7WZE/IzQ0XHO8zFw4G2EnVjL3EBh70ltoiJ9Da+W7Dpjxc80aEKjXrp2R6l1ElvZiolZ1vxk/53GO94W4HmwGOvTBLT1ymSWbFu00zLNTsWPTnSemGxjDQ5jCAMfJQJZTqEhGNUbSpIYtFqjn5FlYMdtVsv3kpW7aM5252E2MxuBjl1Q7x4LGVGcWdZ8qpkLX3MUwC5vfc3JUA3MJ38LG3wVyF87d74bG4pGRhhh1OFWNYshOaNI4eAqDH3LGmD5q7CK+YtOA8SuyHv51tPwNsgZkbcAhHbOZ27xQvpaPBLxWtxwl8tdAglYlhCZFBOp6XfEB6yOAKAuf7u2E6p9vN4+GfKtPtdr4aDd1DgrGsrngpfXW//BKNFLIz5HHcouXwHbuaPwHmdgLpyyKKAmBYxSPnHdrbOeS+YqHPGsDop5wR54DQL3HjZyiMR+w/B8GAM=",
+            "page_age": "470 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Family Mediation Gold Coast",
+            "url": "https://goldcoastfamilymediation.com.au/",
+            "encrypted_content": "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",
+            "page_age": "325 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Home - Private Mediation",
+            "url": "https://www.privatemediation.com.au/",
+            "encrypted_content": "EvQICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDG5G/jZ678VKmwJxKxoMs6jC8dKkbLo7QksdIjDL9DHlj7+zO88hWxLkbI0kNM8sBO95vQ1CKPvuand4eM3ioATrlGIfgyHOJl69NsYq9wcDctPg9HPqtRnNcdIWUxBd2oDW3dRxsMkDpDDLKcd8GcohMOL1ql97P0DHjG8cipG8IFc44KAz5KiTsVIPC0/E6Er1vaSPGQ0iKzixGLnOnoPztFhUfIJHHGrp4WHULtNtc/m57dr8XGDcjezdncFgL9JBiAOygcxdJnVgDqm7BO2yVM4sG+aQZYgbUx0/QNVXoaClA6Tm0bkuQRBSA/c6p9xWIoegWY6c9/hGcaVTyY88uUiKWcPZZcmi8zt68tv8GeYgdT6bDjJpoaI7ZqlA1NwtsTZdKT5+rblfn7Nj8z430vX/Hd/7PV249G6eMx2JORznafOrmr8nKTwSTY/MisLp32PGG1mODL8k6Z/CY2OS1gNGKm0VWHdsZMfk/OH96pqTrJRG0kiUSKVyvdCeakZ95167dRTuqkbRL567FuLy5ZL9+W4l3h5uGytKIUPFCtm/KtFt3UCOzMglinlfU1he+ECxerkUcV0YQqsDhGMK/suxJsWIN1Laqvvd+SOfCVjHeEIy5jfqpalp++f6XF6d12WsiZF8N7PkMQSsYTmV/9J1mBF+C81F7+3Tj8/gFkcNTkrSrkF9a2MOAYZt+vMapxqsmKTnP1gw4CzX+JWmxu2kYoEF/aMuCmdPxZMsqDftJYVB2USZ0+xvuNmZkBeff9jMiGGTBFEsLrgak4gbjp6u3Aq7koXiMsT2OvoAzJq8aLZ0ybeJOHLQ2YK/KGj4kGIVeNjfj00kXfGI1iKw6ZGHWa7/Jzop7XldjdX+fm4cZNyCeOvQSgPg6U50jD1qFkElshnOAteHDyc6H4eTkz9iUymREPbXwbWku0QWhMmHVwLM58p3oRIpWM+b2AQS+ZuYL0BFQn2DgZxzR9OpzmnW98A7X6MAq8ltzaK3jWevG2k0e0g61C7KiuG0z4JEQhsZBS6R8N0B/juMwXM6oOsm96B2wJxS0QldKpvnvoq4fr/QkS+yRr2OYDIBBaXjkZtkU8tdBL06ZqkvIAqiKA2BioTWhpwNXyS0iQV7SEka82LZfUnZxwKDQbSgs0D/IG7ZATiU4S6dVyRinYaD3uHW69pvYb+0XLPE6PnsIe1jZPc/rb54B17NYUNgVIbK36U1rx6vaj+dfDRum9IW4W1bnDNlfy9E89GDAOV4eoMszplIaVQmSCFwO4dWuZgHqywtrsZrTQj675o9+Gs9A7Pt0st2boxCcl9HlPOihMQp+J7rDNNpLsSFyqQfk1hDSl+zlQn6PBjGiB9JJgO84gFZfLP1vfVZEwwXvzbZsvoLgoiL6gSMXwEvEp38dRgEnmM5cxwJYxEbak+6HTX9Wsw0vv/XB0wXxvYNSSFsPZh0slD9GAM=",
+            "page_age": "1040 days ago"
+          }
+        ],
+        "caller": {
+          "type": "direct"
+        }
+      },
+      {
+        "type": "text",
+        "text": "Here is a comprehensive guide to some of the best family lawyers and accredited family dispute resolution (FDR) mediators in **Springfield and Greater Springfield, QLD** for parenting arrangements, child custody disputes, and mediation:\n\n---\n\n## 👨‍👩‍👧 Top Family Lawyers in Springfield & Greater Springfield, QLD\n\n---\n\n### 1. 🏆 VM Family Law\n**📍 Greater Springfield, Ipswich, Toowoomba & Gold Coast**\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "At VM Family Law, our firm specialises solely in family law and domestic violence issues.  ",
+            "url": "https://www.vmfamilylaw.com.au/",
+            "title": "Best Family Lawyers Ipswich & Greater Springfield",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDCt0qbTnJrdMYDroiBoMulsVo/K0fP3wTcIBIjADxWcOTAPwK1pc6w4CTd8LdFbXEk2j27YyWqEi/vPjLFbPrpU9dnp+amX12P3I90sqExiuIp60JWXLcojCT0nzhEYFMDYYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "VM Family Law specialises solely in family law and domestic violence issues."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Arrangements: our family law firm can assist you in resolving parenting matters through alternate dispute resolution and the preparation and negotiati...",
+            "url": "https://www.vmfamilylaw.com.au/",
+            "title": "Best Family Lawyers Ipswich & Greater Springfield",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDPIhO8yuoPhaRPToNhoM22N/rNRkZg0FISS+IjDxPDroKQUIKYYvA2A2mcklFuCVlKvgFvSJdnYy/1ogZIg2a8ipg0j6LFW7qXDYKPAqEyhih1bOR0mPQpQq19mZu1/pvdkYBA=="
+          },
+          {
+            "type": "web_search_result_location",
+            "cited_text": "recognised for excellence in family law\n\n## Frequently Asked Questions\n- Parenting Arrangements: our family law firm can assist you in resolving paren...",
+            "url": "https://www.vmfamilylaw.com.au/",
+            "title": "Best Family Lawyers Ipswich & Greater Springfield",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDGT6ETjk3SiHBP84QxoMCWir2FoY+8lZYJONIjA3ARHeThCoYLDWqu3fWJymm3YDO9SDVBm5yeDP+unxmmNrV5OkXxt0INZQl0YaWgoqEz6SWYvwGubBCW8ArlXZ4Dq8SeUYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "The firm can assist you in resolving parenting matters through alternate dispute resolution and the preparation and negotiation of Consent Orders and Ipswich Court Orders."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "VM Family Law supports families across South East Queensland with parenting arrangements and family law matters, with family lawyers in Greater Spring...",
+            "url": "https://www.vmfamilylaw.com.au/parenting-arrangements-0-4-year-age-group-queensland/",
+            "title": "Parenting Arrangements for the 0-4 Year Olds in Queensland: What Works Best? - VM Family Law",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDEc7mBc/eUs5Ew5tORoMUnIOdji8SRHVygI6IjDNNK4t+DegjavPDjMipqLrnDviKGQLtb7V5kxWyJes2ZRMlYW4SSlqmsvISqpFHBkqE89JrRBfdOo706EVWATLYtdAD/oYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "VM Family Law supports families across South East Queensland with parenting arrangements and family law matters, with family lawyers in Greater Springfield, Greater Ipswich, Toowoomba and the Gold Coast."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Our team at VM Family Law consists predominately of female lawyers.",
+            "url": "https://www.vmfamilylaw.com.au/",
+            "title": "Best Family Lawyers Ipswich & Greater Springfield",
+            "encrypted_index": "EpABCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDI9gM2u5YD/nzCpDOhoMX2Qh48AGHIJg9+j4IjCEXzHSr0NBtm4T3b/91OvwjbDgbFYPZt+UY0JmyqHBC81Mj6l9jd7J18yP12oa1UkqFIUAfhzLCMRY3XyaaMwQEcJfqY3RGAQ="
+          }
+        ],
+        "type": "text",
+        "text": "Their team consists predominantly of female lawyers,"
+      },
+      {
+        "type": "text",
+        "text": " which many clients find particularly reassuring in sensitive family matters.\n\n---\n\n### 2. ⚖️ GLG Legal Springfield (Springfield Legals)\n**📍 Springfield | ☎️ (07) 3288 3511**\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "- Divorce & separation\n- De Facto relationships\n- Binding Financial Agreements\n- Spousal maintenance\n- Child living arrangements\n- Division of propert...",
+            "url": "https://www.springfieldlegals.com.au/areas-of-practice/family-law/",
+            "title": "Divorce Lawyers Springfield",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDKtkXIJvMw9NebBwrhoMSdt0tlslui1sMykmIjAK5Yu58SPrpQrfiEtll18MSPeQ3sWaNtl3Fs1NMuw1xME4TOp1+NRWnloCHoFQTOwqE8tgbvJ3PElKIjjrOr2RSuDpUvkYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "Their family lawyers are known for their ability to resolve complex family law issues with clarity, care and professionalism,"
+      },
+      {
+        "type": "text",
+        "text": " handling matters including child living arrangements, family dispute resolution, divorce & separation, binding financial agreements, and spousal maintenance. "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "With access to one of Queensland’s most respected family law teams, you can be confident that your case will receive the highest level of care and att...",
+            "url": "https://www.springfieldlegals.com.au/areas-of-practice/family-law/",
+            "title": "Divorce Lawyers Springfield",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDGs045IpQe/Ofo6tDRoMXBEOe3yhfdKi28ZOIjDGaGHLGwKWFYAAMTF1wt7Ap8BXY+grVn3OE3QKKUUjiwuQ7nk623A6KQ+yXPJQPFQqE5tfFixoAlastpvK3QRAdettjZcYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "With access to one of Queensland's most respected family law teams, you can be confident that your case will receive the highest level of care and attention."
+      },
+      {
+        "type": "text",
+        "text": " They also actively guide clients through the FDR/mediation process. "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "For help with mediation services, contact GLG Legal Springfield and we’ll guide you in the right direction: (07) 3288 3511 or emailing: info@springfie...",
+            "url": "https://www.springfieldlegals.com.au/understanding-mediation-in-family-law/",
+            "title": "Understanding Mediation in family law",
+            "encrypted_index": "EpEBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDPGqQzq1yz6g+nIc7BoMGiaEuAU0wO5DX6JkIjBjzUrF0cPKiqpHd3tG1nYqIl066z5xtgsPSEtn4YJNOd53A6iTXkESSdkz8YlXYtYqFa5SnUZwhkl81ROa8dxbKKaPr2eprBgE"
+          }
+        ],
+        "type": "text",
+        "text": "For help with mediation services, you can contact GLG Legal Springfield at (07) 3288 3511 or by emailing info@springfieldlegals.com.au."
+      },
+      {
+        "type": "text",
+        "text": "\n\n---\n\n### 3. 🏠 Stanford Legal Pty Ltd\n**📍 Springfield Central, QLD | ⭐ 4.9/5 from 100 reviews**\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "## Family Lawyers in Springfield Central QLD\nStanford Legal Pty Ltd\n\nStanford Legal Pty Ltd\n\nStanford Legal Pty Ltd\n\nStanford Legal Pty Ltd has 4.9 st...",
+            "url": "https://lawconnect.com/en-au/find/family-law/qld/springfield-central-4300",
+            "title": "Family Lawyers in Springfield Central, QLD",
+            "encrypted_index": "EpMBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDCQMXNpGgdnW0z8pwRoMQJzKnqIxL+B4NvEjIjC2e248YU3DHIWLYxzbdtpqlSQ2HxjMy6l5vUv+Gwt+9wUaRjHB4dWG7U3BZNZkgQ0qF9oOinOfbLK9UsySI8gTzqLbyOFOKbq8GAQ="
+          }
+        ],
+        "type": "text",
+        "text": "Stanford Legal Pty Ltd, based in Springfield Central and serving Springfield and Brisbane, specialises in family, property, commercial, and wills and estate law. The firm prioritises empathy, education, and empowerment, providing personalised legal services. In family law, they assist with divorce, parenting agreements, consent orders, and domestic violence issues, including international matters."
+      },
+      {
+        "type": "text",
+        "text": " They are one of the highest-rated firms in the Springfield Central area.\n\n---\n\n### 4. 👨‍⚖️ Keane Legal\n**📍 Brookwater/Ipswich (serving Greater Springfield) | ☎️ (07) 3495 7339**\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Our team of family lawyers in Springfield QLD can provide you with advice about recovery orders for children specific to your circumstances. ",
+            "url": "https://www.keanelegal.com.au/recovery-orders-family-lawyer-springfieldqld",
+            "title": "Recovery Orders & Family Law",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDA0/7WldD7Wik5vkVRoMzz3pl1Z59Dw4gwqGIjBoAH3VcakQkOgC5qXRAsQK+Kj+M2F/brOow+8qc/c2WCWg3bYHZhFtpMF5C0MsBrEqE4WnsWJnVns7qaQP1c/Q9nnS4XQYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "Their team of family lawyers in Springfield QLD can provide advice about recovery orders for children specific to your circumstances."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Family Lawyers Ipswich Family Lawyers Springfield Family Lawyers Brookwater Divorce Lawyers Ipswich Divorce Lawyers Springfield Divorce Lawyers Brookw...",
+            "url": "https://www.keanelegal.com.au/familylawyers-brookwater-ipswich-greaterspringfield",
+            "title": "Family Lawyers",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDDjZIyPkf7FL9eEU2BoM5R5iVNyIJjCUjRpUIjBmvMAM8H2DBVi41W2+9AuGVyBMotIpr1nD3RBJn9CsRQeTQ0O13iqE8yslpnUxypEqE2/dAIwJNSiGuR4Gdc4UEPrBs3IYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "Services include parenting arrangements — parenting plans, consent orders, negotiations, advocacy in contested court proceedings, seeking recovery orders and location orders."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "With in person or electronic appointments available, our approachable and experienced team is ready to help you move forward after separation or divor...",
+            "url": "https://www.keanelegal.com.au/recovery-orders-family-lawyer-springfieldqld",
+            "title": "Recovery Orders & Family Law",
+            "encrypted_index": "EpABCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDOb/lqNFU0Zaiern9RoMJyx2mOW+dfJ0PVlXIjDFd1KNj2MUl+0REAZsC+ZMD5UuJJZQAn0BbWlDy0YLutOuzJl5BM0NHry0CsFNC4QqFF8syigw/BzMwnc2Y7MCMw6pK4NcGAQ="
+          }
+        ],
+        "type": "text",
+        "text": "With in-person or electronic appointments available, their approachable and experienced team is ready to help you move forward after separation or divorce."
+      },
+      {
+        "type": "text",
+        "text": "\n\n---\n\n### 5. 🌿 Brookwater Legal\n**📍 Greater Springfield & Ipswich**\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Brookwater Legal provides flexible Family Law services for the greater Springfield and Ipswich areas.\n\n",
+            "url": "https://brookwaterlegal.com.au/family-law-greater-springfield/",
+            "title": "Local Family Lawyers",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDFM2FMlmp+mD3dpMVhoMN9/V6YwLjQ8PGKl6IjC7uaptQv8YSawW5zUZve8+6CcRbSFZkGV9QE6neXw+7HsaSTQBHxGPT4edaw4lMLEqE0h7dhp118S6RnUEgIA8ikWvPvYYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "Brookwater Legal provides flexible family law services for the Greater Springfield and Ipswich areas."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "At Brookwater Legal, our experienced family law solicitors are dedicated to achieving the best outcome for your unique situation. Our local team aims ...",
+            "url": "https://brookwaterlegal.com.au/family-law-greater-springfield/",
+            "title": "Local Family Lawyers",
+            "encrypted_index": "EpEBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDEv2gI2dLmRpcvEG9RoMRhhOW3weqGbeTJHVIjArQNscWtnSkmtGnsy06fgXFXDzPMI2jccM2LTGJ01xsDOTgvZITvV04etVxN51pwoqFRpRhAMbvD+BwaCxnqaobif5Z3riwxgE"
+          }
+        ],
+        "type": "text",
+        "text": "Their experienced family law solicitors are dedicated to achieving the best outcome for your unique situation, with a local team that aims to resolve your matter in the most cost-effective way while ensuring your rights and the rights of your children are protected."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "## What We Help With\n### Parenting & Children's Matters\n\nParenting arrangements, child support, paternity claims, international child abduction and su...",
+            "url": "https://brookwaterlegal.com.au/family-law-greater-springfield/",
+            "title": "Local Family Lawyers",
+            "encrypted_index": "EpEBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDGhf/i43EiEAovZERhoMHaN7w4S+DAVecLevIjD2r05brxgyhwMXTDmBOoS8vx19NuXyzhqD6HbspyNNvY+sBOCtUAJzVWC8vYSWZmAqFUCMktHUW1WB8SPltJKOHg07Xhoy6xgE"
+          }
+        ],
+        "type": "text",
+        "text": "In parenting and children's matters, they handle parenting arrangements, child support, paternity claims, international child abduction, and surrogacy, with child-focused advice that puts your children's wellbeing first."
+      },
+      {
+        "type": "text",
+        "text": "\n\n---\n\n### 6. 🌟 JP Family Law & Mediation\n**📍 Springfield**\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "JP Family Law & Mediation was founded by Jess Purcell, a family lawyer with a background in family law, domestic violence, and child protection.",
+            "url": "https://jpflm.com/locations/springfield-family-lawyers/",
+            "title": "Springfield Family Lawyers​",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDDxCg6LUrkdzdBhGIhoMT+iOXOJZI9UdXtAtIjA/Ax0KTEwY3VFJ+cW0po1mI/q04gaxVC72eCDLb1L0X6s+OxE/gwDmyP9UOsfD/IgqE2dOkyuzoCh9hO+HHt6a7IqrMTUYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "JP Family Law & Mediation was founded by Jess Purcell, a family lawyer with a background in family law, domestic violence, and child protection."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Family law services include divorce, property settlement, parenting arrangements, child support, domestic violence matters, and mediation. Estate plan...",
+            "url": "https://jpflm.com/locations/springfield-family-lawyers/",
+            "title": "Springfield Family Lawyers​",
+            "encrypted_index": "EpEBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDDkdgu0PAb2GbOLR6BoMPGa9aNVb0MDTrCYbIjCd16TgehFceiMHKZe/jW1jBaf62sSVHVfPe2W/q4yrVempGv5plDvLNEnO42WYYHgqFeb8a60tDIQSG9mX1gSIZ+rDJOc0QRgE"
+          }
+        ],
+        "type": "text",
+        "text": "Family law services include divorce, property settlement, parenting arrangements, child support, domestic violence matters, and mediation. Estate planning services include drafting wills and powers of attorney. Coaching services cover divorce coaching and co-parenting support."
+      },
+      {
+        "type": "text",
+        "text": " This firm is unique in offering co-parenting coaching alongside legal representation.\n\n---\n\n### 7. 🏛️ Best Wilson Buckley Family Law\n**📍 Ipswich (serving Greater Springfield) | ⭐ 4.4/5 from 42 reviews**\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Established in 2009 as Toowoomba’s only specialist family law firm, we've expanded throughout south-east Queensland and now service clients across Aus...",
+            "url": "https://lawconnect.com/en-au/find/family-law/qld/springfield-4300",
+            "title": "Find Family Lawyers in Springfield QLD - Lawconnect",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDC7VucV/Sxp+ytDbZBoMEanX/lz+uL5Tw096IjAoLuiQ1x9Sbp8gQlWCloVZJFu5i0zyEMKMtGf/57odYl8r4hnWHKAbDLCBo5wMMlwqE9S/mMRaQ8AlkrPcZDS7lt2eZxwYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "Established in 2009 as Toowoomba's only specialist family law firm, they've expanded throughout south-east Queensland and now service clients across Australia."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "We cover separation and divorce, financial settlements, parenting disputes, domestic violence, mediation, adoption, surrogacy, child protection, and m...",
+            "url": "https://lawconnect.com/en-au/find/family-law/qld/springfield-4300",
+            "title": "Find Family Lawyers in Springfield QLD - Lawconnect",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDIXayWFaJv0kxjTkohoM8BQ8Wjf/kFOflSgOIjCgqkfMkha7lYbHLSzyatOsDbGAiSbjhWeZKWj2nYHIplOC16u1tS/q66gJyk+EdG8qE4IqKT8ZMJxM/dzsxlZw70QOnrgYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "They cover separation and divorce, financial settlements, parenting disputes, domestic violence, mediation, adoption, surrogacy, child protection, and more."
+      },
+      {
+        "type": "text",
+        "text": "\n\n---\n\n## 🤝 Accredited Family Dispute Resolution (FDR) / Mediation Services\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "**\n\nFamily Dispute Resolution is a specific type of mediation, focused on parenting and children’s matters. Under the Family Law Act, attending FDR is...",
+            "url": "https://www.springfieldlegals.com.au/understanding-mediation-in-family-law/",
+            "title": "Understanding Mediation in family law",
+            "encrypted_index": "EpIBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDI30Pm6E3yOXcTuoyxoMKCIcUIRlbIPTyN1vIjAocrgWAVzjtverFY3VkkHS3tNm2W3Cp/kwZTS3+GuixeXE0Ek975NLmeRibIMqaTIqFp1/QAOoY+iEf6Cu3B5a54SYFFAq/goYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "Family Dispute Resolution (FDR) is a specific type of mediation focused on parenting and children's matters. Under the Family Law Act, attending FDR is generally required before applying to the Court for parenting orders."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "To proceed with a Court application, you must first attempt FDR with an accredited Family Dispute Resolution Practitioner, who will issue a Section 60...",
+            "url": "https://www.springfieldlegals.com.au/understanding-mediation-in-family-law/",
+            "title": "Understanding Mediation in family law",
+            "encrypted_index": "EpABCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDINT9ManAadOC4AVjhoMIl6ap2yRpnmJnnMNIjAQLN7zLPtYYgAcqNYWi5ukCIdIs34XqJGbesYXZzeHRojrKJ6oQDITYqApl1/wik8qFODQE8hHeqyTSFduqM3NKFq0ZKpKGAQ="
+          }
+        ],
+        "type": "text",
+        "text": "To proceed with a Court application, you must first attempt FDR with an accredited Family Dispute Resolution Practitioner, who will issue a Section 60I Certificate confirming attendance, unless there are circumstances that make mediation inappropriate (such as family violence)."
+      },
+      {
+        "type": "text",
+        "text": "\n\n---\n\n### 🔹 Spencer Family Law and Mediation\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "## How We Can Help\n\n\nWe have three accredited Family Dispute Resolution Practitioners (Jenni, Wilhelmina and Nadine) who are regularly engaged to medi...",
+            "url": "https://sflm.com.au/services/mediation/",
+            "title": "Mediation, QLD - Spencer Family Law and Mediation",
+            "encrypted_index": "EpABCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDF+XUIp9HvTgh+QfmhoMI0+hQFrpU5gMQB+sIjCTjM/4dasm4gFA0YSWgcLJMeQT/lFwnti9LFY5JODpWjhjox6pgnhfWHFTE36HDkgqFBaTk7QgBfXKw4VOIOOOqo+PPLuSGAQ="
+          }
+        ],
+        "type": "text",
+        "text": "They have three accredited Family Dispute Resolution Practitioners (Jenni, Wilhelmina, and Nadine) who are regularly engaged to mediate parenting, property, and all other types of family law disputes."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Some of the parties our mediators assist have lawyers, but this is not a requirement. We regularly mediate disputes between self-represented parties.\n...",
+            "url": "https://sflm.com.au/services/mediation/",
+            "title": "Mediation, QLD - Spencer Family Law and Mediation",
+            "encrypted_index": "EpMBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDMwpw/ovb04qBJBe+BoMY+NaoTUQMNSQWbriIjBp/2Sp8QGDRjgsu9xXzTCafMaA7JRuhl6v3yOkeW3uRNtynhpiVL1ewiOa2upZC8wqFz8GV6ICwJJdOkPcZ8C2Qb0Ho25JkEP9GAQ="
+          }
+        ],
+        "type": "text",
+        "text": "Some of the parties their mediators assist have lawyers, but this is not a requirement — they regularly mediate disputes between self-represented parties."
+      },
+      {
+        "type": "text",
+        "text": "\n\n### 🔹 Centacare Brisbane\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "# Family dispute resolution\nWhen separation impacts your family, we offer a full range of low-cost mediation (and other parenting coordination) servic...",
+            "url": "https://centacare.com/family-and-relationship-care/family-dispute-resolution/",
+            "title": "Family dispute resolution - Centacare Brisbane",
+            "encrypted_index": "EpIBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDAI1jcwtDV7LNe0VaxoMzVhGFeXRoQt1UHh3IjD0JvUYMV6gVi7XrD37xPKEUbpHxon1vEA4Pkj+zWcZ50mR+unyyIc6ULgPaSuFwYQqFrJMKOoSF6s0Jnh43Hrl5/EevcUtX6AYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "When separation impacts your family, Centacare offers a full range of low-cost mediation services to help you make arrangements for children, parenting, or dividing property without the need to go to court. Their accredited practitioners don't take sides and provide a professional and supportive space to reach an agreement."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "### Child Inclusive Family Dispute Resolution\n\n\nIn some situations we can include your child in mediation so you can make decisions together and plan ...",
+            "url": "https://centacare.com/family-and-relationship-care/family-dispute-resolution/",
+            "title": "Family dispute resolution - Centacare Brisbane",
+            "encrypted_index": "EpABCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDGB068WO7tAOssU5+BoMQl4+QunC2oFa5RR4IjBmWfbBynRa1H5PBbYjC6NDSlXi0H9l0zvgNB+HJR/EcTki1UYpiKud+DlKa/hPM8MqFOBouuRTERbKjtpmpg9LfwuqG1oYGAQ="
+          }
+        ],
+        "type": "text",
+        "text": "In some situations, they can include your child in med"
+      }
+    ],
+    "container": null,
+    "stop_reason": "max_tokens",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 15209,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1911,
+      "service_tier": "standard",
+      "inference_geo": "global",
+      "speed": "standard",
+      "server_tool_use": {
+        "web_search_requests": 2,
+        "web_fetch_requests": 0
+      }
+    },
+    "diagnostics": null
+  }
+}

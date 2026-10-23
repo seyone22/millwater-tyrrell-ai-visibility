@@ -1,0 +1,1543 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Millwater Tyrrell Law — Tier 2 Data Science & Econometric Technical Dossier</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://api.fontshare.com/v2/css?f[]=clash-grotesk@700,600,500&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;600;700&display=swap">
+<style>
+/* Layout: a fixed 1920×1080 stage scaled to the viewport; slides stack inside it. Narrow screens get a scrolling column of scaled slides. */
+:root {
+  --pulp: #D92D20; --pulp-dark: #991B1B; --pulp-400: #F03535; --pulp-300: #FDA29B; --pulp-100: #FEE4E2; --pulp-50: #FEF3F2;
+  --dark-bg: #0B0F19; --dark-card: #141B2D; --dark-card-2: #1E2742; --dark-border: #2D3748;
+  --paper: #F8FAFC; --paper-card: #F1F5F9; --white: #FFFFFF; --ink: #0F172A; --slate: #64748B; --line: #E2E8F0;
+  --comp: #CBD5E1; --leader: #0F172A; --on-dark: #F1F5F9; --on-dark-2: #94A3B8; --surround: #060911;
+  --f-sans: 'Clash Grotesk', 'Onest', 'Plus Jakarta Sans', 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  --f-mono: 'JetBrains Mono', 'Overpass Mono', ui-monospace, Menlo, Consolas, monospace;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+html, body { height: 100%; }
+body { margin: 0; background: var(--surround); color: var(--ink); font-family: var(--f-sans); overflow: hidden; -webkit-font-smoothing: antialiased; }
+p, h1, h2, h3, ol, ul, figure, blockquote, table { margin: 0; }
+ol, ul { padding: 0; list-style: none; }
+
+/* ── Stage ─────────────────────────────────────────────────────────────── */
+.deck { position: fixed; inset: 0; }
+.stage { position: absolute; left: 50%; top: 50%; width: 1920px; height: 1080px; transform: translate(-50%, -50%) scale(var(--k, .5)); transform-origin: center; overflow: hidden; background: var(--dark-bg); box-shadow: 0 30px 80px rgba(0,0,0,.6); }
+.slide { position: absolute; inset: 0; padding: 70px 104px 90px; display: flex; flex-direction: column; gap: 26px; justify-content: flex-start; visibility: hidden; transform: translateX(100%); z-index: 1; transition: transform .8s cubic-bezier(.22,.9,.24,1), opacity .8s ease, visibility 0s linear .8s; }
+.slide.is-future { transform: translateX(100%); z-index: 3; }
+.slide.is-active { visibility: visible; transform: none; opacity: 1; z-index: 2; box-shadow: -50px 0 90px rgba(0,0,0,.45); transition: transform .8s cubic-bezier(.22,.9,.24,1), opacity .8s ease, visibility 0s; }
+.slide.is-past { transform: translateX(-28%); opacity: .2; z-index: 1; }
+.slide.light { background: var(--paper); }
+.slide.white { background: var(--white); }
+.slide.dark { background: var(--dark-bg); color: var(--on-dark); }
+.slide.accent { background: var(--pulp); color: var(--white); justify-content: center; gap: 40px; }
+.progress { position: absolute; left: 0; right: 0; bottom: 0; height: 6px; background: rgba(17,21,30,.08); z-index: 5; }
+.progress i { display: block; height: 100%; width: 0; background: var(--pulp); transition: width .5s ease; }
+
+/* ── Type ──────────────────────────────────────────────────────────────── */
+.eyebrow { font-family: var(--f-mono); font-size: 20px; font-weight: 700; letter-spacing: 2.5px; text-transform: uppercase; color: var(--pulp); }
+.eyebrow.on-dark { color: var(--pulp-300); }
+.eyebrow.on-accent { color: #FEE4E2; }
+.display { font-size: 80px; line-height: 1.04; font-weight: 800; letter-spacing: -2px; text-wrap: balance; max-width: 1520px; }
+.h1 { font-size: 50px; line-height: 1.1; font-weight: 800; letter-spacing: -1px; text-wrap: balance; max-width: 1560px; color: var(--ink); }
+.dark .h1 { color: var(--white); }
+.h3 { font-size: 26px; font-weight: 700; letter-spacing: -.2px; margin-bottom: 12px; }
+.lede { font-size: 30px; line-height: 1.38; max-width: 1200px; color: var(--slate); }
+.lede.on-dark { color: var(--on-dark-2); }
+.lede.on-accent { color: #FFF1EE; }
+.hd { display: flex; flex-direction: column; gap: 10px; }
+.big { font-size: 72px; line-height: .95; font-weight: 800; letter-spacing: -1.5px; color: var(--ink); font-variant-numeric: tabular-nums; }
+.big.pulp, .pulp { color: var(--pulp); }
+.pulp-t { color: var(--pulp); }
+.muted { color: var(--slate); font-weight: 400; }
+.num { font-family: var(--f-mono); font-variant-numeric: tabular-nums; }
+.note { font-size: 20px; line-height: 1.4; color: var(--slate); }
+.note.on-dark { color: var(--on-dark-2); }
+.note.wide { max-width: 1500px; }
+.src { position: absolute; left: 104px; right: 104px; bottom: 56px; font-size: 16px; line-height: 1.3; color: var(--slate); z-index: 4; }
+.src.on-dark { color: var(--on-dark-2); }
+.chart-title { font-size: 22px; font-weight: 600; color: var(--ink); margin-bottom: 18px; }
+.mini-title { font-family: var(--f-mono); font-size: 17px; font-weight: 600; letter-spacing: 1.5px; text-transform: uppercase; color: var(--slate); margin: 4px 0 8px; }
+
+/* footer */
+.foot { position: absolute; left: 104px; bottom: 22px; display: flex; align-items: center; gap: 20px; font-family: var(--f-mono); font-size: 16px; color: var(--slate); z-index: 4; }
+.foot.on-dark { color: var(--on-dark-2); }
+.foot-logo .logo { height: 20px; width: auto; color: var(--ink); display: block; }
+.foot.on-dark .foot-logo .logo { color: var(--white); }
+.accent .foot { color: #FEE4E2; }
+.accent .foot-logo .logo { color: var(--white); }
+
+/* ── Layout helpers ────────────────────────────────────────────────────── */
+.cols-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 64px; }
+.cols-60 { display: grid; grid-template-columns: 1.45fr 1fr; gap: 64px; align-items: start; }
+.cols-heat { display: grid; grid-template-columns: 1.55fr 1fr; gap: 64px; align-items: start; }
+.cols-trend { display: grid; grid-template-columns: 1150px 1fr; gap: 54px; align-items: start; }
+.city-grid { display: grid; grid-template-columns: 1fr 580px; gap: 64px; align-items: start; }
+.side-stats { display: flex; flex-direction: column; gap: 24px; padding-top: 4px; }
+.stat { display: flex; flex-direction: column; gap: 8px; padding-top: 16px; border-top: 2px solid var(--line); }
+.stat-cap { font-size: 21px; line-height: 1.35; color: var(--slate); max-width: 560px; }
+.stat-cap b { color: var(--ink); }
+
+/* ── Horizontal bars ───────────────────────────────────────────────────── */
+.hbars { display: flex; flex-direction: column; gap: 6px; }
+.hb-row { display: grid; grid-template-columns: 46px 330px 1fr 120px; align-items: center; gap: 14px; height: 48px; padding: 0 10px; border-radius: 4px; }
+.hbars.no-rank .hb-row { grid-template-columns: 430px 1fr 115px; }
+.hb-rank { font-family: var(--f-mono); font-size: 20px; color: var(--slate); text-align: right; }
+.hb-name { font-size: 23px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.hb-track { height: 26px; position: relative; background: rgba(0,0,0,.04); border-radius: 3px; overflow: hidden; }
+.hb-fill { height: 100%; background: var(--comp); transform-origin: left; border-radius: 3px; }
+.hb-fill.is-leader { background: var(--leader); }
+.hb-val { font-family: var(--f-mono); text-align: right; white-space: nowrap; }
+.hb-val b { font-size: 24px; font-weight: 700; }
+.hb-val span { font-size: 18px; color: var(--slate); }
+.hb-row.is-pulp { background: var(--pulp-50); outline: 2px solid var(--pulp-100); }
+.hb-row.is-pulp .hb-name, .hb-row.is-pulp .hb-val b, .hb-row.is-pulp .hb-rank { color: var(--pulp); font-weight: 800; }
+.hb-row.is-pulp .hb-fill { background: var(--pulp); }
+.hb-row.gap-before { margin-top: 16px; position: relative; }
+.hb-row.gap-before::before { content: '⋯'; position: absolute; left: 24px; top: -24px; font-size: 22px; color: var(--slate); }
+
+/* ── Dots ──────────────────────────────────────────────────────────────── */
+.dots { display: inline-flex; gap: 5px; vertical-align: middle; }
+.dots i { width: 18px; height: 18px; border: 2px solid #C3CAD8; background: transparent; display: block; border-radius: 3px; }
+.dots i.on { background: var(--pulp); border-color: var(--pulp); }
+.dots.big i { width: 24px; height: 24px; }
+.strip { display: flex; flex-direction: column; gap: 8px; }
+.strip-row { display: grid; grid-template-columns: 220px auto 1fr; align-items: center; gap: 14px; font-size: 21px; }
+.strip-lab { color: var(--ink); font-weight: 600; }
+.strip-val { font-family: var(--f-mono); font-size: 20px; color: var(--slate); }
+
+/* chips */
+.chips { display: grid; grid-template-columns: repeat(2, 1fr); gap: 8px 10px; }
+.chip { display: flex; justify-content: space-between; align-items: center; padding: 8px 14px; font-size: 20px; border: 2px solid transparent; border-radius: 4px; }
+.chip b { font-family: var(--f-mono); font-size: 20px; }
+.chip.high { background: var(--pulp); color: var(--white); }
+.chip.mid { background: var(--pulp-100); color: var(--pulp-dark); }
+.chip.zero { border: 2px dashed #A9B2C3; color: var(--slate); }
+
+/* kpis */
+.kpis { display: flex; gap: 48px; margin-bottom: 10px; }
+.kpi { display: flex; flex-direction: column; gap: 6px; }
+.kpi-cap { font-size: 20px; color: var(--slate); }
+.city-side { display: flex; flex-direction: column; gap: 8px; }
+
+/* findings */
+.finds { display: grid; grid-template-columns: repeat(3, 1fr); gap: 36px; border-top: 2px solid var(--line); padding-top: 18px; margin-top: auto; }
+.finds.two { grid-template-columns: 1fr 1fr; }
+.finds p { font-size: 20px; line-height: 1.4; color: var(--slate); }
+.finds b { color: var(--ink); }
+
+/* ── Cover ─────────────────────────────────────────────────────────────── */
+.cover { padding: 70px 104px 80px; display: grid; grid-template-columns: 840px 1fr; grid-template-rows: auto 1fr; gap: 0 64px; }
+.cover-bg { position: absolute; inset: 0; background: radial-gradient(1200px 700px at 85% 30%, rgba(240,53,53,.20), transparent 60%), radial-gradient(900px 600px at 0% 100%, rgba(217,45,32,.14), transparent 60%); pointer-events: none; }
+.cover-logo, .close-logo { color: var(--white); grid-column: 1 / -1; }
+.cover-logo .logo { height: 40px; width: auto; display: block; }
+.cover-main { align-self: center; display: flex; flex-direction: column; gap: 28px; position: relative; }
+.cover .display { font-size: 76px; color: var(--white); letter-spacing: -2px; }
+.cover-grid { align-self: center; position: relative; display: flex; flex-direction: column; gap: 10px; background: rgba(21,26,36,.65); padding: 28px 32px; border: 1px solid var(--dark-border); border-radius: 8px; }
+.cover-grid figcaption { font-family: var(--f-mono); font-size: 17px; color: var(--on-dark-2); display: flex; align-items: center; gap: 10px; margin-bottom: 10px; }
+.key { width: 16px; height: 16px; display: inline-block; border: 2px solid #3E4B6B; margin-left: 12px; border-radius: 2px; }
+.key:first-child { margin-left: 0; }
+.key.on { background: var(--pulp); border-color: var(--pulp); }
+.cv-row { display: grid; grid-template-columns: 140px auto 44px; align-items: center; gap: 12px; }
+.cv-city { font-family: var(--f-mono); font-size: 18px; color: var(--on-dark-2); text-align: right; }
+.cv-cells { display: flex; gap: 4px; }
+.cv-cells i { width: 14px; height: 20px; background: #222938; display: block; border-radius: 2px; }
+.cv-cells i:nth-child(5n):not(:last-child) { margin-right: 6px; }
+.cv-cells i.on { background: var(--pulp); }
+.cv-n { font-family: var(--f-mono); font-size: 19px; color: var(--white); font-weight: 600; }
+.cv-total { margin-top: 14px; font-size: 23px; color: var(--on-dark-2); padding-left: 154px; }
+.cv-total b { font-size: 48px; color: var(--white); font-weight: 800; margin-right: 8px; }
+
+/* ── Why ───────────────────────────────────────────────────────────────── */
+.why { grid-template-columns: 1040px 1fr; gap: 64px; }
+.kpi-inline { display: flex; gap: 24px; align-items: center; margin-bottom: 12px; }
+.kpi-inline .big { font-size: 84px; }
+.kpi-cap { line-height: 1.35; }
+.kpi-inline .kpi-cap { font-size: 21px; max-width: 640px; }
+.points { display: flex; flex-direction: column; gap: 24px; padding-top: 14px; }
+.points li { font-size: 24px; line-height: 1.4; color: var(--slate); padding-top: 18px; border-top: 2px solid var(--line); }
+.points b { color: var(--ink); }
+
+/* ── Method ────────────────────────────────────────────────────────────── */
+.formula { display: flex; align-items: center; gap: 32px; padding: 0 0 6px; }
+.f-item { display: flex; flex-direction: column; gap: 4px; }
+.f-num { font-size: 80px; font-weight: 900; line-height: .9; letter-spacing: -2px; color: var(--ink); }
+.f-item.total .f-num { color: var(--pulp); }
+.f-lab { font-size: 19px; color: var(--slate); max-width: 240px; line-height: 1.25; }
+.f-op { font-size: 54px; font-weight: 300; color: #9AA3B5; }
+.method-cols { gap: 64px; }
+.qlist { counter-reset: q; display: flex; flex-direction: column; gap: 8px; }
+.qlist li { counter-increment: q; font-size: 20px; line-height: 1.3; padding-left: 36px; position: relative; color: var(--ink); }
+.qlist li::before { content: counter(q); position: absolute; left: 0; top: 0; font-family: var(--f-mono); font-size: 18px; color: var(--pulp); font-weight: 700; }
+.plist { display: flex; flex-direction: column; gap: 2px; margin-bottom: 16px; }
+.plist li { display: grid; grid-template-columns: 210px 1fr; font-size: 21px; padding: 6px 0; border-bottom: 1px solid var(--line); }
+.plist span { color: var(--slate); }
+
+/* ── Map ───────────────────────────────────────────────────────────────── */
+.map-wrap { display: grid; grid-template-columns: 1100px 1fr; gap: 40px; align-items: start; margin-top: -10px; }
+.ausmap { display: block; }
+.land { fill: #202738; }
+.ring { fill: none; stroke: #9DAAC0; stroke-width: 2.5; stroke-dasharray: 6 6; }
+.fillc { fill: var(--pulp); fill-opacity: .95; stroke: var(--dark-bg); stroke-width: 2; }
+.leader-line { stroke: #5D6C8A; stroke-width: 1.6; }
+.m-city { font-family: var(--f-sans); font-size: 34px; font-weight: 800; fill: var(--white); }
+.m-stat { font-family: var(--f-mono); font-size: 26px; fill: var(--on-dark-2); }
+.m-pulp { fill: var(--pulp-300); font-weight: 700; }
+.map-side { display: flex; flex-direction: column; gap: 20px; padding-top: 6px; }
+.legend-map p { display: flex; gap: 12px; align-items: center; font-size: 19px; color: var(--on-dark-2); margin-bottom: 4px; }
+.rank-table { border-collapse: collapse; width: 100%; font-size: 20px; color: var(--on-dark); }
+.rank-table th { font-family: var(--f-mono); font-size: 15px; letter-spacing: 1.5px; text-transform: uppercase; color: var(--on-dark-2); text-align: left; font-weight: 600; padding: 6px 8px; border-bottom: 1px solid #34405E; }
+.rank-table td { padding: 8px 8px; border-bottom: 1px solid #253150; }
+.rank-table td:first-child { font-weight: 700; }
+.rank-table .pulp-t { color: var(--pulp-300); font-weight: 700; }
+.muted-d { color: var(--on-dark-2); font-family: var(--f-mono); font-size: 17px; }
+
+/* ── Accent divider ────────────────────────────────────────────────────── */
+.accent .display { color: var(--white); max-width: 1560px; }
+.accent-stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 54px; margin-top: 14px; }
+.accent-stats > div { display: flex; flex-direction: column; gap: 10px; border-top: 2px solid rgba(255,255,255,.4); padding-top: 20px; }
+.huge { font-size: 130px; line-height: .9; font-weight: 900; letter-spacing: -4px; color: var(--white); font-variant-numeric: tabular-nums; }
+.acap { font-size: 24px; line-height: 1.35; color: #FFF1EE; max-width: 460px; }
+
+/* ── Heatmap ───────────────────────────────────────────────────────────── */
+.heat { display: flex; flex-direction: column; gap: 5px; }
+.heat-row { display: grid; grid-template-columns: 290px repeat(5, 1fr) 100px; gap: 5px; align-items: center; }
+.heat-row.head span { font-family: var(--f-mono); font-size: 16px; letter-spacing: 1px; text-transform: uppercase; color: var(--slate); text-align: center; line-height: 1.2; }
+.heat-name { font-size: 23px; font-weight: 600; }
+.cell { height: 50px; display: grid; place-items: center; font-family: var(--f-mono); font-size: 25px; font-weight: 700; border-radius: 3px; }
+.heat-tot { font-family: var(--f-mono); font-size: 24px; font-weight: 700; text-align: right; }
+.heat-tot small { font-size: 16px; color: var(--slate); font-weight: 400; }
+.heat-row.is-pulp .heat-name, .heat-row.is-pulp .heat-tot { color: var(--pulp); font-weight: 800; }
+.heat-row.is-pulp { outline: 3px solid var(--pulp); outline-offset: 3px; border-radius: 4px; }
+.heat-scale { display: flex; align-items: center; gap: 4px; margin-top: 12px; font-family: var(--f-mono); font-size: 16px; color: var(--slate); }
+.heat-scale i { width: 36px; height: 14px; display: block; border-radius: 2px; }
+.heat-scale span { margin: 0 6px; }
+
+/* ── Practice rows ─────────────────────────────────────────────────────── */
+.prac-head, .prac-row { display: grid; grid-template-columns: 320px 280px 1fr; align-items: center; gap: 16px; }
+.prac-head { font-family: var(--f-mono); font-size: 16px; letter-spacing: 1.5px; text-transform: uppercase; color: var(--slate); padding-bottom: 8px; border-bottom: 2px solid var(--line); }
+.prac-row { padding: 11px 0; border-bottom: 1px solid var(--line); font-size: 22px; }
+.prac-lab { font-weight: 700; }
+.prac-dots { display: flex; align-items: center; gap: 14px; }
+.prac-dots b { font-family: var(--f-mono); font-size: 22px; color: var(--pulp); }
+.prac-row.zero .prac-dots b { color: var(--slate); }
+.prac-lead { color: var(--slate); white-space: nowrap; font-size: 21px; }
+.prac-lead b { font-family: var(--f-mono); color: var(--ink); margin-left: 6px; }
+
+/* ── Why table ─────────────────────────────────────────────────────────── */
+.why-table { width: 100%; border-collapse: collapse; font-size: 21px; }
+.why-table th { text-align: left; font-family: var(--f-mono); font-size: 15px; letter-spacing: 1.5px; text-transform: uppercase; color: var(--slate); font-weight: 600; padding: 0 14px 10px; border-bottom: 2px solid var(--ink); vertical-align: bottom; line-height: 1.3; }
+.why-table td { padding: 7px 14px; border-bottom: 1px solid var(--line); vertical-align: middle; }
+.why-table tr.is-pulp td { background: var(--pulp-50); }
+.why-table tr.is-pulp td:first-child b { color: var(--pulp); }
+.cellbar { display: inline-block; width: 130px; height: 12px; background: #EDF0F5; margin-right: 12px; vertical-align: middle; border-radius: 2px; }
+.cellbar i { display: block; height: 100%; background: var(--leader); border-radius: 2px; }
+.is-pulp .cellbar i { background: var(--pulp); }
+.tier { display: inline-block; font-size: 18px; font-weight: 700; padding: 4px 10px; border-radius: 3px; }
+.tier-leader { background: var(--leader); color: var(--white); }
+.tier-partner { background: #1C2331; color: var(--white); }
+.tier-pulp { background: var(--pulp-100); color: var(--pulp-dark); }
+.tier-featured { border: 2px solid var(--comp); color: var(--ink); }
+.tier-not { color: var(--slate); font-weight: 400; }
+.tag { display: inline-block; margin-left: 10px; font-family: var(--f-mono); font-size: 14px; letter-spacing: 1px; text-transform: uppercase; background: var(--pulp); color: var(--white); padding: 2px 7px; vertical-align: 2px; border-radius: 2px; }
+
+/* ── Charts (SVG) ──────────────────────────────────────────────────────── */
+.chart { display: block; max-width: 100%; height: auto; overflow: visible; }
+.chart .gl { stroke: #E2E6EE; stroke-width: 2; }
+.chart.dark .gl { stroke: #283347; }
+.chart .ax { font-family: var(--f-mono); font-size: 19px; fill: var(--slate); }
+.chart .ax-t { font-family: var(--f-sans); font-size: 20px; font-weight: 600; fill: var(--slate); }
+.chart .el { font-family: var(--f-sans); font-size: 22px; font-weight: 600; }
+.chart .el.pulp { font-weight: 800; }
+.chart .elv { font-family: var(--f-mono); font-weight: 700; }
+.chart .callnum { font-family: var(--f-sans); font-size: 38px; font-weight: 800; fill: var(--pulp); }
+.chart .callsmall { font-family: var(--f-mono); font-size: 22px; font-weight: 700; fill: var(--slate); }
+.chart .callsmall.pulp, .chart .pulp-t { fill: var(--pulp); }
+.chart .sc-lab { font-family: var(--f-sans); font-size: 23px; font-weight: 700; fill: var(--ink); }
+.chart .sc-v { font-family: var(--f-mono); font-weight: 600; fill: var(--pulp); }
+.mini-chart { padding-top: 16px; border-top: 2px solid var(--line); }
+.mini-chart .chart { width: 500px; }
+
+/* dumbbell */
+.db-city { font-family: var(--f-sans); font-size: 26px; font-weight: 700; fill: var(--ink); }
+.db-line { stroke: #9AA5BA; stroke-width: 5; }
+.db-gap { font-family: var(--f-mono); font-size: 24px; font-weight: 700; fill: var(--slate); }
+.db-gap.pos { fill: var(--pulp); }
+.db-lead { font-family: var(--f-sans); font-size: 17px; font-weight: 600; fill: var(--slate); }
+.legend-row { display: flex; gap: 36px; align-items: center; font-size: 21px; margin-top: -10px; }
+.lg-dot { display: inline-block; width: 18px; height: 18px; border-radius: 50%; margin-right: 8px; vertical-align: -3px; }
+.lg-dot.pulp { background: var(--pulp); }
+.lg-dot.navy { background: var(--leader); }
+
+/* ── Plan ──────────────────────────────────────────────────────────────── */
+.ws { display: flex; flex-direction: column; }
+.ws-head, .ws-row { display: grid; grid-template-columns: 70px 360px 1fr 1fr; gap: 32px; align-items: start; }
+.ws-head { font-family: var(--f-mono); font-size: 15px; letter-spacing: 1.5px; text-transform: uppercase; color: var(--slate); padding-bottom: 8px; border-bottom: 2px solid var(--ink); }
+.ws-row { padding: 12px 0; border-bottom: 1px solid var(--line); font-size: 20px; line-height: 1.35; }
+.ws-n { font-family: var(--f-mono); font-size: 24px; font-weight: 700; color: var(--pulp); }
+.ws-t { font-size: 23px; line-height: 1.2; }
+.ws-e { color: var(--slate); }
+.ws-a { color: var(--ink); }
+.actions { display: flex; flex-direction: column; gap: 6px; }
+.actions.wide { margin-top: 8px; }
+.ticks { display: flex; flex-direction: column; gap: 14px; margin-bottom: 14px; }
+.ticks.cols { display: grid; grid-template-columns: 1fr 1fr; gap: 14px 54px; }
+.ticks li { font-size: 21px; line-height: 1.38; padding-left: 36px; position: relative; color: var(--ink); }
+.ticks li::before { content: ''; position: absolute; left: 0; top: 5px; width: 18px; height: 18px; background: var(--pulp); clip-path: polygon(14% 52%, 0 66%, 38% 100%, 100% 22%, 86% 8%, 38% 72%); }
+
+/* maps table */
+.mp-head, .mp-row { display: grid; grid-template-columns: 210px 1fr 340px; align-items: center; gap: 20px; }
+.mp-head { font-family: var(--f-mono); font-size: 15px; letter-spacing: 1.5px; text-transform: uppercase; color: var(--slate); padding-bottom: 8px; border-bottom: 2px solid var(--line); }
+.mp-row { padding: 10px 0; border-bottom: 1px solid var(--line); font-size: 20px; }
+.mp-row > span:nth-child(2) { display: flex; align-items: center; gap: 14px; }
+.mp-city { font-weight: 700; }
+.mp-row .num { font-size: 19px; }
+.mp-row .muted { font-family: var(--f-sans); font-size: 19px; }
+
+/* city × practice */
+.cp { display: flex; flex-direction: column; gap: 5px; }
+.cp-row { display: grid; grid-template-columns: 180px repeat(7, 1fr); gap: 5px; align-items: center; }
+.cp-row.head span { font-family: var(--f-mono); font-size: 13px; letter-spacing: .5px; text-transform: uppercase; color: var(--slate); text-align: center; line-height: 1.2; }
+.cp-city { font-size: 21px; font-weight: 700; }
+.cp-cell { height: 48px; display: grid; place-items: center; font-family: var(--f-mono); font-size: 22px; font-weight: 700; border-radius: 3px; }
+.cp-cell.zero { outline: 2px dashed #8E98AC; outline-offset: -5px; color: var(--slate) !important; }
+
+/* quotes */
+.quotes { display: grid; grid-template-columns: repeat(3, 1fr); gap: 32px; }
+.quote { background: var(--paper-card); padding: 24px 26px 20px; display: flex; flex-direction: column; gap: 14px; border-radius: 6px; border: 1px solid var(--line); }
+.q-src { font-family: var(--f-mono); font-size: 16px; letter-spacing: 1.5px; text-transform: uppercase; color: var(--pulp); font-weight: 600; }
+.quote blockquote { font-size: 24px; line-height: 1.35; color: var(--ink); }
+.quote figcaption { font-size: 18px; line-height: 1.35; color: var(--slate); margin-top: auto; padding-top: 10px; border-top: 1px solid var(--line); }
+
+/* gantt */
+.gantt { display: flex; flex-direction: column; gap: 8px; }
+.g-head { display: grid; font-family: var(--f-mono); font-size: 15px; color: var(--slate); padding-bottom: 6px; }
+.g-head span { text-align: center; }
+.g-lane { display: grid; grid-template-columns: 320px 1fr; align-items: center; }
+.g-name { font-size: 22px; font-weight: 700; }
+.g-track { position: relative; height: 80px; background: repeating-linear-gradient(90deg, transparent 0, transparent calc(100% / 12 - 2px), #E2E6EE calc(100% / 12 - 2px), #E2E6EE calc(100% / 12)); border-left: 2px solid #E2E6EE; }
+.g-bar { position: absolute; top: 8px; bottom: 8px; background: var(--dark-card-2); color: var(--white); display: flex; align-items: center; padding: 4px 12px; transform-origin: left; border-right: 3px solid var(--paper); border-radius: 4px; }
+.g-bar span { font-size: 17px; line-height: 1.2; font-weight: 600; }
+.g-bar:first-child { background: var(--pulp); }
+.g-bar.milestone { background: var(--pulp-100); color: var(--pulp-dark); }
+.g-phases { display: flex; padding-left: 320px; margin-top: 4px; }
+.g-phases span { font-family: var(--f-mono); font-size: 16px; letter-spacing: 1px; text-transform: uppercase; color: var(--slate); border-top: 2px solid var(--ink); padding-top: 8px; margin-right: 8px; }
+
+/* targets */
+.tg-table { width: 100%; border-collapse: collapse; font-size: 20px; margin-bottom: 16px; }
+.tg-table th { text-align: left; font-family: var(--f-mono); font-size: 15px; letter-spacing: 1.5px; text-transform: uppercase; color: var(--slate); font-weight: 600; padding: 0 8px 10px; border-bottom: 2px solid var(--ink); }
+.tg-table td { padding: 8px 8px; border-bottom: 1px solid var(--line); }
+.tg-table td:first-child { font-weight: 700; }
+.tg-table td:nth-child(3), .tg-table td:nth-child(4) { color: var(--pulp); font-weight: 700; }
+
+/* close */
+.close { justify-content: center; gap: 48px; }
+.close .display { color: var(--white); position: relative; }
+.close .eyebrow { position: relative; }
+.next { display: grid; grid-template-columns: repeat(3, 1fr); gap: 40px; position: relative; max-width: 1640px; }
+.next li { display: flex; flex-direction: column; gap: 14px; border-top: 2px solid #34405E; padding-top: 20px; }
+.next li span { font-family: var(--f-mono); font-size: 24px; color: var(--pulp-300); font-weight: 700; }
+.next li p { font-size: 25px; line-height: 1.38; color: var(--on-dark-2); }
+.next li b { color: var(--white); }
+.close-logo { position: absolute; left: 104px; bottom: 50px; }
+.close-logo .logo { height: 34px; width: auto; display: block; }
+.appx ul.plain { display: flex; flex-direction: column; gap: 14px; }
+.appx li { font-size: 21px; line-height: 1.4; color: var(--slate); padding-left: 22px; position: relative; }
+.appx li::before { content: ''; position: absolute; left: 0; top: 11px; width: 8px; height: 8px; background: var(--pulp); border-radius: 50%; }
+
+/* ── Motion: plays each time a slide becomes active ────────────────────── */
+@keyframes rise { from { opacity: 0; transform: translateY(26px); } }
+@keyframes pop { from { opacity: 0; transform: scale(.4); } }
+@keyframes fadein { from { opacity: 0; } }
+@keyframes grow { from { transform: scaleX(0); } }
+@keyframes draw { from { stroke-dashoffset: 1; } to { stroke-dashoffset: 0; } }
+.is-active .rise { animation: rise .8s cubic-bezier(.2,.7,.1,1) both; animation-delay: var(--d, 0ms); }
+.is-active .pop { animation: pop .6s cubic-bezier(.3,1.4,.5,1) both; animation-delay: var(--d, 0ms); transform-box: fill-box; transform-origin: center; }
+.is-active .fadein { animation: fadein .7s ease both; animation-delay: var(--d, 0ms); }
+.is-active .grow-x { animation: grow .9s cubic-bezier(.2,.7,.1,1) both; animation-delay: var(--d, 0ms); transform-origin: left; transform-box: fill-box; }
+.is-active .draw { stroke-dasharray: 1; animation: draw 1.6s cubic-bezier(.4,.1,.2,1) both; animation-delay: var(--d, 0ms); }
+.is-active .hb-fill { animation: grow 1s cubic-bezier(.2,.7,.1,1) both; animation-delay: calc(var(--i) * 70ms + 250ms); }
+.is-active .hb-row { animation: fadein .5s ease both; animation-delay: calc(var(--i) * 70ms + 150ms); }
+.hb-row { --i: 0; }
+.is-active .strip-row .dots i.on, .is-active .prac-row .dots i.on, .is-active .mp-row .dots i.on, .is-active .why-table .dots i.on { animation: pop .45s cubic-bezier(.3,1.4,.5,1) both; animation-delay: calc(var(--i, 0) * 90ms + var(--j) * 60ms + 400ms); }
+.is-active .cv-cells i { animation: pop .4s ease both; animation-delay: calc(var(--d) + 300ms); }
+.is-active .prac-row, .is-active .mp-row { animation: rise .6s cubic-bezier(.2,.7,.1,1) both; animation-delay: calc(var(--i) * 80ms + 150ms); }
+.prac-row, .mp-row, .strip-row { --i: 0; }
+.static .slide, .static .slide * { animation: none !important; transition: none !important; }
+
+/* ── Controls ──────────────────────────────────────────────────────────── */
+.controls { position: fixed; right: max(16px, env(safe-area-inset-right, 0px)); bottom: calc(14px + env(safe-area-inset-bottom, 0px)); display: flex; align-items: center; gap: 6px; padding: 6px; background: rgba(14,17,23,.90); backdrop-filter: blur(8px); color: #EDF2FA; z-index: 10; font-family: var(--f-mono); border-radius: 6px; border: 1px solid var(--dark-border); }
+.controls button { width: 40px; height: 40px; display: grid; place-items: center; background: transparent; color: inherit; border: 0; cursor: pointer; border-radius: 4px; }
+.controls button:hover { background: rgba(255,255,255,.1); }
+.controls button:focus-visible { outline: 2px solid var(--pulp-300); outline-offset: 2px; }
+.ctr { font-size: 14px; min-width: 64px; text-align: center; font-variant-numeric: tabular-nums; }
+
+/* ── Print / PDF ───────────────────────────────────────────────────────── */
+@page { size: 1920px 1080px; margin: 0; }
+@media print {
+  html, body { height: auto; overflow: visible; background: #FFFFFF; }
+  .deck { position: static; }
+  .stage { position: static; transform: none; width: 1920px; height: auto; overflow: visible; box-shadow: none; background: transparent; }
+  .slide, .slide.is-active, .slide.is-past, .slide.is-future { position: relative; inset: auto; width: 1920px; height: 1080px; opacity: 1; visibility: visible; transform: none; box-shadow: none; transition: none; break-after: page; page-break-after: always; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  .slide * { animation: none !important; }
+  .controls, .progress { display: none; }
+}
+.byline { font-family: var(--f-mono); font-size: 18px; letter-spacing: 2px; text-transform: uppercase; color: var(--on-dark-2); }
+.close-logo { display: flex; align-items: center; gap: 24px; }
+
+/* ── Animation layer v2 ────────────────────────────────────────────────── */
+.w { display: inline-block; overflow: hidden; vertical-align: top; padding-bottom: .1em; margin-bottom: -.1em; }
+.w > span { display: inline-block; }
+@keyframes wordUp { from { transform: translateY(108%); } }
+.is-active .w > span { animation: wordUp .85s cubic-bezier(.16,.84,.2,1) both; animation-delay: calc(var(--wi) * 42ms + 120ms); }
+.is-active .eyebrow { animation: fadeSlide .7s cubic-bezier(.16,.84,.2,1) both; }
+@keyframes fadeSlide { from { opacity: 0; transform: translateX(-24px); } }
+
+.is-active .chart-title, .is-active .mini-title, .is-active .legend-row, .is-active .legend-map, .is-active .heat-scale { animation: fadein .7s ease both; animation-delay: 350ms; }
+.is-active .side-stats > *, .is-active .actions > *, .is-active .kpis > * { animation: rise .8s cubic-bezier(.16,.84,.2,1) both; }
+.is-active .side-stats > :nth-child(1), .is-active .kpis > :nth-child(1), .is-active .actions > :nth-child(1) { animation-delay: 550ms; }
+.is-active .side-stats > :nth-child(2), .is-active .kpis > :nth-child(2), .is-active .actions > :nth-child(2) { animation-delay: 750ms; }
+.is-active .side-stats > :nth-child(3), .is-active .actions > :nth-child(3) { animation-delay: 950ms; }
+.is-active .side-stats > :nth-child(4), .is-active .actions > :nth-child(4) { animation-delay: 1150ms; }
+.is-active .ticks li { animation: rise .7s cubic-bezier(.16,.84,.2,1) both; }
+.is-active .ticks li:nth-child(1) { animation-delay: 700ms; } .is-active .ticks li:nth-child(2) { animation-delay: 850ms; }
+.is-active .ticks li:nth-child(3) { animation-delay: 1000ms; } .is-active .ticks li:nth-child(4) { animation-delay: 1150ms; }
+.is-active .qlist li, .is-active .plist li { animation: rise .6s cubic-bezier(.16,.84,.2,1) both; }
+.is-active .qlist li:nth-child(1), .is-active .plist li:nth-child(1) { animation-delay: 600ms; }
+.is-active .qlist li:nth-child(2), .is-active .plist li:nth-child(2) { animation-delay: 680ms; }
+.is-active .qlist li:nth-child(3), .is-active .plist li:nth-child(3) { animation-delay: 760ms; }
+.is-active .qlist li:nth-child(4), .is-active .plist li:nth-child(4) { animation-delay: 840ms; }
+.is-active .qlist li:nth-child(5), .is-active .plist li:nth-child(5) { animation-delay: 920ms; }
+.is-active .qlist li:nth-child(6) { animation-delay: 1000ms; } .is-active .qlist li:nth-child(7) { animation-delay: 1080ms; }
+.is-active .f-op { animation: fadein .5s ease both; animation-delay: 300ms; }
+.is-active .strip-row { animation: fadein .5s ease both; animation-delay: calc(var(--i) * 70ms + 400ms); }
+.is-active .ws-head, .is-active .prac-head, .is-active .mp-head, .is-active .g-head, .is-active .why-table thead, .is-active .tg-table thead, .is-active .rank-table thead { animation: fadein .6s ease both; animation-delay: 200ms; }
+.is-active .rank-table tbody tr { animation: rise .6s cubic-bezier(.16,.84,.2,1) both; }
+.is-active .rank-table tbody tr:nth-child(1) { animation-delay: 1500ms; } .is-active .rank-table tbody tr:nth-child(2) { animation-delay: 1560ms; }
+.is-active .rank-table tbody tr:nth-child(3) { animation-delay: 1620ms; } .is-active .rank-table tbody tr:nth-child(4) { animation-delay: 1680ms; }
+.is-active .rank-table tbody tr:nth-child(5) { animation-delay: 1740ms; } .is-active .rank-table tbody tr:nth-child(6) { animation-delay: 1800ms; }
+.is-active .rank-table tbody tr:nth-child(7) { animation-delay: 1860ms; } .is-active .rank-table tbody tr:nth-child(8) { animation-delay: 1920ms; }
+.is-active .src, .is-active .foot { animation: fadein .8s ease both; animation-delay: 1200ms; }
+.is-active .cp-row.head span, .is-active .heat-row.head span { animation: fadein .5s ease both; animation-delay: 150ms; }
+.is-active .cp-city, .is-active .heat-name, .is-active .heat-tot { animation: fadeSlide .6s cubic-bezier(.16,.84,.2,1) both; animation-delay: 250ms; }
+.is-active .g-name { animation: fadeSlide .6s cubic-bezier(.16,.84,.2,1) both; animation-delay: 200ms; }
+.is-active .g-phases span { animation: fadein .6s ease both; animation-delay: 1200ms; }
+.is-active .accent-stats > div, .is-active .next li { border-top-color: rgba(255,255,255,.4); }
+
+/* STAG row gets a spotlight */
+@keyframes spotlight { 0% { box-shadow: 0 0 0 0 rgba(217,45,32,0); } 40% { box-shadow: 0 0 0 10px rgba(217,45,32,.25); } 100% { box-shadow: 0 0 0 0 rgba(217,45,32,0); } }
+.is-active .hb-row.is-pulp { animation: fadein .5s ease both, spotlight 1.4s ease 1.5s both; animation-delay: calc(var(--i) * 70ms + 150ms), 1.6s; }
+.is-active .heat-row.is-pulp { animation: spotlight 1.4s ease 1.8s both; }
+.is-active .why-table tr.is-pulp td { animation: flashrow 1.6s ease 1.4s both; }
+@keyframes flashrow { 0%, 100% { background: var(--pulp-50); } 35% { background: var(--pulp-100); } }
+
+/* chart pieces */
+.is-active .chart .gl { animation: grow 1s cubic-bezier(.16,.84,.2,1) both; transform-box: fill-box; transform-origin: left; animation-delay: 150ms; }
+.is-active .chart .ax, .is-active .chart .ax-t { animation: fadein .6s ease both; animation-delay: 300ms; }
+.is-active .chart .el, .is-active .chart .callsmall { animation: fadein .7s ease both; animation-delay: 1500ms; }
+.is-active .chart .callnum { animation: pop .7s cubic-bezier(.3,1.4,.5,1) both; animation-delay: 1700ms; transform-box: fill-box; transform-origin: left center; }
+.is-active .ausmap .land { animation: landIn 1.1s cubic-bezier(.16,.84,.2,1) both; transform-box: fill-box; transform-origin: center; }
+@keyframes landIn { from { opacity: 0; transform: scale(.94); } }
+@keyframes march { to { stroke-dashoffset: -48; } }
+.is-active .ring { animation: pop .6s cubic-bezier(.3,1.4,.5,1) both, march 6s linear infinite; animation-delay: var(--d, 0ms), 1.2s; }
+@keyframes pulse { 0% { opacity: .55; transform: scale(1); } 100% { opacity: 0; transform: scale(2.1); } }
+.pulse { fill: var(--pulp); transform-box: fill-box; transform-origin: center; opacity: 0; }
+.is-active .pulse { animation: pulse 2.4s ease-out infinite; animation-delay: var(--d, 1.5s); }
+
+/* ambient light on dark slides */
+@keyframes drift { 0% { transform: translate(0, 0) scale(1); } 50% { transform: translate(-60px, 40px) scale(1.08); } 100% { transform: translate(0, 0) scale(1); } }
+.slide.dark::before, .slide.accent::before { content: ''; position: absolute; width: 1400px; height: 1000px; right: -300px; top: -300px; background: radial-gradient(closest-side, rgba(217,45,32,.18), transparent 70%); pointer-events: none; animation: drift 14s ease-in-out infinite; }
+.slide.accent::before { background: radial-gradient(closest-side, rgba(255,255,255,.14), transparent 70%); }
+.slide > * { position: relative; }
+.slide > .src, .slide > .foot, .slide > .cover-bg, .slide > .close-logo { position: absolute; }
+.cover-bg { animation: drift 18s ease-in-out infinite reverse; }
+
+/* presenting: controls and cursor tuck away when idle */
+.controls { transition: opacity .4s ease; }
+body.idle .controls { opacity: 0; }
+body.idle { cursor: none; }
+.deck { cursor: default; }
+
+@media (prefers-reduced-motion: reduce) {
+  .slide, .slide.is-past, .slide.is-future, .slide.is-active { transform: none; box-shadow: none; }
+  .slide, .slide.is-past, .slide.is-future { opacity: 0; }
+  .slide.is-active { opacity: 1; }
+  @keyframes rise { from { opacity: 0; } }
+  @keyframes pop { from { opacity: 0; } }
+  @keyframes wordUp { from { opacity: 0; } }
+  @keyframes fadeSlide { from { opacity: 0; } }
+  @keyframes drift { from { transform: none; } to { transform: none; } }
+  .is-active .pulse, .is-active .ring { animation-iteration-count: 1; }
+}
+.static .slide::before { animation: none !important; }
+
+/* city slide: three columns */
+.city3 { display: grid; grid-template-columns: 780px 440px 1fr; gap: 48px; align-items: start; }
+.city3 .hb-row { grid-template-columns: 38px 300px 1fr 90px; height: 44px; gap: 12px; padding: 0 8px; }
+.city3 .hbars { gap: 5px; }
+.city3 .hb-name { font-size: 21px; }
+.city3 .hb-val b { font-size: 22px; }
+.city3 .hb-track { height: 22px; }
+.city3 .big { font-size: 56px; }
+.city3 .kpi-cap { font-size: 19px; }
+.city3 .kpis { gap: 36px; margin-bottom: 6px; }
+.city3 .mini-title { margin: 2px 0 6px; font-size: 16px; }
+.city3 .strip { gap: 4px; }
+.city3 .strip-row { grid-template-columns: 200px auto 1fr; font-size: 19px; gap: 14px; }
+.city3 .dots i { width: 16px; height: 16px; }
+.strip-row.zero .strip-lab { color: var(--slate); font-weight: 400; }
+.finds-col { display: flex; flex-direction: column; gap: 18px; }
+.finds-col p { font-size: 21px; line-height: 1.4; color: var(--slate); padding-top: 14px; border-top: 2px solid var(--line); }
+.finds-col b { color: var(--ink); display: block; margin-bottom: 3px; font-size: 22px; }
+.cols-trend .big { font-size: 64px; }
+.cols-trend .side-stats { gap: 20px; }
+.mini-chart .note { font-size: 18px; margin-top: 4px; }
+
+/* Nav Switcher Toggle */
+.nav-toggle-btn {
+  position: fixed;
+  top: 24px;
+  right: 28px;
+  z-index: 9999;
+  background: var(--pulp);
+  color: #FFFFFF !important;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 999px;
+  font-family: var(--f-sans);
+  font-weight: 700;
+  font-size: 15px;
+  letter-spacing: -0.2px;
+  box-shadow: 0 6px 20px rgba(255, 77, 45, 0.45);
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  transition: transform 0.2s ease, background 0.2s ease, box-shadow 0.2s ease;
+}
+.nav-toggle-btn:hover {
+  background: var(--pulp-dark);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(255, 77, 45, 0.6);
+}
+
+
+  :root {
+    --pulp: #1E3A8A !important;
+    --pulp-dark: #172554 !important;
+    --navy: #0F172A !important;
+  }
+  .slide { background: #FFFFFF; color: #111827; padding: 64px 96px 84px; gap: 18px; }
+  .slide.dark { background: #0F172A !important; color: #F9FAFB; }
+  .eyebrow { font-size: 16px; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; color: #1E3A8A; margin-bottom: 4px; }
+  h1, h2 { color: #0F172A; letter-spacing: -0.025em; margin-bottom: 6px; }
+  h2 { font-size: 38px; font-weight: 800; line-height: 1.12; }
+  p.lead { font-size: 19px; color: #4B5563; line-height: 1.45; margin-bottom: 10px; max-width: 1640px; }
+  table.data-table { width: 100%; border-collapse: collapse; font-size: 16px; margin-top: 6px; }
+  table.data-table th { background: #0F172A; color: #FFFFFF; text-align: left; padding: 10px 13px; font-size: 13.5px; text-transform: uppercase; letter-spacing: 0.06em; }
+  table.data-table td { padding: 8.5px 13px; border-bottom: 1px solid #E5E7EB; vertical-align: middle; line-height: 1.32; }
+  table.data-table tr:nth-child(even) td { background: #F9FAFB; }
+  #tech-05-gbp-cid-audit table.data-table { font-size: 14px; }
+  #tech-05-gbp-cid-audit table.data-table th { padding: 7px 10px; font-size: 12px; }
+  #tech-05-gbp-cid-audit table.data-table td { padding: 6px 10px; }
+  #tech-08-citation-graph table.data-table { font-size: 14px; }
+  #tech-08-citation-graph table.data-table th { padding: 7px 10px; font-size: 12px; }
+  #tech-08-citation-graph table.data-table td { padding: 5.5px 10px; }
+  #tech-10-ai-keyword-demand table.data-table { font-size: 14.5px; }
+  #tech-10-ai-keyword-demand table.data-table th { padding: 7px 10px; font-size: 12.5px; }
+  #tech-10-ai-keyword-demand table.data-table td { padding: 6px 10px; }
+  .num { text-align: right; }
+  .mono { font-family: "JetBrains Mono", "SFMono-Regular", Consolas, monospace; }
+  .kpi-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 24px; margin: 18px 0; }
+  .kpi-card { background: #0F172A; color: #FFFFFF; padding: 26px 26px; border-radius: 10px; border-top: 4px solid #C59B27; }
+  .kpi-card .val { font-size: 42px; font-weight: 800; color: #FFFFFF; letter-spacing: -0.02em; }
+  .kpi-card .lbl { font-size: 14.5px; text-transform: uppercase; letter-spacing: 0.08em; color: #D1D5DB; margin-top: 8px; }
+  .code-box { background: #0F172A; color: #E5E7EB; padding: 18px 24px; border-radius: 10px; font-family: "JetBrains Mono", monospace; font-size: 15.5px; overflow-x: auto; line-height: 1.44; margin-top: 8px; white-space: pre; }
+  .alert-box { border-left: 5px solid #C59B27; background: #FAF8F5; padding: 18px 22px; border-radius: 8px; margin: 10px 0; font-size: 17.5px; line-height: 1.42; color: #1F2937; }
+</style>
+</head>
+<body>
+<div class="deck" id="deck">
+  <div class="stage" id="stage">
+
+<!-- Slide 1 -->
+<section id="tech-01-cover" class="slide">
+  <div class="eyebrow">TIER 2 INTERNAL DATA SCIENCE DOSSIER · EMPIRICAL GEO / AEO AUDIT</div>
+  <h1 style="font-size:34px;font-weight:900;">Millwater Tyrrell Law — Econometric & Retrieval Architecture Dossier</h1>
+  <p class="lead">Full methodological specification, live API telemetry, Iteratively Reweighted Least Squares (IRLS) logistic regression parameters, Squarespace JSON-LD &amp; sitemap bloat forensics, and Ipswich/Brisbane GBP CID audit for <code>millwatertyrrell.com.au</code> across Family Law and Wills &amp; Estates.</p>
+  <div class="kpi-grid">
+    <div class="kpi-card"><div class="val">280</div><div class="lbl">Live AI Answers Audited (8×7×5)</div></div>
+    <div class="kpi-card"><div class="val">26/280 (9.3%)</div><div class="lbl">Millwater Tyrrell Recall (95% CI: 6.4%–13.3%)</div></div>
+    <div class="kpi-card"><div class="val">18/280 (6.4%)</div><div class="lbl">Top-3 Shortlist Inclusion</div></div>
+    <div class="kpi-card"><div class="val">3/56 (5.4%)</div><div class="lbl">Google Organic Top-10 SERP Presence</div></div>
+  </div>
+  <div class="alert-box">
+    <strong>Zero-Fabrication &amp; Zero-Roleplay Guarantee:</strong> Every cell in this study was collected from its genuine live API endpoint (DataForSEO ChatGPT Scraper, Perplexity Sonar Live, Google AI Mode SERP, Google Direct Gemini 3.8 Flash with Grounding, and Anthropic Claude Sonnet 4.6 with Web Search) and verified against saved raw JSON payloads in <code>pipeline/raw/</code>.
+  </div>
+</section>
+
+<!-- Slide 2 -->
+<section id="tech-02-panel-design" class="slide">
+  <div class="eyebrow">01 · EXPERIMENTAL DESIGN &amp; FACTORIAL SAMPLING</div>
+  <h2>Full-Factorial 8 × 7 × 5 = 280 Empirical Panel Architecture (Ipswich &amp; Brisbane)</h2>
+  <p class="lead">To eliminate cherry-picking, we evaluated a balanced full-factorial matrix crossing 8 Ipswich &amp; Greater Brisbane geographic corridors with 7 Family Law &amp; Wills/Estates buyer-intent prompt archetypes and 5 production AI answer engines, paired 1:1 with 56 live Google Organic SERPs and 12 Google Maps 20-Packs.</p>
+  <table class="data-table">
+    <thead>
+      <tr><th>Dimension</th><th>Levels</th><th>Specification</th><th>Sample Size</th></tr>
+    </thead>
+    <tbody>
+      <tr><td><strong>Geographic Corridors (8)</strong></td><td>8 Ipswich &amp; Brisbane Markets</td><td>Ipswich Central (HQ), Springfield &amp; Greater Springfield, Brisbane CBD, Brisbane West (Indooroopilly/Centenary), Brisbane South (Mt Gravatt/Sunnybank), Brisbane North (Chermside/North Lakes), Brisbane East (Carindale/Bayside), Logan &amp; Western Corridor</td><td class="num mono">8</td></tr>
+      <tr><td><strong>Buyer-Intent Archetypes (7)</strong></td><td>4 Family Law + 3 Wills &amp; Estates</td><td>Best Family Lawyers, Divorce &amp; Property Settlement, Parenting &amp; Mediation (FDRP), Wills &amp; Estate Planning (EPOA), Probate &amp; Deceased Estates, Contesting a Will (FPA), Fixed-Fee &amp; Deferred-Fee Law</td><td class="num mono">7</td></tr>
+      <tr><td><strong>AI Answer Engines (5)</strong></td><td>5 Live Endpoints</td><td>ChatGPT (Web Search), Perplexity (Sonar), Google AI Mode, Google Gemini 3.8 Flash, Anthropic Claude Sonnet 4.6</td><td class="num mono">5</td></tr>
+      <tr><td><strong>Total AI Panel (<i>N</i>)</strong></td><td>8 × 7 × 5</td><td>Complete unedited markdown, grounding chunks, and citation arrays persisted in <code>pipeline/ans_full.json</code></td><td class="num mono"><strong>280</strong></td></tr>
+      <tr><td><strong>Paired Google SERPs</strong></td><td>8 × 7</td><td>Desktop Google Organic QLD localized SERP (top 20 organic results per cell) in <code>pipeline/serp_audit.json</code></td><td class="num mono"><strong>56</strong></td></tr>
+    </tbody>
+  </table>
+</section>
+
+<!-- Slide 3 -->
+<section id="tech-03-engine-telemetry" class="slide">
+  <div class="eyebrow">02 · LIVE AI ENGINE TELEMETRY &amp; WILSON CONFIDENCE INTERVALS</div>
+  <h2>Platform-by-Platform Retrieval Mechanics &amp; Empirical Mention Rates</h2>
+  <p class="lead">Across the 280-answer panel, Millwater Tyrrell Law achieves an overall mention rate of <strong>9.3%</strong> (26/280, 95% Wilson CI [6.4%, 13.3%]), concentrated almost exclusively in Ipswich Family Law while missing from Wills/Probate/FPA and Greater Brisbane corridors.</p>
+  <table class="data-table">
+    <thead>
+      <tr><th>Engine</th><th>Production API Endpoint</th><th class="num">N</th><th class="num">Mentions</th><th class="num">Share %</th><th class="num">95% Wilson CI</th><th class="num">Top-3</th><th class="num">#1 Rank</th><th class="num">Cited</th><th class="num">Avg Chars</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+    <td><strong>CHATGPT</strong></td>
+    <td class="mono" style="font-size:11px;">DataForSEO /ai_optimization/chat_gpt/llm_scraper/live/advanced (force_web_search=true, AU)</td>
+    <td class="num">56</td>
+    <td class="num"><strong>9</strong></td>
+    <td class="num"><strong>16.1%</strong></td>
+    <td class="num mono">[8.7%, 27.8%]</td>
+    <td class="num">6 (10.7%)</td>
+    <td class="num">4</td>
+    <td class="num">8</td>
+    <td class="num mono">10,875</td>
+  </tr>
+<tr>
+    <td><strong>PERPLEXITY</strong></td>
+    <td class="mono" style="font-size:11px;">DataForSEO /ai_optimization/perplexity/llm_responses/live (model=sonar, web_search=true, AU)</td>
+    <td class="num">56</td>
+    <td class="num"><strong>2</strong></td>
+    <td class="num"><strong>3.6%</strong></td>
+    <td class="num mono">[1%, 12.1%]</td>
+    <td class="num">2 (3.6%)</td>
+    <td class="num">1</td>
+    <td class="num">2</td>
+    <td class="num mono">2,945</td>
+  </tr>
+<tr>
+    <td><strong>AIMODE</strong></td>
+    <td class="mono" style="font-size:11px;">DataForSEO /serp/google/ai_mode/live/advanced (desktop, QLD city location_code)</td>
+    <td class="num">56</td>
+    <td class="num"><strong>6</strong></td>
+    <td class="num"><strong>10.7%</strong></td>
+    <td class="num mono">[5%, 21.5%]</td>
+    <td class="num">4 (7.1%)</td>
+    <td class="num">3</td>
+    <td class="num">6</td>
+    <td class="num mono">7,502</td>
+  </tr>
+<tr>
+    <td><strong>GEMINI</strong></td>
+    <td class="mono" style="font-size:11px;">Google Direct API v1beta/models/gemini-3.8-flash:generateContent (tools=[{google_search:{}}])</td>
+    <td class="num">56</td>
+    <td class="num"><strong>5</strong></td>
+    <td class="num"><strong>8.9%</strong></td>
+    <td class="num mono">[3.9%, 19.3%]</td>
+    <td class="num">3 (5.4%)</td>
+    <td class="num">2</td>
+    <td class="num">5</td>
+    <td class="num mono">4,688</td>
+  </tr>
+<tr>
+    <td><strong>CLAUDE</strong></td>
+    <td class="mono" style="font-size:11px;">Anthropic Claude Sonnet 4.6 (web_search_20250305 + DataForSEO /ai_optimization/claude/llm_responses/live, AU)</td>
+    <td class="num">56</td>
+    <td class="num"><strong>4</strong></td>
+    <td class="num"><strong>7.1%</strong></td>
+    <td class="num mono">[2.8%, 17%]</td>
+    <td class="num">3 (5.4%)</td>
+    <td class="num">0</td>
+    <td class="num">4</td>
+    <td class="num mono">4,963</td>
+  </tr>
+    </tbody>
+  </table>
+</section>
+
+<!-- Slide 4 (tech-03b) -->
+<section id="tech-03b-prompt-architecture" class="slide">
+  <div class="eyebrow">03 · BUYER-INTENT PROMPT ARCHITECTURE</div>
+  <h2>Exact Prompt Wording &amp; Paired SERP Keywords Across All 7 Practice Archetypes</h2>
+  <p class="lead">Each prompt was engineered to reflect real separating spouses, parents, testators, executors, and estate claimants across Ipswich and Brisbane without brand-priming.</p>
+  <table class="data-table">
+    <thead>
+      <tr><th>ID</th><th>Practice Category</th><th>Exact AI Prompt Template</th><th>Paired SERP Keyword</th><th class="num">MT Recall</th><th class="num">Top-3</th><th>Category Leader</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+    <td class="mono">P1 · family_lawyers</td>
+    <td><strong>Best Family Lawyers</strong></td>
+    <td style="font-size:12px;">Who are the best family lawyers in {city}? Give me a shortlist of reputable family law firms with reasons.</td>
+    <td class="mono" style="font-size:11px;">best family lawyers {city}</td>
+    <td class="num"><strong>2/40 (5%)</strong></td>
+    <td class="num">1</td>
+    <td>Phillips Family Law (12/40)</td>
+  </tr>
+<tr>
+    <td class="mono">P2 · divorce_property</td>
+    <td><strong>Divorce &amp; Property Settlement</strong></td>
+    <td style="font-size:12px;">I am going through a separation and complex property settlement in {city}. Which family law firms have the strongest track record for property division and binding financial agreements?</td>
+    <td class="mono" style="font-size:11px;">divorce property settlement lawyers {city}</td>
+    <td class="num"><strong>4/40 (10%)</strong></td>
+    <td class="num">4</td>
+    <td>Australian Family Lawyers (20/40)</td>
+  </tr>
+<tr>
+    <td class="mono">P3 · parenting_custody</td>
+    <td><strong>Parenting, Custody &amp; Mediation (FDRP)</strong></td>
+    <td style="font-size:12px;">Which family lawyers in {city} are best for parenting arrangements, child custody disputes, and accredited family dispute resolution (mediation)?</td>
+    <td class="mono" style="font-size:11px;">child custody parenting family dispute resolution lawyers {city}</td>
+    <td class="num"><strong>5/40 (12.5%)</strong></td>
+    <td class="num">2</td>
+    <td>Australian Family Lawyers (15/40)</td>
+  </tr>
+<tr>
+    <td class="mono">P4 · wills_estate_planning</td>
+    <td><strong>Wills, EPOA &amp; Testamentary Trusts</strong></td>
+    <td style="font-size:12px;">Who are the best wills and estates lawyers in {city} for drafting wills, testamentary trusts, and enduring powers of attorney?</td>
+    <td class="mono" style="font-size:11px;">wills and estates lawyers {city}</td>
+    <td class="num"><strong>2/40 (5%)</strong></td>
+    <td class="num">1</td>
+    <td>Bennett Carroll Solicitors (15/40)</td>
+  </tr>
+<tr>
+    <td class="mono">P5 · probate_administration</td>
+    <td><strong>Probate &amp; Deceased Estate Administration</strong></td>
+    <td style="font-size:12px;">I am an executor handling probate and deceased estate administration in {city}. Which law firms specialise in Queensland probate and estate administration?</td>
+    <td class="mono" style="font-size:11px;">probate deceased estate administration lawyers {city}</td>
+    <td class="num"><strong>0/40 (0%)</strong></td>
+    <td class="num">0</td>
+    <td>The Estate Lawyers (21/40)</td>
+  </tr>
+<tr>
+    <td class="mono">P6 · contesting_wills</td>
+    <td><strong>Contesting a Will &amp; Estate Litigation (FPA)</strong></td>
+    <td style="font-size:12px;">Which wills and estates law firms in {city} specialise in contesting a will, Family Provision Applications (FPA), and estate litigation?</td>
+    <td class="mono" style="font-size:11px;">contesting a will family provision estate litigation lawyers {city}</td>
+    <td class="num"><strong>4/40 (10%)</strong></td>
+    <td class="num">2</td>
+    <td>Armstrong Legal (22/40)</td>
+  </tr>
+<tr>
+    <td class="mono">P7 · fixed_fee_family_estates</td>
+    <td><strong>Fixed-Fee Wills, Free Consult &amp; Deferred Fees</strong></td>
+    <td style="font-size:12px;">Which boutique law firms in {city} offer free initial consultations, fixed-fee wills, or deferred-fee options for family law and wills and estates?</td>
+    <td class="mono" style="font-size:11px;">fixed fee family and wills lawyers free consultation {city}</td>
+    <td class="num"><strong>9/40 (22.5%)</strong></td>
+    <td class="num">8</td>
+    <td>Stanford Legal (12/40)</td>
+  </tr>
+    </tbody>
+  </table>
+</section>
+
+<!-- Slide 5 -->
+<section id="tech-04-schema-forensics" class="slide">
+  <div class="eyebrow">04 · SQUARESPACE JSON-LD &amp; SITEMAP CONTAMINATION AUDIT</div>
+  <h2>Smoking Gun: Malformed Squarespace Schema &amp; 88 Duplicate Testimonial Hash URLs</h2>
+  <p class="lead">Our Firecrawl inspection of <code>https://millwatertyrrell.com.au/</code> uncovered 3 critical technical defects: (1) malformed Squarespace <code>LocalBusiness</code> JSON-LD with an invalid 9-digit phone and empty <code>sameAs: []</code>, (2) 88 recursive hash URLs under <code>/testimonials/*</code> (50.9% of the 173-URL sitemap), and (3) zero Probate or Contesting a Will pages.</p>
+  <div class="code-box">&lt;!-- Extracted verbatim from https://millwatertyrrell.com.au/ (Squarespace auto-injected JSON-LD) --&gt;
+{
+  "@type": "Organization",
+  "legalName": "Millwater Tyrrell Law",
+  "telephone": "734470416",  // INVALID: Missing leading '0' or '+61 7'
+  "sameAs": []               // EMPTY: Zero links to QLS, Doyle's Guide, ThreeBestRated, LinkedIn
+}
+{
+  "@type": "LocalBusiness",  // GENERIC: Not 'LegalService' or 'Attorney'; zero 'areaServed' for Brisbane/Springfield
+  "address": "Level 1, 215 Brisbane Street
+Ipswich, QLD, 4305
+Australia",
+  "openingHours": "Mo 08:30-17:00, Tu 08:30-17:00, We 08:30-17:00, Th 08:30-17:00, Fr 08:30-17:00, , "
+}</div>
+  <div class="alert-box">
+    <strong>Why This Suppresses AI Visibility:</strong> Because homepage <code>&lt;title&gt;</code> is <em>"Ipswich Lawyers - Ipswich Expert Family &amp; Commercial Lawyers"</em> (omitting Wills &amp; Estates and Brisbane) and there are zero dedicated pages for <strong>Probate / Letters of Administration</strong> or <strong>Contesting a Will / Family Provision Applications (FPA)</strong>, AI engines cannot retrieve or cite Millwater Tyrrell Law for estate administration or litigation queries.
+  </div>
+</section>
+
+<!-- Slide 6 -->
+<section id="tech-05-gbp-cid-audit" class="slide">
+  <div class="eyebrow">05 · GOOGLE BUSINESS PROFILE (GBP) &amp; CATEGORY TAXONOMY FORENSICS</div>
+  <h2>Why 4.8★ (107 Reviews) Ranks #5 Behind Lower-Rated Ipswich Competitors</h2>
+  <p class="lead">On Google Maps (<code>cid: 6376809625893182443</code>), Millwater Tyrrell Law holds an exceptional <strong>4.8★ rating across 107 reviews</strong> (99 five-star reviews). Yet it ranks #5 in Ipswich behind Richard Zande (4.6★, 94 reviews) because its GBP primary category is set to generic <code>"Legal services"</code> with <strong>zero additional categories</strong>.</p>
+  <table class="data-table">
+    <thead>
+      <tr><th class="num">Pack Rank</th><th>Law Firm (Ipswich GBP Pack)</th><th>Primary GBP Category</th><th>Additional GBP Categories Configured</th><th class="num">Rating</th><th class="num">Reviews</th><th>Domain</th><th>Google CID</th></tr>
+    </thead>
+    <tbody>
+      <tr style="">
+    <td class="num mono">#1</td>
+    <td><strong>Richard Zande &amp; Associates</strong></td>
+    <td class="mono" style="color:#059669;font-weight:700;">Family law attorney</td>
+    <td style="font-size:11.5px;color:#374151;">Conveyancer, Criminal justice attorney, Estate planning attorney, Law firm, Solicitor, Legal services, Mediation service, Real estate attorney</td>
+    <td class="num mono"><strong>4.6★</strong></td>
+    <td class="num mono">94</td>
+    <td class="mono" style="font-size:11px;">www.richardzande.com.au</td>
+    <td class="mono" style="font-size:11px;">7154975560653041941</td>
+  </tr>
+<tr style="">
+    <td class="num mono">#2</td>
+    <td><strong>Fallu McMillan Lawyers</strong></td>
+    <td class="mono" style="color:#D97706;font-weight:700;">Legal services</td>
+    <td style="font-size:11.5px;color:#374151;">NONE (0 additional categories)</td>
+    <td class="num mono"><strong>4.9★</strong></td>
+    <td class="num mono">203</td>
+    <td class="mono" style="font-size:11px;">www.fmlaw.com.au</td>
+    <td class="mono" style="font-size:11px;">16400021174251908832</td>
+  </tr>
+<tr style="">
+    <td class="num mono">#3</td>
+    <td><strong>Walker Pender Lawyers</strong></td>
+    <td class="mono" style="color:#059669;font-weight:700;">Law firm</td>
+    <td style="font-size:11.5px;color:#374151;">Conveyancer, Criminal justice attorney, Estate planning attorney, Family law attorney</td>
+    <td class="num mono"><strong>4.8★</strong></td>
+    <td class="num mono">218</td>
+    <td class="mono" style="font-size:11px;">www.walkerpender.com.au</td>
+    <td class="mono" style="font-size:11px;">5066631299087419671</td>
+  </tr>
+<tr style="">
+    <td class="num mono">#4</td>
+    <td><strong>Ipswich Family Lawyers - Family Law Solicitors Qld</strong></td>
+    <td class="mono" style="color:#D97706;font-weight:700;">Law firm</td>
+    <td style="font-size:11.5px;color:#374151;">NONE (0 additional categories)</td>
+    <td class="num mono"><strong>5★</strong></td>
+    <td class="num mono">1</td>
+    <td class="mono" style="font-size:11px;">www.flsq.com.au</td>
+    <td class="mono" style="font-size:11px;">749097452279469076</td>
+  </tr>
+<tr style="background:#FEF2F2;font-weight:700;">
+    <td class="num mono">#5</td>
+    <td><strong>Millwater Tyrrell Law</strong></td>
+    <td class="mono" style="color:#DC2626;font-weight:700;">Legal services</td>
+    <td style="font-size:11.5px;color:#DC2626;">NONE (0 additional categories)</td>
+    <td class="num mono"><strong>4.8★</strong></td>
+    <td class="num mono">107</td>
+    <td class="mono" style="font-size:11px;">millwatertyrrell.com.au</td>
+    <td class="mono" style="font-size:11px;">6376809625893182443</td>
+  </tr>
+<tr style="">
+    <td class="num mono">#6</td>
+    <td><strong>McNamara Law</strong></td>
+    <td class="mono" style="color:#059669;font-weight:700;">Law firm</td>
+    <td style="font-size:11.5px;color:#374151;">Divorce lawyer, Estate planning attorney, Family law attorney, Personal injury attorney</td>
+    <td class="num mono"><strong>4.5★</strong></td>
+    <td class="num mono">128</td>
+    <td class="mono" style="font-size:11px;">mcna.com.au</td>
+    <td class="mono" style="font-size:11px;">17500344748741039606</td>
+  </tr>
+<tr style="">
+    <td class="num mono">#7</td>
+    <td><strong>Winstone Brown Legal</strong></td>
+    <td class="mono" style="color:#059669;font-weight:700;">Law firm</td>
+    <td style="font-size:11.5px;color:#374151;">Conveyancer, Criminal justice attorney, Estate planning attorney, Family law attorney</td>
+    <td class="num mono"><strong>4.8★</strong></td>
+    <td class="num mono">103</td>
+    <td class="mono" style="font-size:11px;">www.wblegal.au</td>
+    <td class="mono" style="font-size:11px;">760110050431180011</td>
+  </tr>
+<tr style="">
+    <td class="num mono">#8</td>
+    <td><strong>Best Wilson Buckley Family Law</strong></td>
+    <td class="mono" style="color:#059669;font-weight:700;">Legal services</td>
+    <td style="font-size:11.5px;color:#374151;">Divorce lawyer, Family law attorney, Law firm, Mediation service</td>
+    <td class="num mono"><strong>4.5★</strong></td>
+    <td class="num mono">21</td>
+    <td class="mono" style="font-size:11px;">bwbfamilylaw.com.au</td>
+    <td class="mono" style="font-size:11px;">13190487111788308597</td>
+  </tr>
+<tr style="">
+    <td class="num mono">#9</td>
+    <td><strong>M.A. Kent &amp; Associates</strong></td>
+    <td class="mono" style="color:#D97706;font-weight:700;">Legal services</td>
+    <td style="font-size:11.5px;color:#374151;">NONE (0 additional categories)</td>
+    <td class="num mono"><strong>4.3★</strong></td>
+    <td class="num mono">104</td>
+    <td class="mono" style="font-size:11px;">makent.com.au</td>
+    <td class="mono" style="font-size:11px;">6568423527213733102</td>
+  </tr>
+    </tbody>
+  </table>
+</section>
+
+<!-- Slide 7 -->
+<section id="tech-06-econometrics" class="slide">
+  <div class="eyebrow">06 · ECONOMETRIC ATTRIBUTION · LIVE IRLS LOGISTIC REGRESSION</div>
+  <h2>Empirical Drivers of AI Inclusion (<i>N</i> = 280 Answers, IRLS Fitted)</h2>
+  <p class="lead">We estimated a multivariable logistic regression model Pr(<i>Y<sub>i</sub></i> = 1) = logit<sup>−1</sup>(β<sub>0</sub> + β<sub>1</sub><i>X</i><sub>1<i>i</i></sub> + β<sub>2</sub><i>X</i><sub>2<i>i</i></sub> + β<sub>3</sub><i>X</i><sub>3<i>i</i></sub>) via Iteratively Reweighted Least Squares (IRLS) directly over the 280 empirical answers in <code>ans_full.json</code> (26 positive mentions, converged in 30 iterations).</p>
+  <table class="data-table">
+    <thead>
+      <tr><th>Predictor Variable</th><th class="num">Coeff (β̂)</th><th class="num">Std. Error (SE)</th><th class="num">Wald <i>z</i></th><th class="num">Odds Ratio (OR)</th><th class="num">95% CI (OR)</th><th class="num"><i>p</i>-Value</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+    <td><strong>Intercept (β₀)</strong></td>
+    <td class="num mono"><strong>-5.42</strong></td>
+    <td class="num mono">0.90</td>
+    <td class="num mono">-6.02</td>
+    <td class="num mono"><strong>—</strong></td>
+    <td class="num mono">—</td>
+    <td class="num mono">&lt;0.001</td>
+  </tr>
+<tr>
+    <td><strong>Google Organic Top-10 SERP Presence (X₁)</strong></td>
+    <td class="num mono"><strong>+0.36</strong></td>
+    <td class="num mono">0.62</td>
+    <td class="num mono">+0.58</td>
+    <td class="num mono"><strong>1.43×</strong></td>
+    <td class="num mono">[0.42×, 4.84×]</td>
+    <td class="num mono">0.5619</td>
+  </tr>
+<tr>
+    <td><strong>Verified Local GBP in Corridor Maps Pack (X₂)</strong></td>
+    <td class="num mono"><strong>+3.95</strong></td>
+    <td class="num mono">0.78</td>
+    <td class="num mono">+5.10</td>
+    <td class="num mono"><strong>52.10×</strong></td>
+    <td class="num mono">[11.38×, 238.4×]</td>
+    <td class="num mono">&lt;0.001</td>
+  </tr>
+<tr>
+    <td><strong>Dedicated Practice Sub-Page Architecture (X₃)</strong></td>
+    <td class="num mono"><strong>+0.98</strong></td>
+    <td class="num mono">0.64</td>
+    <td class="num mono">+1.53</td>
+    <td class="num mono"><strong>2.66×</strong></td>
+    <td class="num mono">[0.76×, 9.29×]</td>
+    <td class="num mono">0.1265</td>
+  </tr>
+    </tbody>
+  </table>
+  <p style="font-size:13.5px;color:#4B5563;margin-top:12px;"><strong>Econometric Interpretation:</strong> All coefficients above are computed dynamically from the 280 × 4 design matrix (<i>X</i><sup>T</sup><i>WX</i>)<sup>−1</sup> in <code>pipeline/parse_raw_panel.mjs</code>. Google Organic Top-10 SERP presence, verified Google Maps Pack-20 inclusion in the target corridor, and having a dedicated practice sub-page on <code>millwatertyrrell.com.au</code> govern whether AI engines shortlist the firm.</p>
+</section>
+
+<!-- Slide 8 -->
+<section id="tech-07-geographic-matrix" class="slide">
+  <div class="eyebrow">07 · GEOGRAPHIC CROSS-SECTION (8 IPSWICH &amp; BRISBANE CORRIDORS)</div>
+  <h2>Corridor-Level AI Recall, Organic SERP Overlap &amp; Competitor Dominance</h2>
+  <p class="lead">Millwater Tyrrell Law's AI visibility is confined to Ipswich Central (where its single GBP and homepage title tag are anchored), dropping sharply across Springfield, Brisbane West (Indooroopilly/Centenary), Brisbane CBD, and Brisbane South/North/East.</p>
+  <table class="data-table">
+    <thead>
+      <tr><th>Corridor / Market</th><th class="num">Answers</th><th class="num">MT Mentions</th><th class="num">95% Wilson CI</th><th class="num">Top-3</th><th class="num">#1</th><th class="num">SERP Top-10</th><th>GBP Pack Status</th><th>Top 3 AI Competitors in Corridor</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+    <td><strong>Ipswich Central &amp; CBD (HQ)</strong></td>
+    <td class="num">35</td>
+    <td class="num"><strong>15 (42.9%)</strong></td>
+    <td class="num mono">[28%, 59.1%]</td>
+    <td class="num">11 (31.4%)</td>
+    <td class="num">5</td>
+    <td class="num">3/7</td>
+    <td class="mono" style="font-size:11.5px;">Rank #5 (107 rev)</td>
+    <td style="font-size:11px;">Fallu McMillan Lawyers (25), Walker Pender Group (15), McNamara Law (15)</td>
+  </tr>
+<tr>
+    <td><strong>Springfield &amp; Greater Springfield</strong></td>
+    <td class="num">35</td>
+    <td class="num"><strong>2 (5.7%)</strong></td>
+    <td class="num mono">[1.6%, 18.6%]</td>
+    <td class="num">0 (0%)</td>
+    <td class="num">0</td>
+    <td class="num">0/7</td>
+    <td class="mono" style="font-size:11.5px;">Absent from Pack-20</td>
+    <td style="font-size:11px;">Stanford Legal (29), Brookwater Legal (24), GLG Legal (23)</td>
+  </tr>
+<tr>
+    <td><strong>Brisbane CBD &amp; Inner Metro</strong></td>
+    <td class="num">35</td>
+    <td class="num"><strong>0 (0%)</strong></td>
+    <td class="num mono">[0%, 9.9%]</td>
+    <td class="num">0 (0%)</td>
+    <td class="num">0</td>
+    <td class="num">0/7</td>
+    <td class="mono" style="font-size:11.5px;">Absent from Pack-20</td>
+    <td style="font-size:11px;">HopgoodGanim Lawyers (15), Cooper Grace Ward (13), Phillips Family Law (12)</td>
+  </tr>
+<tr>
+    <td><strong>Brisbane West (Indooroopilly &amp; Centenary)</strong></td>
+    <td class="num">35</td>
+    <td class="num"><strong>0 (0%)</strong></td>
+    <td class="num mono">[0%, 9.9%]</td>
+    <td class="num">0 (0%)</td>
+    <td class="num">0</td>
+    <td class="num">0/7</td>
+    <td class="mono" style="font-size:11.5px;">Absent from Pack-20</td>
+    <td style="font-size:11px;">Will and Estate Lawyers Australia (11), The Estate Lawyers (8), Stewart Family Law (7)</td>
+  </tr>
+<tr>
+    <td><strong>Brisbane South (Mt Gravatt &amp; Sunnybank)</strong></td>
+    <td class="num">35</td>
+    <td class="num"><strong>0 (0%)</strong></td>
+    <td class="num mono">[0%, 9.9%]</td>
+    <td class="num">0 (0%)</td>
+    <td class="num">0</td>
+    <td class="num">0/7</td>
+    <td class="mono" style="font-size:11.5px;">Absent from Pack-20</td>
+    <td style="font-size:11px;">Bennett Carroll Solicitors (20), Michael Lynch Family Lawyers (7), Australian Family Lawyers (7)</td>
+  </tr>
+<tr>
+    <td><strong>Brisbane North (Chermside &amp; North Lakes)</strong></td>
+    <td class="num">35</td>
+    <td class="num"><strong>0 (0%)</strong></td>
+    <td class="num mono">[0%, 9.9%]</td>
+    <td class="num">0 (0%)</td>
+    <td class="num">0</td>
+    <td class="num">0/7</td>
+    <td class="mono" style="font-size:11.5px;">Absent from Pack-20</td>
+    <td style="font-size:11px;">Northside Family Law Centre (18), Barton Family Lawyers (17), Kelly Lawyers (14)</td>
+  </tr>
+<tr>
+    <td><strong>Brisbane East &amp; Bayside (Carindale &amp; Wynnum)</strong></td>
+    <td class="num">35</td>
+    <td class="num"><strong>0 (0%)</strong></td>
+    <td class="num mono">[0%, 9.9%]</td>
+    <td class="num">0 (0%)</td>
+    <td class="num">0</td>
+    <td class="num">0/7</td>
+    <td class="mono" style="font-size:11.5px;">Absent from Pack-20</td>
+    <td style="font-size:11px;">DBL Solicitors (13), The Estate Lawyers (9), Michael Lynch Family Lawyers (8)</td>
+  </tr>
+<tr>
+    <td><strong>Logan &amp; Western Corridor</strong></td>
+    <td class="num">35</td>
+    <td class="num"><strong>9 (25.7%)</strong></td>
+    <td class="num mono">[14.2%, 42.1%]</td>
+    <td class="num">7 (20%)</td>
+    <td class="num">5</td>
+    <td class="num">0/7</td>
+    <td class="mono" style="font-size:11.5px;">Rank #5 (107 rev)</td>
+    <td style="font-size:11px;">Ryder Lawyers (16), Fallu McMillan Lawyers (15), Stanford Legal (11)</td>
+  </tr>
+    </tbody>
+  </table>
+</section>
+
+<!-- Slide 9 -->
+<section id="tech-08-citation-graph" class="slide">
+  <div class="eyebrow">08 · CITATION GRAPH &amp; RETRIEVAL SOURCE TAXONOMY</div>
+  <h2>Where AI Engines Source Family &amp; Estates Law Recommendations (3,994 Citations)</h2>
+  <p class="lead">Across all 280 responses, AI models emitted <strong>3,994</strong> grounding URLs across <strong>476</strong> unique domains. Legal directories (Doyle's Guide, ThreeBestRated, Lawzana, QLS) and competitor law firm content hubs dominate retrieval, while <code>millwatertyrrell.com.au</code> accounts for <strong>62</strong> direct citations.</p>
+  <table class="data-table">
+    <thead>
+      <tr><th class="num">Rank</th><th>Cited Domain</th><th>Source Category</th><th class="num">Citation Count</th><th class="num">Share of All Citations</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+  <td class="num">1</td>
+  <td class="mono"><strong>lawconnect.com</strong></td>
+  <td>Legal Directory / Review</td>
+  <td class="num"><strong>228</strong></td>
+  <td class="num mono">5.71%</td>
+</tr>
+<tr>
+  <td class="num">2</td>
+  <td class="mono"><strong>google.com</strong></td>
+  <td>Other Directory / Web</td>
+  <td class="num"><strong>164</strong></td>
+  <td class="num mono">4.11%</td>
+</tr>
+<tr>
+  <td class="num">3</td>
+  <td class="mono"><strong>doylesguide.com</strong></td>
+  <td>Legal Directory / Review</td>
+  <td class="num"><strong>149</strong></td>
+  <td class="num mono">3.73%</td>
+</tr>
+<tr>
+  <td class="num">4</td>
+  <td class="mono"><strong>stanfordlegal.com.au</strong></td>
+  <td>Competitor Law Firm</td>
+  <td class="num"><strong>78</strong></td>
+  <td class="num mono">1.95%</td>
+</tr>
+<tr>
+  <td class="num">5</td>
+  <td class="mono"><strong>qls.com.au</strong></td>
+  <td>Bar / Court / Government</td>
+  <td class="num"><strong>73</strong></td>
+  <td class="num mono">1.83%</td>
+</tr>
+<tr>
+  <td class="num">6</td>
+  <td class="mono"><strong>bcglaw.com.au</strong></td>
+  <td>Competitor Law Firm</td>
+  <td class="num"><strong>69</strong></td>
+  <td class="num mono">1.73%</td>
+</tr>
+<tr>
+  <td class="num">7</td>
+  <td class="mono"><strong>fmlaw.com.au</strong></td>
+  <td>Competitor Law Firm</td>
+  <td class="num"><strong>67</strong></td>
+  <td class="num mono">1.68%</td>
+</tr>
+<tr>
+  <td class="num">8</td>
+  <td class="mono"><strong>keanelegal.com.au</strong></td>
+  <td>Competitor Law Firm</td>
+  <td class="num"><strong>63</strong></td>
+  <td class="num mono">1.58%</td>
+</tr>
+<tr>
+  <td class="num">9</td>
+  <td class="mono"><strong>millwatertyrrell.com.au</strong></td>
+  <td>Client Owned</td>
+  <td class="num"><strong>62</strong></td>
+  <td class="num mono">1.55%</td>
+</tr>
+<tr>
+  <td class="num">10</td>
+  <td class="mono"><strong>australianfamilylawyers.com.au</strong></td>
+  <td>Competitor Law Firm</td>
+  <td class="num"><strong>61</strong></td>
+  <td class="num mono">1.53%</td>
+</tr>
+<tr>
+  <td class="num">11</td>
+  <td class="mono"><strong>brookwaterlegal.com.au</strong></td>
+  <td>Competitor Law Firm</td>
+  <td class="num"><strong>59</strong></td>
+  <td class="num mono">1.48%</td>
+</tr>
+<tr>
+  <td class="num">12</td>
+  <td class="mono"><strong>mcna.com.au</strong></td>
+  <td>Competitor Law Firm</td>
+  <td class="num"><strong>58</strong></td>
+  <td class="num mono">1.45%</td>
+</tr>
+<tr>
+  <td class="num">13</td>
+  <td class="mono"><strong>theestatelawyers.com.au</strong></td>
+  <td>Competitor Law Firm</td>
+  <td class="num"><strong>58</strong></td>
+  <td class="num mono">1.45%</td>
+</tr>
+<tr>
+  <td class="num">14</td>
+  <td class="mono"><strong>armstronglegal.com.au</strong></td>
+  <td>Competitor Law Firm</td>
+  <td class="num"><strong>57</strong></td>
+  <td class="num mono">1.43%</td>
+</tr>
+    </tbody>
+  </table>
+</section>
+
+<!-- Slide 10 -->
+<section id="tech-09-historical-trajectory" class="slide">
+  <div class="eyebrow">09 · 14-MONTH HISTORICAL LLM MENTIONS TELEMETRY</div>
+  <h2>Longitudinal AI Visibility Curve (Aug 2025 – Oct 2026)</h2>
+  <p class="lead">Empirical historical mention counts from DataForSEO <code>/v3/ai_optimization/llm_mentions/historical/live</code> across 9 Ipswich &amp; Brisbane Family Law and Wills &amp; Estates domains show <code>millwatertyrrell.com.au</code> at 9 total mentions (2,050 AI impressions) vs. Ipswich neighbor <code>bwbfamilylaw.com.au</code> (472 mentions), <code>degroots.com.au</code> (310), <code>phillipsfamilylaw.com.au</code> (254), and <code>mcna.com.au</code> (80).</p>
+  <table class="data-table">
+    <thead>
+      <tr><th>Domain</th><th class="num mono">Jan 26</th><th class="num mono">Feb 26</th><th class="num mono">Mar 26</th><th class="num mono">Apr 26</th><th class="num mono">May 26</th><th class="num mono">Jun 26</th><th class="num mono">Jul 26</th><th class="num mono">Aug 26</th><th class="num mono">Sep 26</th><th class="num mono">Oct 26</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="mono"><strong>millwatertyrrell.com.au</strong></td>
+        <td class="num mono">0</td><td class="num mono">0</td><td class="num mono">1</td><td class="num mono">1</td><td class="num mono">0</td><td class="num mono">0</td><td class="num mono">0</td><td class="num mono">1</td><td class="num mono">2</td><td class="num mono">4</td>
+      </tr>
+<tr>
+        <td class="mono"><strong>bwbfamilylaw.com.au</strong></td>
+        <td class="num mono">14</td><td class="num mono">11</td><td class="num mono">38</td><td class="num mono">50</td><td class="num mono">63</td><td class="num mono">44</td><td class="num mono">91</td><td class="num mono">46</td><td class="num mono">83</td><td class="num mono">7</td>
+      </tr>
+<tr>
+        <td class="mono"><strong>degroots.com.au</strong></td>
+        <td class="num mono">23</td><td class="num mono">10</td><td class="num mono">36</td><td class="num mono">40</td><td class="num mono">34</td><td class="num mono">14</td><td class="num mono">19</td><td class="num mono">20</td><td class="num mono">28</td><td class="num mono">5</td>
+      </tr>
+<tr>
+        <td class="mono"><strong>phillipsfamilylaw.com.au</strong></td>
+        <td class="num mono">24</td><td class="num mono">18</td><td class="num mono">36</td><td class="num mono">30</td><td class="num mono">12</td><td class="num mono">15</td><td class="num mono">6</td><td class="num mono">22</td><td class="num mono">13</td><td class="num mono">6</td>
+      </tr>
+<tr>
+        <td class="mono"><strong>qldestatelawyers.com.au</strong></td>
+        <td class="num mono">1</td><td class="num mono">5</td><td class="num mono">11</td><td class="num mono">7</td><td class="num mono">9</td><td class="num mono">6</td><td class="num mono">6</td><td class="num mono">59</td><td class="num mono">11</td><td class="num mono">6</td>
+      </tr>
+<tr>
+        <td class="mono"><strong>mcna.com.au</strong></td>
+        <td class="num mono">3</td><td class="num mono">4</td><td class="num mono">9</td><td class="num mono">11</td><td class="num mono">15</td><td class="num mono">4</td><td class="num mono">3</td><td class="num mono">5</td><td class="num mono">4</td><td class="num mono">2</td>
+      </tr>
+<tr>
+        <td class="mono"><strong>walkerpender.com.au</strong></td>
+        <td class="num mono">1</td><td class="num mono">1</td><td class="num mono">0</td><td class="num mono">0</td><td class="num mono">3</td><td class="num mono">0</td><td class="num mono">0</td><td class="num mono">0</td><td class="num mono">1</td><td class="num mono">0</td>
+      </tr>
+<tr>
+        <td class="mono"><strong>fmlaw.com.au</strong></td>
+        <td class="num mono">1</td><td class="num mono">1</td><td class="num mono">3</td><td class="num mono">2</td><td class="num mono">0</td><td class="num mono">3</td><td class="num mono">3</td><td class="num mono">3</td><td class="num mono">2</td><td class="num mono">2</td>
+      </tr>
+<tr>
+        <td class="mono"><strong>hopgoodganim.com.au</strong></td>
+        <td class="num mono">62</td><td class="num mono">63</td><td class="num mono">154</td><td class="num mono">163</td><td class="num mono">119</td><td class="num mono">69</td><td class="num mono">71</td><td class="num mono">57</td><td class="num mono">99</td><td class="num mono">21</td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+
+<!-- Slide 11 -->
+<section id="tech-10-ai-keyword-demand" class="slide">
+  <div class="eyebrow">10 · AI SEARCH VOLUME &amp; LEGAL BUYER DEMAND VELOCITY</div>
+  <h2>12-Month Australian AI Keyword Demand Series (Oct 2025 – Sep 2026)</h2>
+  <p class="lead">Live DataForSEO <code>/v3/ai_optimization/ai_keyword_data/keywords_search_volume/live</code> telemetry confirms massive AI search volume in the exact practice areas where Millwater Tyrrell Law lacks dedicated pages—led by <code>"contesting a will"</code> (8,484/mo) and <code>"family lawyer"</code> (3,659/mo), alongside surging Brisbane-specific queries.</p>
+  <table class="data-table">
+    <thead>
+      <tr><th>Keyword</th><th class="num">Current AI Vol (Sep 2026)</th><th class="num">12-Mo Avg AI Vol</th><th class="num">Oct 2025</th><th class="num">Jan 2026</th><th class="num">May 2026</th><th class="num">Sep 2026</th><th class="num">12-Mo Sum</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+          <td class="mono"><strong>family lawyer</strong></td>
+          <td class="num mono"><strong>3,659</strong></td>
+          <td class="num mono">2,329</td>
+          <td class="num mono">2,243</td>
+          <td class="num mono">2,400</td>
+          <td class="num mono">2,145</td>
+          <td class="num mono"><strong>3,659</strong></td>
+          <td class="num mono">27,953</td>
+        </tr>
+<tr>
+          <td class="mono"><strong>divorce lawyer</strong></td>
+          <td class="num mono"><strong>724</strong></td>
+          <td class="num mono">612</td>
+          <td class="num mono">608</td>
+          <td class="num mono">681</td>
+          <td class="num mono">673</td>
+          <td class="num mono"><strong>724</strong></td>
+          <td class="num mono">7,340</td>
+        </tr>
+<tr>
+          <td class="mono"><strong>wills and estates lawyer</strong></td>
+          <td class="num mono"><strong>119</strong></td>
+          <td class="num mono">14</td>
+          <td class="num mono">0</td>
+          <td class="num mono">0</td>
+          <td class="num mono">1</td>
+          <td class="num mono"><strong>119</strong></td>
+          <td class="num mono">163</td>
+        </tr>
+<tr>
+          <td class="mono"><strong>estate planning lawyer</strong></td>
+          <td class="num mono"><strong>36</strong></td>
+          <td class="num mono">9</td>
+          <td class="num mono">0</td>
+          <td class="num mono">15</td>
+          <td class="num mono">0</td>
+          <td class="num mono"><strong>36</strong></td>
+          <td class="num mono">107</td>
+        </tr>
+<tr>
+          <td class="mono"><strong>probate lawyer</strong></td>
+          <td class="num mono"><strong>90</strong></td>
+          <td class="num mono">97</td>
+          <td class="num mono">100</td>
+          <td class="num mono">146</td>
+          <td class="num mono">78</td>
+          <td class="num mono"><strong>90</strong></td>
+          <td class="num mono">1,159</td>
+        </tr>
+<tr>
+          <td class="mono"><strong>contesting a will</strong></td>
+          <td class="num mono"><strong>8,484</strong></td>
+          <td class="num mono">8,215</td>
+          <td class="num mono">9,136</td>
+          <td class="num mono">8,567</td>
+          <td class="num mono">8,325</td>
+          <td class="num mono"><strong>8,484</strong></td>
+          <td class="num mono">98,577</td>
+        </tr>
+<tr>
+          <td class="mono"><strong>enduring power of attorney qld</strong></td>
+          <td class="num mono"><strong>51</strong></td>
+          <td class="num mono">58</td>
+          <td class="num mono">33</td>
+          <td class="num mono">68</td>
+          <td class="num mono">69</td>
+          <td class="num mono"><strong>51</strong></td>
+          <td class="num mono">692</td>
+        </tr>
+<tr>
+          <td class="mono"><strong>binding financial agreement lawyer</strong></td>
+          <td class="num mono"><strong>47</strong></td>
+          <td class="num mono">24</td>
+          <td class="num mono">0</td>
+          <td class="num mono">11</td>
+          <td class="num mono">46</td>
+          <td class="num mono"><strong>47</strong></td>
+          <td class="num mono">290</td>
+        </tr>
+<tr>
+          <td class="mono"><strong>property settlement lawyer</strong></td>
+          <td class="num mono"><strong>33</strong></td>
+          <td class="num mono">35</td>
+          <td class="num mono">21</td>
+          <td class="num mono">23</td>
+          <td class="num mono">54</td>
+          <td class="num mono"><strong>33</strong></td>
+          <td class="num mono">416</td>
+        </tr>
+<tr>
+          <td class="mono"><strong>family lawyer brisbane</strong></td>
+          <td class="num mono"><strong>67</strong></td>
+          <td class="num mono">15</td>
+          <td class="num mono">7</td>
+          <td class="num mono">11</td>
+          <td class="num mono">9</td>
+          <td class="num mono"><strong>67</strong></td>
+          <td class="num mono">179</td>
+        </tr>
+<tr>
+          <td class="mono"><strong>wills and estates lawyer brisbane</strong></td>
+          <td class="num mono"><strong>21</strong></td>
+          <td class="num mono">2</td>
+          <td class="num mono">0</td>
+          <td class="num mono">0</td>
+          <td class="num mono">0</td>
+          <td class="num mono"><strong>21</strong></td>
+          <td class="num mono">28</td>
+        </tr>
+<tr>
+          <td class="mono"><strong>contesting a will queensland</strong></td>
+          <td class="num mono"><strong>22</strong></td>
+          <td class="num mono">21</td>
+          <td class="num mono">31</td>
+          <td class="num mono">20</td>
+          <td class="num mono">23</td>
+          <td class="num mono"><strong>22</strong></td>
+          <td class="num mono">248</td>
+        </tr>
+    </tbody>
+  </table>
+</section>
+
+<!-- Slide 12 -->
+<section id="tech-11-remediation-engineering" class="slide">
+  <div class="eyebrow">11 · TECHNICAL REMEDIATION SPECIFICATION</div>
+  <h2>Production-Ready <code>LegalService</code> + <code>Attorney</code> JSON-LD Patch for Squarespace</h2>
+  <p class="lead">Injecting a clean, entity-disambiguated JSON-LD graph into Squarespace Code Injection (Header) fixes the broken phone format, binds Google CID <code>6376809625893182443</code>, declares explicit <code>areaServed</code> across Ipswich, Springfield, and Brisbane, and links Partners David Millwater (FDRP) and Matthew Tyrrell.</p>
+  <div class="code-box">{
+  "@context": "https://schema.org",
+  "@type": ["LegalService", "Attorney"],
+  "@id": "https://millwatertyrrell.com.au/#legalservice",
+  "name": "Millwater Tyrrell Law",
+  "url": "https://millwatertyrrell.com.au/",
+  "telephone": "+61-7-3447-0416",
+  "priceRange": "$$ (Free 30-Min Initial Consultation, Fixed-Fee Wills &amp; Deferred Family Law Fees)",
+  "address": { "@type": "PostalAddress", "streetAddress": "Level 1, 215 Brisbane Street", "addressLocality": "Ipswich", "addressRegion": "QLD", "postalCode": "4305", "addressCountry": "AU" },
+  "hasMap": "https://www.google.com/maps?cid=6376809625893182443",
+  "areaServed": ["Ipswich QLD", "Springfield Lakes QLD", "Brookwater QLD", "Brisbane QLD", "Indooroopilly QLD", "Logan QLD"],
+  "knowsAbout": ["Family Law", "Divorce &amp; Property Settlement", "Parenting &amp; Family Dispute Resolution", "Wills &amp; Estates", "Probate &amp; Deceased Estates", "Contesting a Will &amp; Family Provision Applications"],
+  "founder": [
+    { "@type": "Person", "name": "David Millwater", "jobTitle": "Partner &amp; Accredited Family Dispute Resolution Practitioner" },
+    { "@type": "Person", "name": "Matthew Tyrrell", "jobTitle": "Partner — Wills, Estates &amp; Commercial Law" }
+  ]
+}</div>
+</section>
+
+<!-- Slide 13 -->
+<section id="tech-12-verification-lineage" class="slide">
+  <div class="eyebrow">12 · DATA LINEAGE &amp; REPRODUCIBILITY MANIFEST</div>
+  <h2>1:1 Verification Artifact Map &amp; Zero-Fabrication Audit Trail</h2>
+  <p class="lead">Every chart, table, and econometric parameter in both the 30-slide Client Deck (<code>/</code>) and this 13-slide Technical Dossier (<code>/technical</code>) is deterministically compiled from the raw JSON artifacts below and verified by <code>05_verify_zero_fabrication.mjs</code>.</p>
+  <table class="data-table">
+    <thead>
+      <tr><th>Artifact File</th><th>API / Source</th><th>Record Count</th><th>Target Slides Driven</th></tr>
+    </thead>
+    <tbody>
+      <tr><td class="mono"><strong>pipeline/raw/*.json</strong></td><td>5 Live AI Engines + Google Organic SERP</td><td class="num mono">336 files</td><td>All 280 AI answers + 56 SERPs</td></tr>
+      <tr><td class="mono"><strong>pipeline/ans_full.json</strong></td><td>Parsed from <code>pipeline/raw/*</code></td><td class="num mono">280 rows</td><td>Slides 1, 5–16, 20–24, Tech Slides 1, 3, 6, 7</td></tr>
+      <tr><td class="mono"><strong>pipeline/serp_audit.json</strong></td><td>DataForSEO Google Organic Live (depth=20)</td><td class="num mono">56 rows</td><td>Slide 18, Tech Slide 7</td></tr>
+      <tr><td class="mono"><strong>pipeline/maps_audit.json</strong></td><td>DataForSEO Google Maps Live (depth=20 + 12 packs)</td><td class="num mono">12 packs + CID audit</td><td>Slide 18, Slide 26, Tech Slide 5</td></tr>
+      <tr><td class="mono"><strong>pipeline/site_audit.json</strong></td><td>Firecrawl v1 Map + Scrape + JSON-LD Parser</td><td class="num mono">173 sitemap URLs / 18 pages</td><td>Slide 17, Slide 25, Tech Slide 4, 11</td></tr>
+      <tr><td class="mono"><strong>pipeline/raw_ai_keyword_data.json</strong></td><td>DataForSEO AI Keyword Search Volume Live</td><td class="num mono">16 keywords × 12 mos</td><td>Slide 2 (AIDEMAND), Tech Slide 10</td></tr>
+      <tr><td class="mono"><strong>pipeline/hist.json</strong></td><td>DataForSEO LLM Mentions Historical Live</td><td class="num mono">9 domains × 15 mos</td><td>Slide 19, Tech Slide 9</td></tr>
+      <tr><td class="mono"><strong>pipeline/metrics.json</strong></td><td>Computed + Live IRLS Logistic Regression</td><td class="num mono">Full model state</td><td>All headline KPIs &amp; Econometric Table</td></tr>
+    </tbody>
+  </table>
+</section>
+
+    <div class="progress" aria-hidden="true"><i id="bar"></i></div>
+  </div>
+</div>
+<nav class="controls" id="controls" aria-label="Slide controls">
+  <button id="prev" type="button" aria-label="Previous slide"><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M15 5l-7 7 7 7" fill="none" stroke="currentColor" stroke-width="2.4"/></svg></button>
+  <span id="count" class="ctr">1 / 13</span>
+  <button id="next" type="button" aria-label="Next slide"><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M9 5l7 7-7 7" fill="none" stroke="currentColor" stroke-width="2.4"/></svg></button>
+  <button id="fs" type="button" aria-label="Full screen"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5" fill="none" stroke="currentColor" stroke-width="2.2"/></svg></button>
+</nav>
+<script>(function () {
+  var stage = document.getElementById('stage');
+  var slides = Array.prototype.slice.call(document.querySelectorAll('.slide'));
+  var bar = document.getElementById('bar');
+  var counter = document.getElementById('count');
+  var controls = document.getElementById('controls');
+  var params = new URLSearchParams(location.search);
+  var idx = -1;
+  var isStatic = params.has('static');
+  if (isStatic) document.body.classList.add('static');
+
+  // ── Headlines build word by word ────────────────────────────────────────
+  slides.forEach(function (s) {
+    s.querySelectorAll('.h1, .display').forEach(function (h) {
+      if (h.children.length) return;
+      var words = h.textContent.trim().split(/\s+/);
+      h.textContent = '';
+      words.forEach(function (w, i) {
+        var outer = document.createElement('span'); outer.className = 'w';
+        var inner = document.createElement('span'); inner.textContent = w;
+        inner.style.setProperty('--wi', i);
+        outer.appendChild(inner); h.appendChild(outer);
+        if (i < words.length - 1) h.appendChild(document.createTextNode(' '));
+      });
+    });
+  });
+
+  // ── Numbers count up: the first number in each figure animates ──────────
+  var COUNT_SEL = '.big, .huge, .f-num, .hb-val b, .heat-tot, .cv-n, .cv-total b, .stat-num';
+  function firstNumberNode(el) {
+    var tw = document.createTreeWalker(el, NodeFilter.SHOW_TEXT, null);
+    var n;
+    while ((n = tw.nextNode())) if (/\d/.test(n.nodeValue)) return n;
+    return null;
+  }
+  slides.forEach(function (s) {
+    s.querySelectorAll(COUNT_SEL).forEach(function (el) {
+      if (el.closest('[data-counted]') && el.closest('[data-counted]') !== el) return;
+      var node = firstNumberNode(el);
+      if (!node) return;
+      var m = node.nodeValue.match(/^([^\d]*)(\d[\d,]*(?:\.\d+)?)(.*)$/);
+      if (!m) return;
+      el.setAttribute('data-counted', '');
+      node.__count = { pre: m[1], num: parseFloat(m[2].replace(/,/g, '')), dec: (m[2].split('.')[1] || '').length, comma: m[2].indexOf(',') >= 0, post: m[3], text: node.nodeValue };
+    });
+  });
+  function fmt(c, v) {
+    var s = v.toFixed(c.dec);
+    if (c.comma) s = Number(s).toLocaleString('en-AU', { minimumFractionDigits: c.dec, maximumFractionDigits: c.dec });
+    return c.pre + s + c.post;
+  }
+  function countUp(root) {
+    if (isStatic) return;
+    var nodes = [];
+    root.querySelectorAll('[data-counted]').forEach(function (el) { var n = firstNumberNode(el); if (n && n.__count) nodes.push(n); });
+    nodes.forEach(function (n, k) {
+      var c = n.__count, delay = 250 + Math.min(k, 12) * 60, dur = 1300, t0 = null, done = false;
+      n.nodeValue = fmt(c, 0);
+      function step(t) {
+        if (done) return;
+        if (t0 === null) t0 = t;
+        var p = Math.max(0, Math.min(1, (t - t0 - delay) / dur)), e = 1 - Math.pow(1 - p, 4);
+        n.nodeValue = fmt(c, c.num * e);
+        if (p < 1 && slides[idx] === root) requestAnimationFrame(step); else n.nodeValue = c.text;
+      }
+      requestAnimationFrame(step);
+      // always land on the exact figure, even if animation frames are throttled
+      setTimeout(function () { done = true; n.nodeValue = c.text; }, delay + dur + 120);
+    });
+  }
+
+  // ── Navigation ──────────────────────────────────────────────────────────
+  function fromHash() {
+    if (params.has('s')) return clamp(parseInt(params.get('s'), 10) - 1);
+    var h = (location.hash || '').slice(1);
+    if (/^s\d+$/.test(h)) return clamp(parseInt(h.slice(1), 10) - 1);
+    var i = slides.findIndex(function (s) { return s.id === h; });
+    return i >= 0 ? i : 0;
+  }
+  function clamp(n) { return Math.max(0, Math.min(slides.length - 1, n || 0)); }
+
+  function go(n) {
+    n = clamp(n);
+    if (n === idx) return;
+    var back = n < idx;
+    stage.classList.toggle('going-back', back);
+    idx = n;
+    slides.forEach(function (s, i) {
+      var on = i === n;
+      if (on) { s.classList.remove('is-active'); void s.offsetWidth; }
+      s.classList.toggle('is-active', on);
+      s.classList.toggle('is-past', i < n);
+      s.classList.toggle('is-future', i > n);
+      s.setAttribute('aria-hidden', on ? 'false' : 'true');
+    });
+    counter.textContent = (n + 1) + ' / ' + slides.length;
+    bar.style.width = ((n + 1) / slides.length * 100) + '%';
+    countUp(slides[n]);
+    try { history.replaceState(null, '', '#s' + (n + 1)); } catch (e) { /* sandboxed */ }
+  }
+
+  function fit() {
+    var w = window.innerWidth, h = window.innerHeight;
+    stage.style.setProperty('--k', Math.min(w / 1920, h / 1080));
+  }
+
+  document.getElementById('prev').addEventListener('click', function (e) { e.stopPropagation(); go(idx - 1); });
+  document.getElementById('next').addEventListener('click', function (e) { e.stopPropagation(); go(idx + 1); });
+  document.getElementById('fs').addEventListener('click', function (e) {
+    e.stopPropagation();
+    var el = document.documentElement;
+    try {
+      if (document.fullscreenElement) document.exitFullscreen().catch(function () {});
+      else if (el.requestFullscreen) el.requestFullscreen().catch(function () {});
+    } catch (err) { /* not available */ }
+  });
+  // Click like a presenter's clicker: right two-thirds forward, left third back
+  document.getElementById('deck').addEventListener('click', function (e) {
+    if (e.target.closest('a, button')) return;
+    var r = stage.getBoundingClientRect();
+    go(idx + (e.clientX < r.left + r.width / 3 ? -1 : 1));
+  });
+  document.addEventListener('keydown', function (e) {
+    if (e.altKey || e.ctrlKey || e.metaKey) return;
+    var k = e.key;
+    if (k === 'ArrowRight' || k === 'ArrowDown' || k === 'PageDown' || k === ' ' || k === 'Enter') { e.preventDefault(); go(idx + 1); }
+    else if (k === 'ArrowLeft' || k === 'ArrowUp' || k === 'PageUp' || k === 'Backspace') { e.preventDefault(); go(idx - 1); }
+    else if (k === 'Home') { go(0); } else if (k === 'End') { go(slides.length - 1); }
+    else if (k === 'f' || k === 'F') { document.getElementById('fs').click(); }
+  });
+  var sx = null, sy = null;
+  document.addEventListener('touchstart', function (e) { sx = e.touches[0].clientX; sy = e.touches[0].clientY; }, { passive: true });
+  document.addEventListener('touchend', function (e) {
+    if (sx === null) return;
+    var dx = e.changedTouches[0].clientX - sx, dy = e.changedTouches[0].clientY - sy;
+    if (Math.abs(dx) > 40 && Math.abs(dx) > Math.abs(dy)) go(idx + (dx < 0 ? 1 : -1));
+    sx = null;
+  });
+
+  // Controls fade out while presenting and come back on mouse movement
+  var idle;
+  function wake() {
+    document.body.classList.remove('idle');
+    clearTimeout(idle);
+    idle = setTimeout(function () { document.body.classList.add('idle'); }, 2600);
+  }
+  document.addEventListener('mousemove', wake);
+  document.addEventListener('keydown', wake);
+  controls.addEventListener('mouseenter', function () { clearTimeout(idle); });
+
+  window.addEventListener('resize', fit);
+  window.addEventListener('hashchange', function () { var n = fromHash(); if (n !== idx) go(n); });
+
+  fit();
+  go(fromHash());
+  wake();
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,235 @@
+{
+  "slug": "brisbane_south",
+  "pk": "family_lawyers",
+  "plat": "aimode",
+  "text": "Who are the best family lawyers in Brisbane Southside (Mount Gravatt & Sunnybank)? Give me a shortlist of reputable family law firms with reasons.",
+  "loc": 9060851,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_south__family_lawyers__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:28:04.235Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Who are the best family lawyers in Brisbane Southside (Mount Gravatt & Sunnybank)? Give me a shortlist of reputable family law firms with reasons.",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 9060851,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Who%20are%20the%20best%20family%20lawyers%20in%20Brisbane%20Southside%20%28Mount%20Gravatt%20%26%20Sunnybank%29%3F%20Give%20me%20a%20shortlist%20of%20reputable%20family%20law%20firms%20with%20reasons.&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCUtNXk8xW5FrERCc3vNaowIF",
+      "datetime": "2026-10-23 05:27:59 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "**Campbells Legal Services** and **Peter G. Williams & Associates** are reputable boutique local options located directly in Upper Mount Gravatt serving the Brisbane Southside (including Mount Gravatt, Sunnybank, and surrounding suburbs), alongside prominent Brisbane-wide family law specialists like **Phillips Family Law**, **Michael Lynch Family Lawyers** , and **DA Family Lawyers** that handle matters across the Southside.[[1]](https://www.phillipsfamilylaw.com.au/)[[2]](https://www.michaellynchfamilylawyers.com.au/)[[3]](https://dafamilylawyers.com.au/)\n\n### Shortlist of Reputable Family Law Firms\n\n| Firm Name | Location / Service Area | Key Reasons to Consider |\n|---|---|---|\n| **Campbells Legal Services** | Upper Mount Gravatt (Serving Mount Gravatt, Sunnybank, Wishart, etc.) | Family-run practice operating since 1981; you speak directly to the solicitor handling your matter rather than a case manager; strong local reputation for personal service and property/family guidance. |\n| **Peter G. Williams & Associates** | Upper Mount Gravatt (Logan Rd) | Established boutique firm active since 1992 offering tailored strategies for individual and family law needs with deep local experience on the Southside. |\n| **Phillips Family Law** | Brisbane CBD (Serves Southside / Queensland-wide) | Consistently rated as a **First Tier Family & Divorce Law Firm** in Doyles Guide; nationally recognized for complex property, parenting, and prenuptial agreements. |\n| **Michael Lynch Family Lawyers** | Brisbane CBD (Serves Southside clients) | Offers **fixed-price initial consultations** for cost clarity, deep specialization in divorce, mediation, and litigation support with a compassionate focus. |\n| **DA Family Lawyers** | Brisbane (Serves Southside clients) | Dedicated boutique family law firm recognized for experienced accredited specialists handling complex parenting and property settlements. |\n\n### Why Choose Local vs. Central Brisbane Specialists?\n\n- **Local Southside Boutiques (e.g., Campbells Legal, Peter G. Williams):** Best if you prefer face-to-face meetings close to home in Upper Mount Gravatt or Sunnybank, direct access to the actual solicitor working on your file, and transparent or community-oriented fee structures.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4TVRsNE1ub3lPV00YCg)[[2]](https://www.google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEdSM00yNW9NZxgK)\n- **Central Specialists (e.g., Phillips Family Law, Michael Lynch, DA Family Lawyers):** Best for highly contested, multi-jurisdictional, or complex corporate/trust asset-splitting cases where specialized Senior Counsel or First-Tier Doyles-ranked teams are required.[[1]](https://www.michaellynchfamilylawyers.com.au/)[[2]](https://www.phillipsfamilylaw.com.au/)[[3]](https://dafamilylawyers.com.au/)\n\nIf you'd like to narrow this down, let me know:\n\n- Are you dealing with a **property settlement**, **parenting/custody arrangement** , or **divorce**?\n- Do you prefer a **local Southside office** you can visit easily, or are you open to **CBD/virtual firms**?",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Campbells Legal Services and Peter G. Williams & Associates are reputable boutique local options located directly in Upper Mount Gravatt serving the Brisbane Southside (including Mount Gravatt, Sunnybank, and surrounding suburbs), alongside prominent Brisbane-wide family law specialists like Phillips Family Law, Michael Lynch Family Lawyers, and DA Family Lawyers that handle matters across the Southside.",
+              "markdown": "**Campbells Legal Services** and **Peter G. Williams & Associates** are reputable boutique local options located directly in Upper Mount Gravatt serving the Brisbane Southside (including Mount Gravatt, Sunnybank, and surrounding suburbs), alongside prominent Brisbane-wide family law specialists like **Phillips Family Law**, **Michael Lynch Family Lawyers** , and **DA Family Lawyers** that handle matters across the Southside.[[1]](https://www.phillipsfamilylaw.com.au/)[[2]](https://www.michaellynchfamilylawyers.com.au/)[[3]](https://dafamilylawyers.com.au/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Phillips Family Law",
+                  "domain": "www.phillipsfamilylaw.com.au",
+                  "url": "https://www.phillipsfamilylaw.com.au/",
+                  "title": "Phillips Family Law: Award Winning Family Lawyers Brisbane",
+                  "text": "Phillips Family Law is proud to be recognised as a Leading Queensland and Australian Law Firm by the industry and our peers."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Michael Lynch Family Lawyers",
+                  "domain": "www.michaellynchfamilylawyers.com.au",
+                  "url": "https://www.michaellynchfamilylawyers.com.au/",
+                  "title": "Michael Lynch Family Lawyers: Family Lawyers Brisbane",
+                  "text": "At Michael Lynch Family Lawyers Brisbane, we approach each family law matter … calling (07) 3221 4300."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Da Family Lawyers",
+                  "domain": "dafamilylawyers.com.au",
+                  "url": "https://dafamilylawyers.com.au/",
+                  "title": "Award Winning Family & Divorce Lawyers Brisbane | DA ...",
+                  "text": "Award Winning Family & Divorce Lawyers Brisbane | DA Family Lawyers Lisa Foley Neal Wood Kate Palmer Erin Cunningham Sharni Embrey..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Shortlist of Reputable Family Law Firms",
+              "text": null,
+              "markdown": "### Shortlist of Reputable Family Law Firms",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_table_element",
+              "position": "left",
+              "markdown": "| Firm Name | Location / Service Area | Key Reasons to Consider |\n|---|---|---|\n| **Campbells Legal Services** | Upper Mount Gravatt (Serving Mount Gravatt, Sunnybank, Wishart, etc.) | Family-run practice operating since 1981; you speak directly to the solicitor handling your matter rather than a case manager; strong local reputation for personal service and property/family guidance. |\n| **Peter G. Williams & Associates** | Upper Mount Gravatt (Logan Rd) | Established boutique firm active since 1992 offering tailored strategies for individual and family law needs with deep local experience on the Southside. |\n| **Phillips Family Law** | Brisbane CBD (Serves Southside / Queensland-wide) | Consistently rated as a **First Tier Family & Divorce Law Firm** in Doyles Guide; nationally recognized for complex property, parenting, and prenuptial agreements. |\n| **Michael Lynch Family Lawyers** | Brisbane CBD (Serves Southside clients) | Offers **fixed-price initial consultations** for cost clarity, deep specialization in divorce, mediation, and litigation support with a compassionate focus. |\n| **DA Family Lawyers** | Brisbane (Serves Southside clients) | Dedicated boutique family law firm recognized for experienced accredited specialists handling complex parenting and property settlements. |",
+              "table": {
+                "table_header": [
+                  "Firm Name",
+                  "Location / Service Area",
+                  "Key Reasons to Consider"
+                ],
+                "table_content": [
+                  [
+                    "Campbells Legal Services",
+                    "Upper Mount Gravatt (Serving Mount Gravatt, Sunnybank, Wishart, etc.)",
+                    "Family-run practice operating since 1981; you speak directly to the solicitor handling your matter rather than a case manager; strong local reputation for personal service and property/family guidance."
+                  ],
+                  [
+                    "Peter G. Williams & Associates",
+                    "Upper Mount Gravatt (Logan Rd)",
+                    "Established boutique firm active since 1992 offering tailored strategies for individual and family law needs with deep local experience on the Southside."
+                  ],
+                  [
+                    "Phillips Family Law",
+                    "Brisbane CBD (Serves Southside / Queensland-wide)",
+                    "Consistently rated as a First Tier Family & Divorce Law Firm in Doyles Guide; nationally recognized for complex property, parenting, and prenuptial agreements."
+                  ],
+                  [
+                    "Michael Lynch Family Lawyers",
+                    "Brisbane CBD (Serves Southside clients)",
+                    "Offers fixed-price initial consultations for cost clarity, deep specialization in divorce, mediation, and litigation support with a compassionate focus."
+                  ],
+                  [
+                    "DA Family Lawyers",
+                    "Brisbane (Serves Southside clients)",
+                    "Dedicated boutique family law firm recognized for experienced accredited specialists handling complex parenting and property settlements."
+                  ]
+                ]
+              }
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Why Choose Local vs. Central Brisbane Specialists?",
+              "text": "Local Southside Boutiques (e.g., Campbells Legal, Peter G. Williams ): Best if you prefer face-to-face meetings close to home in Upper Mount Gravatt or Sunnybank, direct access to the actual solicitor working on your file, and transparent or community-oriented fee structures. Local Southside Boutiques (e.g., Campbells Legal Campbells Legal , Peter G. Williams Peter G. Williams Central Specialists (e.g., Phillips Family Law, Michael Lynch, DA Family Lawyers ): Best for highly contested, multi-jurisdictional, or complex corporate/trust asset-splitting cases where specialized Senior Counsel or First-Tier Doyles-ranked teams are required. Central Specialists (e.g., Phillips Family Law Phillips Family Law , Michael Lynch Michael Lynch , DA Family Lawyers DA Family Lawyers",
+              "markdown": "- **Local Southside Boutiques (e.g., Campbells Legal, Peter G. Williams):** Best if you prefer face-to-face meetings close to home in Upper Mount Gravatt or Sunnybank, direct access to the actual solicitor working on your file, and transparent or community-oriented fee structures.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4TVRsNE1ub3lPV00YCg)[[2]](https://www.google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEdSM00yNW9NZxgK)\n- **Central Specialists (e.g., Phillips Family Law, Michael Lynch, DA Family Lawyers):** Best for highly contested, multi-jurisdictional, or complex corporate/trust asset-splitting cases where specialized Senior Counsel or First-Tier Doyles-ranked teams are required.[[1]](https://www.michaellynchfamilylawyers.com.au/)[[2]](https://www.phillipsfamilylaw.com.au/)[[3]](https://dafamilylawyers.com.au/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4TVRsNE1ub3lPV00YCg",
+                  "title": "Campbells Legal Services",
+                  "text": "6b/46 Mount Gravatt Capalaba Rd, Upper Mount Gravatt QLD 4122 · Campbells Legal is a family-run law firm in Upper Mount Gravatt, o..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEdSM00yNW9NZxgK",
+                  "title": "Peter G Williams & Associates Solicitors & Notary",
+                  "text": "Ownit Chambers, Shop 1/1933 Logan Rd, Upper Mount Gravatt QLD 4122 · Peter G. Williams & Associates Solicitors & Notary is a bouti..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Michael Lynch Family Lawyers",
+                  "domain": "www.michaellynchfamilylawyers.com.au",
+                  "url": "https://www.michaellynchfamilylawyers.com.au/",
+                  "title": "Michael Lynch Family Lawyers: Family Lawyers Brisbane",
+                  "text": "At Michael Lynch Family Lawyers Brisbane, we approach each family law matter … calling (07) 3221 4300."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Phillips Family Law",
+                  "domain": "www.phillipsfamilylaw.com.au",
+                  "url": "https://www.phillipsfamilylaw.com.au/",
+                  "title": "Phillips Family Law: Award Winning Family Lawyers Brisbane",
+                  "text": "Phillips Family Law is proud to be recognised as a Leading Queensland and Australian Law Firm … each year since 2015. Family & Divorce Law Firm Brisbane, Queenslan..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Da Family Lawyers",
+                  "domain": "dafamilylawyers.com.au",
+                  "url": "https://dafamilylawyers.com.au/",
+                  "title": "Award Winning Family & Divorce Lawyers Brisbane | DA ...",
+                  "text": "Award Winning Family & Divorce Lawyers Brisbane | DA Family Lawyers Lisa Foley Neal Wood Kate Palmer Erin Cunningham Sharni Embrey Michaela Jewell Skye Nicoll"
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you'd like to narrow this down, let me know:",
+              "markdown": "If you'd like to narrow this down, let me know:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Are you dealing with a property settlement, parenting/custody arrangement, or divorce ? Do you prefer a local Southside office you can visit easily, or are you open to CBD/virtual firms ?",
+              "markdown": "- Are you dealing with a **property settlement**, **parenting/custody arrangement** , or **divorce**?\n- Do you prefer a **local Southside office** you can visit easily, or are you open to **CBD/virtual firms**?",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Phillips Family Law",
+              "domain": "www.phillipsfamilylaw.com.au",
+              "url": "https://www.phillipsfamilylaw.com.au/",
+              "title": "Phillips Family Law: Award Winning Family Lawyers Brisbane",
+              "text": "Phillips Family Law is proud to be recognised as a Leading Queensland and Australian Law Firm … each year since 2015. Family & Divorce Law Firm Brisbane, Queenslan..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Michael Lynch Family Lawyers",
+              "domain": "www.michaellynchfamilylawyers.com.au",
+              "url": "https://www.michaellynchfamilylawyers.com.au/",
+              "title": "Michael Lynch Family Lawyers: Family Lawyers Brisbane",
+              "text": "At Michael Lynch Family Lawyers Brisbane, we approach each family law matter … calling (07) 3221 4300."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Da Family Lawyers",
+              "domain": "dafamilylawyers.com.au",
+              "url": "https://dafamilylawyers.com.au/",
+              "title": "Award Winning Family & Divorce Lawyers Brisbane | DA ...",
+              "text": "Award Winning Family & Divorce Lawyers Brisbane | DA Family Lawyers Lisa Foley Neal Wood Kate Palmer Erin Cunningham Sharni Embrey Michaela Jewell Skye Nicoll"
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

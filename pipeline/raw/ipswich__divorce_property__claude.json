@@ -1,0 +1,344 @@
+{
+  "slug": "ipswich",
+  "pk": "divorce_property",
+  "plat": "claude",
+  "text": "I am going through a separation and complex property settlement in Ipswich. Which family law firms have the strongest track record for property division and binding financial agreements?",
+  "loc": 9060853,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\ipswich__divorce_property__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:23:45.362Z",
+  "cost": 0.05713,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 9075,
+      "output_tokens": 1287,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.05653,
+      "datetime": "2026-10-23 05:23:41 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "I'm sorry to hear you're going through a separation — it's a stressful time, and having the right legal support makes a big difference. Here is a roundup of some of the strongest family law firms in Ipswich with a focus on property settlement and binding financial agreements (BFAs):\n\n---\n\n### 1. 🏆 **Best Wilson Buckley Family Law**\nA well-known specialist family law firm with a strong Ipswich presence. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They have a deep understanding of family law and financial settlements, helping clients navigate property settlement and agreements confidently.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Ipswich",
+                  "url": "https://bwbfamilylaw.com.au/lps/ipswich-family-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They assist from mediation through to the court process with parenting disputes, financial settlements, and more, with tailored solutions.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Ipswich",
+                  "url": "https://bwbfamilylaw.com.au/lps/ipswich-family-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 2. **VM Family Law**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "VM Family Law serves Ipswich, Springfield, Toowoomba, and Gold Coast families.",
+              "annotations": [
+                {
+                  "title": "Best Family Lawyers Ipswich & Greater Springfield",
+                  "url": "https://www.vmfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They advise and represent clients in property settlements, including alternate dispute resolution, entitlements, arbitration, consent orders, and spousal maintenance.",
+              "annotations": [
+                {
+                  "title": "Best Family Lawyers Ipswich & Greater Springfield",
+                  "url": "https://www.vmfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are also ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "recognised for excellence in family law.",
+              "annotations": [
+                {
+                  "title": "Best Family Lawyers Ipswich & Greater Springfield",
+                  "url": "https://www.vmfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. **Walker Pender Lawyers**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Walker Pender has a proven record of achieving positive outcomes from complex property settlements to sensitive parenting cases.",
+              "annotations": [
+                {
+                  "title": "Best Family Lawyers Ipswich",
+                  "url": "https://walkerpender.com.au/family-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their family lawyers assist with property settlement, financial agreements and prenups, divorce and separation, and more, with an Ipswich office at 28 Nicholas Street.",
+              "annotations": [
+                {
+                  "title": "Best Family Lawyers Ipswich",
+                  "url": "https://walkerpender.com.au/family-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 4. **Ryder Lawyers**\nA good option if you want commercially-minded negotiators. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "As general practice lawyers in Ipswich, they bring strong commercial negotiation skills to every family separation matter, using their knowledge of property law, estate planning, family trusts, and superannuation to help negotiate the best property settlement.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Ipswich Qld - Ryder Lawyers",
+                  "url": "https://ryderlawyers.com.au/family-lawyers-ipswich-qld/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They focus on negotiated settlements out of court and can help parties reach quick resolutions where they cooperate.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Ipswich Qld - Ryder Lawyers",
+                  "url": "https://ryderlawyers.com.au/family-lawyers-ipswich-qld/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 5. **Keane Legal**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "With offices in Brookwater and Ipswich QLD, Keane Legal is conveniently positioned to provide family law services relating to property settlement and division of property to those in the Ipswich and Greater Springfield regions.",
+              "annotations": [
+                {
+                  "title": "Divorce & Family Lawyers in Ipswich",
+                  "url": "https://www.keanelegal.com.au/child-custody-lawyers-in-ipswich-qld",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their team of family lawyers practices exclusively in family law.",
+              "annotations": [
+                {
+                  "title": "Divorce & Family Lawyers in Ipswich",
+                  "url": "https://www.keanelegal.com.au/child-custody-lawyers-in-ipswich-qld",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 6. **DB Lawyers**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "DB Lawyers specialises in family law, including divorce, children's matters, and property settlements, and is a dynamic and progressive Ipswich-based firm.",
+              "annotations": [
+                {
+                  "title": "Ipswich Solicitors",
+                  "url": "https://dblawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They specifically handle financial agreements for de-facto and married relationships.",
+              "annotations": [
+                {
+                  "title": "Ipswich Solicitors",
+                  "url": "https://dblawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 7. **Richard Zande and Associates**\nA long-standing Ipswich firm with strong community reviews. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Richard Zande and Associates brings over 60 years of established practice to family law matters, offering personalised guidance through divorce proceedings, custody arrangements, and property settlements.",
+              "annotations": [
+                {
+                  "title": "Compare 6 Family Lawyers in Ipswich, QLD",
+                  "url": "https://lawconnect.com/en-au/find/family-law/qld/ipswich-4305",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They hold a 4.6-star rating from 89 recommendations.",
+              "annotations": [
+                {
+                  "title": "Compare 6 Family Lawyers in Ipswich, QLD",
+                  "url": "https://lawconnect.com/en-au/find/family-law/qld/ipswich-4305",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 8. **McNamara Law**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "McNamara Law is a respected regional firm in Ipswich and Springfield Central, Queensland, with nearly a century of experience, and a team of over 30 experts providing personalised legal advice across various areas.",
+              "annotations": [
+                {
+                  "title": "Compare 6 Family Lawyers in Ipswich, QLD",
+                  "url": "https://lawconnect.com/en-au/find/family-law/qld/ipswich-4305",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 💡 Tips for Choosing the Right Firm:\n- **Specialist vs. General Practice:** Firms like Best Wilson Buckley, VM Family Law, and Keane Legal focus exclusively on family law, which can be advantageous for complex matters.\n- **BFAs specifically:** DB Lawyers and Walker Pender explicitly list financial agreements as a core service.\n- **Complex asset pools:** If your settlement involves trusts, superannuation, or business assets, Ryder Lawyers' commercial background may be particularly valuable.\n- **Initial consultations:** Most of these firms offer an initial consultation — use it to gauge their experience with cases similar to yours.\n- **Check reviews:** ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Local family law firms in Ipswich are rated 4.7/5 across 818 reviews on comparison platforms",
+              "annotations": [
+                {
+                  "title": "Compare 6 Family Lawyers in Ipswich, QLD",
+                  "url": "https://lawconnect.com/en-au/find/family-law/qld/ipswich-4305",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", so checking verified client reviews is a great starting point.\n\nWould you like more detail on any of these firms, or guidance on what to look for in a property settlement lawyer?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "best family law firms property settlement Ipswich Queensland",
+        "binding financial agreements property division lawyers Ipswich QLD"
+      ]
+    }
+  ]
+}

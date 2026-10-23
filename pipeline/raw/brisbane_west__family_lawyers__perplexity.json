@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane_west",
+  "pk": "family_lawyers",
+  "plat": "perplexity",
+  "text": "Who are the best family lawyers in Brisbane Western Suburbs (Indooroopilly & Centenary)? Give me a shortlist of reputable family law firms with reasons.",
+  "loc": 9192539,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_west__family_lawyers__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:26:28.226Z",
+  "cost": 0.006236,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 41,
+      "output_tokens": 595,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005636,
+      "datetime": "2026-10-23 05:26:24 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For **Indooroopilly and Brisbane’s western suburbs**, the strongest shortlist is:\n\n- **Littles Family Lawyers — Indooroopilly:** A boutique firm dedicated exclusively to family law, with services covering separation, parenting, property settlements, spousal maintenance, domestic violence and mediation. Its Indooroopilly office has onsite parking and public-transport access, making it a practical local option.[2][7]\n- **Melrose Keys Lawyers — Kenmore:** A nearby western-suburbs practice serving Kenmore, Indooroopilly and surrounding areas. It reports around 30 years of professional experience, a 4.9-star average from more than 50 Google reviews, and recognition in the 2025–26 family-law awards.[1]\n- **Stewart Family Law — Brisbane CBD:** A particularly strong choice for complex or high-conflict matters. The firm has Queensland Law Society Accredited Family Law Specialists, more than 40 years of combined experience, and Doyle’s Guide recognition for 2024–26.[3][5]\n- **DA Family Lawyers — Brisbane:** Worth considering for parenting disputes, complex property matters and cases requiring a structured pathway from negotiation through mediation or litigation. Managing Director Lisa Foley received 2026 Doyle’s Guide recognition for parenting, complex property and general family law.[6]\n- **Hartley Family Law — Brisbane:** A specialist family-law firm with strong independent recognition: it is listed as a Brisbane Tier 1 family-law firm by Best Law Firms and as a Doyle’s Guide recommended firm for 2026.[5][8]\n- **HopgoodGanim — Brisbane:** A larger, full-service firm suited to financially complex, high-value or commercially connected family-law matters. It is ranked First Tier by Doyle’s Guide, Tier 1 by Best Law Firms, and has lawyers recognised by Best Lawyers in family law and mediation.[5][8][10]\n\n## Best fit by situation\n\n| Situation | Shortlist |\n|---|---|\n| Want a genuinely local Indooroopilly office | Littles Family Lawyers |\n| Prefer a western-suburbs firm | Melrose Keys |\n| Complex parenting or property dispute | Stewart, DA Family Lawyers |\n| High-value assets, business interests or complex finances | HopgoodGanim, Hartley, Stewart |\n| Prefer a smaller specialist practice | Littles, Melrose Keys, Hartley |\n\n**Practical recommendation:** Start with **Littles** and **Melrose Keys** for convenient local consultations, then obtain a comparison quote from **Stewart** or **DA Family Lawyers** if the matter involves disputed parenting arrangements, family violence, relocation, business assets or substantial property. Rankings and online reviews are useful screening tools, but ask each firm about the specific solicitor who will handle the case, likely legal fees, communication arrangements, and whether they recommend negotiation, mediation or court proceedings.",
+              "annotations": [
+                {
+                  "title": "Melrose Keys Lawyers - Brisbane Family and Estate Lawyers",
+                  "url": "https://mk-law.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The Best 12 Family Lawyers In Brisbane (Updated 2026) | ⚖️ ...",
+                  "url": "https://familylawyerfinder.com/au/best-family-lawyers-brisbane-qld-4000/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Stewart Family Law: Family Lawyers Brisbane",
+                  "url": "https://stewartfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "10 BEST Family Lawyers in Brisbane Western Suburbs QLD",
+                  "url": "https://www.localsearch.com.au/find/family-lawyers/brisbane-western-suburbs-qld",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Leading Family & Divorce Law Firms - Brisbane, 2026 - Doyle's Guide",
+                  "url": "https://doylesguide.com/rankings/family-divorce-law-firms-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Award Winning Family & Divorce Lawyers Brisbane | DA Family ...",
+                  "url": "https://dafamilylawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Littles Family Lawyers",
+                  "url": "https://finchly.com.au/l/littles-family-lawyers",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Brisbane, Family Law Firms",
+                  "url": "https://www.bestlawfirms.com/australia/family-law/brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Leading Family & Divorce Law Firms – Brisbane, 2026",
+                  "url": "https://doylesguide.com/leading-family-divorce-law-firms-brisbane-2026/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Lawyers in Australia for Family Law",
+                  "url": "https://www.bestlawyers.com/australia/family-law",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

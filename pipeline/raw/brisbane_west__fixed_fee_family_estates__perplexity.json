@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane_west",
+  "pk": "fixed_fee_family_estates",
+  "plat": "perplexity",
+  "text": "Which boutique law firms in Brisbane Western Suburbs (Indooroopilly & Centenary) offer free initial consultations, fixed-fee wills, or deferred-fee options for family law and wills and estates?",
+  "loc": 9192539,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_west__fixed_fee_family_estates__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:27:43.892Z",
+  "cost": 0.006278,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 51,
+      "output_tokens": 627,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005678,
+      "datetime": "2026-10-23 05:27:39 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "The clearest matches for **Indooroopilly and Brisbane’s western suburbs** are:\n\n- **Littles Family Lawyers — Indooroopilly:** A boutique family-law firm offering a one-hour initial consultation for a reduced **$440 fee**. The source does not indicate that the consultation is free or that deferred fees are available.[1]\n- **Nicholas Lawyers — Brisbane:** A boutique practice offering **fixed-fee packages for wills, enduring powers of attorney and probate**. Confirm whether appointments are available in Indooroopilly or the Centenary area.[10]\n\nOther Brisbane firms offering relevant fee arrangements—though not clearly located in Indooroopilly or the Centenary suburbs—include:\n\n- **Nurture Law:** Offers a **free initial chat**, upfront/fixed-fee pricing, and wills and estate-planning packages. It describes itself as having the caring approach of a boutique practice.[7]\n- **The Estate Lawyers:** Provides a **free, obligation-free initial discussion**; offers fixed fees for estate administration and will/estate disputes; and, in approved cases, accepts **deferred payment until an inheritance is received**, with fees capped at the amount recovered.[2]\n- **O’Connor, Ruddy & Garrett:** A boutique Brisbane wills-and-estates practice offering a **free initial consultation**.[4]\n- **Direct Lawyers:** Offers a **free 10-minute discovery call**, fixed fees where appropriate, fixed-fee estate-planning packages, and mobile appointments across Brisbane.[8]\n- **Genuine Legal:** Offers one **free initial family-law consultation in Queensland**, fixed-fee quotes, and interest-free payment plans. Its Brisbane office is in the CBD rather than the western suburbs.[5]\n- **Armstrong Legal:** Offers an obligation-free initial consultation for contested-will matters and may provide **no-win-no-fee or deferred-fee arrangements**, subject to an individual assessment. It is not identified as a western-suburbs boutique firm.[3]\n\n### Best shortlist by need\n\n| Need | Most relevant options |\n|---|---|\n| Family law near Indooroopilly | Littles Family Lawyers — local, boutique, but initial consultation is reduced-fee rather than free[1] |\n| Free family-law consultation | Genuine Legal — Queensland consultation offer; Brisbane office is in the CBD[5] |\n| Fixed-fee wills and estate planning | Nicholas Lawyers, Nurture Law, Direct Lawyers[7][8][10] |\n| Free wills-and-estates discussion | The Estate Lawyers, O’Connor Ruddy & Garrett, Nurture Law, Direct Lawyers[2][4][7][8] |\n| Deferred fees for estate disputes | The Estate Lawyers; Armstrong Legal on a case-by-case basis[2][3] |\n\nBefore booking, ask whether the advertised arrangement applies to **new clients, the specific matter type, and your suburb**, and whether court work, independent legal advice, searches, filing fees or barrister costs are excluded.",
+              "annotations": [
+                {
+                  "title": "About 1 — Littles Family Lawyers",
+                  "url": "https://www.littlesfl.com.au/about-us",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The Estate Lawyers",
+                  "url": "https://theestatelawyers.com.au/home",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Provision Law Firm Brisbane",
+                  "url": "https://www.armstronglegal.com.au/pages/cmcw-family-provision-law-firm-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills and Estate Lawyers Brisbane | Estate Litigation ...",
+                  "url": "https://orglaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Genuine Legal",
+                  "url": "https://genuinelegal.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills and Estates Lawyers Queensland",
+                  "url": "https://www.gotocourt.com.au/qld/wills-and-estates",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Nurture Law: Wills and Estate Lawyers Brisbane - Estate ...",
+                  "url": "https://nurturelaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Not-for-Profit Lawyers Brisbane & Charity Law",
+                  "url": "https://www.directlawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Wills and Estate Planning in Brisbane | Bark Australia",
+                  "url": "https://www.bark.com/en/au/wills-and-estate-planning/queensland/brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estate Planning Brisbane | Nicholas Lawyers",
+                  "url": "https://www.nicholaslawyers.com.au/brisbane/wills-and-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

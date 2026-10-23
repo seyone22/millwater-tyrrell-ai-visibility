@@ -1,0 +1,315 @@
+{
+  "slug": "brisbane",
+  "pk": "family_lawyers",
+  "plat": "claude",
+  "text": "Who are the best family lawyers in Brisbane? Give me a shortlist of reputable family law firms with reasons.",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane__family_lawyers__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:25:44.565Z",
+  "cost": 0.062542,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10289,
+      "output_tokens": 1405,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.061942,
+      "datetime": "2026-10-23 05:25:40 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a shortlist of some of the most reputable family law firms in Brisbane, based on industry rankings from Doyle's Guide, Best Lawyers, and other recognized sources:\n\n---\n\n### 🏆 1. **Phillips Family Law**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Phillips Family Law is a First Tier Family & Divorce Law Firm in Brisbane, Queensland, as ranked by the 2026 Doyle's Guide.",
+              "annotations": [
+                {
+                  "title": "Award Winning Family Lawyers Brisbane",
+                  "url": "https://www.phillipsfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Under the stewardship of Tony Phillips, one of Queensland's most experienced and highly respected Family Law Specialists, along with leading family lawyers Fiona Caulley and Olivia Phillips, the firm has helped thousands of people navigate their circumstances.",
+              "annotations": [
+                {
+                  "title": "Award Winning Family Lawyers Brisbane",
+                  "url": "https://www.phillipsfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Tony Phillips and Fiona Caulley have both been named Best Family Lawyer by Best Lawyers 2024.",
+              "annotations": [
+                {
+                  "title": "Award Winning Family Lawyers Brisbane",
+                  "url": "https://www.phillipsfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Award Winning Family Lawyers Brisbane",
+                  "url": "https://www.phillipsfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them:** Top-tier rankings, multiple accredited specialists, and a strong reputation for handling complex matters efficiently.\n\n---\n\n### 🏆 2. **Barry Nilsson**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Barry Nilsson is ranked as a First Tier Family & Divorce Law Firm in Brisbane by Doyle's Guide 2024, placing it among the very best firms in the Queensland legal market.",
+              "annotations": [
+                {
+                  "title": "Leading Family & Divorce Law Firms - Brisbane, 2024 - Doyle's Guide",
+                  "url": "https://doylesguide.com/leading-family-divorce-law-firms-brisbane-2024/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Barry Nilsson is a well-established national law firm founded in 1963 with around 300 people in their team.",
+              "annotations": [
+                {
+                  "title": "The 10 best Family Lawyers in Brisbane, Australia (2026)",
+                  "url": "https://lawzana.com/family-lawyers/brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them:** A long-standing, large firm with deep resources, broad expertise, and multiple lawyers individually recognized by Doyle's Guide.\n\n---\n\n### 🏆 3. **HopgoodGanim**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "HopgoodGanim is also ranked as a First Tier Family & Divorce Law Firm in Brisbane by Doyle's Guide 2024.",
+              "annotations": [
+                {
+                  "title": "Leading Family & Divorce Law Firms - Brisbane, 2024 - Doyle's Guide",
+                  "url": "https://doylesguide.com/leading-family-divorce-law-firms-brisbane-2024/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Lawyers such as Geoff Wilson and Alison Ross from the firm are individually listed among Brisbane's leading family lawyers.\n\n**Why choose them:** A full-service firm with a strong family law practice, well-regarded for handling complex property and parenting matters.\n\n---\n\n### ⭐ 4. **Stewart Family Law**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Stewart Family Law is a Doyle's Guide Recommended Family & Divorce Law Firm in Brisbane for 2024, 2025, and 2026.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Brisbane",
+                  "url": "https://stewartfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Judy Stewart is Best Lawyers' 2027 Lawyer of the Year for Family Law in Brisbane, and both Judy and Temika Slee are Queensland Law Society Accredited Specialists in family law.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Brisbane",
+                  "url": "https://stewartfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them:** A boutique CBD firm with award-winning lawyers, ideal for complex and sensitive family law matters.\n\n---\n\n### ⭐ 5. **Damien Greer Lawyers**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Damien Greer Lawyers has a reputation for excellence in family law and is one of Queensland's leading specialist family law firms, recommended by Doyle's Guide to the Legal Profession.",
+              "annotations": [
+                {
+                  "title": "The 10 best Family Lawyers in Brisbane, Australia (2026)",
+                  "url": "https://lawzana.com/family-lawyers/brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Damien Greer himself is listed as a Preeminent family lawyer in Brisbane by Doyle's Guide.",
+              "annotations": [
+                {
+                  "title": "Leading Family & Divorce Lawyers - Brisbane, 2024 - Doyle's Guide",
+                  "url": "https://doylesguide.com/leading-family-divorce-lawyers-brisbane-2024/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them:** A specialist family law firm (founded 2012) with a focused, dedicated team and strong peer recognition.\n\n---\n\n### ⭐ 6. **DA Family Lawyers**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "DA Family Lawyers is ranked as a Third Tier firm by Doyle's Guide 2024",
+              "annotations": [
+                {
+                  "title": "Leading Family & Divorce Law Firms - Brisbane, 2024 - Doyle's Guide",
+                  "url": "https://doylesguide.com/leading-family-divorce-law-firms-brisbane-2024/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", with ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Deborah Awyzio and Lisa Foley individually listed as leading Brisbane family lawyers.",
+              "annotations": [
+                {
+                  "title": "Leading Family & Divorce Lawyers - Brisbane, 2024 - Doyle's Guide",
+                  "url": "https://doylesguide.com/leading-family-divorce-lawyers-brisbane-2024/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Kirstie Day of Day Family Law and Lisa Foley of DA Family Lawyers are both ranked as Preeminent in parenting and children's matters.",
+              "annotations": [
+                {
+                  "title": "Leading Parenting & Children's Matters Lawyers - Brisbane, 2024 - Doyle's Guide",
+                  "url": "https://doylesguide.com/leading-parenting-childrens-matters-lawyers-brisbane-2024/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them:** Particularly strong in parenting and children's matters, with individually recognized specialists.\n\n---\n\n### ⭐ 7. **Cooper Grace Ward**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Cooper Grace Ward is listed as a Recommended Family & Divorce Law Firm by Doyle's Guide 2024.",
+              "annotations": [
+                {
+                  "title": "Leading Family & Divorce Law Firms - Brisbane, 2024 - Doyle's Guide",
+                  "url": "https://doylesguide.com/leading-family-divorce-law-firms-brisbane-2024/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Justine Woods and Leeann Murphy from Cooper Grace Ward are both recognized by Best Lawyers in the practice area of Family Law in Brisbane.",
+              "annotations": [
+                {
+                  "title": "Best Family Lawyers in Australia",
+                  "url": "https://www.bestlawyers.com/australia/family-law",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them:** A well-rounded full-service firm with recognized family law practitioners and a strong reputation across Queensland.\n\n---\n\n### 💡 Tips for Choosing the Right Family Lawyer:\n- **Look for accreditation:** Queensland Law Society Accredited Specialists have demonstrated a higher level of expertise.\n- **Check rankings:** Doyle's Guide and Best Lawyers are peer-reviewed and considered reliable industry benchmarks.\n- **Consider the firm's size:** Boutique firms may offer more personal attention, while larger firms have broader resources.\n- **Book a consultation:** Most firms offer an initial consultation to assess fit.\n\n> ⚠️ *This list is for informational purposes only and does not constitute legal advice. Always do your own research and consult directly with a lawyer to find the best fit for your specific situation.*",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "best family lawyers Brisbane 2024",
+        "top rated family law firms Brisbane reputable"
+      ]
+    }
+  ]
+}

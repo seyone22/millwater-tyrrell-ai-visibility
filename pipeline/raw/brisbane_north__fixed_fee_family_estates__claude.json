@@ -1,0 +1,310 @@
+{
+  "slug": "brisbane_north",
+  "pk": "fixed_fee_family_estates",
+  "plat": "claude",
+  "text": "Which boutique law firms in Brisbane Northside (Chermside & North Lakes) offer free initial consultations, fixed-fee wills, or deferred-fee options for family law and wills and estates?",
+  "loc": 9060852,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_north__fixed_fee_family_estates__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:31:08.132Z",
+  "cost": 0.115795,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 24780,
+      "output_tokens": 2057,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.115195,
+      "datetime": "2026-10-23 05:31:04 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a comprehensive overview of boutique and smaller law firms serving Brisbane Northside — particularly the **Chermside** and **North Lakes** corridors — that offer **free initial consultations**, **fixed-fee wills**, or **deferred/flexible fee options** for family law and wills & estates matters:\n\n---\n\n## 🏛️ Brisbane Northside Law Firms — Fee-Friendly Options\n\n---\n\n### 1. 🔵 Northside Family Law Centre *(Chermside)*\n**Best for: Family Law & Wills/Estates | Free Initial Phone Consultation**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Northside Family Law Centre is a dedicated legal firm of Brisbane family lawyers located at Chermside (and Sandgate) on Brisbane's Northside, covering all aspects of family law and wills & estate planning.",
+              "annotations": [
+                {
+                  "title": "Experienced Brisbane Family Lawyers",
+                  "url": "https://northsidefamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Fee Options:**\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They offer a **free 20-minute phone consultation** — a no-obligation service to discuss your matter and give you professional advice on your next steps.",
+              "annotations": [
+                {
+                  "title": "Services - Northside Family Law Centre",
+                  "url": "https://www.northsidefamilylaw.com.au/services/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They also offer a **1-hour initial consultation at a discounted rate** to discuss your matter in detail and provide experienced professional advice on how to proceed.",
+              "annotations": [
+                {
+                  "title": "Services - Northside Family Law Centre",
+                  "url": "https://www.northsidefamilylaw.com.au/services/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Services include:** ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Divorce, separation, defacto matters, consent orders, parenting arrangements, financial arrangements, family and domestic violence, child support, spousal maintenance, conveyancing, and Wills & Estates.",
+              "annotations": [
+                {
+                  "title": "Services - Northside Family Law Centre",
+                  "url": "https://www.northsidefamilylaw.com.au/services/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n📍 ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Located in the central location of Chermside, directly across from Westfield Chermside.",
+              "annotations": [
+                {
+                  "title": "Services - Northside Family Law Centre",
+                  "url": "https://www.northsidefamilylaw.com.au/services/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 2. 🟢 Kelly Lawyers *(Ascot — Serving Chermside & North Brisbane)*\n**Best for: Wills & Estates | Fixed-Fee Initial Consultation**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Kelly Lawyers is a boutique law firm in Ascot, with Wills and Estates lawyers serving Brisbane's Northside since 1984.",
+              "annotations": [
+                {
+                  "title": "Wills and Estates Brisbane Northside",
+                  "url": "https://kellylawyers.com.au/services/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They help individuals, families, and business owners across Ascot, Clayfield, Hamilton, Nundah, Banyo, Nudgee, Virginia, Kedron, Stafford, and **Chermside** with Wills and Testamentary Trusts, Enduring Powers of Attorney, Advance Health Directives, Probate and Estate Administration, and Estate Litigation.",
+              "annotations": [
+                {
+                  "title": "Wills and Estates Brisbane Northside",
+                  "url": "https://kellylawyers.com.au/services/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Fee Options:**\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They offer **fixed-fee initial consultations with no obligation to proceed**. In your consultation, they listen to your situation, understand your family and assets, and talk through whether a simple Will, a Testamentary Trust, or a more structured estate plan suits — and following the consultation, they provide a **detailed fee estimate in writing** before you decide whether to engage them.",
+              "annotations": [
+                {
+                  "title": "Wills and Estates Brisbane Northside",
+                  "url": "https://kellylawyers.com.au/services/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. 🟡 EBM Solicitors *(North Brisbane — Chermside Area)*\n**Best for: Wills, Family Law | Fixed Fees & Pensioner Concessions**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Established in 1979, EBM Solicitors is a significant player in North Brisbane's legal sector. They offer a wide range of services including property law, wills, family law, domestic violence matters, and motor vehicle licensing issues, with **fixed fees and concessions for pensioners**.",
+              "annotations": [
+                {
+                  "title": "Wills and Estates Lawyers in Chermside, QLD",
+                  "url": "https://lawconnect.com/en-au/find/wills-and-estates/qld/chermside-4032",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 4. 🟠 Lewis and McNamara Solicitors *(Chermside)*\n**Best for: Wills & Estates | Practical, Cost-Effective Approach**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Lewis and McNamara Solicitors provides comprehensive estate planning services, guiding Chermside residents through wills preparation and succession matters, and delivers compassionate counsel to families navigating complex inheritance issues, contested estate disputes, and probate proceedings.",
+              "annotations": [
+                {
+                  "title": "Wills and Estates Lawyers in Chermside, QLD",
+                  "url": "https://lawconnect.com/en-au/find/wills-and-estates/qld/chermside-4032",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their solicitors communicate estate planning concepts in plain English, and the firm emphasises **practical, cost-effective approaches** to protecting family assets and securing legacies for future generations throughout the Chermside community.",
+              "annotations": [
+                {
+                  "title": "Wills and Estates Lawyers in Chermside, QLD",
+                  "url": "https://lawconnect.com/en-au/find/wills-and-estates/qld/chermside-4032",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are rated **4.8 stars from 57 reviews** on LawConnect.\n\n---\n\n### 5. 🔴 Australian Family Lawyers *(Chermside — National Firm with Local Presence)*\n**Best for: Family Law | Free Initial Call**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Australian Family Lawyers offers a **free, confidential, no-obligation initial call** to understand your circumstances.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Chermside",
+                  "url": "https://www.australianfamilylawyers.com.au/cm-family-lawyers-chermside",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "You can set up a free, no-obligation phone consultation so their team can help you clarify the family law process and your initial options.",
+              "annotations": [
+                {
+                  "title": "Family Lawyer Chermside",
+                  "url": "https://www.australianfamilylawyers.com.au/cm-family-lawyer-chermside",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are a national award-winning family law firm with a presence serving Chermside clients.\n\n---\n\n### 6. 🟣 Pennisi Zia Lawyers *(Chermside)*\n**Best for: Family Law & Wills | Local Boutique Firm**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Pennisi Zia Lawyers is one of the two family law firms listed directly in Chermside, providing comprehensive assistance with divorce proceedings, parenting arrangements, and property settlements.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers in Chermside, QLD",
+                  "url": "https://lawconnect.com/en-au/find/family-law/qld/chermside-4032",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They hold a **4.3-star rating** from 21 recommendations and are a locally based boutique option.\n\n---\n\n### 7. 🔵 Vicca Law *(Aspley — North Brisbane)*\n**Best for: Wills & Estates | Affordable & Accessible**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Vicca Law, based in Aspley, North Brisbane, was established in 2021 to provide **high-quality, accessible, and affordable legal advice** for individuals and businesses. The firm excels in wills, estates, probate, and estate litigation, offering tailored solutions like testamentary trusts and enduring powers of attorney.",
+              "annotations": [
+                {
+                  "title": "Lawyers near Chermside West, QLD",
+                  "url": "https://lawconnect.com/en-au/find/lawyers/qld/chermside-west-4032",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 📋 Quick Comparison Table\n\n| Firm | Location | Family Law | Wills & Estates | Fee Offer |\n|---|---|---|---|---|\n| **Northside Family Law Centre** | Chermside | ✅ | ✅ | Free 20-min phone consult + discounted 1hr consult |\n| **Kelly Lawyers** | Ascot (serves Chermside) | ❌ | ✅ | Fixed-fee initial consult, written fee estimate |\n| **EBM Solicitors** | North Brisbane | ✅ | ✅ | Fixed fees + pensioner concessions |\n| **Lewis & McNamara** | Chermside | ✅ | ✅ | Cost-effective, plain English approach |\n| **Australian Family Lawyers** | Chermside (national) | ✅ | ❌ | Free initial call |\n| **Pennisi Zia Lawyers** | Chermside | ✅ | ✅ | Local boutique firm |\n| **Vicca Law** | Aspley | ❌ | ✅ | Affordable & accessible |\n\n---\n\n## ⚠️ Important Notes\n- **North Lakes specifically:** The search results did not return firms with a",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "boutique law firms Chermside Brisbane free initial consultation family law wills estates",
+        "boutique law firms North Lakes Brisbane free consultation fixed fee wills family law",
+        "boutique law firm North Lakes free consultation fixed fee wills family law Queensland",
+        "EBM Solicitors Chermside fixed fee wills family law free consultation"
+      ]
+    }
+  ]
+}

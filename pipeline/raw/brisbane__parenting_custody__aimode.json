@@ -1,0 +1,318 @@
+{
+  "slug": "brisbane",
+  "pk": "parenting_custody",
+  "plat": "aimode",
+  "text": "Which family lawyers in Brisbane are best for parenting arrangements, child custody disputes, and accredited family dispute resolution (mediation)?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane__parenting_custody__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:25:51.245Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which family lawyers in Brisbane are best for parenting arrangements, child custody disputes, and accredited family dispute resolution (mediation)?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000339,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20family%20lawyers%20in%20Brisbane%20are%20best%20for%20parenting%20arrangements%2C%20child%20custody%20disputes%2C%20and%20accredited%20family%20dispute%20resolution%20%28mediation%29%3F&udm=50&uule=w+CAIQIFISCbsg9lwEWpFrEcCE3vNaowIF&hl=en&gl=AU",
+      "datetime": "2026-10-23 05:25:46 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "When looking for top-tier family lawyers in Brisbane for **parenting arrangements, child custody disputes, and accredited Family Dispute Resolution (FDR)** , peer-reviewed legal directories like `Doyle's Guide` consistently highlight several standout firms and accredited specialists.[[1]](https://doylesguide.com/leading-family-divorce-lawyers-brisbane-2026/)[[2]](https://doylesguide.com/leading-parenting-childrens-matters-lawyers-brisbane-2026/)\n\nTop-rated firms and practitioners in Brisbane recognized for children's matters, complex custody disputes, and mediation include:\n\n### 1. Boutique & Specialized Family Law Firms\n\n\n\n---\n\n![](https://api.dataforseo.com/cdn/i/10230525-2877-0139-0000-ac5b9d5bdfd8:24)\nDay Family Law 4.8 (8)  \nFamily law attorney  \nOpen Level 3/193 N Quay  \nCall Directions Website Led by preeminent parenting specialist Kirstie Day, highly regarded for complex child welfare, custody, and care arrangement disputes.\n\n---\n\n![](https://api.dataforseo.com/cdn/i/10230525-2877-0139-0000-ac5b9d5bdfd8:25)\nPhillips Family Law 5.0 (33)  \nFamily law attorney  \nOpen 145 Ann St  \nCall Directions Website Recognized as a first-tier family law firm in Brisbane with preeminent and leading practitioners (such as Tony Phillips and Fiona Caulley) skilled in high-conflict parenting dynamics and child dispute resolution.\n\n---\n\n![](https://api.dataforseo.com/cdn/i/10230525-2877-0139-0000-ac5b9d5bdfd8:26)\nDamien Greer Lawyers 4.2 (21)  \nFamily law attorney  \nOpen 40/123 Eagle St  \nCall Directions Website Features multiple Queensland Law Society Accredited Specialists with deep expertise in family dispute resolution, mediation, and complex parenting proceedings.\n\n---\n\n![](https://api.dataforseo.com/cdn/i/10230525-2877-0139-0000-ac5b9d5bdfd8:27)\nBarry.Nilsson. Lawyers 3.9 (33)  \nLaw firm  \nOpen Level 14/345 Queen St  \nCall Directions Website Frequently ranked as a first-tier family law firm in Brisbane, housing preeminent practitioners experienced in sensitive and intricate children's matters.\n\n---\n\n![](https://api.dataforseo.com/cdn/i/10230525-2877-0139-0000-ac5b9d5bdfd8:28)\nDA Family Lawyers 4.7 (78)  \nFamily law attorney  \nOpen 8/193 N Quay  \nCall Directions Website Noted for leading practice areas in family law and dedicated expertise representing parents in care, custody, and alternative dispute resolution pathways.[[1]](https://doylesguide.com/leading-family-divorce-law-firms-brisbane-2025/)[[2]](https://doylesguide.com/leading-parenting-childrens-matters-lawyers-brisbane-2026/)[[3]](https://doylesguide.com/leading-family-divorce-lawyers-brisbane-2026/)[[4]](https://damiengreer.com.au/)\n\n### 2. Dedicated Mediation & FDR Services\n\nIf your primary goal is an out-of-court resolution via accredited Family Dispute Resolution (allowing you to obtain a Section 60I certificate if required), specialized mediation practices are often faster and more cost-effective than litigation:[[1]](https://www.myfamilymediation.com.au/)\n\n\n\n---\n\n![](https://api.dataforseo.com/cdn/i/10230525-2877-0139-0000-ac5b9d5bdfd8:29)\nMy Family Mediation Mediation service  \nOpen Corporate House Greenslopes, 138 Juliette St  \nCall Directions Website Specifically functions as a private Brisbane mediation service where practitioners are dually qualified as experienced family lawyers and Accredited Family Dispute Resolution Practitioners (FDRPs).[[1]](https://www.myfamilymediation.com.au/)\n\nTo help narrow down the best fit for your situation, could you share:\n\n- Whether you are looking to **mediate an initial agreement** or **litigate an urgent/disputed custody matter**?\n- If there are any safety concerns like **family violence or relocation risks** involved?",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "When looking for top-tier family lawyers in Brisbane for parenting arrangements, child custody disputes, and accredited Family Dispute Resolution (FDR), peer-reviewed legal directories like Doyle's Guide consistently highlight several standout firms and accredited specialists.",
+              "markdown": "When looking for top-tier family lawyers in Brisbane for **parenting arrangements, child custody disputes, and accredited Family Dispute Resolution (FDR)** , peer-reviewed legal directories like `Doyle's Guide` consistently highlight several standout firms and accredited specialists.[[1]](https://doylesguide.com/leading-family-divorce-lawyers-brisbane-2026/)[[2]](https://doylesguide.com/leading-parenting-childrens-matters-lawyers-brisbane-2026/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Doyle's Guide",
+                  "domain": "doylesguide.com",
+                  "url": "https://doylesguide.com/leading-family-divorce-lawyers-brisbane-2026/",
+                  "title": "Leading Family & Divorce Lawyers - Brisbane, 2026 - Doyle's Guide",
+                  "text": "26 Brisbane family and divorce solicitors including Simone Barbour, Kate Cherry, Sarah Cleeland, Hayley Cunningham, Thea Davies, K..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Doyle's Guide",
+                  "domain": "doylesguide.com",
+                  "url": "https://doylesguide.com/leading-parenting-childrens-matters-lawyers-brisbane-2026/",
+                  "title": "Leading Parenting & Children's Matters Lawyers - Doyle's Guide",
+                  "text": "The 2026 listing of leading Brisbane Parenting & Children's Matters Lawyers … in complex parenting/child custody issues and disput..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Top-rated firms and practitioners in Brisbane recognized for children's matters, complex custody disputes, and mediation include:",
+              "markdown": "Top-rated firms and practitioners in Brisbane recognized for children's matters, complex custody disputes, and mediation include:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "1. Boutique & Specialized Family Law Firms",
+              "text": "Day Family Law 4.8 (8) Family law attorney Open Level 3/193 N Quay Call Directions Website Led by preeminent parenting specialist Kirstie Day, highly regarded for complex child welfare, custody, and care arrangement disputes.",
+              "markdown": "---\n\n![](https://api.dataforseo.com/cdn/i/10230525-2877-0139-0000-ac5b9d5bdfd8:12)\nDay Family Law 4.8 (8)  \nFamily law attorney  \nOpen Level 3/193 N Quay  \nCall Directions Website Led by preeminent parenting specialist Kirstie Day, highly regarded for complex child welfare, custody, and care arrangement disputes.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/10230525-2877-0139-0000-ac5b9d5bdfd8:13"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Phillips Family Law 5.0 (33) Family law attorney Open 145 Ann St Call Directions Website Recognized as a first-tier family law firm in Brisbane with preeminent and leading practitioners (such as Tony Phillips and Fiona Caulley ) skilled in high-conflict parenting dynamics and child dispute resolution.",
+              "markdown": "---\n\n![](https://api.dataforseo.com/cdn/i/10230525-2877-0139-0000-ac5b9d5bdfd8:14)\nPhillips Family Law 5.0 (33)  \nFamily law attorney  \nOpen 145 Ann St  \nCall Directions Website Recognized as a first-tier family law firm in Brisbane with preeminent and leading practitioners (such as Tony Phillips and Fiona Caulley) skilled in high-conflict parenting dynamics and child dispute resolution.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/10230525-2877-0139-0000-ac5b9d5bdfd8:15"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Damien Greer Lawyers 4.2 (21) Family law attorney Open 40/123 Eagle St Call Directions Website Features multiple Queensland Law Society Accredited Specialists with deep expertise in family dispute resolution, mediation, and complex parenting proceedings.",
+              "markdown": "---\n\n![](https://api.dataforseo.com/cdn/i/10230525-2877-0139-0000-ac5b9d5bdfd8:16)\nDamien Greer Lawyers 4.2 (21)  \nFamily law attorney  \nOpen 40/123 Eagle St  \nCall Directions Website Features multiple Queensland Law Society Accredited Specialists with deep expertise in family dispute resolution, mediation, and complex parenting proceedings.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/10230525-2877-0139-0000-ac5b9d5bdfd8:17"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Barry.Nilsson. Lawyers 3.9 (33) Law firm Open Level 14/345 Queen St Call Directions Website Frequently ranked as a first-tier family law firm in Brisbane, housing preeminent practitioners experienced in sensitive and intricate children's matters.",
+              "markdown": "---\n\n![](https://api.dataforseo.com/cdn/i/10230525-2877-0139-0000-ac5b9d5bdfd8:18)\nBarry.Nilsson. Lawyers 3.9 (33)  \nLaw firm  \nOpen Level 14/345 Queen St  \nCall Directions Website Frequently ranked as a first-tier family law firm in Brisbane, housing preeminent practitioners experienced in sensitive and intricate children's matters.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/10230525-2877-0139-0000-ac5b9d5bdfd8:19"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "DA Family Lawyers 4.7 (78) Family law attorney Open 8/193 N Quay Call Directions Website Noted for leading practice areas in family law and dedicated expertise representing parents in care, custody, and alternative dispute resolution pathways.",
+              "markdown": "---\n\n![](https://api.dataforseo.com/cdn/i/10230525-2877-0139-0000-ac5b9d5bdfd8:20)\nDA Family Lawyers 4.7 (78)  \nFamily law attorney  \nOpen 8/193 N Quay  \nCall Directions Website Noted for leading practice areas in family law and dedicated expertise representing parents in care, custody, and alternative dispute resolution pathways.[[1]](https://doylesguide.com/leading-family-divorce-law-firms-brisbane-2025/)[[2]](https://doylesguide.com/leading-parenting-childrens-matters-lawyers-brisbane-2026/)[[3]](https://doylesguide.com/leading-family-divorce-lawyers-brisbane-2026/)[[4]](https://damiengreer.com.au/)",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/10230525-2877-0139-0000-ac5b9d5bdfd8:21"
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Doyle's Guide",
+                  "domain": "doylesguide.com",
+                  "url": "https://doylesguide.com/leading-family-divorce-law-firms-brisbane-2025/",
+                  "title": "Leading Family & Divorce Law Firms - Brisbane, 2025 - Doyle's Guide",
+                  "text": "First Tier: Barry Nilsson, HopgoodGanim, Phillips Family Law Second Tier: Mills Oakley Third Tier: DA Family Lawyers, Damien Greer..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Doyle's Guide",
+                  "domain": "doylesguide.com",
+                  "url": "https://doylesguide.com/leading-parenting-childrens-matters-lawyers-brisbane-2026/",
+                  "title": "Leading Parenting & Children's Matters Lawyers - Doyle's Guide",
+                  "text": "The 2026 listing of leading Brisbane Parenting & Children's Matters Lawyers … in complex parenting/child custody issues and disput..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Doyle's Guide",
+                  "domain": "doylesguide.com",
+                  "url": "https://doylesguide.com/leading-family-divorce-lawyers-brisbane-2026/",
+                  "title": "Leading Family & Divorce Lawyers - Brisbane, 2026 - Doyle's Guide",
+                  "text": "Leading: Fiona Caulley, Genevieve Dee, Brisbane family and divorce solicitors including Simone Barbour, Kate Cherry"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Damien Greer Lawyers",
+                  "domain": "damiengreer.com.au",
+                  "url": "https://damiengreer.com.au/",
+                  "title": "Brisbane’s Family Law Experts | Damien Greer Lawyers",
+                  "text": "Queensland Law Society Accredited Specialists. Services: Family law, property and financial settlements, international family law,"
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "2. Dedicated Mediation & FDR Services",
+              "text": "If your primary goal is an out-of-court resolution via accredited Family Dispute Resolution (allowing you to obtain a Section 60I certificate if required), specialized mediation practices are often faster and more cost-effective than litigation:",
+              "markdown": "If your primary goal is an out-of-court resolution via accredited Family Dispute Resolution (allowing you to obtain a Section 60I certificate if required), specialized mediation practices are often faster and more cost-effective than litigation:[[1]](https://www.myfamilymediation.com.au/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Brisbane Family Mediation",
+                  "domain": "www.myfamilymediation.com.au",
+                  "url": "https://www.myfamilymediation.com.au/",
+                  "title": "My Family Mediation: Brisbane Family Mediation",
+                  "text": "A private service for families seeking respectful, out-of-court solutions to parenting and property disputes — backed by over 25 y..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "My Family Mediation Mediation service Open Corporate House Greenslopes, 138 Juliette St Call Directions Website Specifically functions as a private Brisbane mediation service where practitioners are dually qualified as experienced family lawyers and Accredited Family Dispute Resolution Practitioners (FDRPs).",
+              "markdown": "---\n\n![](https://api.dataforseo.com/cdn/i/10230525-2877-0139-0000-ac5b9d5bdfd8:22)\nMy Family Mediation Mediation service  \nOpen Corporate House Greenslopes, 138 Juliette St  \nCall Directions Website Specifically functions as a private Brisbane mediation service where practitioners are dually qualified as experienced family lawyers and Accredited Family Dispute Resolution Practitioners (FDRPs).[[1]](https://www.myfamilymediation.com.au/)",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/10230525-2877-0139-0000-ac5b9d5bdfd8:23"
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Brisbane Family Mediation",
+                  "domain": "www.myfamilymediation.com.au",
+                  "url": "https://www.myfamilymediation.com.au/",
+                  "title": "My Family Mediation: Brisbane Family Mediation",
+                  "text": "A private service for families seeking respectful, out-of-court solutions to parenting and property disputes — backed by over 25 y..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "To help narrow down the best fit for your situation, could you share:",
+              "markdown": "To help narrow down the best fit for your situation, could you share:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Whether you are looking to mediate an initial agreement or litigate an urgent/disputed custody matter ? If there are any safety concerns like family violence or relocation risks involved?",
+              "markdown": "- Whether you are looking to **mediate an initial agreement** or **litigate an urgent/disputed custody matter**?\n- If there are any safety concerns like **family violence or relocation risks** involved?",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Doyle's Guide",
+              "domain": "doylesguide.com",
+              "url": "https://doylesguide.com/leading-family-divorce-lawyers-brisbane-2026/",
+              "title": "Leading Family & Divorce Lawyers - Brisbane, 2026 - Doyle's Guide",
+              "text": "Leading: Fiona Caulley, Genevieve Dee, Brisbane family and divorce solicitors including Simone Barbour, Kate Cherry"
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Doyle's Guide",
+              "domain": "doylesguide.com",
+              "url": "https://doylesguide.com/leading-family-divorce-law-firms-brisbane-2025/",
+              "title": "Leading Family & Divorce Law Firms - Brisbane, 2025 - Doyle's Guide",
+              "text": "First Tier: Barry Nilsson, HopgoodGanim, Phillips Family Law Second Tier: Mills Oakley Third Tier: DA Family Lawyers, Damien Greer Lawyers, Lander & Rogers"
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Damien Greer Lawyers",
+              "domain": "damiengreer.com.au",
+              "url": "https://damiengreer.com.au/",
+              "title": "Brisbane’s Family Law Experts | Damien Greer Lawyers",
+              "text": "Queensland Law Society Accredited Specialists. Services: Family law, property and financial settlements, international family law, divorce, children and parenting..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Best Wilson Buckley Family Law",
+              "domain": "bwbfamilylaw.com.au",
+              "url": "https://bwbfamilylaw.com.au/how-we-help/child-custody-lawyers-brisbane",
+              "title": "Child Custody Brisbane | Best Wilson Buckley Family Law",
+              "text": "Frequently asked questions about child custody in Brisbane * Does “custody” still exist as a legal term? Not officially. Courts now use terms like parental respons..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Waller Family Lawyers",
+              "domain": "www.wallerfamilylawyers.com.au",
+              "url": "https://www.wallerfamilylawyers.com.au/legal-services/child-custody/",
+              "title": "Parenting & Child Custody Agreements QLD - Brisbane Family Law",
+              "text": "Core Principles: Avoid involving children in conflict, explain separation impartially and early for stability, and tailor parenting plans to unique child needs. Me..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

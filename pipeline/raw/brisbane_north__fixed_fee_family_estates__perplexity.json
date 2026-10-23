@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane_north",
+  "pk": "fixed_fee_family_estates",
+  "plat": "perplexity",
+  "text": "Which boutique law firms in Brisbane Northside (Chermside & North Lakes) offer free initial consultations, fixed-fee wills, or deferred-fee options for family law and wills and estates?",
+  "loc": 9060852,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_north__fixed_fee_family_estates__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:30:26.853Z",
+  "cost": 0.006147,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 49,
+      "output_tokens": 498,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005547,
+      "datetime": "2026-10-23 05:30:22 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Several Brisbane northside boutique or specialist firms advertise one or more of the requested pricing options:\n\n| Firm | Location | Relevant offer |\n|---|---|---|\n| **Northside Family Law Centre** | Chermside and Sandgate | Free telephone meeting; the firm also handles family law, wills and estate planning. Its website separately advertises a free 20-minute appointment.[3][8] |\n| **Barton Family Lawyers** | Chermside; also serves North Lakes | Fixed fees for family-law services, including consent orders, plus a reduced-rate initial consultation.[4][10] |\n| **Bloom Law** | Brisbane Northside | A complimentary 15-minute call, or a 60-minute initial consultation for $440; fixed-fee family-law options are available. Eligible clients may use JustFund, with repayment deferred until settlement.[1] |\n| **Preston & Associates** | North Lakes | Fixed-fee wills and estate planning; a standard will starts from $880, with separate fixed-fee pricing for enduring powers of attorney and more complex wills.[2] |\n| **Koolik & Associates Lawyers** | North Lakes and Aspley | Free 15-minute discovery call and fixed-fee services covering family law, wills and estates, and conveyancing.[5] |\n| **R&G Law Group** | Brisbane, not Chermside/North Lakes | Free 15-minute appointments for Queensland residents regarding family law, wills and estates; wills start from $880, and payment plans are available for eligible matters.[9] |\n\n**Best local matches by need:**\n\n- **Free first contact:** Northside Family Law Centre, Bloom Law, or Koolik & Associates.[1][5][8]\n- **Fixed-fee family law:** Barton Family Lawyers or Bloom Law.[1][4]\n- **Fixed-fee wills:** Preston & Associates in North Lakes; R&G Law Group also publishes will prices but is outside the requested suburbs.[2][9]\n- **Deferred or staged payment:** Bloom Law’s JustFund arrangement is the clearest advertised deferred-fee option; R&G Law Group advertises payment plans rather than settlement-based deferral.[1][9]\n\nConfirm the current fee, eligibility criteria, and whether the consultation is legal advice or only an introductory call before booking.",
+              "annotations": [
+                {
+                  "title": "Bloom Law by Kiarah Grace Kelly",
+                  "url": "https://bloomlaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estates Lawyer North Brisbane (2026) | Preston & ...",
+                  "url": "https://prestonandassociates.com.au/wills-estate-planning-lawyer-north-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "About us - Northside Family Law Centre",
+                  "url": "https://northsidefamilylaw.com.au/about-us/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Lawyers Brisbane Northside & Chermside",
+                  "url": "https://bartonfamilylaw.com.au/family-lawyers-brisbane-northside/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Find Family Provision Claims Lawyers in Forest Lake QLD - Finchly",
+                  "url": "https://finchly.com.au/find/family-provision-claims/qld/forest-lake-4078",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "117 Family Lawyers in Australia 2026 (Accredited Specialists)",
+                  "url": "https://comparedivorcelawyers.com.au/providers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Lawyers Brisbane",
+                  "url": "https://bwbfamilylaw.com.au/lps/family-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Experienced Brisbane Family Lawyers | Northside Family Law Centre",
+                  "url": "https://northsidefamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Our Fees — R&G Law Group |Brisbane's Premium Family Lawyer ...",
+                  "url": "https://rglawgroup.com.au/our-fees",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Lawyer North Lakes",
+                  "url": "https://bartonfamilylaw.com.au/family-lawyer-north-lakes/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

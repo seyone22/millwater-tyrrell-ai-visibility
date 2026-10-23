@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane_north",
+  "pk": "probate_administration",
+  "plat": "perplexity",
+  "text": "I am an executor handling probate and deceased estate administration in Brisbane Northside (Chermside & North Lakes). Which law firms specialise in Queensland probate and estate administration?",
+  "loc": 9060852,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_north__probate_administration__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:30:03.813Z",
+  "cost": 0.006271,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 44,
+      "output_tokens": 627,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005671,
+      "datetime": "2026-10-23 05:29:59 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For an executor in **Chermside, North Lakes or wider Brisbane Northside**, these firms advertise Queensland probate and deceased-estate administration services:\n\n- **Nextgen.Law** — Brisbane and Moreton Bay-focused practice assisting with grants of probate, letters of administration, beneficiary identification and broader estate administration. It specifically says it serves Brisbane and Moreton Bay clients. [4]\n- **QLD Estate Lawyers / Queensland Estate Lawyers** — specialist probate and estate lawyers offering probate applications, executor assistance, letters of administration, estate administration and estate disputes. [3][9]\n- **Kate Redman & Associates** — provides executor support, grant-of-probate applications, letters of administration, asset and liability work, and liaison with banks and government agencies; it advertises service across Brisbane Northside. [1]\n- **Turner Freeman Lawyers** — advises executors and administrators on duties, rights, probate and estate administration, with a Queensland practice and contact service. [2]\n- **MacDonald Law** — handles Queensland estate administration, Supreme Court probate and letters-of-administration applications, asset collection, liabilities, property, businesses and testamentary trusts. [5]\n- **Thynne + Macartney** — an established Brisbane firm with a dedicated Wills & Estates team covering executor duties, grants of probate, letters of administration, administration of assets and liabilities, and estate litigation. [6]\n- **Queensland Probate / Probate Law Group** — a Brisbane-based probate-focused practice at 345 Ann Street, advertising specialist assistance with Queensland probate applications. [7]\n- **Go To Court Lawyers** — offers access to wills-and-estates lawyers serving North Lakes and Moreton Bay, including assistance with Supreme Court probate applications and letters of administration. [8][10]\n\n## Shortlist for your location\n\nFor a **straightforward, uncontested estate**, start by comparing **Nextgen.Law, QLD Estate Lawyers, Kate Redman & Associates, Queensland Probate** and **Go To Court Lawyers**.\n\nFor a **larger, complex or potentially disputed estate** involving property, businesses, trusts, family provision claims or executor disputes, consider **Thynne + Macartney, Turner Freeman** or **MacDonald Law**.\n\nWhen obtaining quotes, ask whether the fee covers:\n\n- Reviewing the Will and advising on executor duties\n- The Supreme Court of Queensland probate or administration application\n- Notices, affidavits and court filing fees\n- Identifying and collecting assets\n- Bank, superannuation and government correspondence\n- Tax, property transfers and sale work\n- Advertising, beneficiary searches and final distribution\n- Any likely family provision or other estate dispute\n\nConfirm the solicitor’s current Queensland practising status and obtain a written costs agreement before instructing them. Probate applications for North Lakes and Chermside estates are dealt with through the **Supreme Court of Queensland in Brisbane**, rather than a local suburban court. [8]",
+              "annotations": [
+                {
+                  "title": "Estate Administration Lawyers | Kate Redman & Associates",
+                  "url": "https://kateredman.com.au/services/estate-administration-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Estate Administration | Turner Freeman",
+                  "url": "https://www.turnerfreeman.com.au/wills-estates/deceased-estate-administration/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "QLD Probate Lawyers | Estate Administration | QLD Estate Lawyers",
+                  "url": "https://qldestatelawyers.com.au/probate-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Probate | Deceased Estate Lawyers Brisbane | Nextgen.Law",
+                  "url": "https://nextgen.law/probate-and-estate-administration/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills and Estates lawyers Toowoomba and Brisbane",
+                  "url": "https://www.macdonaldlaw.com.au/will-estates",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Leading Wills and Estates Lawyers",
+                  "url": "https://www.thymac.com.au/expertises/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Legal Services & Probate Lawyers in Australia | Probate Law Group",
+                  "url": "https://probatelawgroup.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estates Lawyers North Lakes QLD",
+                  "url": "https://www.gotocourt.com.au/qld/north-lakes-lawyers/wills-and-estates",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "QLD Estate Lawyers | Experts in Probate, Executor Help and ...",
+                  "url": "https://qldestatelawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills and Estates Lawyers Queensland",
+                  "url": "https://www.gotocourt.com.au/qld/wills-and-estates",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

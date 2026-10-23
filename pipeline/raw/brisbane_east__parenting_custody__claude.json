@@ -1,0 +1,346 @@
+{
+  "slug": "brisbane_east",
+  "pk": "parenting_custody",
+  "plat": "claude",
+  "text": "Which family lawyers in Brisbane East and Bayside (Carindale & Wynnum) are best for parenting arrangements, child custody disputes, and accredited family dispute resolution (mediation)?",
+  "loc": 9194035,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_east__parenting_custody__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:31:52.299Z",
+  "cost": 0.125719,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 28168,
+      "output_tokens": 2041,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.125119,
+      "datetime": "2026-10-23 05:31:48 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Based on the search results, here is a comprehensive guide to the best family lawyers in and around **Brisbane East and Bayside (Carindale & Wynnum)** for parenting arrangements, child custody disputes, and family dispute resolution/mediation:\n\n---\n\n## 👨‍👩‍👧 Best Family Lawyers for Parenting & Custody in Brisbane East & Bayside\n\n---\n\n### 1. 🏆 Michael Lynch Family Lawyers *(Carindale & Brisbane)*\n**Best for: Parenting arrangements, child custody disputes, and family mediation**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Michael Lynch Family Lawyers is one of Brisbane's largest specialist family law firms, with three decades of trusted family law experience. Their principal, Debra Effeney, has been featured in *Best Lawyers* and the firm has been named among Brisbane's leading family & divorce law firms for 2026.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Brisbane",
+                  "url": "https://www.michaellynchfamilylawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They provide a full range of family law services to help achieve the best outcome for children's wellbeing, including child custody arrangements, child custody disputes, adoption, child abduction, child support, domestic violence, and international legal matters involving children.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Brisbane",
+                  "url": "https://www.michaellynchfamilylawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "As part of their Brisbane family law services, their divorce solicitors also provide **family mediation** to help resolve difficult disputes relating to property settlements, binding financial agreements, child support disputes, and parenting arrangements — which can be especially beneficial in cases involving children.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Brisbane",
+                  "url": "https://www.michaellynchfamilylawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n> 💡 Notably, one of their client testimonials is from a **Carindale** resident, suggesting strong local ties to the Brisbane East/Bayside area.\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "One client from Carindale stated: *\"I was always confident that I was getting the very best advice.\"*",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Brisbane",
+                  "url": "https://www.michaellynchfamilylawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- 🌐 [michaellynchfamilylawyers.com.au](https://www.michaellynchfamilylawyers.com.au)\n\n---\n\n### 2. ⚖️ The Law People *(Brisbane — Accredited Specialist)*\n**Best for: Parenting arrangements, child custody, and accredited family law expertise**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The Law People is led by Director **Jill Johnstone**, who is one of the few **Accredited Specialist** lawyers in Brisbane, meaning you'll be dealing with a team of legal experts at the highest level of family law qualification.",
+              "annotations": [
+                {
+                  "title": "Child Custody Lawyers Brisbane",
+                  "url": "https://thelawpeople.com.au/parenting-arrangements/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Whether you're looking for legal assistance with parenting arrangements, child support, divorce, financial settlement, spousal maintenance, or domestic violence, their solicitors have been assisting parents navigating separation for over 20 years.",
+              "annotations": [
+                {
+                  "title": "Child Custody Lawyers Brisbane",
+                  "url": "https://thelawpeople.com.au/parenting-arrangements/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- ⭐ Google Rating: **4.6 stars**\n- 🌐 [thelawpeople.com.au](https://thelawpeople.com.au)\n\n---\n\n### 3. 🤝 VM Family Law *(Brisbane — FDR & Custody Specialists)*\n**Best for: Family Dispute Resolution (mediation), parenting arrangements, and domestic violence matters**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "VM Family Law's child custody lawyers in Brisbane provide a unique blend of empathy, experience, and legal acumen, helping to safeguard children's best interests.",
+              "annotations": [
+                {
+                  "title": "Child Custody Lawyers",
+                  "url": "https://www.vmfamilylaw.com.au/services/parenting-arrangements-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their Principal is a **Family Law Accredited Specialist**, ensuring clients receive the highest level of knowledge and skill in the field of family law.",
+              "annotations": [
+                {
+                  "title": "Child Custody Lawyers",
+                  "url": "https://www.vmfamilylaw.com.au/services/parenting-arrangements-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The firm sets itself apart by offering **fixed fees** for some services, and is one of the first law firms in Queensland to focus on matters involving **domestic and family violence**, working closely with support organisations.",
+              "annotations": [
+                {
+                  "title": "Child Custody Lawyers",
+                  "url": "https://www.vmfamilylaw.com.au/services/parenting-arrangements-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their team is equipped to help with both **family dispute resolution** and child custody and parenting arrangements.",
+              "annotations": [
+                {
+                  "title": "Child Custody Lawyers",
+                  "url": "https://www.vmfamilylaw.com.au/services/parenting-arrangements-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- 🌐 [vmfamilylaw.com.au](https://www.vmfamilylaw.com.au)\n\n---\n\n### 4. 🏅 Simonidis Steel Lawyers *(Brisbane — Award-Winning)*\n**Best for: Child custody, parenting orders, and complex family law matters**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Simonidis Steel Lawyers have been awarded by the prestigious **Doyle's Guide** as a Leading Family Law Firm in Brisbane, with expertise across property, divorce, domestic violence, parenting, child support, and surrogacy.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Brisbane",
+                  "url": "https://simsteel.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They are rated **5.0 stars** by 80+ clients.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Brisbane",
+                  "url": "https://simsteel.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Whether dealing with a property settlement, divorce, child custody, or domestic violence matter, they provide clear, practical, and reliable legal advice.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Brisbane",
+                  "url": "https://simsteel.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- 🌐 [simsteel.com.au](https://simsteel.com.au)\n\n---\n\n### 5. 🌟 Unified Lawyers *(Brisbane)*\n**Best for: Child custody, parenting orders, and family mediation**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Unified Lawyers helps clients with divorce, **family mediation**, parenting arrangements, property settlements, prenuptial agreements, and spousal maintenance.",
+              "annotations": [
+                {
+                  "title": "Unified Lawyers: Leading Family & Divorce Lawyers Brisbane",
+                  "url": "https://www.unifiedlawyers.com.au/family-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They are trusted family law specialists handling divorce, child custody, property settlements, and parenting disputes.",
+              "annotations": [
+                {
+                  "title": "Unified Lawyers: Leading Family & Divorce Lawyers Brisbane",
+                  "url": "https://www.unifiedlawyers.com.au/family-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They hold a **4.8-star** aggregate rating.\n\n- 🌐 [unifiedlawyers.com.au](https://www.unifiedlawyers.com.au/family-lawyers-brisbane/)\n\n---\n\n## 📋 Key Tips for Choosing the Right Lawyer\n\n| Priority | Recommended Firm |\n|---|---|\n| Local Carindale/Wynnum ties | **Michael Lynch Family Lawyers** |\n| Accredited Specialist (highest qualification) | **The Law People** or **VM Family Law** |\n| Family Dispute Resolution (FDR/Mediation) | **VM Family Law** or **Michael Lynch Family Lawyers** |\n| Fixed-fee transparency | **VM Family Law** |\n| Award-winning recognition (Doyle's Guide) | **Simonidis Steel Lawyers** |\n| Domestic violence + custody | **VM Family Law** |\n\n---\n\n## ℹ️ What to Know About Family Dispute Resolution (FDR)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Before initiating court proceedings in the family court, parties are generally required to attempt FDR with a neutral third party. If the parenting dispute is not going to family law court, then FDR is voluntary. FDR is designed to resolve custody matters out of court.",
+              "annotations": [
+                {
+                  "title": "Child Custody Lawyers Brisbane",
+                  "url": "https://www.michaellynchfamilylawyers.com.au/family-law-services/children/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\nIt is strongly advisable to consult with an **Accredited Family Law Specialist** (look for the Queensland Law Society accreditation) when dealing with parenting disputes, as ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "the Family Law Act has changed many times over the years, making it difficult for people with no legal experience to understand the legalities involved in a child custody dispute.",
+              "annotations": [
+                {
+                  "title": "Child Custody Lawyers Brisbane",
+                  "url": "https://www.michaellynchfamilylawyers.com.au/family-law-services/children/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\nWould you like more specific information about any of these firms, such as their contact details, office locations, or fee structures?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "best family lawyers Brisbane East Carindale Wynnum parenting arrangements child custody",
+        "accredited family dispute resolution mediators Brisbane East Bayside Wynnum Carindale",
+        "family lawyers Wynnum Carindale Brisbane Bayside parenting custody mediation",
+        "Michael Lynch Family Lawyers Carindale Wynnum Brisbane East location"
+      ]
+    }
+  ]
+}

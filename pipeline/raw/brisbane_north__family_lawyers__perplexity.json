@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane_north",
+  "pk": "family_lawyers",
+  "plat": "perplexity",
+  "text": "Who are the best family lawyers in Brisbane Northside (Chermside & North Lakes)? Give me a shortlist of reputable family law firms with reasons.",
+  "loc": 9060852,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_north__family_lawyers__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:29:12.866Z",
+  "cost": 0.00636,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 39,
+      "output_tokens": 721,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.00576,
+      "datetime": "2026-10-23 05:29:08 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "There is no single “best” family lawyer for everyone, but these are strong **Brisbane Northside options around Chermside and North Lakes**. The shortlist prioritises specialist family-law practice, local availability, relevant experience and independent professional recognition where available.\n\n| Firm | Best suited to | Reasons to consider |\n|---|---|---|\n| **Barton Family Lawyers** | Complex parenting, property, domestic-violence and high-conflict matters | Practices exclusively in family law; has offices at **Chermside and Petrie**; reports experience in coercive control, domestic violence, negotiation, mediation and court proceedings. Its practice director, Courtney Barton, is described as having more than 12 years’ exclusive family-law experience.[1][3] |\n| **Best Wilson Buckley Family Law** | A broad range of matters, including cases likely to involve court | Has a dedicated **North Lakes office** and handles separation, divorce, parenting, property and family-violence matters. The firm highlights familiarity with Brisbane family courts and service across North Lakes, Aspley, Chermside and the wider northside.[2][4] |\n| **Northside Family Law Centre** | Clients wanting a local Chermside-area boutique practice | Located in **Chermside and Sandgate** and focused on family-law issues including divorce, separation and parenting disputes. It promotes personalised advice and support through the matter.[7] |\n| **Daykin Family Law** | Straightforward separation, parenting or property matters, particularly for North Lakes residents | Specifically services North Lakes and focuses on divorce, property settlements and parenting arrangements. The firm emphasises transparent, plain-language advice and discreet handling of sensitive matters.[8] |\n| **Michael Lynch Family Lawyers** | Clients seeking a firm with broader Brisbane professional recognition | Listed as a **Recommended** Brisbane family-and-divorce firm in the 2026 Doyle’s Guide rankings, which are based on peer nominations and interviews. Confirm its current Northside consultation arrangements before booking.[6] |\n| **Cudmore Legal** | High-value property settlements or complex parenting disputes | Independent Brisbane listings describe the firm as handling sophisticated financial settlements, complex parenting matters, domestic violence, relocation, recovery orders, mediation and litigation. Because those descriptions include promotional claims, verify fees, lawyer experience and recent comparable outcomes directly.[9] |\n\n### Practical shortlist\n\n- **For Chermside:** Start with **Barton Family Lawyers** and **Northside Family Law Centre**.\n- **For North Lakes:** Start with **Best Wilson Buckley** and **Daykin Family Law**.\n- **For complex or high-conflict litigation:** Compare **Barton**, **Best Wilson Buckley** and **Cudmore Legal**.\n- **For a high-value property settlement:** Add **Michael Lynch Family Lawyers** or **Cudmore Legal** to the comparison.\n\nBefore choosing, ask each firm:\n\n- Who will personally handle the matter, and what is their family-law experience?\n- Is the work billed hourly, fixed-fee or under staged estimates?\n- What is the likely cost through negotiation, mediation and—if necessary—court?\n- Can they advise on domestic violence, coercive control, urgent parenting applications or financial disclosure?\n- What is the proposed strategy and what alternatives could avoid court?\n\nCheck that the individual solicitor is currently admitted in Queensland and obtain a written costs agreement. Directory rankings and firms’ own websites are useful screening tools, but they do not guarantee a particular result.",
+              "annotations": [
+                {
+                  "title": "Family Lawyer North Lakes",
+                  "url": "https://bartonfamilylaw.com.au/family-lawyer-north-lakes/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Lawyers Brisbane",
+                  "url": "https://bwbfamilylaw.com.au/lps/family-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Lawyers Brisbane Northside & Chermside",
+                  "url": "https://bartonfamilylaw.com.au/family-lawyers-brisbane-northside/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Wilson Buckley Family Law: Why Choose Our Lawyers?",
+                  "url": "https://bwbfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "7 Best Family Lawyers in Brisbane with Good Records",
+                  "url": "http://www.martinvamoslaw.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Leading Family & Divorce Law Firms - Brisbane, 2026 - Doyle's Guide",
+                  "url": "https://doylesguide.com/rankings/family-divorce-law-firms-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Experienced Brisbane Family Lawyers | Northside Family Law Centre",
+                  "url": "https://northsidefamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Lawyers Servicing North Lakes",
+                  "url": "https://daykinfamilylaw.com.au/north-lakes/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The Best 12 Family Lawyers In Brisbane (Updated 2026) | ⚖️ ...",
+                  "url": "https://familylawyerfinder.com/au/best-family-lawyers-brisbane-qld-4000/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Lawyers in Brisbane",
+                  "url": "https://www.pcllawyers.com.au/brisbane/family-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "slug": "springfield",
+  "pk": "fixed_fee_family_estates",
+  "plat": "claude",
+  "text": "Which boutique law firms in Springfield and Greater Springfield, QLD offer free initial consultations, fixed-fee wills, or deferred-fee options for family law and wills and estates?",
+  "loc": 9191413,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\springfield__fixed_fee_family_estates__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:25:42.209Z",
+  "cost": 0.068296,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10882,
+      "output_tokens": 1670,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.067696,
+      "datetime": "2026-10-23 05:25:38 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a rundown of boutique and smaller law firms in **Springfield and Greater Springfield (including Ipswich/Brookwater), QLD** that offer **free initial consultations, fixed-fee options, or deferred-fee arrangements** for family law and wills & estates matters:\n\n---\n\n## 🏛️ 1. Stanford Legal *(Springfield Central)*\n**📍 Level 8, Springfield Tower, 145 Sinnathamby Blvd, Springfield Central QLD 4300**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Stanford Legal is a Queensland law practice based in Springfield Central, acting for clients across Ipswich, Brisbane and South East Queensland in property law and conveyancing, family law, wills and estates, and commercial law.",
+              "annotations": [
+                {
+                  "title": "Contact Stanford Legal",
+                  "url": "https://stanfordlegal.com.au/springfield-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- **Free Initial Consultation:** ✅ ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Your first conversation with Stanford Legal is free and carries no obligation — they'll tell you plainly where you stand and what the next step looks like, so you can decide with the full picture in front of you.",
+              "annotations": [
+                {
+                  "title": "Contact Stanford Legal",
+                  "url": "https://stanfordlegal.com.au/springfield-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- **Practice Areas:** ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Family law, divorce and separation, parenting arrangements, property settlement, consent orders, binding financial agreements, domestic violence orders, wills, enduring powers of attorney, probate and estate administration, estate disputes, and succession planning.",
+              "annotations": [
+                {
+                  "title": "Contact Stanford Legal",
+                  "url": "https://stanfordlegal.com.au/springfield-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 🏛️ 2. LadyBird Wills & Estates Pty Ltd *(Springfield Central)*\n**📍 Springfield Central, QLD | ☎ 1300 945...**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "LadyBird Wills & Estates Pty Ltd is a reputable Queensland law firm specialising in wills, estate planning, estate administration, and property conveyancing. They provide customised services for drafting wills, power of attorney documents, and health directives. The firm expertly handles probate, letters of administration, and will contests.",
+              "annotations": [
+                {
+                  "title": "Find Estate Planning Lawyers in Springfield QLD - Lawconnect",
+                  "url": "https://lawconnect.com/en-au/find/estate-planning/qld/springfield-4300",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- **Fixed-Fee Options:** ✅ ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their conveyancing services include fixed price quotes with GST and fees, utilising online electronic settlements through PEXA.",
+              "annotations": [
+                {
+                  "title": "Find Estate Planning Lawyers in Springfield QLD - Lawconnect",
+                  "url": "https://lawconnect.com/en-au/find/estate-planning/qld/springfield-4300",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- **Practice Areas:** Wills, estate planning, estate administration, conveyancing.\n\n---\n\n## 🏛️ 3. GLG Legal Springfield *(Brookwater/Springfield)*\n**📍 Level 1, Building 9, Brookwater Office Park, 22 Magnolia Drive, Brookwater QLD 4300**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "GLG Legal Springfield offers trusted legal support across several key areas, including residential and commercial conveyancing, wills and estates, retirement village contracts, and business law. With decades of experience, they're committed to providing clear, practical advice tailored to your needs.",
+              "annotations": [
+                {
+                  "title": "Springfield and Ipswich Legal Experts",
+                  "url": "https://www.springfieldlegals.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They've proudly supported the Springfield and Greater Ipswich community since 1999.",
+              "annotations": [
+                {
+                  "title": "Springfield and Ipswich Legal Experts",
+                  "url": "https://www.springfieldlegals.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- **Note:** Contact them directly to confirm current fee arrangements, as their website focuses on community service and expertise rather than listing specific fee structures publicly.\n\n---\n\n## 🏛️ 4. Millwater Tyrell Law *(Ipswich — serving Springfield)*\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Millwater Tyrell Law, located in Ipswich, offers over 30 years of combined partner experience across Ipswich, Brisbane, and Springfield. They provide a wide range of legal services including family law, commercial law, conveyancing, wills and estates, and criminal law, prioritising accessible, partner-led service.",
+              "annotations": [
+                {
+                  "title": "Find Family Lawyers in Springfield QLD - Lawconnect",
+                  "url": "https://lawconnect.com/en-au/find/family-law/qld/springfield-4300",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- **Free Initial Consultation:** ✅\n- **Fixed-Fee Options:** ✅\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "With a complimentary initial consultation, fixed-fee options, and transparent accounts, they ensure cost-efficiency and empathetic support. In family law, they facilitate amicable resolutions for parenting and property matters.",
+              "annotations": [
+                {
+                  "title": "Find Family Lawyers in Springfield QLD - Lawconnect",
+                  "url": "https://lawconnect.com/en-au/find/family-law/qld/springfield-4300",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 🏛️ 5. Landmark Lawyers *(serving Greater Springfield/QLD)*\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Landmark Lawyers, established in 1983 and renamed in 2009, provides affordable legal services across Queensland, focusing on clear, timely advice in areas like wills and estates, conveyancing, and family law.",
+              "annotations": [
+                {
+                  "title": "Find Estate Planning Lawyers in Springfield QLD - Lawconnect",
+                  "url": "https://lawconnect.com/en-au/find/estate-planning/qld/springfield-4300",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- **Deferred-Fee Options:** ✅ ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They assist with probate and family provision applications on a **deferred fee basis**, ensuring your estate matters are handled compassionately.",
+              "annotations": [
+                {
+                  "title": "Find Estate Planning Lawyers in Springfield QLD - Lawconnect",
+                  "url": "https://lawconnect.com/en-au/find/estate-planning/qld/springfield-4300",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- **Fixed-Fee Options:** ✅ ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their competitive fixed-fee conveyancing simplifies property transactions.",
+              "annotations": [
+                {
+                  "title": "Find Estate Planning Lawyers in Springfield QLD - Lawconnect",
+                  "url": "https://lawconnect.com/en-au/find/estate-planning/qld/springfield-4300",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 🏛️ 6. Legal Arch *(Boutique QLD Firm — serving Springfield area)*\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Legal Arch is a boutique Queensland law firm specialising in personal injury compensation and family law. They provide accessible, cost-effective, and tailored legal advice with a focus on support. They also assist with divorce, child custody, property settlements, spousal maintenance, and family visas. Flexible consultations are offered via phone, Zoom, or in-person.",
+              "annotations": [
+                {
+                  "title": "Lawyers near Springfield, QLD",
+                  "url": "https://lawconnect.com/en-au/find/lawyers/qld/springfield-4300",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They emphasise transparency in fees and are committed to protecting your rights and achieving the best outcomes.",
+              "annotations": [
+                {
+                  "title": "Lawyers near Springfield, QLD",
+                  "url": "https://lawconnect.com/en-au/find/lawyers/qld/springfield-4300",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 💡 Tips Before You Book\n\n| Feature | Firms Offering It |\n|---|---|\n| **Free Initial Consultation** | Stanford Legal, Millwater Tyrell Law |\n| **Fixed-Fee Wills/Conveyancing** | LadyBird Wills & Estates, Millwater Tyrell Law, Landmark Lawyers |\n| **Deferred-Fee (Probate/Estate)** | Landmark Lawyers |\n| **Flexible/Online Consultations** | Legal Arch |\n\n> ⚠️ **Important:** Fee structures and offers can change. Always confirm directly with the firm before booking, and check whether the free consultation applies specifically to your matter type (e.g., family law vs. wills). You can also contact the **Queensland Law Society** (qls.com.au) for a referral to a local accredited specialist.",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "boutique law firms Springfield QLD family law wills estates free consultation fixed fee",
+        "law firms Greater Springfield Ipswich QLD wills estates family law deferred fee fixed fee"
+      ]
+    }
+  ]
+}

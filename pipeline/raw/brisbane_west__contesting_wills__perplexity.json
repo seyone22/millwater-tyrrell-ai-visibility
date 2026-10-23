@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane_west",
+  "pk": "contesting_wills",
+  "plat": "perplexity",
+  "text": "Which wills and estates law firms in Brisbane Western Suburbs (Indooroopilly & Centenary) specialise in contesting a will, Family Provision Applications (FPA), and estate litigation?",
+  "loc": 9192539,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_west__contesting_wills__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:27:31.831Z",
+  "cost": 0.006273,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 48,
+      "output_tokens": 625,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005673,
+      "datetime": "2026-10-23 05:27:27 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Several Brisbane firms advertise specialist experience in **contested wills, Family Provision Applications (FPAs), and estate litigation**. For Indooroopilly and the Centenary suburbs, most suitable firms are Brisbane-based and service clients across the western suburbs rather than maintaining offices specifically in Indooroopilly or Centenary.\n\n- **The Estate Lawyers** — A Queensland practice focused solely on wills and estates. It handles will contests, unfair-will challenges and FPAs, executor disputes, suspicious wills, probate and estate administration. Its Brisbane office is in the CBD.[1]\n- **McCullough Robertson Lawyers** — A large Brisbane firm with a dedicated contested-estates practice. It handles FPAs, equitable claims, will validation and interpretation, trustee and beneficiary disputes, mediation and estate litigation.[2]\n- **Armstrong Legal** — Has a dedicated contested-wills team handling challenges and defences involving testamentary capacity, undue influence, fraud, validity issues and FPAs.[3]\n- **Aitken Whyte Lawyers** — Brisbane solicitors who advertise assistance with contesting or defending wills, FPAs, estate disputes, mediation and Supreme Court litigation.[7]\n- **Attwood Marshall Lawyers** — Its Brisbane estate-litigation team handles contested and defended wills, FPAs, executor and beneficiary disputes, will-validity challenges and Public Trustee disputes.[4][9]\n- **Kate Redman & Associates** — A specialist estate-litigation practice covering Brisbane and offering contested-will advice, FPAs, executor disputes and will-validity challenges. It operates as a mobile service across Brisbane, including western suburbs.[6]\n- **Aptum Legal** — Better suited to substantial or complex estates. Its Brisbane practice handles FPAs, will-validity challenges, contested probate, executor and trustee disputes, and Supreme Court proceedings.[10]\n- **Wills & Estate Lawyers Brisbane** — Advertises representation in contested wills, FPAs, executor disputes and estate litigation, including challenges based on capacity, undue influence and fraud.[5]\n\n## Best shortlist for Indooroopilly/Centenary\n\nFor a local western-suburbs resident, the most relevant initial enquiries would likely be:\n\n1. **Kate Redman & Associates**, because it specifically offers mobile Brisbane service.[6]\n2. **The Estate Lawyers**, because it focuses exclusively on Queensland wills and estate disputes.[1]\n3. **Armstrong Legal** or **Aitken Whyte Lawyers** for a dedicated contested-will/FPA assessment.[3][7]\n4. **McCullough Robertson** or **Aptum Legal** where the estate is large, commercially complex or likely to proceed to Supreme Court litigation.[2][10]\n\nIn Queensland, an FPA generally requires prompt action: written notice to the executor is commonly required within six months of death and the court application within nine months, subject to the circumstances and court rules.[8] Obtain advice quickly, particularly if the death occurred recently.",
+              "annotations": [
+                {
+                  "title": "The Estate Lawyers",
+                  "url": "https://theestatelawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills, Estates and Trusts – McCullough Robertson Lawyers",
+                  "url": "https://mccullough.com.au/expertise_page/wills-estates-trusts/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Provision Law Firm Brisbane",
+                  "url": "https://www.armstronglegal.com.au/pages/cmcw-family-provision-law-firm-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Estate Litigation Lawyers | Attwood Marshall Lawyers",
+                  "url": "https://attwoodmarshall.com.au/estate-litigation-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Brisbane Estate Lawyers",
+                  "url": "https://willandestatelawyers.com.au/wills-and-estate-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Estate Litigation Lawyers | Kate Redman & Associates",
+                  "url": "https://kateredman.com.au/estate-litigation/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Will Dispute Lawyers Brisbane",
+                  "url": "https://www.awbrisbanelawyers.com.au/will-dispute-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Strathpine Will Dispute Lawyers - Estate Planning Solicitors Brisbane",
+                  "url": "https://biglaw.com.au/practice-areas/strathpine-wills-and-estates-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Brisbane Estate Litigation Lawyers | Resolving Estate Disputes",
+                  "url": "https://attwoodmarshall.com.au/brisbane/estate-litigation/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Estate Litigation Lawyers Brisbane - Aptum Legal",
+                  "url": "https://aptumlegal.com.au/brisbane/estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

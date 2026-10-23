@@ -1,0 +1,259 @@
+{
+  "slug": "brisbane_west",
+  "pk": "wills_estate_planning",
+  "plat": "aimode",
+  "text": "Who are the best wills and estates lawyers in Brisbane Western Suburbs (Indooroopilly & Centenary) for drafting wills, testamentary trusts, and enduring powers of attorney?",
+  "loc": 9192539,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_west__wills_estate_planning__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:27:13.440Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Who are the best wills and estates lawyers in Brisbane Western Suburbs (Indooroopilly & Centenary) for drafting wills, testamentary trusts, and enduring powers of attorney?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 9192539,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Who%20are%20the%20best%20wills%20and%20estates%20lawyers%20in%20Brisbane%20Western%20Suburbs%20%28Indooroopilly%20%26%20Centenary%29%20for%20drafting%20wills%2C%20testamentary%20trusts%2C%20and%20enduring%20powers%20of%20attorney%3F&udm=50&uule=w+CAIQIFISCd0K1hBZUJFrEfCL3vNaowIF&hl=en&gl=AU",
+      "datetime": "2026-10-23 05:27:09 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "When looking for specialised wills and estates practitioners in Brisbane’s Western Suburbs (including Indooroopilly, Toowong, and the Centenary suburbs) who handle complex structures like **testamentary trusts** and **Enduring Powers of Attorney (EPOAs)** , options range from `local boutique firms to dedicated metro specialists who service the western corridor`.\n\nBecause testamentary trusts involve intricate tax, asset protection, and succession mechanics under Queensland law, clients often look to boutique suburban firms or specialist succession practices nearby:\n\n\n\n---\n\n![](https://api.dataforseo.com/cdn/i/10230526-2877-0139-0000-6d1f954b557b:16)\nClear Legal 4.8 (19)  \nLaw firm  \nOpen 378 Moggill Rd  \nCall Directions Website Located right in Indooroopilly, this boutique practice handles wills, estate planning, and administration alongside commercial and property matters. They focus on tailored, jargon-free advice, making them a convenient local choice for straightforward-to-moderate estate planning needs. You can explore their scope via [LawConnect's Indooroopilly Wills and Estates Directory](https://lawconnect.com/en-au/find/wills-and-estates/qld/indooroopilly-4068).\n\n---\n\n![](https://api.dataforseo.com/cdn/i/10230526-2877-0139-0000-6d1f954b557b:17)\nToowong Legal 5.0 (3)  \nLegal services  \nOpen Toowong Towers, Level 9, 9 Sherwood Rd  \nCall Directions Website Situated nearby in Toowong Towers, this established local practice assists with the preparation of comprehensive wills and Enduring Powers of Attorney. They offer a traditional, highly personalised suburban solicitor approach for clients across the inner-west. Contact details can be found directly through [Toowong Legal](https://toowonglegal.com.au/).\n\n---\n\n![](https://api.dataforseo.com/cdn/i/10230526-2877-0139-0000-6d1f954b557b:18)\nWill and Estate Lawyers Australia 5.0 (132)  \nEstate litigation attorney  \nOpen Level 1/16 McDougall St  \nCall Directions Website Located just down the train line/river in Milton, this dedicated firm focuses exclusively on succession law, probate, and estate planning packages. They operate on transparent fixed pricing and routinely service the inner-west and western suburbs. You can review their services and book consultations via [Will and Estate Lawyers Australia](https://willandestatelawyers.com.au/locations/brisbane/).\n\n---\n\n![](https://api.dataforseo.com/cdn/i/10230526-2877-0139-0000-6d1f954b557b:19)\nde Groots Wills and Estate Lawyers 4.6 (28)  \nLegal services  \nOpen River Quarter, Level 6/46 Edward St  \nCall Directions Website For highly complex testamentary trusts, multi-generational wealth protection, self-managed superannuation fund (SMSF) succession, or blended family provisions, many western suburbs residents choose a dedicated specialist firm. de Groots is one of Queensland's most well-known specialist succession law practices. Details on their advisory scope are available via [de Groots Wills and Estate Lawyers](https://degroots.com.au/brisbane/).[[1]](https://lawconnect.com/en-au/find/wills-and-estates/qld/indooroopilly-4068)[[2]](https://toowonglegal.com.au/)[[3]](https://willandestatelawyers.com.au/locations/brisbane/)[[4]](https://degroots.com.au/brisbane/)\n\nIf you'd like to narrow this down, let me know:\n\n- Do you require structures for a **complex asset pool** (e.g., family trusts, companies, or SMSFs)?\n- Do you prefer a **strictly local face-to-face office** in Indooroopilly/Toowong, or are you happy to travel to the CBD/Milton or use virtual/fixed-fee services?\n\nI can help refine the recommendation based on your **exact requirements**.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "When looking for specialised wills and estates practitioners in Brisbane’s Western Suburbs (including Indooroopilly, Toowong, and the Centenary suburbs) who handle complex structures like testamentary trusts and Enduring Powers of Attorney (EPOAs), options range from local boutique firms to dedicated metro specialists who service the western corridor.",
+              "markdown": "When looking for specialised wills and estates practitioners in Brisbane’s Western Suburbs (including Indooroopilly, Toowong, and the Centenary suburbs) who handle complex structures like **testamentary trusts** and **Enduring Powers of Attorney (EPOAs)** , options range from `local boutique firms to dedicated metro specialists who service the western corridor`.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Because testamentary trusts involve intricate tax, asset protection, and succession mechanics under Queensland law, clients often look to boutique suburban firms or specialist succession practices nearby:",
+              "markdown": "Because testamentary trusts involve intricate tax, asset protection, and succession mechanics under Queensland law, clients often look to boutique suburban firms or specialist succession practices nearby:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Clear Legal 4.8 (19) Law firm Open 378 Moggill Rd Call Directions Website Located right in Indooroopilly, this boutique practice handles wills, estate planning, and administration alongside commercial and property matters. They focus on tailored, jargon-free advice, making them a convenient local choice for straightforward-to-moderate estate planning needs. You can explore their scope via LawConnect's Indooroopilly Wills and Estates Directory.",
+              "markdown": "---\n\n![](https://api.dataforseo.com/cdn/i/10230526-2877-0139-0000-6d1f954b557b:8)\nClear Legal 4.8 (19)  \nLaw firm  \nOpen 378 Moggill Rd  \nCall Directions Website Located right in Indooroopilly, this boutique practice handles wills, estate planning, and administration alongside commercial and property matters. They focus on tailored, jargon-free advice, making them a convenient local choice for straightforward-to-moderate estate planning needs. You can explore their scope via [LawConnect's Indooroopilly Wills and Estates Directory](https://lawconnect.com/en-au/find/wills-and-estates/qld/indooroopilly-4068).",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "LawConnect's Indooroopilly Wills and Estates Directory",
+                  "description": null,
+                  "url": "https://lawconnect.com/en-au/find/wills-and-estates/qld/indooroopilly-4068",
+                  "domain": "lawconnect.com"
+                }
+              ],
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/10230526-2877-0139-0000-6d1f954b557b:9"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Toowong Legal 5.0 (3) Legal services Open Toowong Towers, Level 9, 9 Sherwood Rd Call Directions Website Situated nearby in Toowong Towers, this established local practice assists with the preparation of comprehensive wills and Enduring Powers of Attorney. They offer a traditional, highly personalised suburban solicitor approach for clients across the inner-west. Contact details can be found directly through Toowong Legal.",
+              "markdown": "---\n\n![](https://api.dataforseo.com/cdn/i/10230526-2877-0139-0000-6d1f954b557b:10)\nToowong Legal 5.0 (3)  \nLegal services  \nOpen Toowong Towers, Level 9, 9 Sherwood Rd  \nCall Directions Website Situated nearby in Toowong Towers, this established local practice assists with the preparation of comprehensive wills and Enduring Powers of Attorney. They offer a traditional, highly personalised suburban solicitor approach for clients across the inner-west. Contact details can be found directly through [Toowong Legal](https://toowonglegal.com.au/).",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Toowong Legal",
+                  "description": null,
+                  "url": "https://toowonglegal.com.au/",
+                  "domain": "toowonglegal.com.au"
+                }
+              ],
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/10230526-2877-0139-0000-6d1f954b557b:11"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Will and Estate Lawyers Australia 5.0 (132) Estate litigation attorney Open Level 1/16 McDougall St Call Directions Website Located just down the train line/river in Milton, this dedicated firm focuses exclusively on succession law, probate, and estate planning packages. They operate on transparent fixed pricing and routinely service the inner-west and western suburbs. You can review their services and book consultations via Will and Estate Lawyers Australia.",
+              "markdown": "---\n\n![](https://api.dataforseo.com/cdn/i/10230526-2877-0139-0000-6d1f954b557b:12)\nWill and Estate Lawyers Australia 5.0 (132)  \nEstate litigation attorney  \nOpen Level 1/16 McDougall St  \nCall Directions Website Located just down the train line/river in Milton, this dedicated firm focuses exclusively on succession law, probate, and estate planning packages. They operate on transparent fixed pricing and routinely service the inner-west and western suburbs. You can review their services and book consultations via [Will and Estate Lawyers Australia](https://willandestatelawyers.com.au/locations/brisbane/).",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Will and Estate Lawyers Australia",
+                  "description": null,
+                  "url": "https://willandestatelawyers.com.au/locations/brisbane/",
+                  "domain": "willandestatelawyers.com.au"
+                }
+              ],
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/10230526-2877-0139-0000-6d1f954b557b:13"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "de Groots Wills and Estate Lawyers 4.6 (28) Legal services Open River Quarter, Level 6/46 Edward St Call Directions Website For highly complex testamentary trusts, multi-generational wealth protection, self-managed superannuation fund (SMSF) succession, or blended family provisions, many western suburbs residents choose a dedicated specialist firm. de Groots is one of Queensland's most well-known specialist succession law practices. Details on their advisory scope are available via de Groots Wills and Estate Lawyers.",
+              "markdown": "---\n\n![](https://api.dataforseo.com/cdn/i/10230526-2877-0139-0000-6d1f954b557b:14)\nde Groots Wills and Estate Lawyers 4.6 (28)  \nLegal services  \nOpen River Quarter, Level 6/46 Edward St  \nCall Directions Website For highly complex testamentary trusts, multi-generational wealth protection, self-managed superannuation fund (SMSF) succession, or blended family provisions, many western suburbs residents choose a dedicated specialist firm. de Groots is one of Queensland's most well-known specialist succession law practices. Details on their advisory scope are available via [de Groots Wills and Estate Lawyers](https://degroots.com.au/brisbane/).[[1]](https://lawconnect.com/en-au/find/wills-and-estates/qld/indooroopilly-4068)[[2]](https://toowonglegal.com.au/)[[3]](https://willandestatelawyers.com.au/locations/brisbane/)[[4]](https://degroots.com.au/brisbane/)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "de Groots Wills and Estate Lawyers",
+                  "description": null,
+                  "url": "https://degroots.com.au/brisbane/",
+                  "domain": "degroots.com.au"
+                }
+              ],
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/10230526-2877-0139-0000-6d1f954b557b:15"
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "LawConnect",
+                  "domain": "lawconnect.com",
+                  "url": "https://lawconnect.com/en-au/find/wills-and-estates/qld/indooroopilly-4068",
+                  "title": "Wills and Estates Lawyers in Indooroopilly, QLD - LawConnect",
+                  "text": "Clear Legal, located in Indooroopilly, offers personalised services … offer services in wills, estates, and criminal law. Indooroo..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Toowong Legal",
+                  "domain": "toowonglegal.com.au",
+                  "url": "https://toowonglegal.com.au/",
+                  "title": "Toowong Legal",
+                  "text": "Toowong Legal (+61 7) 3870 8043. Level 9, Toowong Towers, 9 Sherwood Road, Toowong. APPOINTMENT ONLY Phone: 07 3870 8043 E-mail: j..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Will and Estate Lawyers Australia",
+                  "domain": "willandestatelawyers.com.au",
+                  "url": "https://willandestatelawyers.com.au/locations/brisbane/",
+                  "title": "Our Brisbane Offices - Will and Estate Lawyers Australia",
+                  "text": "(07) 3073 2405 ・ 1/16 McDougall St, Milton QLD 4064 Monday - Friday: 9:00 AM - 5:00 PM ・ call (07) 3073 2405"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "de Groots Wills and Estate Lawyers",
+                  "domain": "degroots.com.au",
+                  "url": "https://degroots.com.au/brisbane/",
+                  "title": "Brisbane Location | de Groots Wills and Estate Lawyers",
+                  "text": "Services: Wills and Estate Planning (drafting, trusts, guardianship, superannuation); Deceased Estates and Trust Administration. E..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you'd like to narrow this down, let me know:",
+              "markdown": "If you'd like to narrow this down, let me know:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Do you require structures for a complex asset pool (e.g., family trusts, companies, or SMSFs)? Do you prefer a strictly local face-to-face office in Indooroopilly/Toowong, or are you happy to travel to the CBD/Milton or use virtual/fixed-fee services?",
+              "markdown": "- Do you require structures for a **complex asset pool** (e.g., family trusts, companies, or SMSFs)?\n- Do you prefer a **strictly local face-to-face office** in Indooroopilly/Toowong, or are you happy to travel to the CBD/Milton or use virtual/fixed-fee services?",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "I can help refine the recommendation based on your exact requirements.",
+              "markdown": "I can help refine the recommendation based on your **exact requirements**.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "LawConnect",
+              "domain": "lawconnect.com",
+              "url": "https://lawconnect.com/en-au/find/wills-and-estates/qld/indooroopilly-4068",
+              "title": "Wills and Estates Lawyers in Indooroopilly, QLD - LawConnect",
+              "text": "Clear Legal, located in Indooroopilly, offers personalised services … offer services in wills, estates, and criminal law. Indooroopilly) (07)"
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Will and Estate Lawyers Australia",
+              "domain": "willandestatelawyers.com.au",
+              "url": "https://willandestatelawyers.com.au/locations/brisbane/",
+              "title": "Our Brisbane Offices - Will and Estate Lawyers Australia",
+              "text": "(07) 3073 2405 ・ 1/16 McDougall St, Milton QLD 4064 Monday - Friday: 9:00 AM - 5:00 PM ・ call (07) 3073 2405"
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "de Groots Wills and Estate Lawyers",
+              "domain": "degroots.com.au",
+              "url": "https://degroots.com.au/brisbane/",
+              "title": "Brisbane Location | de Groots Wills and Estate Lawyers",
+              "text": "Services: Wills and Estate Planning (drafting, trusts, guardianship, superannuation); Deceased Estates and Trust Administration. Estate Dispute Resolution …"
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

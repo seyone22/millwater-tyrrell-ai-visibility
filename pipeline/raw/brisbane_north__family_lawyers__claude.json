@@ -1,0 +1,322 @@
+{
+  "slug": "brisbane_north",
+  "pk": "family_lawyers",
+  "plat": "claude",
+  "text": "Who are the best family lawyers in Brisbane Northside (Chermside & North Lakes)? Give me a shortlist of reputable family law firms with reasons.",
+  "loc": 9060852,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_north__family_lawyers__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:29:41.592Z",
+  "cost": 0.062722,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 9454,
+      "output_tokens": 1584,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.062122,
+      "datetime": "2026-10-23 05:29:37 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a shortlist of reputable family law firms serving Brisbane Northside, including Chermside and North Lakes:\n\n---\n\n## 🏆 Best Family Lawyers – Brisbane Northside (Chermside & North Lakes)\n\n---\n\n### 1. 🥇 Barton Family Lawyers *(Chermside & Petrie)*\n**📍 818 Gympie Road, Chermside QLD 4032 | Ph: 3465 9332**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Led by Courtney Barton, Practice Director, Solicitor, Mediator, and firm owner, Barton Family Lawyers is a highly regarded practice. Courtney is highly experienced in family law, having practiced exclusively in this area for over twelve years.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Brisbane Northside & Chermside I Barton Family Lawyers",
+                  "url": "https://bartonfamilylaw.com.au/family-lawyers-brisbane-northside/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their experienced Brisbane family lawyers provide practical, strategic and solution-focused advice across divorce, property settlements, parenting matters and complex family law disputes.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Brisbane - Family Law Solicitors",
+                  "url": "https://bartonfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "With offices in Chermside and Petrie, their team helps clients understand their options, protect what matters and move forward with confidence.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Brisbane - Family Law Solicitors",
+                  "url": "https://bartonfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them:** Exclusively family law, long-established northside presence, strong client reviews, and a mediator on staff to help avoid costly court proceedings.\n\n---\n\n### 2. 🥈 Northside Family Law Centre *(Chermside & Sandgate)*\n**📍 C1, 1 Kingsmill Street, Chermside QLD 4032**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Northside Family Law Centre is a dedicated and experienced legal firm of Brisbane family lawyers located at Chermside and Sandgate on Brisbane Northside, with years of experience covering all aspects of family law, divorce, separation, child custody matters, conveyancing, wills and estate planning.",
+              "annotations": [
+                {
+                  "title": "Experienced Brisbane Family Lawyers",
+                  "url": "https://northsidefamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The team, led by Rebekah, provides a personalised service focused on individual needs, with accurate advice, respect and understanding, supporting clients through all their family law needs.",
+              "annotations": [
+                {
+                  "title": "Experienced Brisbane Family Lawyers",
+                  "url": "https://northsidefamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their Chermside office is centrally located directly across from Westfield Chermside, offering city experience with local convenience.",
+              "annotations": [
+                {
+                  "title": "Services - Northside Family Law Centre",
+                  "url": "https://www.northsidefamilylaw.com.au/services/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Services - Northside Family Law Centre",
+                  "url": "https://www.northsidefamilylaw.com.au/services/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them:** Locally focused, personalised service, and conveniently located with dedicated client parking. Also covers wills and estates if you need broader legal help.\n\n---\n\n### 3. 🥉 Journey Family Lawyers *(North Lakes)*\n**📍 5/13 Discovery Drive, North Lakes QLD 4509 | Ph: 07 3448 2199**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Journey Family Lawyers Brisbane and North Lakes specialise in family law and can assist with property settlement, parenting arrangements, divorce, domestic violence and surrogacy.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Brisbane /Journey Lawyers/ Northside and City 07 3448 2199",
+                  "url": "https://www.brisbanefamilylawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They provide expert family law advice at a sensible price.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Brisbane /Journey Lawyers/ Northside and City 07 3448 2199",
+                  "url": "https://www.brisbanefamilylawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them:** Specialist family law firm with a dedicated North Lakes office, covering a broad range of family law matters including the more complex area of surrogacy. Good option for cost-conscious clients.\n\n---\n\n### 4. ABA Lawyers *(North Lakes)*\n**📍 North Lakes, QLD**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "ABA Lawyers are primarily a North Lakes-based law firm, serving the North Lakes, Brisbane, and Moreton Bay regions.",
+              "annotations": [
+                {
+                  "title": "Home - ABA Lawyers",
+                  "url": "https://abalawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They have earned a strong reputation for compassionate and effective service, consistently reflected in their 5★ average Google Reviews.",
+              "annotations": [
+                {
+                  "title": "Home - ABA Lawyers",
+                  "url": "https://abalawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their lawyers provide clear, practical and honest advice to help clients understand their options, with experienced advocates including one with more than 15 years of litigation experience.",
+              "annotations": [
+                {
+                  "title": "Home - ABA Lawyers",
+                  "url": "https://abalawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them:** Excellent Google reviews, strong community reputation in North Lakes, and a team with deep litigation experience.\n\n---\n\n### 5. Preston & Associates *(North Lakes)*\n**📍 North Lakes, QLD (local office with parking)**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Preston & Associates are experienced family and criminal lawyers servicing North Lakes and the wider North Brisbane and Moreton Bay region.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Brisbane - Divorce & Child Custody Law Expert",
+                  "url": "https://prestonandassociates.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Lawyers Brisbane - Divorce & Child Custody Law Expert",
+                  "url": "https://prestonandassociates.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They are rated Excellent based on 34 Google reviews.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Brisbane - Divorce & Child Custody Law Expert",
+                  "url": "https://prestonandassociates.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them:** Well-reviewed local firm with a convenient North Lakes office and parking. A good choice if you also need criminal/traffic law assistance alongside family law.\n\n---\n\n### 6. CG Legal Group *(Chermside)*\n**📍 Chermside, QLD**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "As a trusted law firm servicing Chermside QLD and the Brisbane northside, CG Legal Group delivers high-quality legal services across a wide range of family law matters, focusing on achieving practical and effective outcomes for every family.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Chermside QLD - CG Legal Group",
+                  "url": "https://cglegalgroup.com.au/family-law/family-lawyers-chermside-qld/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They provide clear guidance under the Family Law Act so clients understand their rights and responsibilities, and are committed to resolving matters efficiently while minimising stress and uncertainty.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Chermside QLD - CG Legal Group",
+                  "url": "https://cglegalgroup.com.au/family-law/family-lawyers-chermside-qld/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them:** Good all-round family law service in Chermside, with a focus on minimising stress and providing clear legal guidance.\n\n---\n\n## 💡 Tips for Choosing the Right Firm:\n- **For mediation/avoiding court:** Barton Family Lawyers (has an in-house mediator)\n- **For North Lakes convenience:** ABA Lawyers, Journey Family Lawyers, or Preston & Associates\n- **For Chermside convenience:** Northside Family Law Centre or Barton Family Lawyers\n- **For budget-conscious clients:** Journey Family Lawyers\n- **For complex/high-conflict matters:** Barton Family Lawyers or ABA Lawyers\n\nAlways book an initial consultation (many offer free or low-cost first appointments) to find the lawyer who is the best personal fit for your situation.",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "best family lawyers Brisbane Northside Chermside North Lakes",
+        "top rated family law firms Chermside Brisbane"
+      ]
+    }
+  ]
+}

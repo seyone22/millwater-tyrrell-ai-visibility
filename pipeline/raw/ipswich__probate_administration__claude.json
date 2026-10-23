@@ -1,0 +1,333 @@
+{
+  "slug": "ipswich",
+  "pk": "probate_administration",
+  "plat": "claude",
+  "text": "I am an executor handling probate and deceased estate administration in Ipswich. Which law firms specialise in Queensland probate and estate administration?",
+  "loc": 9060853,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\ipswich__probate_administration__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:24:14.010Z",
+  "cost": 0.061642,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10334,
+      "output_tokens": 1336,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.061042,
+      "datetime": "2026-10-23 05:24:10 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is an overview of law firms in and around **Ipswich, Queensland** that specialise in probate and deceased estate administration:\n\n---\n\n### 🏛️ Ipswich-Based Firms\n\n1. **Jacaranda Law**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Jacaranda Law is an Ipswich wills & estates lawyer providing clear, practical advice on wills, probate, and estate planning.",
+              "annotations": [
+                {
+                  "title": "Wills & Estates Lawyer Ipswich",
+                  "url": "https://jacarandalaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Wills, estates, and elder law are their core specialties.",
+              "annotations": [
+                {
+                  "title": "Wills & Estates Lawyer Ipswich",
+                  "url": "https://jacarandalaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their services include probate and estate administration, will disputes, and testamentary trusts. They are located at 77 Roderick Street, Ipswich QLD 4305, and can be reached at (07) 3812 2667.",
+              "annotations": [
+                {
+                  "title": "Wills & Estates Lawyer Ipswich",
+                  "url": "https://jacarandalaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n2. **Richard Zande and Associates**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Richard Zande and Associates brings over six decades of experience helping Ipswich families navigate probate processes, executor responsibilities, and beneficiary disputes.",
+              "annotations": [
+                {
+                  "title": "Find Estate Administration Lawyers in Ipswich, QLD",
+                  "url": "https://lawconnect.com/en-au/find/estate-administration/qld/ipswich-4305",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The firm's flexible approach includes conducting consultations at clients' homes, hospitals, or during evening hours when traditional appointments aren't suitable.",
+              "annotations": [
+                {
+                  "title": "Compare 5 Wills and Estates Lawyers in Ipswich, QLD",
+                  "url": "https://lawconnect.com/en-au/find/wills-and-estates/qld/ipswich-4305",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n3. **David Grant and Associates**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Families dealing with deceased estates receive comprehensive guidance through complex probate processes and administrative requirements from David Grant and Associates. The Ipswich-based practice, operating since 1973, assists executors and beneficiaries with grant applications, asset distribution, debt settlement, and estate finalisation matters.",
+              "annotations": [
+                {
+                  "title": "Find Estate Administration Lawyers in Ipswich, QLD",
+                  "url": "https://lawconnect.com/en-au/find/estate-administration/qld/ipswich-4305",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n4. **Walker Pender Lawyers**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Combining heritage from two historic legal practices dating back to the 1870s, Walker Pender Lawyers brings deep community knowledge to deceased estate matters in Ipswich. Their experienced team handles the complex legal requirements of estate administration, from probate applications to asset distribution. Since merging in 1988, the firm has maintained strong community ties while providing comprehensive estate services.",
+              "annotations": [
+                {
+                  "title": "Find Deceased Estates Lawyers in Ipswich QLD - Lawconnect",
+                  "url": "https://lawconnect.com/en-au/find/deceased-estates/qld/ipswich-4305",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n5. **M.A. Kent and Associates**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "M.A. Kent and Associates is an Ipswich-based firm with 4.3 stars from 101 recommendations",
+              "annotations": [
+                {
+                  "title": "Compare 5 Wills and Estates Lawyers in Ipswich, QLD",
+                  "url": "https://lawconnect.com/en-au/find/wills-and-estates/qld/ipswich-4305",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Compare 5 Wills and Estates Lawyers in Ipswich, QLD",
+                  "url": "https://lawconnect.com/en-au/find/wills-and-estates/qld/ipswich-4305",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", handling wills and estates matters for local clients.\n\n6. **Turner Freeman Lawyers**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Turner Freeman Lawyers have an experienced team of wills and estate lawyers servicing the Ipswich area, dedicated to helping clients plan for the future and navigate estate matters. Their Ipswich-based team can assist with new wills, estate planning, and estate litigation cases.",
+              "annotations": [
+                {
+                  "title": "Wills & Estate Lawyers Ipswich",
+                  "url": "https://www.turnerfreeman.com.au/wills-estates-lawyers-ipswich/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They can also assist with probate and estate administration, as well as resolving estate disputes.",
+              "annotations": [
+                {
+                  "title": "Wills & Estate Lawyers Ipswich",
+                  "url": "https://www.turnerfreeman.com.au/wills-estates-lawyers-ipswich/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 🏛️ Firms Serving Ipswich (Nearby/Regional)\n\n7. **Bennett Carroll Solicitors**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Bennett Carroll Solicitors provides trusted legal advice in Queensland with offices across Brisbane, the Sunshine Coast, Gold Coast, and Ipswich.",
+              "annotations": [
+                {
+                  "title": "Estate Administration & Probate Lawyers in Queensland",
+                  "url": "https://www.bcglaw.com.au/estate-administration/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They navigate the complexities of will and estate administration, with expert guidance on probate, asset distribution, and executor duties.",
+              "annotations": [
+                {
+                  "title": "Estate Administration & Probate Lawyers in Queensland",
+                  "url": "https://www.bcglaw.com.au/estate-administration/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n8. **Generations Law**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Established in 2019, Generations Law prioritises client needs using technology for high-quality legal services at an affordable price, offering home visits and videoconferencing along with fixed fee pricing.",
+              "annotations": [
+                {
+                  "title": "Find Deceased Estates Lawyers in Ipswich QLD - Lawconnect",
+                  "url": "https://lawconnect.com/en-au/find/deceased-estates/qld/ipswich-4305",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Clients trust them for their efficiency, online and in-person appointments, and compassionate service throughout Ipswich, Logan, Forest Lake, and Brisbane.",
+              "annotations": [
+                {
+                  "title": "Find Deceased Estates Lawyers in Ipswich QLD - Lawconnect",
+                  "url": "https://lawconnect.com/en-au/find/deceased-estates/qld/ipswich-4305",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n9. **Brookwater Legal**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Brookwater Legal is an experienced local law firm based in Augustine Heights, Queensland, practising in family law, commercial law, property and conveyancing, estate planning, workplace law, and succession planning. The firm services Greater Springfield, Ipswich, and surrounding suburbs.",
+              "annotations": [
+                {
+                  "title": "Wills & Estate Planning Ipswich",
+                  "url": "https://brookwaterlegal.com.au/income-protection-and-succession-planning/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### ⚖️ Important Note on Jurisdiction\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Estate disputes for Ipswich residents are handled by the Supreme Court of Queensland, based in Brisbane. This court has exclusive jurisdiction over probate, Letters of Administration, and contested wills matters under Queensland law.",
+              "annotations": [
+                {
+                  "title": "Wills & Estates Lawyers in Ipswich, Queensland",
+                  "url": "https://www.gotocourt.com.au/qld/ipswich-lawyers/wills-and-estates",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\nAs an executor, it's worth seeking a firm with specific experience in **Queensland probate applications**, **executor duties**, and **deceased estate administration**. Firms like **Jacaranda Law**, **Richard Zande and Associates**, and **Walker Pender Lawyers** stand out for their local Ipswich presence and specialised focus in this area. Many offer initial consultations, so it's worth contacting a few to compare their approach and fees.",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "law firms specialising in probate estate administration Queensland Ipswich",
+        "Queensland probate deceased estate administration law firms"
+      ]
+    }
+  ]
+}

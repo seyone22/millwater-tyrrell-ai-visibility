@@ -1,0 +1,242 @@
+{
+  "slug": "ipswich",
+  "pk": "parenting_custody",
+  "plat": "aimode",
+  "text": "Which family lawyers in Ipswich are best for parenting arrangements, child custody disputes, and accredited family dispute resolution (mediation)?",
+  "loc": 9060853,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\ipswich__parenting_custody__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:23:42.942Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which family lawyers in Ipswich are best for parenting arrangements, child custody disputes, and accredited family dispute resolution (mediation)?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 9060853,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20family%20lawyers%20in%20Ipswich%20are%20best%20for%20parenting%20arrangements%2C%20child%20custody%20disputes%2C%20and%20accredited%20family%20dispute%20resolution%20%28mediation%29%3F&udm=50&uule=w+CAIQIFISCRfJziPLtZZrERCM3vNaowIF&hl=en&gl=AU",
+      "datetime": "2026-10-23 05:23:38 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "When looking for family lawyers in Ipswich who handle parenting arrangements, child custody disputes, and accredited Family Dispute Resolution (FDR) / mediation, `several local firms` stand out for their expertise, alternative dispute resolution focus, and localized experience:\n\n\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLc0ra2d9RTpS9nvjVXsO3KgVsJe6LOoSMdAKfflAr1ChWL67hSpCmyXSYAgZdBHcD6bqQOfgDlp2jkyF6T-V8yKw8MMaDV_YXfTA7Sv4a3Bn1oyJO0Hnxjd2u9LNzHL06C--sWJZlkFvwY=s192-w192-h144-n-k-no)\nFallu McMillan Lawyers 4.9 (203)  \nLegal services  \nOpen 233 Brisbane St  \nCall Directions Website Fallu McMillan Lawyers : Offers dedicated family law services led by experience, including preliminary assessments by Family Law Accredited Specialists. They handle child custody, separation, and domestic violence matters with flexible fee structures.\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLceroix1vUkLSzIaC8vAjksj9bTJXvF-oXw3KfKE2VdlG_ILVpdjImC5t_OCav7h_jUqm14S1WtYeCisxzEBl9m7IviVtfjcEK6tYZ3M560rEt1JWGkimkS-vN41bt58XvzG3TawzXsDCjx=s108-w108-h144-n-k-no)\nKeane Legal 4.0 (4)  \nLaw firm  \nOpen East Ipswich QLD  \nCall Directions Website Keane Legal : Operating out of East Ipswich and Brookwater, they provide dedicated child custody and parenting arrangement representation alongside fixed-fee family law mediation services delivered by qualified Family Dispute Resolution Practitioners (FDRPs).\n\n---\n\n![](https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QurfQ83WEnqjU5YZaWmO8A&cb_client=search.gws-prod.grass&yaw=94.6419&pitch=-11.619396&thumbfov=100&w=82&h=82)\nBrookwater Legal 4.8 (326)  \nLegal services  \nOpen Augustine Heights QLD  \nCall Directions Website Brookwater Legal : Servicing Ipswich and Springfield, they focus heavily on child-focused parenting arrangements, international or local disputes, and alternative dispute resolution/mediation support with a confidential initial consultation option.\n\n---\n\n![](https://api.dataforseo.com/cdn/i/10230523-2877-0139-0000-0a2476073d6c:4)\nMillwater Tyrrell Lawyers 4.8 (107)  \nLegal services  \nOpen Level 1/215 Brisbane St  \nCall Directions Website Millwater Tyrrell Lawyers : Located on Brisbane Street in Ipswich, this firm brings decades of combined local experience in family law and mediation guidance, offering a free initial 30-minute consultation to evaluate parenting and property separation disputes.\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLcP-zfwoGE6lgIGkPJ8xPZ-iauziCRzy14fmPbTya76H2jgGdEKKp3dhgDFPY6mPJb2820Zg1a2vcnS8GJDx4hqgDK07k-WniGDN0nKM-PlbmO1XZ6WqZhQzFYeY8DJPkjjRYTP=s192-w192-h144-n-k-no)\nRichard Zande & Co 4.6 (94)  \nFamily law attorney  \nOpen 49 Ellenborough St  \nCall Directions Website Richard Zande & Co : Located on Ellenborough Street in Ipswich, they offer specialized Family Dispute Resolution and mediation services tailored to resolving child custody and family matters outside of the courtroom.[[1]](https://www.fmlaw.com.au/practice-areas/family-law/)[[2]](https://www.keanelegal.com.au/child-custody-lawyers-in-ipswich-qld)[[3]](https://www.keanelegal.com.au/family-mediation)[[4]](https://www.brookwaterlegal.com.au/family-lawyers)[[5]](https://millwatertyrrell.com.au/)[[6]](https://richardzande.com.au/services/mediation/)\n\nIf you'd like to narrow this down, please let me know:\n\n- Do you need an **accredited mediator** to run a joint session right away, or a **litigation lawyer** to represent you in a dispute?\n- Are there any urgent safety concerns or risk factors (such as **domestic violence** or **relocation risks** ) involved?",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "When looking for family lawyers in Ipswich who handle parenting arrangements, child custody disputes, and accredited Family Dispute Resolution (FDR) / mediation, several local firms stand out for their expertise, alternative dispute resolution focus, and localized experience:",
+              "markdown": "When looking for family lawyers in Ipswich who handle parenting arrangements, child custody disputes, and accredited Family Dispute Resolution (FDR) / mediation, `several local firms` stand out for their expertise, alternative dispute resolution focus, and localized experience:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Fallu McMillan Lawyers 4.9 (203) Legal services Open 233 Brisbane St Call Directions Website Fallu McMillan Lawyers : Offers dedicated family law services led by experience, including preliminary assessments by Family Law Accredited Specialists. They handle child custody, separation, and domestic violence matters with flexible fee structures.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLc0ra2d9RTpS9nvjVXsO3KgVsJe6LOoSMdAKfflAr1ChWL67hSpCmyXSYAgZdBHcD6bqQOfgDlp2jkyF6T-V8yKw8MMaDV_YXfTA7Sv4a3Bn1oyJO0Hnxjd2u9LNzHL06C--sWJZlkFvwY=s192-w192-h144-n-k-no)\nFallu McMillan Lawyers 4.9 (203)  \nLegal services  \nOpen 233 Brisbane St  \nCall Directions Website Fallu McMillan Lawyers : Offers dedicated family law services led by experience, including preliminary assessments by Family Law Accredited Specialists. They handle child custody, separation, and domestic violence matters with flexible fee structures.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc0ra2d9RTpS9nvjVXsO3KgVsJe6LOoSMdAKfflAr1ChWL67hSpCmyXSYAgZdBHcD6bqQOfgDlp2jkyF6T-V8yKw8MMaDV_YXfTA7Sv4a3Bn1oyJO0Hnxjd2u9LNzHL06C--sWJZlkFvwY=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Keane Legal 4.0 (4) Law firm Open East Ipswich QLD Call Directions Website Keane Legal : Operating out of East Ipswich and Brookwater, they provide dedicated child custody and parenting arrangement representation alongside fixed-fee family law mediation services delivered by qualified Family Dispute Resolution Practitioners (FDRPs).",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLceroix1vUkLSzIaC8vAjksj9bTJXvF-oXw3KfKE2VdlG_ILVpdjImC5t_OCav7h_jUqm14S1WtYeCisxzEBl9m7IviVtfjcEK6tYZ3M560rEt1JWGkimkS-vN41bt58XvzG3TawzXsDCjx=s108-w108-h144-n-k-no)\nKeane Legal 4.0 (4)  \nLaw firm  \nOpen East Ipswich QLD  \nCall Directions Website Keane Legal : Operating out of East Ipswich and Brookwater, they provide dedicated child custody and parenting arrangement representation alongside fixed-fee family law mediation services delivered by qualified Family Dispute Resolution Practitioners (FDRPs).",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLceroix1vUkLSzIaC8vAjksj9bTJXvF-oXw3KfKE2VdlG_ILVpdjImC5t_OCav7h_jUqm14S1WtYeCisxzEBl9m7IviVtfjcEK6tYZ3M560rEt1JWGkimkS-vN41bt58XvzG3TawzXsDCjx=s108-w108-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Brookwater Legal 4.8 (326) Legal services Open Augustine Heights QLD Call Directions Website Brookwater Legal : Servicing Ipswich and Springfield, they focus heavily on child-focused parenting arrangements, international or local disputes, and alternative dispute resolution/mediation support with a confidential initial consultation option.",
+              "markdown": "---\n\n![](https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QurfQ83WEnqjU5YZaWmO8A&cb_client=search.gws-prod.grass&yaw=94.6419&pitch=-11.619396&thumbfov=100&w=82&h=82)\nBrookwater Legal 4.8 (326)  \nLegal services  \nOpen Augustine Heights QLD  \nCall Directions Website Brookwater Legal : Servicing Ipswich and Springfield, they focus heavily on child-focused parenting arrangements, international or local disputes, and alternative dispute resolution/mediation support with a confidential initial consultation option.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QurfQ83WEnqjU5YZaWmO8A&cb_client=search.gws-prod.grass&yaw=94.6419&pitch=-11.619396&thumbfov=100&w=82&h=82"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Millwater Tyrrell Lawyers 4.8 (107) Legal services Open Level 1/215 Brisbane St Call Directions Website Millwater Tyrrell Lawyers : Located on Brisbane Street in Ipswich, this firm brings decades of combined local experience in family law and mediation guidance, offering a free initial 30-minute consultation to evaluate parenting and property separation disputes.",
+              "markdown": "---\n\n![](https://api.dataforseo.com/cdn/i/10230523-2877-0139-0000-0a2476073d6c:2)\nMillwater Tyrrell Lawyers 4.8 (107)  \nLegal services  \nOpen Level 1/215 Brisbane St  \nCall Directions Website Millwater Tyrrell Lawyers : Located on Brisbane Street in Ipswich, this firm brings decades of combined local experience in family law and mediation guidance, offering a free initial 30-minute consultation to evaluate parenting and property separation disputes.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/10230523-2877-0139-0000-0a2476073d6c:3"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Richard Zande & Co 4.6 (94) Family law attorney Open 49 Ellenborough St Call Directions Website Richard Zande & Co : Located on Ellenborough Street in Ipswich, they offer specialized Family Dispute Resolution and mediation services tailored to resolving child custody and family matters outside of the courtroom.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLcP-zfwoGE6lgIGkPJ8xPZ-iauziCRzy14fmPbTya76H2jgGdEKKp3dhgDFPY6mPJb2820Zg1a2vcnS8GJDx4hqgDK07k-WniGDN0nKM-PlbmO1XZ6WqZhQzFYeY8DJPkjjRYTP=s192-w192-h144-n-k-no)\nRichard Zande & Co 4.6 (94)  \nFamily law attorney  \nOpen 49 Ellenborough St  \nCall Directions Website Richard Zande & Co : Located on Ellenborough Street in Ipswich, they offer specialized Family Dispute Resolution and mediation services tailored to resolving child custody and family matters outside of the courtroom.[[1]](https://www.fmlaw.com.au/practice-areas/family-law/)[[2]](https://www.keanelegal.com.au/child-custody-lawyers-in-ipswich-qld)[[3]](https://www.keanelegal.com.au/family-mediation)[[4]](https://www.brookwaterlegal.com.au/family-lawyers)[[5]](https://millwatertyrrell.com.au/)[[6]](https://richardzande.com.au/services/mediation/)",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcP-zfwoGE6lgIGkPJ8xPZ-iauziCRzy14fmPbTya76H2jgGdEKKp3dhgDFPY6mPJb2820Zg1a2vcnS8GJDx4hqgDK07k-WniGDN0nKM-PlbmO1XZ6WqZhQzFYeY8DJPkjjRYTP=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Fallu McMillan Lawyers",
+                  "domain": "www.fmlaw.com.au",
+                  "url": "https://www.fmlaw.com.au/practice-areas/family-law/",
+                  "title": "Divorce and Family Lawyer Ipswich | Fallu McMillan Lawyers",
+                  "text": "Practice Areas: Injury and compensation law, Wills and estate law, Family law, Business and commercial law, Conveyancing, Criminal..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Keane Legal",
+                  "domain": "www.keanelegal.com.au",
+                  "url": "https://www.keanelegal.com.au/child-custody-lawyers-in-ipswich-qld",
+                  "title": "Keane Legal: Family Lawyers Ipswich & Brookwater",
+                  "text": "your local family lawyers IN IPSWICH & BROOKWATER QLD Sadliers Crossing, Queensland Silkstone, Queensland Springfield Central, Que..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Keane Legal",
+                  "domain": "www.keanelegal.com.au",
+                  "url": "https://www.keanelegal.com.au/family-mediation",
+                  "title": "Family Law Mediator Ipswich & Brookwater QLD - Keane Legal",
+                  "text": "Need Fixed Fee Family Law Mediation Services? Our FDRP mediators are here to help. Call Keane Legal ☎ 07 3495 7339. Our qualified ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Brookwater Legal",
+                  "domain": "www.brookwaterlegal.com.au",
+                  "url": "https://www.brookwaterlegal.com.au/family-lawyers",
+                  "title": "Local Family Lawyers | Brookwater Legal",
+                  "text": "Provider: Brookwater Legal | Ipswich and Springfield Services: Parenting and children's matters (arrangements, child support, pate..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Millwater Tyrrell Law",
+                  "domain": "millwatertyrrell.com.au",
+                  "url": "https://millwatertyrrell.com.au/",
+                  "title": "Ipswich Lawyers - Ipswich Expert Family & Commercial Lawyers",
+                  "text": "Firm: Millwater Tyrrell Lawyers (Principals: David Millwater, Matthew Tyrrell; over 40 years combined experience). Services: Famil..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Richard Zande & Associates",
+                  "domain": "richardzande.com.au",
+                  "url": "https://richardzande.com.au/services/mediation/",
+                  "title": "Mediation Ipswich: Family Dispute Resolution",
+                  "text": "Find a resolution without the costs of litigation. Call us today on 07 3281 1633 to find out how our mediation experts can help yo..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you'd like to narrow this down, please let me know:",
+              "markdown": "If you'd like to narrow this down, please let me know:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Do you need an accredited mediator to run a joint session right away, or a litigation lawyer to represent you in a dispute? Are there any urgent safety concerns or risk factors (such as domestic violence or relocation risks ) involved?",
+              "markdown": "- Do you need an **accredited mediator** to run a joint session right away, or a **litigation lawyer** to represent you in a dispute?\n- Are there any urgent safety concerns or risk factors (such as **domestic violence** or **relocation risks** ) involved?",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Fallu McMillan Lawyers",
+              "domain": "www.fmlaw.com.au",
+              "url": "https://www.fmlaw.com.au/practice-areas/family-law/",
+              "title": "Divorce and Family Lawyer Ipswich | Fallu McMillan Lawyers",
+              "text": "Practice Areas: Injury and compensation law, Wills and estate law, Family law, Business and commercial law, Conveyancing, Criminal defence. Family Law Services: Di..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Millwater Tyrrell Law",
+              "domain": "millwatertyrrell.com.au",
+              "url": "https://millwatertyrrell.com.au/",
+              "title": "Ipswich Lawyers - Ipswich Expert Family & Commercial Lawyers",
+              "text": "Firm: Millwater Tyrrell Lawyers (Principals: David Millwater, Matthew Tyrrell; over 40 years combined experience). Services: Family law, divorce, commercial law, c..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Brookwater Legal",
+              "domain": "www.brookwaterlegal.com.au",
+              "url": "https://www.brookwaterlegal.com.au/family-lawyers",
+              "title": "Local Family Lawyers | Brookwater Legal",
+              "text": "Provider: Brookwater Legal | Ipswich and Springfield Services: Parenting and children's matters (arrangements, child support, paternity, international abduction, s..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

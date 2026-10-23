@@ -1,0 +1,106 @@
+{
+  "slug": "ipswich",
+  "pk": "fixed_fee_family_estates",
+  "plat": "perplexity",
+  "text": "Which boutique law firms in Ipswich offer free initial consultations, fixed-fee wills, or deferred-fee options for family law and wills and estates?",
+  "loc": 9060853,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\ipswich__fixed_fee_family_estates__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:24:01.658Z",
+  "cost": 0.00616,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 39,
+      "output_tokens": 521,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.00556,
+      "datetime": "2026-10-23 05:23:57 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "In **Ipswich, Queensland**, the strongest matches are:\n\n- **Armstrong Legal** — Offers obligation-free initial consultations for contested wills and estate disputes. Deferred-fee or “pay-at-end” arrangements, and sometimes no-win-no-fee funding, may be available after assessing the case and its prospects.[1]\n- **David Grant & Associates** — An Ipswich-area firm offering wills, powers of attorney, estate administration and family law. Its published service listings mention fixed-fee wills, but the availability of free consultations or deferred fees should be confirmed directly.[2]\n- **Walker Pender Group** — Provides wills, estate planning and family-law services in Ipswich. Ask whether a fixed-fee will package or complimentary initial appointment is available for your circumstances.[2]\n- **McNamara Law** — Offers family law and estate-planning services in Ipswich and Springfield Central. The available listing does not confirm free consultations or deferred fees, so request a written cost proposal.[2]\n- **Legal Arch** — A boutique Queensland practice serving the Ipswich region, with family-law services, wills and powers of attorney, flexible consultation formats and an emphasis on transparent, cost-effective fees.[2]\n- **Rangi Lawyers** — Serves Ipswich and nearby areas, handles family law and wills and estates, and advertises flexible appointments and free initial consultations.[2]\n- **Stanford Legal** — Based in Ipswich and practising in family law and wills and estates; initial consultations are described as complimentary.[2]\n\n**Best options by fee type:**\n\n| Need | Firms to contact |\n|---|---|\n| Free initial consultation | Rangi Lawyers; Stanford Legal; Armstrong Legal for contested-estate matters[1][2] |\n| Fixed-fee wills | David Grant & Associates appears to advertise fixed-fee wills; confirm current pricing and inclusions[2] |\n| Deferred or pay-at-end fees | Armstrong Legal, mainly for qualifying contested-will or family-provision disputes and subject to assessment[1] |\n| Boutique, flexible-fee approach | Legal Arch; Rangi Lawyers; Stanford Legal[2] |\n\nBefore booking, ask whether the consultation is genuinely free, whether it includes substantive advice or only an intake discussion, the exact fixed-fee inclusions, and whether deferred fees apply to your specific matter. The search results do not establish that every listed firm is a boutique practice or that each fee offer applies to all family-law and estate matters.",
+              "annotations": [
+                {
+                  "title": "Wills Solicitors",
+                  "url": "https://www.ashtonslegal.co.uk/your-life/wills-solicitors/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Clements Solicitors Ltd | Employment Law | Ipswich, UK",
+                  "url": "https://www.clementssolicitors.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Will Writing in Suffolk | Fees Guide for Suffolk Solicitors",
+                  "url": "https://www.agespace.org/local/suffolk/legal/will-writing-services",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Contest A Will Lawyer Ipswich",
+                  "url": "https://www.armstronglegal.com.au/pages/cmcw-contest-a-will-lawyer-ipswich/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Lawyers | Clements Solicitors | Ipswich",
+                  "url": "https://www.clementssolicitors.com/family-law",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Law Solicitors Ipswich",
+                  "url": "https://howells.law/services/family-law-solicitors/family-law-solicitors-ipswich/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estate Lawyers Ipswich",
+                  "url": "https://www.turnerfreeman.com.au/wills-estates-lawyers-ipswich/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Solicitors and Legal Help In Ipswich - JusticeDirectory.co.uk",
+                  "url": "https://www.justicedirectory.co.uk/best-ipswich-solicitors-and-legal-services",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Ipswich Office",
+                  "url": "https://fullersfamilylaw.com/family-law-solicitors-ipswich",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Find Mediation Lawyers in Ipswich, QLD | Lawconnect",
+                  "url": "https://lawconnect.com/en-au/find/mediation/qld/ipswich-4305",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

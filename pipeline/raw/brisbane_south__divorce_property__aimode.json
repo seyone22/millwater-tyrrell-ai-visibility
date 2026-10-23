@@ -1,0 +1,202 @@
+{
+  "slug": "brisbane_south",
+  "pk": "divorce_property",
+  "plat": "aimode",
+  "text": "I am going through a separation and complex property settlement in Brisbane Southside (Mount Gravatt & Sunnybank). Which family law firms have the strongest track record for property division and binding financial agreements?",
+  "loc": 9060851,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_south__divorce_property__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:28:19.517Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "I am going through a separation and complex property settlement in Brisbane Southside (Mount Gravatt & Sunnybank). Which family law firms have the strongest track record for property division and binding financial agreements?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 9060851,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=I%20am%20going%20through%20a%20separation%20and%20complex%20property%20settlement%20in%20Brisbane%20Southside%20%28Mount%20Gravatt%20%26%20Sunnybank%29.%20Which%20family%20law%20firms%20have%20the%20strongest%20track%20record%20for%20property%20division%20and%20binding%20financial%20agreements%3F&udm=50&uule=w+CAIQIFISCUtNXk8xW5FrERCc3vNaowIF&hl=en&gl=AU",
+      "datetime": "2026-10-23 05:28:15 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "**Several prominent family law firms service the Brisbane Southside (Mount Gravatt, Sunnybank, and surrounding suburbs), offering specialized expertise in complex property division, asset-pooling, superannuation splitting, and Binding Financial Agreements (BFAs).** \n\n### Key Family Law Firms Serving Mount Gravatt & Sunnybank\n\n| Firm Name & Local Presence | Core Strengths / Focus Areas | How They Help with Property & BFAs |\n|---|---|---|\n| **[Australian Family Lawyers (Mount Gravatt Office)](https://www.australianfamilylawyers.com.au/cm-family-lawyers-mount-gravatt)**   \n*(Services Mount Gravatt & Southside)* | High-asset property pools, complex negotiations, and settlement-first strategies. | Breaks down multifaceted asset pools, handles business/trust structures, and drafts or challenges [Binding Financial Agreements (BFAs)](https://www.australianfamilylawyers.com.au/cm-family-lawyers-mount-gravatt). |\n| **Michael Lynch Family Lawyers**   \n*(Brisbane-wide / Southside servicing)* | Over 100 years of combined specialist family law experience. | Dedicated property settlement advice, complex financial separation, and litigation representation if negotiations fail. |\n| **Grasso Searles Romano Lawyers**   \n*(Coorparoo / Close to Mount Gravatt)* | Multi-disciplinary advisory (led by practitioners with combined tax, accounting, and legal credentials). | Ideal for complex property divisions involving business entities, tax implications, and estate overlap. |\n| **Ashri Legal**   \n*(Sunnybank / Southside)* | Client-centred local practice handling Sunnybank and broader Southside matters. | Specialises in property settlements, consent orders, and bespoke Binding Financial Agreements. |\n\n### What to Look for in a Complex Property & BFA Lawyer\n\n- **Asset & Trust Complexity:** If your property pool includes family trusts, corporate entities, commercial holdings, or third-party debt, look for firms that integrate tax or commercial acumen (such as Grasso Searles Romano or national practices with forensic accounting ties).\n- **Binding Financial Agreement (BFA) Rigor:** BFAs require strict independent legal advice for both parties under the *Family Law Act 1975* to be legally binding. Ensure the firm you choose routinely drafts airtight agreements to prevent future set-aside applications.\n- **Mediation vs. Litigation Track Record:** Most complex matters settle out of court via mediation or collaborative law. Ask prospective firms what percentage of their complex property cases settle prior to a final court hearing.[[1]](https://www.australianfamilylawyers.com.au/cm-family-lawyers-mount-gravatt)\n\nIf you can share a bit more context—such as whether you are dealing with **business/trust structures**, **real estate holdings** , or **superannuation splits** —I can help you pinpoint what specific questions to ask these firms during an initial consultation.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Several prominent family law firms service the Brisbane Southside (Mount Gravatt, Sunnybank, and surrounding suburbs), offering specialized expertise in complex property division, asset-pooling, superannuation splitting, and Binding Financial Agreements (BFAs).",
+              "markdown": "**Several prominent family law firms service the Brisbane Southside (Mount Gravatt, Sunnybank, and surrounding suburbs), offering specialized expertise in complex property division, asset-pooling, superannuation splitting, and Binding Financial Agreements (BFAs).**",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Key Family Law Firms Serving Mount Gravatt & Sunnybank",
+              "text": null,
+              "markdown": "### Key Family Law Firms Serving Mount Gravatt & Sunnybank",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_table_element",
+              "position": "left",
+              "markdown": "| Firm Name & Local Presence | Core Strengths / Focus Areas | How They Help with Property & BFAs |\n|---|---|---|\n| **[Australian Family Lawyers (Mount Gravatt Office)](https://www.australianfamilylawyers.com.au/cm-family-lawyers-mount-gravatt)**   \n*(Services Mount Gravatt & Southside)* | High-asset property pools, complex negotiations, and settlement-first strategies. | Breaks down multifaceted asset pools, handles business/trust structures, and drafts or challenges [Binding Financial Agreements (BFAs)](https://www.australianfamilylawyers.com.au/cm-family-lawyers-mount-gravatt). |\n| **Michael Lynch Family Lawyers**   \n*(Brisbane-wide / Southside servicing)* | Over 100 years of combined specialist family law experience. | Dedicated property settlement advice, complex financial separation, and litigation representation if negotiations fail. |\n| **Grasso Searles Romano Lawyers**   \n*(Coorparoo / Close to Mount Gravatt)* | Multi-disciplinary advisory (led by practitioners with combined tax, accounting, and legal credentials). | Ideal for complex property divisions involving business entities, tax implications, and estate overlap. |\n| **Ashri Legal**   \n*(Sunnybank / Southside)* | Client-centred local practice handling Sunnybank and broader Southside matters. | Specialises in property settlements, consent orders, and bespoke Binding Financial Agreements. |",
+              "table": {
+                "table_header": [
+                  "Firm Name & Local Presence",
+                  "Core Strengths / Focus Areas",
+                  "How They Help with Property & BFAs"
+                ],
+                "table_content": [
+                  [
+                    "Australian Family Lawyers (Mount Gravatt Office) (Services Mount Gravatt & Southside)",
+                    "High-asset property pools, complex negotiations, and settlement-first strategies.",
+                    "Breaks down multifaceted asset pools, handles business/trust structures, and drafts or challenges Binding Financial Agreements (BFAs)."
+                  ],
+                  [
+                    "Michael Lynch Family Lawyers (Brisbane-wide / Southside servicing)",
+                    "Over 100 years of combined specialist family law experience.",
+                    "Dedicated property settlement advice, complex financial separation, and litigation representation if negotiations fail."
+                  ],
+                  [
+                    "Grasso Searles Romano Lawyers (Coorparoo / Close to Mount Gravatt)",
+                    "Multi-disciplinary advisory (led by practitioners with combined tax, accounting, and legal credentials).",
+                    "Ideal for complex property divisions involving business entities, tax implications, and estate overlap."
+                  ],
+                  [
+                    "Ashri Legal (Sunnybank / Southside)",
+                    "Client-centred local practice handling Sunnybank and broader Southside matters.",
+                    "Specialises in property settlements, consent orders, and bespoke Binding Financial Agreements."
+                  ]
+                ]
+              }
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "What to Look for in a Complex Property & BFA Lawyer",
+              "text": "Asset & Trust Complexity: If your property pool includes family trusts, corporate entities, commercial holdings, or third-party debt, look for firms that integrate tax or commercial acumen (such as Grasso Searles Romano or national practices with forensic accounting ties). If your property pool includes family trusts, corporate entities, commercial holdings, or third-party debt, look for firms that integrate tax or commercial acumen (such as Grasso Searles Romano or national practices with forensic accounting ties). Grasso Searles Romano Binding Financial Agreement (BFA) Rigor: BFAs require strict independent legal advice for both parties under the Family Law Act 1975 to be legally binding. Ensure the firm you choose routinely drafts airtight agreements to prevent future set-aside applications. Mediation vs. Litigation Track Record: Most complex matters settle out of court via mediation or collaborative law. Ask prospective firms what percentage of their complex property cases settle prior to a final court hearing.",
+              "markdown": "- **Asset & Trust Complexity:** If your property pool includes family trusts, corporate entities, commercial holdings, or third-party debt, look for firms that integrate tax or commercial acumen (such as Grasso Searles Romano or national practices with forensic accounting ties).\n- **Binding Financial Agreement (BFA) Rigor:** BFAs require strict independent legal advice for both parties under the *Family Law Act 1975* to be legally binding. Ensure the firm you choose routinely drafts airtight agreements to prevent future set-aside applications.\n- **Mediation vs. Litigation Track Record:** Most complex matters settle out of court via mediation or collaborative law. Ask prospective firms what percentage of their complex property cases settle prior to a final court hearing.[[1]](https://www.australianfamilylawyers.com.au/cm-family-lawyers-mount-gravatt)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Australian Family Lawyers",
+                  "domain": "www.australianfamilylawyers.com.au",
+                  "url": "https://www.australianfamilylawyers.com.au/cm-family-lawyers-mount-gravatt",
+                  "title": "Family Lawyers Mount Gravatt",
+                  "text": "Our lawyers approach each case with a settlement-first mindset because reasonable negotiation and family mediation can spare you, ..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you can share a bit more context—such as whether you are dealing with business/trust structures, real estate holdings, or superannuation splits —I can help you pinpoint what specific questions to ask these firms during an initial consultation.",
+              "markdown": "If you can share a bit more context—such as whether you are dealing with **business/trust structures**, **real estate holdings** , or **superannuation splits** —I can help you pinpoint what specific questions to ask these firms during an initial consultation.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_paid",
+              "position": "left",
+              "text": "To explore additional family law representation and schedule a consultation for your property settlement, you can consider the following options:",
+              "markdown": "To explore additional family law representation and schedule a consultation for your property settlement, you can consider the following options:",
+              "items": [
+                {
+                  "type": "ai_overview_paid_element",
+                  "title": "Top Rated Family Lawyers - Family Lawyers Brisbane",
+                  "url": null,
+                  "domain": null,
+                  "ad_aclk": "DChsSEwiRk5D4s8-XAxVdkoMHHZ8tO7UYACICCAIQABoCZWY",
+                  "website_name": "lawconnect.com",
+                  "breadcrumb": null,
+                  "snippet": "Tell us your legal needs and we'll match you with top-rated local family lawyers today.",
+                  "images": null
+                },
+                {
+                  "type": "ai_overview_paid_element",
+                  "title": "Complex Asset Division - Free 20-Minute Discovery Call - Arrange A Consultation",
+                  "url": null,
+                  "domain": null,
+                  "ad_aclk": "DChsSEwiRk5D4s8-XAxVdkoMHHZ8tO7UYACICCAIQARoCZWY",
+                  "website_name": "Sambanis Family Law",
+                  "breadcrumb": null,
+                  "snippet": "Understand your options for a financial settlement. Arrange a confidential consultation.",
+                  "images": [
+                    {
+                      "type": "images_element",
+                      "alt": null,
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/10230528-2877-0139-0000-e25a0bb64c36:0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Australian Family Lawyers",
+              "domain": "www.australianfamilylawyers.com.au",
+              "url": "https://www.australianfamilylawyers.com.au/cm-family-lawyers-mount-gravatt",
+              "title": "Family Lawyers Mount Gravatt",
+              "text": "With our experience as Australia's largest specialised family law firm, you can rely on our steady, solutions-focused approach and rest assured that we've even wor..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "LawConnect",
+              "domain": "lawconnect.com",
+              "url": "https://lawconnect.com/en-au/find/family-law/qld/sunnybank-4109",
+              "title": "Family Lawyers in Sunnybank, QLD – 12 Nearby - LawConnect",
+              "text": "Ashri Legal in Brisbane, led by Principal Solicitor Ashika Jacques, offers a client-centred approach to family law since 2025. The firm provides compassionate, tra..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Michael Lynch Family Lawyers",
+              "domain": "www.michaellynchfamilylawyers.com.au",
+              "url": "https://www.michaellynchfamilylawyers.com.au/",
+              "title": "Michael Lynch Family Lawyers: Family Lawyers Brisbane",
+              "text": "Michael Lynch Family Lawyers is a family law firm in Brisbane, Australia. They specialize in all aspects of family and relationship law. Their lawyers have over 10..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "LawConnect",
+              "domain": "lawconnect.com",
+              "url": "https://lawconnect.com/en-au/find/family-law/qld/mount-gravatt-4122",
+              "title": "Family Lawyers in Mount Gravatt, QLD",
+              "text": "Family Lawyers in Mount Gravatt QLD * Grasso Searles Romano Coorparoo, QLD (4.0 km from Mount Gravatt) +6173236.. Grasso Searles Romano Lawyers is a boutique firm ..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

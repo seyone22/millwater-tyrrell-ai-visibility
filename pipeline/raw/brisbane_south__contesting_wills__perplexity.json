@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane_south",
+  "pk": "contesting_wills",
+  "plat": "perplexity",
+  "text": "Which wills and estates law firms in Brisbane Southside (Mount Gravatt & Sunnybank) specialise in contesting a will, Family Provision Applications (FPA), and estate litigation?",
+  "loc": 9060851,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_south__contesting_wills__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:28:53.137Z",
+  "cost": 0.006227,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 46,
+      "output_tokens": 581,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005627,
+      "datetime": "2026-10-23 05:28:49 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For **Brisbane Southside—especially Mount Gravatt and Sunnybank—the strongest local matches are:**\n\n- **Campbells Legal — Upper Mount Gravatt:** Explicitly handles estate disputes, Family Provision Applications and contested estates, acting both for people left out of a will and executors defending claims. It is a family-run Upper Mount Gravatt firm.[2]\n- **Dare Lawyers — Southside:** Specialises in wills and estates and states that it assists with disputes and Family Provision claims where someone was inadequately provided for.[3][4]\n- **SKC Lawyers — Sunnybank:** Handles wills and estates, probate, contested estates, trust disputes and related litigation.[4]\n- **Wheldon & Associates — Sunnybank:** Offers succession planning, deceased-estate administration and litigation, although its public description is broader rather than exclusively focused on contested estates.[4]\n- **Ian W Bartels & Associates — Mount Gravatt area:** Provides wills and estates services and can appear in courts and tribunals, but its public profile does not identify contested-estate litigation as a principal specialty.[3][4]\n\nFor a **specialist disputed-estates firm willing to act across Brisbane**, also consider:\n\n- **The Estate Lawyers — Brisbane:** Focuses specifically on contested wills, unfair-will challenges/FPA claims, executor disputes, probate and estate litigation.[6]\n- **Armstrong Legal — Brisbane:** Has a dedicated contested-wills team handling challenges, defences and broader will disputes.[5]\n- **Ryan Murdoch O’Regan Lawyers:** Handles will-validity challenges, further-provision claims, estate litigation, mediations and court proceedings; approved matters may be handled on a no-win-no-fee basis.[10]\n- **Thynne + Macartney — Brisbane:** Acts in estate litigation and FPAs, with Queensland Law Society-accredited succession-law expertise within its team.[9]\n- **McCullough Robertson — Brisbane:** Has a substantial contested-estates practice covering FPAs, equitable claims, trust issues, will interpretation and related litigation.[7]\n\n**Best shortlist for your stated location and issues:** start with **Campbells Legal** for a Mount Gravatt consultation, then compare **The Estate Lawyers** or **Ryan Murdoch O’Regan** if the dispute is complex or likely to proceed to Supreme Court litigation. Confirm the lawyer’s current experience with your specific claim—such as lack of testamentary capacity, undue influence, suspicious circumstances or an FPA—before engaging them.\n\nQueensland FPA deadlines can be strict: the prospective applicant generally must give the executor written notice within six months of death and file the application within nine months, so obtain advice promptly.[2]",
+              "annotations": [
+                {
+                  "title": "Wills & Estate Planning Lawyers Queensland",
+                  "url": "https://www.bcglaw.com.au/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estates Lawyers | Upper Mount Gravatt, Brisbane",
+                  "url": "https://campbellslegal.com.au/wills-and-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Find Family Lawyers in Mount Gravatt QLD - Finchly",
+                  "url": "https://finchly.com.au/find/family-law/qld/mount-gravatt-4122",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Find Family Lawyers in Sunnybank QLD - Finchly",
+                  "url": "https://finchly.com.au/find/family-law/qld/sunnybank-4109",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Estate Litigation Lawyers",
+                  "url": "https://www.armstronglegal.com.au/pages/cmcw-best-estate-litigation-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The Estate Lawyers",
+                  "url": "https://theestatelawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills, Estates and Trusts – McCullough Robertson Lawyers",
+                  "url": "https://mccullough.com.au/expertise_page/wills-estates-trusts/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Leading Wills & Estates Litigation Lawyers - Queensland, ...",
+                  "url": "https://doylesguide.com/leading-estates-litigation-lawyers-queensland-2026/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Estate Litigation | Thynne + Macartney Lawyers | Brisbane",
+                  "url": "https://www.thymac.com.au/your-estate-litigation/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Estate Dispute & Litigation Lawyers in Brisbane",
+                  "url": "https://rmolaw.com.au/practice-areas/will-estate-dispute-litigation/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

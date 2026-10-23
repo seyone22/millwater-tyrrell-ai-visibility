@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane_west",
+  "pk": "divorce_property",
+  "plat": "perplexity",
+  "text": "I am going through a separation and complex property settlement in Brisbane Western Suburbs (Indooroopilly & Centenary). Which family law firms have the strongest track record for property division and binding financial agreements?",
+  "loc": 9192539,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_west__divorce_property__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:26:35.482Z",
+  "cost": 0.006418,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 49,
+      "output_tokens": 769,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005818,
+      "datetime": "2026-10-23 05:26:31 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For a **complex property settlement in Indooroopilly/Centenary**, the strongest shortlist is:\n\n- **Best Wilson Buckley Family Law (BWB)** — a specialist Queensland family-law firm with a Brisbane office and experience in complex property pools involving businesses, spousal maintenance and disputed assets. It also has nationally accredited mediators and advises on BFAs and superannuation splitting.[1][4]\n- **Australian Family Lawyers – Indooroopilly** — a large specialist national practice with Accredited Family Law Specialists and experience in higher-asset matters involving family trusts and businesses. It reports that fewer than 5% of its matters proceed to a final hearing, though this is a firm-reported statistic rather than an independent ranking.[8]\n- **Melrose Keys Lawyers, Kenmore** — particularly convenient for Brisbane’s western suburbs. Its family-law practice covers property settlements, consent orders, mediation and BFAs, and the firm states that it serves Indooroopilly, Kenmore and surrounding areas.[7]\n- **Stewart Family Law** — a Brisbane specialist with a specific property-settlement practice and experience formalising settlements through consent orders or financial agreements. It identifies itself as a Doyle’s-recommended family-law firm, but that recommendation should be checked against the relevant current Doyle’s listing.[2]\n- **Chamberlains Law Firm, Brisbane** — worth considering where the asset pool includes companies, trusts, businesses, multiple properties or sophisticated BFA issues. Its Brisbane practice specifically advertises work involving real estate, superannuation, business interests, trusts and BFAs.[5]\n- **Just Family Law** — a specialist practice advertising more than 30 years’ family-law experience and complex settlements, including BFAs. Client testimonials on its own website support experience in these areas, but testimonials are not an independent measure of outcomes.[6]\n\n## Best fit by situation\n\n| Situation | Firms to interview first |\n|---|---|\n| Complex assets, businesses, trusts or likely litigation | BWB, Chamberlains, Australian Family Lawyers |\n| Western-suburbs accessibility and local service | Melrose Keys, Australian Family Lawyers Indooroopilly |\n| Negotiation or mediation-focused settlement | BWB, Stewart Family Law, Australian Family Lawyers |\n| BFA drafting or review | BWB, Chamberlains, Just Family Law, Melrose Keys |\n| Cost-conscious initial comparison | Melrose Keys, Stewart Family Law, Just Family Law |\n\nNo firm can responsibly guarantee a particular percentage split or outcome. In Australia, a settlement is not necessarily 50/50; the result depends on the asset pool, contributions, future needs, earning capacity and other circumstances. Before choosing, ask each firm:\n\n- Who will personally run the matter, and are they an **Accredited Family Law Specialist**?\n- How many comparable matters involved businesses, trusts, company structures, significant superannuation or disputed valuations?\n- What is the proposed strategy: negotiation, mediation, arbitration or court?\n- Will they investigate undisclosed assets and obtain valuations where needed?\n- Should the final agreement be documented by **consent orders**, a **financial agreement**, or another mechanism?\n- What are the hourly rates, likely staged costs, counsel/valuer costs and litigation-cost risks?\n\nFor a BFA, ensure both parties receive **independent legal advice**; otherwise enforceability can be vulnerable. For a property settlement, obtain advice promptly rather than relying on an informal agreement, particularly if assets may be sold, transferred or depleted. A sensible first step would be to obtain three consultations: **BWB or Chamberlains for complex-asset capability, Australian Family Lawyers Indooroopilly for local specialist depth, and Melrose Keys for a western-suburbs comparison**.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Brisbane",
+                  "url": "https://bwbfamilylaw.com.au/lps/family-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Property Settlement Lawyers Brisbane - Free Initital Consult",
+                  "url": "https://stewartfamilylaw.com.au/property-settlement-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Property Settlement Orders",
+                  "url": "https://landersolicitors.com.au/family-law/property-settlement-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Property Settlement Lawyers Brisbane | BWB Family Law",
+                  "url": "https://bwbfamilylaw.com.au/how-we-help/property-settlement-lawyers-brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Law Brisbane | Contact Us - Chamberlains Law Firm",
+                  "url": "https://chamberlains.com.au/expertise/family-law/brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Just Family Law | Divorce Lawyers & Family Law Solicitors",
+                  "url": "https://justfamilylaw.com.au/financial-settlement-me/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Melrose Keys Lawyers - Brisbane Family and Estate Lawyers",
+                  "url": "https://mk-law.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Lawyers Indooroopilly",
+                  "url": "https://www.australianfamilylawyers.com.au/cm-family-lawyers-indooroopilly",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Separation Lawyers Brisbane",
+                  "url": "https://www.avokahlegal.com.au/separation-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Divorce Property Settlement Lawyer Brisbane",
+                  "url": "https://bartonfamilylaw.com.au/property-settlement-lawyer-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "slug": "springfield",
+  "pk": "family_lawyers",
+  "plat": "aimode",
+  "text": "Who are the best family lawyers in Springfield and Greater Springfield, QLD? Give me a shortlist of reputable family law firms with reasons.",
+  "loc": 9191413,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\springfield__family_lawyers__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:24:19.189Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Who are the best family lawyers in Springfield and Greater Springfield, QLD? Give me a shortlist of reputable family law firms with reasons.",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 9191413,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Who%20are%20the%20best%20family%20lawyers%20in%20Springfield%20and%20Greater%20Springfield%2C%20QLD%3F%20Give%20me%20a%20shortlist%20of%20reputable%20family%20law%20firms%20with%20reasons.&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCRFktRYbSpFrEUDb3vNaowIF",
+      "datetime": "2026-10-23 05:24:14 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "Here is a shortlist of reputable family law firms serving Springfield and the Greater Springfield, QLD region, chosen for their local presence, client reputation, and scope of practice:\n\n\n\n---\n\n![](https://api.dataforseo.com/cdn/i/10230524-2877-0139-0000-0fd9cc9ccad2:12)\nStanford Legal 4.9 (103)  \nLaw firm  \nOpen Springfield Central QLD  \nCall Directions Website\n\n- **Overview** : Led by Principal Solicitor Victoria Eastwood, this practice serves Springfield, Ipswich, and Brisbane. They focus heavily on client education, empathy, and early dispute resolution.\n- **Why they are reputable** : They offer a complimentary initial consultation, and a single designated lawyer handles your matter from start to finish for seamless communication. They cover everything from amicable parenting agreements and consent orders to complex property settlements and domestic violence protection orders.\n- **Learn more** : Read about their approach on the [Stanford Legal Official Website](https://stanfordlegal.com.au/family-law).\n\n\n\n---\n\n![](https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QurfQ83WEnqjU5YZaWmO8A&cb_client=search.gws-prod.grass&yaw=94.6419&pitch=-11.619396&thumbfov=100&w=82&h=82)\nBrookwater Legal 4.8 (326)  \nLegal services  \nOpen Augustine Heights QLD  \nCall Directions Website**Brookwater Legal** (Augustine Heights / Greater Springfield)\n\n- **Overview** : Located conveniently near Orion Shopping Centre at Augusta Parkway, Augustine Heights, this firm boasts hundreds of strong local client reviews and extensive experience across the Greater Springfield area.\n- **Why they are reputable** : They offer confidential, fixed-fee initial consultations and take a child-focused, cost-effective approach to parenting and complex asset division. Beyond family law and mediation, their broad local footprint covers estate planning and conveyancing, making them handy if your separation involves untangling real estate or business assets.\n- **Learn more** : Check out their services via the [Brookwater Legal Website](https://www.brookwaterlegal.com.au/).\n\n\n\n---\n\n![](https://api.dataforseo.com/cdn/i/10230524-2877-0139-0000-0fd9cc9ccad2:13)\nKeane Legal 4.5 (16)  \nLaw firm  \nOpen Brookwater QLD  \nCall Directions Website\n\n- **Overview** : An exclusive family law practice servicing the entire Greater Springfield, Brookwater, and Ipswich corridors.\n- **Why they are reputable** : Because they practice exclusively in family law, they offer deep, targeted strategic insight into custody disputes, relocation matters, spousal maintenance, and complex property settlements. They provide fixed-fee initial consultations and both in-person or electronic appointments to suit busy schedules.\n- **Learn more** : View their practice profile at [Keane Legal](https://www.keanelegal.com.au/family-lawyer-ipswich-brookwater-springfield).\n\n\n\n---\n\n![](https://api.dataforseo.com/cdn/i/10230524-2877-0139-0000-0fd9cc9ccad2:14)\nVM Family Law 3.7 (34)  \nFamily law attorney  \nOpen Brookwater QLD  \nCall Directions Website**VM Family Law** (Greater Springfield / Ipswich)\n\n- **Overview** : A specialized boutique family law practice servicing the Greater Springfield area.\n- **Why they are reputable** : They stand out as a pioneering firm in Queensland with a core focus on matters involving domestic and family violence, working collaboratively alongside community support organizations to ensure client safety and trauma-informed navigation of family law.[[1]](https://www.brookwaterlegal.com.au/)[[2]](https://lawconnect.com/en-au/find/family-law/qld/springfield-central-4300)[[3]](https://stanfordlegal.com.au/family-law)[[4]](https://www.brookwaterlegal.com.au/family-lawyers)[[5]](https://www.keanelegal.com.au/family-lawyer-ipswich-brookwater-springfield)[[6]](https://www.keanelegal.com.au/family-law-solicitors-springfield-qld)\n\nIf you'd like to narrow this down, let me know:\n\n- Are you looking for assistance with **parenting/custody arrangements** or a **property/financial settlement**?\n- Do you prefer a firm that specializes **strictly in family law** or one that can also handle related **property/business transfers**?\n\nI can help tailor this further to your specific situation.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Here is a shortlist of reputable family law firms serving Springfield and the Greater Springfield, QLD region, chosen for their local presence, client reputation, and scope of practice:",
+              "markdown": "Here is a shortlist of reputable family law firms serving Springfield and the Greater Springfield, QLD region, chosen for their local presence, client reputation, and scope of practice:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Stanford Legal 4.9 (103) Law firm Open Springfield Central QLD Call Directions WebsiteOverview : Led by Principal Solicitor Victoria Eastwood, this practice serves Springfield, Ipswich, and Brisbane. They focus heavily on client education, empathy, and early dispute resolution.\nWhy they are reputable : They offer a complimentary initial consultation, and a single designated lawyer handles your matter from start to finish for seamless communication. They cover everything from amicable parenting agreements and consent orders to complex property settlements and domestic violence protection orders.\nLearn more : Read about their approach on the Stanford Legal Official Website.",
+              "markdown": "---\n\n![](https://api.dataforseo.com/cdn/i/10230524-2877-0139-0000-0fd9cc9ccad2:6)\nStanford Legal 4.9 (103)  \nLaw firm  \nOpen Springfield Central QLD  \nCall Directions Website\n\n- **Overview** : Led by Principal Solicitor Victoria Eastwood, this practice serves Springfield, Ipswich, and Brisbane. They focus heavily on client education, empathy, and early dispute resolution.\n- **Why they are reputable** : They offer a complimentary initial consultation, and a single designated lawyer handles your matter from start to finish for seamless communication. They cover everything from amicable parenting agreements and consent orders to complex property settlements and domestic violence protection orders.\n- **Learn more** : Read about their approach on the [Stanford Legal Official Website](https://stanfordlegal.com.au/family-law).",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Stanford Legal Official Website",
+                  "description": null,
+                  "url": "https://stanfordlegal.com.au/family-law",
+                  "domain": "stanfordlegal.com.au"
+                }
+              ],
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/10230524-2877-0139-0000-0fd9cc9ccad2:7"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Brookwater Legal 4.8 (326) Legal services Open Augustine Heights QLD Call Directions Website Brookwater Legal (Augustine Heights / Greater Springfield)Overview : Located conveniently near Orion Shopping Centre at Augusta Parkway, Augustine Heights, this firm boasts hundreds of strong local client reviews and extensive experience across the Greater Springfield area.\nWhy they are reputable : They offer confidential, fixed-fee initial consultations and take a child-focused, cost-effective approach to parenting and complex asset division. Beyond family law and mediation, their broad local footprint covers estate planning and conveyancing, making them handy if your separation involves untangling real estate or business assets.\nLearn more : Check out their services via the Brookwater Legal Website.",
+              "markdown": "---\n\n![](https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QurfQ83WEnqjU5YZaWmO8A&cb_client=search.gws-prod.grass&yaw=94.6419&pitch=-11.619396&thumbfov=100&w=82&h=82)\nBrookwater Legal 4.8 (326)  \nLegal services  \nOpen Augustine Heights QLD  \nCall Directions Website**Brookwater Legal** (Augustine Heights / Greater Springfield)\n\n- **Overview** : Located conveniently near Orion Shopping Centre at Augusta Parkway, Augustine Heights, this firm boasts hundreds of strong local client reviews and extensive experience across the Greater Springfield area.\n- **Why they are reputable** : They offer confidential, fixed-fee initial consultations and take a child-focused, cost-effective approach to parenting and complex asset division. Beyond family law and mediation, their broad local footprint covers estate planning and conveyancing, making them handy if your separation involves untangling real estate or business assets.\n- **Learn more** : Check out their services via the [Brookwater Legal Website](https://www.brookwaterlegal.com.au/).",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Brookwater Legal Website",
+                  "description": null,
+                  "url": "https://www.brookwaterlegal.com.au/",
+                  "domain": "www.brookwaterlegal.com.au"
+                }
+              ],
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QurfQ83WEnqjU5YZaWmO8A&cb_client=search.gws-prod.grass&yaw=94.6419&pitch=-11.619396&thumbfov=100&w=82&h=82"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Keane Legal 4.5 (16) Law firm Open Brookwater QLD Call Directions WebsiteOverview : An exclusive family law practice servicing the entire Greater Springfield, Brookwater, and Ipswich corridors.\nWhy they are reputable : Because they practice exclusively in family law, they offer deep, targeted strategic insight into custody disputes, relocation matters, spousal maintenance, and complex property settlements. They provide fixed-fee initial consultations and both in-person or electronic appointments to suit busy schedules.\nLearn more : View their practice profile at Keane Legal.",
+              "markdown": "---\n\n![](https://api.dataforseo.com/cdn/i/10230524-2877-0139-0000-0fd9cc9ccad2:8)\nKeane Legal 4.5 (16)  \nLaw firm  \nOpen Brookwater QLD  \nCall Directions Website\n\n- **Overview** : An exclusive family law practice servicing the entire Greater Springfield, Brookwater, and Ipswich corridors.\n- **Why they are reputable** : Because they practice exclusively in family law, they offer deep, targeted strategic insight into custody disputes, relocation matters, spousal maintenance, and complex property settlements. They provide fixed-fee initial consultations and both in-person or electronic appointments to suit busy schedules.\n- **Learn more** : View their practice profile at [Keane Legal](https://www.keanelegal.com.au/family-lawyer-ipswich-brookwater-springfield).",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Keane Legal",
+                  "description": null,
+                  "url": "https://www.keanelegal.com.au/family-lawyer-ipswich-brookwater-springfield",
+                  "domain": "www.keanelegal.com.au"
+                }
+              ],
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/10230524-2877-0139-0000-0fd9cc9ccad2:9"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "VM Family Law 3.7 (34) Family law attorney Open Brookwater QLD Call Directions Website VM Family Law (Greater Springfield / Ipswich)Overview : A specialized boutique family law practice servicing the Greater Springfield area.\nWhy they are reputable : They stand out as a pioneering firm in Queensland with a core focus on matters involving domestic and family violence, working collaboratively alongside community support organizations to ensure client safety and trauma-informed navigation of family law.",
+              "markdown": "---\n\n![](https://api.dataforseo.com/cdn/i/10230524-2877-0139-0000-0fd9cc9ccad2:10)\nVM Family Law 3.7 (34)  \nFamily law attorney  \nOpen Brookwater QLD  \nCall Directions Website**VM Family Law** (Greater Springfield / Ipswich)\n\n- **Overview** : A specialized boutique family law practice servicing the Greater Springfield area.\n- **Why they are reputable** : They stand out as a pioneering firm in Queensland with a core focus on matters involving domestic and family violence, working collaboratively alongside community support organizations to ensure client safety and trauma-informed navigation of family law.[[1]](https://www.brookwaterlegal.com.au/)[[2]](https://lawconnect.com/en-au/find/family-law/qld/springfield-central-4300)[[3]](https://stanfordlegal.com.au/family-law)[[4]](https://www.brookwaterlegal.com.au/family-lawyers)[[5]](https://www.keanelegal.com.au/family-lawyer-ipswich-brookwater-springfield)[[6]](https://www.keanelegal.com.au/family-law-solicitors-springfield-qld)",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/10230524-2877-0139-0000-0fd9cc9ccad2:11"
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Brookwater Legal",
+                  "domain": "www.brookwaterlegal.com.au",
+                  "url": "https://www.brookwaterlegal.com.au/",
+                  "title": "Welcome To Brookwater Legal | Springfield & Ipswich Lawyers",
+                  "text": "Brookwater Legal, serving Greater Springfield, 118 Augusta Parkway, Augustine Heights QLD 4300 (near Orion Shopping Centre). Metri..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "LawConnect",
+                  "domain": "lawconnect.com",
+                  "url": "https://lawconnect.com/en-au/find/family-law/qld/springfield-central-4300",
+                  "title": "Family Lawyers in Springfield Central, QLD",
+                  "text": "Stanford Legal Pty Ltd, based in Ipswich and serving Springfield and Brisbane, specialises in family, property, commercial, and wi..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Stanford Legal",
+                  "domain": "stanfordlegal.com.au",
+                  "url": "https://stanfordlegal.com.au/family-law",
+                  "title": "Family Lawyers Ipswich and Springfield | Stanford Legal",
+                  "text": "First consultation is free; same lawyer handles entire matter. Contact: 0483 980 001."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Brookwater Legal",
+                  "domain": "www.brookwaterlegal.com.au",
+                  "url": "https://www.brookwaterlegal.com.au/family-lawyers",
+                  "title": "Local Family Lawyers | Brookwater Legal",
+                  "text": "Confidential, no-obligation fixed-fee initial consultation. Approach: Cost-effective, child-focused, flexible, local, and accessib..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Keane Legal",
+                  "domain": "www.keanelegal.com.au",
+                  "url": "https://www.keanelegal.com.au/family-lawyer-ipswich-brookwater-springfield",
+                  "title": "Divorce & Family Lawyers in Ipswich & Brookwater QLD - Parenting and Property Settlement Matters — KEANE LEGAL",
+                  "text": "family law practice exclusively. Divorce and marriage/de facto separation, parenting and children's matters (paternity, care arran..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Keane Legal",
+                  "domain": "www.keanelegal.com.au",
+                  "url": "https://www.keanelegal.com.au/family-law-solicitors-springfield-qld",
+                  "title": "Family & Divorce Lawyers Springfield QLD | Offices in Ipswich ...",
+                  "text": "With in person or electronic appointments available, our experienced and approachable team is ready to help you move forward after..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you'd like to narrow this down, let me know:",
+              "markdown": "If you'd like to narrow this down, let me know:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Are you looking for assistance with parenting/custody arrangements or a property/financial settlement ? Do you prefer a firm that specializes strictly in family law or one that can also handle related property/business transfers ?",
+              "markdown": "- Are you looking for assistance with **parenting/custody arrangements** or a **property/financial settlement**?\n- Do you prefer a firm that specializes **strictly in family law** or one that can also handle related **property/business transfers**?",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "I can help tailor this further to your specific situation.",
+              "markdown": "I can help tailor this further to your specific situation.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Brookwater Legal",
+              "domain": "www.brookwaterlegal.com.au",
+              "url": "https://www.brookwaterlegal.com.au/",
+              "title": "Welcome To Brookwater Legal | Springfield & Ipswich Lawyers",
+              "text": "Brookwater Legal, serving Greater Springfield, 118 Augusta Parkway, Augustine Heights QLD 4300 (near Orion Shopping Centre). Metrics: 3,000+ clients, 2,500+ proper..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "LawConnect",
+              "domain": "lawconnect.com",
+              "url": "https://lawconnect.com/en-au/find/family-law/qld/springfield-central-4300",
+              "title": "Family Lawyers in Springfield Central, QLD",
+              "text": "Stanford Legal Pty Ltd, based in Ipswich and serving Springfield and Brisbane, specialises in family, property, commercial, and wills and estate law."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Brookwater Legal",
+              "domain": "www.brookwaterlegal.com.au",
+              "url": "https://www.brookwaterlegal.com.au/family-lawyers",
+              "title": "Local Family Lawyers | Brookwater Legal",
+              "text": "Confidential, no-obligation fixed-fee initial consultation. Approach: Cost-effective, child-focused, flexible, local, and accessible representation protecting clie..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

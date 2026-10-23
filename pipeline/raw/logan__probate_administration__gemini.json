@@ -1,0 +1,358 @@
+{
+  "slug": "logan",
+  "pk": "probate_administration",
+  "plat": "gemini",
+  "text": "I am an executor handling probate and deceased estate administration in Logan and Western Corridor (Ipswich to Brisbane). Which law firms specialise in Queensland probate and estate administration?",
+  "loc": 9112660,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\logan__probate_administration__gemini.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:33:17.515Z",
+  "cost": 0,
+  "result": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For an executor administering a deceased estate in Queensland, several law firms maintain offices and dedicated succession law teams across **Logan, Greater Springfield, Ipswich, and the Western Brisbane corridor**:\n\n---\n\n### 1. Western Corridor (Ipswich & Greater Springfield)\n\n*   **McNamara Law** *(Offices in Ipswich CBD, Springfield Central, and Brisbane CBD)*  \n    One of the largest and most established legal firms in the Western Corridor. They have a dedicated Wills & Estates team that regularly assists executors with Supreme Court probate applications, Letters of Administration, asset transmission (Titles Queensland), and managing complex estates involving businesses or family trusts.\n*   **Fallu McMillan Lawyers** *(Ipswich)*  \n    A long-standing Ipswich practice with extensive experience in succession law. They guide executors through each stage of administration, from advertising and applying for probate to liaising with asset holders and distributing to beneficiaries.\n*   **Keane Legal** *(Ipswich & Brookwater)*  \n    Positioned conveniently along the corridor between Ipswich and Greater Springfield. They focus heavily on succession law, advising executors on personal liabilities, filing grants, and navigating intestacy issues.\n*   **Jacaranda Law** *(Ipswich)*  \n    A boutique practice focusing primarily on wills, probate, and deceased estate administration, making them well-suited for executors seeking a dedicated, smaller firm approach.\n*   **Richard Zande & Associates** *(Ipswich)*  \n    An established local practice (operating in the Ipswich area for over 60 years) with a strong probate and executor advisory footprint.\n\n---\n\n### 2. Logan & South Corridor\n\n*   **SKC Lawyers** *(Logan)*  \n    Focuses on estate administration and litigation. They assist executors with the formal probate process, tax compliance oversight, transmission applications, and shielding executors from personal liability during distribution.\n*   **Ryder Lawyers** *(Logan City & Ipswich)*  \n    Specialises in estate administration, probate grants, and beneficiary negotiations across both Logan and the Western Corridor.\n*   **Turner Freeman Lawyers** *(Offices in Logan Central and Ipswich)*  \n    A larger firm with dedicated estate administration lawyers in both Logan and Ipswich. They are suitable if the estate involves contested will issues, complex creditor claims, or potential Family Provision litigation.\n*   **Bennett Carroll Solicitors** *(Upper Mount Gravatt, Brisbane, and Ipswich)*  \n    Well-positioned to service clients between Logan and the Western Corridor, assisting executors with Supreme Court applications, asset transfers, and probate.\n\n---\n\n### 3. Brisbane Western Link (Milton to Forest Lake)\n\n*   **Lake Law (formerly Forest Lake Lawyers)** *(Forest Lake)*  \n    Strategically positioned right in the junction between southwest Brisbane, Logan, and Ipswich. They offer personalized, local assistance with probate applications, title transmissions, and estate settlements.\n*   **Will and Estate Lawyers Australia** *(Milton)*  \n    Located at the city fringe of Brisbane's inner west, they offer dedicated probate and deceased estate administration services (often providing fixed-fee arrangements for probate applications) across South East Queensland.\n\n---\n\n### Key Questions to Ask When Selecting a Firm\n\n1. **Fee Structure:** For grants of probate or letters of administration, many Queensland firms offer a **fixed-fee quote** for standard applications, while ongoing estate administration (calling in assets, paying debts, tax filings, distribution) is typically billed hourly.\n2. **QLS Accredited Specialist:** If the estate involves business structures, discretionary trusts, foreign assets, or potential family disputes, consider asking if an **accredited specialist in succession law** will oversee your matter.\n3. **Property/Title Experience:** If the estate contains real property in Logan or Ipswich, confirm whether their office handles the **Titles Queensland transmission applications** in-house to streamline the process.",
+              "thoughtSignature": "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"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22probate%22+%22western+suburbs%22+brisbane+lawyers+OR+solicitors&client=app-vertex-grounding&safesearch=active\">&quot;probate&quot; &quot;western suburbs&quot; brisbane lawyers OR solicitors</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=law+firms+probate+deceased+estate+administration+Logan+Ipswich+QLD&client=app-vertex-grounding&safesearch=active\">law firms probate deceased estate administration Logan Ipswich QLD</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22McNamara+Law%22+probate+ipswich+springfield&client=app-vertex-grounding&safesearch=active\">&quot;McNamara Law&quot; probate ipswich springfield</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=probate+lawyers+Ipswich+Logan+Queensland&client=app-vertex-grounding&safesearch=active\">probate lawyers Ipswich Logan Queensland</a>\n  </div>\n</div>"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFW-q8QulxuM6comClFnKFp2MAvx2JXzhiBMGN96_qMA2iCy5uDvtNAqc_zVHPCDP_zxP02-ObpjtkhV0ohxqCv3AsegLm97_m_8A==",
+                "title": "mcna.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtbtJ0Wg6PucRGjrHD9MIicgVxJ5STek3-POV8zvCXbrKr5wU1GsufiNq9ZRNIoomWH5S1fBHh15apiITrCgfuVCKxwf38AMyK-vyq2TugpIN5prMVftW1HBQfQfnJypUXOw9WSTRgBFqwrBDcDvmJOhtIGvzgsjY-yfM=",
+                "title": "keanelegal.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG970mhRRSm2RrnVCT9mEmO1v-bb9z-2gr9ynfdb1Dy68p4KQ1JROdkHnz9XwgbncFXoI0M99dAtJjuP534f5m36NUhvxGs7PjeO_btZn_ykyyHl_hijm2E",
+                "title": "mcna.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExjHA1NlOhls8_WyWP_k45rihulyrD5_cKX2J918GTLqtLzJ6ciuQkKjSeHoJ-Lm-dsMY0IRUQRcWVbVGXy54zMZqz7hs0LnF1fBvqIMgViPJcytEZ3Mv-K6cGa3dtcsx9XaZdAkaFkgJf5KraBKo=",
+                "title": "fmlaw.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxz3vtTtKTfQoqqdiAv8HiG-uohj62--b-CYVf-BzypQsSnNKv_k8Y85fZWqVGs-LZG9wKvS2hNSTLIZshJ3-QIPB5Nqir91ipbesJySUkZ8Rl2tRcmsmI-npJ5rneo0EMm6fMcHUWAjtr7N4B0zLAzKodcw==",
+                "title": "jacarandalaw.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-rCcqfFxOC_QnzIZmemjuEvLYfcyss_K3bpNh41AsWm6Qsqb-YjX8UGQaC4vjgRCUUbpWA3rDlRNQG9Qel0fJ5ow7YIA2w0NZTVqvWiuePOe4hZuXHjk1CvlG0FH6EsXk9PO9kv6Y5ZFrocM=",
+                "title": "kerinlawyers.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1JVJEcGiuf8MjCFVFIpQmJKj8W2djmTfN1-W6TlaXX-AOsZGqBs9OqvIvSy5vXEIRGCGyeQH_7zMFFvo8UXz3druScrb7UOtfiTqb-H4hDeZ0WoqdrJYNhqMcR4FSxZ4QwVlKHGlUHOdzepR11kUrF8Th0Q==",
+                "title": "skclawyers.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG81KmCkvlNlK0g9kMLunk25NZLzqp1uUmJ34T5YnHA--BubHvthdwygqeeQ6IRKKPru-ehfNH0_QhJtnXYDJte7iEvziw2vQdFFrdOpj6awfMYwvn7j-O-pD2QBl8-mjja-zv__6Cv5cJAE3IPgtCA",
+                "title": "lawconnect.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBCNub7MX8cHk8UR37yvR21XEHfqHjZXiKFJnQDSrOS2W6Ly0dQOb6yoeACF5Z9ACLmmo8vZlExYCcDJzX1vxDWT3BH1zUJQHL5_tj82LKuGfN",
+                "title": "ryderlawyers.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBCNub7MX8cHk8UR37yvR21XEHfqHjZXiKFJnQDSrOS2W6Ly0dQOb6yoeACF5Z9ACLmmo8vZlExYCcDJzX1vxDWT3BH1zUJQHL5_tj82LKuGfN",
+                "title": "ryderlawyers.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELxQqXZIR5rlLckCRwD3FIogifz25hmw2yRhhJAfhHNTSGiDivI_dwsXImatmtiFBbEmM0GMhqAuwq4iOo_sRm7i6WlE3K3-9ujRe3vFtRZEzy0DVo_AX5dpSCDIdA252d6oxcPjFi3Cv5X6VPpibFCrDb",
+                "title": "turnerfreeman.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELxQqXZIR5rlLckCRwD3FIogifz25hmw2yRhhJAfhHNTSGiDivI_dwsXImatmtiFBbEmM0GMhqAuwq4iOo_sRm7i6WlE3K3-9ujRe3vFtRZEzy0DVo_AX5dpSCDIdA252d6oxcPjFi3Cv5X6VPpibFCrDb",
+                "title": "turnerfreeman.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfUVtM_6H80Z_I8XLuBevUDvgMIaJ0nA7njXqiz1ezxmV7AtL6B3jt3kCkBjBm6rzfVNO_27T2R5f53S0fugmrwNjwtVt7WoSffc7mVBiMe9zreqblPW5_2DtZqdzL",
+                "title": "bcglaw.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIA3xJRyE3zp7UTfPXfk2UCECKdkADpJnDlDTpVNfI60jd79cATmMvq2tC4W1kvSotY1zPev16YQ6xM3cPS5s3sCq9H9lPS9Iu_2eA_lK3Ezs=",
+                "title": "lakelaw.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGBXT9IUgmSF6oqRVjrXdCxEcVvP7NuQE6TcXUbjGDlaJAJ0wbWhtqnxyrGIcxGePqQQlk1fT4XKD6cUZUQocJjgDl4GMlSNtPnXKnWQeBhFUaNjDYDlWd3hGeyNE_m9tVJhlFtmKaDUF2dQ==",
+                "title": "safewilllegal.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIzVSNU5MyK2-eUWuRW6yyzndR4ol9EC_HQOVK5LLcVX3H0VNYzAsNUEWiKDiOHdibWYL9JKk8e_qQbvgBz8o7W-8NZGz859JgzMQGe3JdW3xNQcA_ob9KIxDBc9BR_nwGgsrzdhQXvMPwuaxTy4M=",
+                "title": "willandestatelawyers.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHiC8hTi7SFJT5G2QLJQRmDg_CwgVqILGlccT-ub3SyzKvbkR3Z0I45g6pFdmE08mLGsUO0aiL5_tx6f9NBdpMDSB2jlI4MzH7YZUcG3H5rhqiaaNJ1zX1uSw_lGC1kboGnrZvww==",
+                "title": "willandestatelawyers.com.au"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "startIndex": 372,
+                "endIndex": 447,
+                "text": "One of the largest and most established legal firms in the Western Corridor"
+              },
+              "groundingChunkIndices": [
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 449,
+                "endIndex": 699,
+                "text": "They have a dedicated Wills & Estates team that regularly assists executors with Supreme Court probate applications, Letters of Administration, asset transmission (Titles Queensland), and managing complex estates involving businesses or family trusts"
+              },
+              "groundingChunkIndices": [
+                1,
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 750,
+                "endIndex": 826,
+                "text": "A long-standing Ipswich practice with extensive experience in succession law"
+              },
+              "groundingChunkIndices": [
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 828,
+                "endIndex": 993,
+                "text": "They guide executors through each stage of administration, from advertising and applying for probate to liaising with asset holders and distributing to beneficiaries"
+              },
+              "groundingChunkIndices": [
+                4,
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1046,
+                "endIndex": 1128,
+                "text": "Positioned conveniently along the corridor between Ipswich and Greater Springfield"
+              },
+              "groundingChunkIndices": [
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1130,
+                "endIndex": 1258,
+                "text": "They focus heavily on succession law, advising executors on personal liabilities, filing grants, and navigating intestacy issues"
+              },
+              "groundingChunkIndices": [
+                1,
+                5,
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1300,
+                "endIndex": 1474,
+                "text": "A boutique practice focusing primarily on wills, probate, and deceased estate administration, making them well-suited for executors seeking a dedicated, smaller firm approach"
+              },
+              "groundingChunkIndices": [
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1529,
+                "endIndex": 1662,
+                "text": "An established local practice (operating in the Ipswich area for over 60 years) with a strong probate and executor advisory footprint"
+              },
+              "groundingChunkIndices": [
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1737,
+                "endIndex": 1784,
+                "text": "Focuses on estate administration and litigation"
+              },
+              "groundingChunkIndices": [
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1786,
+                "endIndex": 1961,
+                "text": "They assist executors with the formal probate process, tax compliance oversight, transmission applications, and shielding executors from personal liability during distribution"
+              },
+              "groundingChunkIndices": [
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2016,
+                "endIndex": 2141,
+                "text": "Specialises in estate administration, probate grants, and beneficiary negotiations across both Logan and the Western Corridor"
+              },
+              "groundingChunkIndices": [
+                8,
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2221,
+                "endIndex": 2305,
+                "text": "A larger firm with dedicated estate administration lawyers in both Logan and Ipswich"
+              },
+              "groundingChunkIndices": [
+                10,
+                11
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2307,
+                "endIndex": 2436,
+                "text": "They are suitable if the estate involves contested will issues, complex creditor claims, or potential Family Provision litigation"
+              },
+              "groundingChunkIndices": [
+                10,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2526,
+                "endIndex": 2682,
+                "text": "Well-positioned to service clients between Logan and the Western Corridor, assisting executors with Supreme Court applications, asset transfers, and probate"
+              },
+              "groundingChunkIndices": [
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2814,
+                "endIndex": 2907,
+                "text": "Strategically positioned right in the junction between southwest Brisbane, Logan, and Ipswich"
+              },
+              "groundingChunkIndices": [
+                13
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2909,
+                "endIndex": 3021,
+                "text": "They offer personalized, local assistance with probate applications, title transmissions, and estate settlements"
+              },
+              "groundingChunkIndices": [
+                13,
+                14
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3082,
+                "endIndex": 3133,
+                "text": "Located at the city fringe of Brisbane's inner west"
+              },
+              "groundingChunkIndices": [
+                15
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3082,
+                "endIndex": 3302,
+                "text": "Located at the city fringe of Brisbane's inner west, they offer dedicated probate and deceased estate administration services (often providing fixed-fee arrangements for probate applications) across South East Queensland"
+              },
+              "groundingChunkIndices": [
+                16
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3875,
+                "endIndex": 4087,
+                "text": "**Property/Title Experience:** If the estate contains real property in Logan or Ipswich, confirm whether their office handles the **Titles Queensland transmission applications** in-house to streamline the process"
+              },
+              "groundingChunkIndices": [
+                14
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "\"probate\" \"western suburbs\" brisbane lawyers OR solicitors",
+            "law firms probate deceased estate administration Logan Ipswich QLD",
+            "\"McNamara Law\" probate ipswich springfield",
+            "probate lawyers Ipswich Logan Queensland"
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 431,
+      "candidatesTokenCount": 970,
+      "totalTokenCount": 2474,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 431
+        }
+      ],
+      "thoughtsTokenCount": 1073,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.8-flash",
+    "responseId": "gvHaat3OK9_1v_gPmf2F4AY"
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "slug": "brisbane_west",
+  "pk": "fixed_fee_family_estates",
+  "plat": "claude",
+  "text": "Which boutique law firms in Brisbane Western Suburbs (Indooroopilly & Centenary) offer free initial consultations, fixed-fee wills, or deferred-fee options for family law and wills and estates?",
+  "loc": 9192539,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_west__fixed_fee_family_estates__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:28:25.883Z",
+  "cost": 0.096298,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 18621,
+      "output_tokens": 1989,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.095698,
+      "datetime": "2026-10-23 05:28:21 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a curated overview of boutique and smaller law firms serving the **Indooroopilly and Centenary (Western Suburbs) Brisbane** area that offer **free initial consultations, fixed-fee wills, or deferred/no-win-no-fee options** across family law and wills & estates:\n\n---\n\n## 🏛️ Boutique Law Firms – Brisbane Western Suburbs (Indooroopilly & Centenary)\n\n---\n\n### 1. 🌟 **Melrose Keys Lawyers** *(Kenmore)*\n- **Practice Areas:** Family law, child custody, mediation, property settlements, binding financial agreements, wills & estates\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Recognised as a Winner of the Inside Family Law Awards, Melrose Keys Lawyers brings three decades of proven professionalism and quality across family, estate, and commercial law, proudly serving the **Kenmore, Indooroopilly, and Brisbane Western Suburbs** region.",
+              "annotations": [
+                {
+                  "title": "Melrose Keys Lawyers - Brisbane Family and Estate Lawyers",
+                  "url": "https://mk-law.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The team understands that not everyone can afford 'high-end' legal fees, which is why they charge **reasonable and fair rates**, with their boutique law firm aiming to give clients the fairest prices.",
+              "annotations": [
+                {
+                  "title": "Melrose Keys Lawyers - Brisbane Family and Estate Lawyers",
+                  "url": "https://mk-law.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "As a boutique Brisbane law firm, Melrose Keys Lawyers provides **personalised service** for each client, working closely with you to fully understand your unique circumstances — a personalised touch that helps provide appropriately tailored legal solutions.",
+              "annotations": [
+                {
+                  "title": "Melrose Keys Lawyers - Brisbane Family and Estate Lawyers",
+                  "url": "https://mk-law.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- **Consultation:** ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "You can book an initial consultation to discuss your situation and explore your legal options, with guidance through every step with clarity and confidence.",
+              "annotations": [
+                {
+                  "title": "Melrose Keys Lawyers - Brisbane Family and Estate Lawyers",
+                  "url": "https://mk-law.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- 📞 Visit: [mk-law.com.au](https://mk-law.com.au)\n\n---\n\n### 2. 🌟 **Clear Legal** *(Indooroopilly)*\n- **Practice Areas:** Family law (property disputes, children's matters), wills & estates, criminal law\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Located in **Indooroopilly**, Clear Legal is a boutique firm that offers personalised services without unnecessary legal jargon, focusing on understanding clients' unique goals to deliver practical outcomes while **minimising time and costs**, covering family law, property disputes, children's matters, wills, and estates.",
+              "annotations": [
+                {
+                  "title": "Property and Financial Settlement Lawyers in Indooroopilly, QLD",
+                  "url": "https://lawconnect.com/en-au/find/property-and-financial-settlement/qld/indooroopilly-4068",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Clear Legal is committed to understandable, tailored legal solutions with client satisfaction as their priority.",
+              "annotations": [
+                {
+                  "title": "Property and Financial Settlement Lawyers in Indooroopilly, QLD",
+                  "url": "https://lawconnect.com/en-au/find/property-and-financial-settlement/qld/indooroopilly-4068",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- 📞 Find them via: [LawConnect – Indooroopilly](https://lawconnect.com.au)\n\n---\n\n### 3. 🌟 **Brisbane Family Law Firm** *(Serving Indooroopilly & Western Suburbs)*\n- **Practice Areas:** Divorce & mediation, children & parenting, surrogacy, domestic violence, property settlement, de facto relationships, prenuptial agreements\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They provide clients with a wide range of services connected to family law in Indooroopilly, welcoming calls from Indooroopilly, Mount Coot-tha, Taringa, St Lucia, Chapel Hill, Fig Tree Pocket, Chelmer, Yeronga, Graceville, and Tennyson.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Indooroopilly - Brisbane Family Law Firm",
+                  "url": "https://brisbanefamilylawfirm.com.au/family-lawyers-indooroopilly/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- **Free Consultation:** ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They offer a **free initial consultation** and encourage clients to contact them to start receiving expert legal help.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Indooroopilly - Brisbane Family Law Firm",
+                  "url": "https://brisbanefamilylawfirm.com.au/family-lawyers-indooroopilly/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Lawyers Indooroopilly - Brisbane Family Law Firm",
+                  "url": "https://brisbanefamilylawfirm.com.au/family-lawyers-indooroopilly/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- 📞 Call: (07) 3171 2828 | [brisbanefamilylawfirm.com.au](https://brisbanefamilylawfirm.com.au/family-lawyers-indooroopilly/)\n\n---\n\n### 4. 🌟 **Will and Estate Lawyers Australia** *(Milton – near Indooroopilly)*\n- **Practice Areas:** Wills, probate, estate disputes\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Experienced Brisbane wills and estates lawyers offering **fixed fees** (e.g. wills from $799, probate from $1,490), **no-win-no-fee** disputes, and same-day quotes.",
+              "annotations": [
+                {
+                  "title": "Wills and Estate Lawyers Brisbane",
+                  "url": "https://willandestatelawyers.com.au/wills-and-estate-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- **Free Consultation:** ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Contact their Brisbane wills and estates lawyers for a **free consultation and same-day quote**, providing professional guidance with transparent pricing.",
+              "annotations": [
+                {
+                  "title": "Wills and Estate Lawyers Brisbane",
+                  "url": "https://willandestatelawyers.com.au/wills-and-estate-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They elected to have an office in Milton rather than the Brisbane CBD in order to provide easy parking for clients.",
+              "annotations": [
+                {
+                  "title": "Will Lawyers Near Me - Will and Estate Lawyers Australia",
+                  "url": "https://willandestatelawyers.com.au/blog/will-lawyers-near-me/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- 📞 Call: (07) 3073 2405 | [willandestatelawyers.com.au](https://willandestatelawyers.com.au)\n\n---\n\n### 5. 🌟 **O'Connor, Ruddy & Garrett Solicitors** *(Brisbane – Wills & Estate Specialists)*\n- **Practice Areas:** Estate litigation, probate, estate planning (including blended families)\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "O'Connor, Ruddy & Garrett is a QLD Wills and Estate law firm focused on providing clients with security, peace of mind, and protection — a **boutique law practice** that prides itself on personal service and tailored solutions.",
+              "annotations": [
+                {
+                  "title": "Wills and Estate Lawyers Brisbane",
+                  "url": "https://orglaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- **Free Consultation:** ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They offer a **free initial consultation**, including for probate matters.",
+              "annotations": [
+                {
+                  "title": "Wills and Estate Lawyers Brisbane",
+                  "url": "https://orglaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills and Estate Lawyers Brisbane",
+                  "url": "https://orglaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They also offer a **no-win, no-fee** claim assessment for estate litigation.",
+              "annotations": [
+                {
+                  "title": "Wills and Estate Lawyers Brisbane",
+                  "url": "https://orglaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- 📞 Call: (07) 3221 9722 | [orglaw.com.au](https://orglaw.com.au)\n\n---\n\n### 6. 🌟 **R&G Lawyers** *(West End – near Western Suburbs)*\n- **Practice Areas:** Family law, property & conveyancing, wills & estates, business law\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "R&G Lawyers is a dynamic boutique firm in West End, Brisbane, offering services in family law, property and conveyancing, wills and estates, and business law across Queensland, prioritising transparent communication and providing **fixed-fee packages**.",
+              "annotations": [
+                {
+                  "title": "Property Lawyers near Indooroopilly Centre, QLD",
+                  "url": "https://lawconnect.com/en-au/find/property-law/qld/indooroopilly-centre-4068",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 7. 🌟 **Access Solicitors Brisbane** *(Indooroopilly area)*\n- **Practice Areas:** Family law, conveyancing, wills & estates, dispute resolution, business law\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Access Solicitors Brisbane offers efficient, high-quality legal services with a **FREE 30-minute consultation**, specialising in Family Law, Wills & Estates, Conveyancing, Dispute Resolution, Retirement Villages law, and Business Law.",
+              "annotations": [
+                {
+                  "title": "Property Lawyers near Indooroopilly Centre, QLD",
+                  "url": "https://lawconnect.com/en-au/find/property-law/qld/indooroopilly-centre-4068",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 💡 Quick Comparison Summary\n\n| Firm | Location | Free Consult | Fixed-Fee Wills | No-Win/Deferred Fee |\n|---|---|---|---|---|\n| Melrose Keys Lawyers | Kenmore | ✅ (initial consult) | Reasonable rates | ❓ |\n| Clear Legal",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "boutique law firms Indooroopilly Brisbane family law wills estates free consultation",
+        "law firms Centenary suburbs Brisbane fixed fee wills family law deferred fee",
+        "Melrose Keys Lawyers Kenmore free consultation fixed fee wills"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "slug": "logan",
+  "pk": "probate_administration",
+  "plat": "claude",
+  "text": "I am an executor handling probate and deceased estate administration in Logan and Western Corridor (Ipswich to Brisbane). Which law firms specialise in Queensland probate and estate administration?",
+  "loc": 9112660,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\logan__probate_administration__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:33:28.487Z",
+  "cost": 0.06778,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 11160,
+      "output_tokens": 1580,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.06718,
+      "datetime": "2026-10-23 05:33:24 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is an overview of law firms that specialise in Queensland probate and deceased estate administration, with particular relevance to the **Logan and Western Corridor (Ipswich to Brisbane)** region:\n\n---\n\n## 🏛️ Law Firms Specialising in Queensland Probate & Deceased Estate Administration\n\n---\n\n### 1. 🌿 **Nurture Law**\n**Locations:** Brisbane (Level 18, 333 Ann Street), Logan, Ipswich, Gold Coast\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Nurture Law specifically offers caring, expert probate and estate administration support in **Brisbane, Logan, Ipswich, and surrounds**",
+              "annotations": [
+                {
+                  "title": "Probate and Estate Administration - Probate Lawyers Brisbane",
+                  "url": "https://nurturelaw.com.au/probate-and-estate-administration/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Probate and Estate Administration - Probate Lawyers Brisbane",
+                  "url": "https://nurturelaw.com.au/probate-and-estate-administration/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " — making them a particularly strong fit for your geographic needs.\n\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They assist executors of a deceased loved one's will, guiding them through the probate and estate administration process with a firm grasp of probate law.",
+              "annotations": [
+                {
+                  "title": "Probate and Estate Administration Lawyers Brisbane",
+                  "url": "https://nurturelaw.com.au/legal-support/probate-and-estate-administration/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their experienced wills and estate lawyers can also assist in navigating the legal requirements when someone dies without a will and obtaining a grant of letters of administration.",
+              "annotations": [
+                {
+                  "title": "Probate and Estate Administration Lawyers Brisbane",
+                  "url": "https://nurturelaw.com.au/legal-support/probate-and-estate-administration/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their goal is to cultivate amicable settlements that maintain family relationships at minimal cost through a fixed-pricing approach. Nurture Law has also been recognised in the **2025 Doyle's Guide** as one of Queensland's leading Wills & Estates Litigation Law Firms.",
+              "annotations": [
+                {
+                  "title": "Probate and Estate Administration - Probate Lawyers Brisbane",
+                  "url": "https://nurturelaw.com.au/probate-and-estate-administration/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 2. ⚖️ **Bennett Carroll Solicitors**\n**Locations:** Brisbane, Ipswich, Gold Coast, Sunshine Coast\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Bennett Carroll Solicitors provides compassionate, expert legal support to help navigate estate administration and probate across Queensland, guiding clients through every step — from applying for probate to distributing assets to beneficiaries.",
+              "annotations": [
+                {
+                  "title": "Estate Administration & Probate Lawyers in Queensland",
+                  "url": "https://www.bcglaw.com.au/estate-administration/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They offer flexible services electronically via phone, email, or video, with optional in-person appointments at their South East Queensland offices in **Brisbane, Gold Coast, Sunshine Coast, and Ipswich**.",
+              "annotations": [
+                {
+                  "title": "Estate Administration & Probate Lawyers in Queensland",
+                  "url": "https://www.bcglaw.com.au/estate-administration/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their services include expert guidance on probate, asset distribution, and executor duties.",
+              "annotations": [
+                {
+                  "title": "Estate Administration & Probate Lawyers in Queensland",
+                  "url": "https://www.bcglaw.com.au/estate-administration/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. 📋 **Will and Estate Lawyers Australia**\n**Locations:** Brisbane (Milton & Ashgrove), Sunshine Coast (Sippy Downs)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Will and Estate Lawyers Australia provides transparent, fixed-fee legal services for probate, letters of administration, estate disputes, and comprehensive estate planning throughout Queensland.",
+              "annotations": [
+                {
+                  "title": "Will and Estate Lawyers Australia",
+                  "url": "https://willandestatelawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They currently provide probate services throughout Queensland from their offices in Brisbane (Milton and Ashgrove) and Sunshine Coast (Sippy Downs), with a service area that includes Brisbane, Gold Coast, Sunshine Coast, **Ipswich, Logan**, Toowoomba, and all other Queensland locations.",
+              "annotations": [
+                {
+                  "title": "Probate Lawyers Brisbane - Expert Help for Executors",
+                  "url": "https://willandestatelawyers.com.au/probate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their Brisbane team guides executors through every step of the process, from obtaining probate or letters of administration to final distribution, including identifying assets, paying debts, preparing estate accounts, and ensuring compliance with Queensland succession laws.",
+              "annotations": [
+                {
+                  "title": "Wills and Estate Lawyers Brisbane",
+                  "url": "https://willandestatelawyers.com.au/wills-and-estate-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 4. ⚖️ **Queensland Probate**\n**Location:** Brisbane-based, serving all of Queensland\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their probate lawyers handle probate and letters of administration across Queensland, with clear pricing, expert lawyers, and support from start to finish.",
+              "annotations": [
+                {
+                  "title": "Probate Lawyers Brisbane",
+                  "url": "https://qldprobate.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their team of probate lawyers can help manage the legal intricacies and estate issues that can arise when managing a deceased estate.",
+              "annotations": [
+                {
+                  "title": "Probate Lawyers Brisbane",
+                  "url": "https://qldprobate.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 5. 🏛️ **The Estate Lawyers**\n**Location:** Queensland-wide\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The Estate Lawyers exclusively focus on wills, estate plans, deceased estate administration, and will or estate disputes in Queensland. They specialise in contested wills and estates matters, and also represent executors of wills or beneficiaries of estates during deceased estate administrations that do not involve any form of contest or litigation.",
+              "annotations": [
+                {
+                  "title": "The Estate Lawyers",
+                  "url": "https://theestatelawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They offer flexible arrangements whereby you can instruct them to do as much or as little work as you would like.",
+              "annotations": [
+                {
+                  "title": "The Estate Lawyers",
+                  "url": "https://theestatelawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 6. 🏢 **Ryder Lawyers Pty Ltd**\n**Location:** Logan City, Queensland\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Ryder Lawyers is a prominent female-led boutique law firm in **Logan City**, offering personalised legal services in Family Law, Wills & Estate Planning, Probate, Estate Administration, and Small Business Law, led by Carolyn Ryder and supported by Brenna Narayan.",
+              "annotations": [
+                {
+                  "title": "Find Deceased Estates Lawyers near Logan Central, QLD",
+                  "url": "https://lawconnect.com/en-au/find/deceased-estates/qld/logan-central-4114",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They assist clients in **Logan and Ipswich**, along with remote services Australia-wide.",
+              "annotations": [
+                {
+                  "title": "Find Deceased Estates Lawyers near Logan Central, QLD",
+                  "url": "https://lawconnect.com/en-au/find/deceased-estates/qld/logan-central-4114",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 💡 Tips for Choosing the Right Firm\n\n| Factor | What to Look For |\n|---|---|\n| **Location** | Offices in Logan, Ipswich, or Brisbane CBD |\n| **Pricing** | Fixed-fee vs. hourly billing |\n| **Specialisation** | Firms exclusively focused on estate law |\n| **Executor Support** | End-to-end guidance from probate to distribution |\n| **Disputes** | No-win, no-fee options if estate disputes arise |\n\nGiven your specific role as an **executor** in the **Logan and Western Corridor (Ipswich to Brisbane)**, **Nurture Law** and **Ryder Lawyers** stand out for their direct local presence, while **Bennett Carroll Solicitors** offers strong Ipswich office coverage. All of the above firms offer free initial consultations, which is a good starting point for comparing their services.",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "law firms specialising probate deceased estate administration Logan Ipswich Brisbane Queensland",
+        "Queensland probate estate administration lawyers Western Corridor Ipswich Brisbane"
+      ]
+    }
+  ]
+}

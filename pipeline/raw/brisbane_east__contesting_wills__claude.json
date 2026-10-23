@@ -1,0 +1,238 @@
+{
+  "slug": "brisbane_east",
+  "pk": "contesting_wills",
+  "plat": "claude",
+  "text": "Which wills and estates law firms in Brisbane East and Bayside (Carindale & Wynnum) specialise in contesting a will, Family Provision Applications (FPA), and estate litigation?",
+  "loc": 9194035,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_east__contesting_wills__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:32:20.993Z",
+  "cost": 0.109597,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 25819,
+      "output_tokens": 1436,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.108997,
+      "datetime": "2026-10-23 05:32:17 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Based on the search results, here is a summary of wills and estates law firms that specialise in **contesting a will**, **Family Provision Applications (FPA)**, and **estate litigation** in and around **Brisbane East and Bayside (Carindale & Wynnum)**. Note that while some of these firms are based in Brisbane CBD, they serve clients across all Brisbane suburbs, including the East and Bayside areas:\n\n---\n\n### 1. 🏛️ Armstrong Legal\n**Specialties:** Contesting wills, challenging wills, Family Provision Claims, estate litigation, executor disputes, will construction, rectification, and statutory wills.\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Armstrong Legal has a talented and dedicated team of contested wills lawyers who manage all aspects of will disputes including contesting, challenging, and defending wills.",
+              "annotations": [
+                {
+                  "title": "Estate Litigation Lawyers Brisbane",
+                  "url": "https://www.armstronglegal.com.au/pages/cmcw-estate-litigation-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Armstrong Legal's Brisbane Contested Wills lawyers specialise in estate litigation and can be contacted on 1300 038 223.",
+              "annotations": [
+                {
+                  "title": "Brisbane Contested Wills Lawyers",
+                  "url": "https://www.armstronglegal.com.au/qld/brisbane-lawyers/contested-wills/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- **Phone:** (07) 3229 4448\n- **Address:** Level 5, 95 North Quay, Brisbane QLD 4000\n- **Notable:** ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "For some family provision claims, a \"No Win No Fee\" agreement may be offered, subject to a case-by-case assessment.",
+              "annotations": [
+                {
+                  "title": "Estate Litigation Lawyers Brisbane",
+                  "url": "https://www.armstronglegal.com.au/pages/cmcw-estate-litigation-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They also notably list **Wynnum Magistrates' Court** as a court they service.\n\n---\n\n### 2. 🏛️ Attwood Marshall Lawyers\n**Specialties:** Family Provision Claims (contesting a will), defending claims on behalf of executors/beneficiaries, challenging wills (capacity, undue influence), Public Trustee disputes, executor and beneficiary disputes, and statutory wills.\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Attwood Marshall Lawyers specialise in estate disputes and all areas of succession law.",
+              "annotations": [
+                {
+                  "title": "Estate Litigation Lawyers Brisbane",
+                  "url": "https://attwoodmarshall.com.au/brisbane/estate-litigation/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Whether you've been left out of a will and want to contest it, you're defending a claim as an executor or beneficiary, or you're concerned about how an estate is being managed, they help protect your rights and achieve a fair outcome.",
+              "annotations": [
+                {
+                  "title": "Estate Litigation Lawyers Brisbane",
+                  "url": "https://attwoodmarshall.com.au/brisbane/estate-litigation/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- **Website:** attwooodmarshall.com.au\n- **Notable:** ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "As a nationally recognised law firm with specialist expertise in Succession Law and estate litigation, they have helped hundreds of clients across the country navigate estate disputes.",
+              "annotations": [
+                {
+                  "title": "Estate Litigation Lawyers Brisbane",
+                  "url": "https://attwoodmarshall.com.au/brisbane/estate-litigation/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. 🏛️ Aitken Whyte Lawyers\n**Specialties:** Contesting a will, challenging a will, Family Provision Claims, estate litigation, and estate disputes.\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Aitken Whyte Lawyers are experienced Brisbane solicitors for contesting a will, challenging a will, and Family Provision Claims (also known as applications for better and further provision out of an estate).",
+              "annotations": [
+                {
+                  "title": "Will Dispute Lawyers Brisbane",
+                  "url": "https://www.awbrisbanelawyers.com.au/will-dispute-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "A Family Provision Application can be brought before the District or Supreme Court if you feel that adequate provision has not been made for your proper maintenance and support from the deceased's estate, under a will or upon intestacy.",
+              "annotations": [
+                {
+                  "title": "Will Dispute Lawyers Brisbane",
+                  "url": "https://www.awbrisbanelawyers.com.au/will-dispute-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- **Phone:** 07 3229 4459\n- **Address:** 2/414 Upper Roma Street, Brisbane QLD 4000\n- **Email:** [email protected]\n\n---\n\n### 4. 🏛️ Will and Estate Lawyers Australia\n**Specialties:** Will disputes, Family Provision Applications, executor disputes, estate litigation, and estate administration.\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their will dispute lawyers handle a wide range of estate matters including family provision applications, challenges to will validity, executor removal proceedings, breach of fiduciary duty claims, and estate administration conflicts.",
+              "annotations": [
+                {
+                  "title": "Will Dispute Lawyers Brisbane",
+                  "url": "https://willandestatelawyers.com.au/will-dispute-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- **Phone:** 07 3073 2405\n- **Notable:** ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "For will disputes and family provision applications, they work on a no win, no fee basis.",
+              "annotations": [
+                {
+                  "title": "Wills and Estate Lawyers Brisbane",
+                  "url": "https://willandestatelawyers.com.au/wills-and-estate-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their experienced succession law practitioners serve clients in Brisbane, Gold Coast, Sunshine Coast, and surrounding areas.",
+              "annotations": [
+                {
+                  "title": "Will and Estate Lawyers Australia",
+                  "url": "https://willandestatelawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 💡 Tips for Residents of Carindale & Wynnum (Bayside)\n- All of the above firms **serve Brisbane-wide clients**, including those in the **East and Bayside suburbs** such as Carindale and Wynnum.\n- It is worth calling each firm to confirm whether they offer **local consultations** or **home/remote visits** for Bayside clients.\n- Look for firms offering **No Win, No Fee** arrangements for FPA matters, as this reduces your upfront financial risk.\n- Time limits apply — in Queensland, a Family Provision Application generally must be filed **within 9 months of the date of death**, so it's important to act quickly.\n\nWould you like more detail on any of these firms, or help understanding the FPA process in Queensland?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "wills estates law firms Brisbane East Carindale Wynnum contesting will Family Provision Application estate litigation",
+        "estate litigation lawyers Wynnum Bayside Brisbane FPA specialists",
+        "wills estates lawyers Carindale Wynnum Bayside Brisbane contest will FPA",
+        "estate litigation law firm Carindale Wynnum Brisbane east"
+      ]
+    }
+  ]
+}

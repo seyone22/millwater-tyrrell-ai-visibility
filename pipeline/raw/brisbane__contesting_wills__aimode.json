@@ -1,0 +1,261 @@
+{
+  "slug": "brisbane",
+  "pk": "contesting_wills",
+  "plat": "aimode",
+  "text": "Which wills and estates law firms in Brisbane specialise in contesting a will, Family Provision Applications (FPA), and estate litigation?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane__contesting_wills__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:26:24.651Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which wills and estates law firms in Brisbane specialise in contesting a will, Family Provision Applications (FPA), and estate litigation?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000339,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20wills%20and%20estates%20law%20firms%20in%20Brisbane%20specialise%20in%20contesting%20a%20will%2C%20Family%20Provision%20Applications%20%28FPA%29%2C%20and%20estate%20litigation%3F&udm=50&uule=w+CAIQIFISCbsg9lwEWpFrEcCE3vNaowIF&hl=en&gl=AU",
+      "datetime": "2026-10-23 05:26:20 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "`Several specialist wills, estates, and litigation law firms` in Brisbane focus heavily on contesting wills, Family Provision Applications (FPAs), and complex estate disputes.[[1]](https://www.directlawyers.com.au/estate-litigation)[[2]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdzMmREVjJiV0o1GAo)\n\n\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLde4WChzTsWtUtCyfpuBcrxGSqjiEin2TvM-SN14AshMuK7Zs8xa9FITEe7RS0fSNLwHgP5oa3sOvfBNOqMG15bF_jRxoZTaWGg-oq28ZRfijARN3GsPlagpsZ_LXkl6OrYTcsN=s192-w192-h144-n-k-no)\nWill and Estate Lawyers Australia 5.0 (132)  \nEstate litigation attorney  \nOpen Level 1/16 McDougall St  \nCall Directions Website Will and Estate Lawyers Australia (Milton): Highly focused on estate litigation and challenging or defending unfair wills and Family Provision Claims.\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLdoBgb-VqwIbo0SwubEK_62hS1tX5_pR43FqMr3bVHK5z02lrCDXC06QJDvuJ8PBON2q6EJvMNhNnDP0WJy3fgTCRLnU_4msSzHfcIT5IB-yC9M5vv-s3llLFYjv7BQ2sdbnwg0xA=s192-w192-h144-n-k-no)\nThe Estate Lawyers 4.9 (88)  \nLaw firm  \nOpen 22/69 Ann St  \nCall Directions Website The Estate Lawyers (Brisbane City): Dedicated specifically to succession law, contesting wills, and representing executors or beneficiaries in disputes.\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLer2pNk-TtjqKOgxb-idyeiamRNs-eC9P-JY5TXrezFUQOoaFo0d91r9ZWLBFKn3zRc4HalL7z2ZJM2R-KGQPRJPgzSZP6fiKDpyxdlDsD0-6zo_HqhirIKEubEClSgbtK9hG07sWDUXFAk=s192-w192-h144-n-k-no)\nDirect Lawyers 4.9 (83)  \nEstate planning attorney  \nOpen The Greenhouse, West Village, Level 4/97 Boundary St  \nCall Directions Website Direct Lawyers (West End / Brisbane City): Specialises exclusively in Queensland succession law, managing Family Provision Claims, capacity challenges, and executor disputes.\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLdTOyo3YqbejNFK0vhWfmdGg-ZIXAR11fhvAdkDpCVMUr0FYnlUcwR34OHfbiIQuFlbOxRjcvHmFJaPIvLRjRb1_KoWLE9a_m9O6P-ndYNi5OpfOBaxL5pJY3LEYj_L9ihx6iYX=s192-w192-h144-n-k-no)\nROC Legal 5.0 (12)  \nEstate litigation attorney  \nOpen Level 4/260 Queen St  \nCall Directions Website ROC Legal (Brisbane City): Operates dedicated will dispute and estate litigation practices with a strong focus on navigating strict QLD timeframes for Family Provision Applications.\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLdyqgsgjhH0ILoCMwOeuxBTZK4NBl1zy3oEm0L0wG5bTDYO_vTkLsrrJJeAr5XZtf-YSvAewIcd1wr3J9jS4xXbK5twqaAQbHjFHO631nLv2_StUl5CDP9ObafLoqF-rlvsmbvk6BiD5KQ=s192-w192-h144-n-k-no)\nde Groots wills & estate lawyers 4.6 (28)  \nLegal services  \nOpen River Quarter, Level 6/46 Edward St  \nCall Directions Website de Groots wills & estate lawyers (Brisbane City): A long-standing boutique firm concentrating strictly on wills, estate planning, probate, and contentious estate litigation.\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLdf1ibyBNPaOzzQUm_jm_nZBw6uDNC1mjalNXL9jcLaM18kB2kExnCMkJpGQ_py8GYydJtIXYQHbscNVIVolZgG3tvpo505ErD4cSwz1h7F7bctQR1vIRXuDtGHJVzSred9tveyAA=s192-w192-h144-n-k-no)\nO'Connor, Ruddy & Garrett Solicitors 4.9 (85)  \nLaw firm  \nOpen 2/199 George St  \nCall Directions Website O'Connor, Ruddy & Garrett Solicitors (Brisbane City): Offers specialised legal services handling contested wills and complex estate litigation matters in Queensland.[[1]](https://roclegal.com.au/will-dispute-lawyers-brisbane/)[[2]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdzMmREVjJiV0o1GAo)[[3]](https://www.directlawyers.com.au/estate-litigation)\n\nIf you'd like, let me know:\n\n- Are you looking to **make a claim (contest a will)** or **defend an estate** as an executor?\n- Have you already provided **formal written notice** to the executor (noting the strict 6-month limit from the date of death in Queensland)?\n\nI can share more details on what information or documentation you should prepare for an initial consultation.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Several specialist wills, estates, and litigation law firms in Brisbane focus heavily on contesting wills, Family Provision Applications (FPAs), and complex estate disputes.",
+              "markdown": "`Several specialist wills, estates, and litigation law firms` in Brisbane focus heavily on contesting wills, Family Provision Applications (FPAs), and complex estate disputes.[[1]](https://www.directlawyers.com.au/estate-litigation)[[2]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdzMmREVjJiV0o1GAo)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Direct Lawyers",
+                  "domain": "www.directlawyers.com.au",
+                  "url": "https://www.directlawyers.com.au/estate-litigation",
+                  "title": "Estate Litigation Lawyers Brisbane | Contest a Will QLD",
+                  "text": "Direct Lawyers is a Brisbane-based wills and estates firm specializing exclusively in Queensland succession law, offering mobile, ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdzMmREVjJiV0o1GAo",
+                  "title": "Will and Estate Lawyers Australia",
+                  "text": "Wills and probate lawyers in Brisbane, QLD. Will and Estate Lawyers Australia handles all Will disputes including Family Provision..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Will and Estate Lawyers Australia 5.0 (132) Estate litigation attorney Open Level 1/16 McDougall St Call Directions Website Will and Estate Lawyers Australia (Milton): Highly focused on estate litigation and challenging or defending unfair wills and Family Provision Claims.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLde4WChzTsWtUtCyfpuBcrxGSqjiEin2TvM-SN14AshMuK7Zs8xa9FITEe7RS0fSNLwHgP5oa3sOvfBNOqMG15bF_jRxoZTaWGg-oq28ZRfijARN3GsPlagpsZ_LXkl6OrYTcsN=s192-w192-h144-n-k-no)\nWill and Estate Lawyers Australia 5.0 (132)  \nEstate litigation attorney  \nOpen Level 1/16 McDougall St  \nCall Directions Website Will and Estate Lawyers Australia (Milton): Highly focused on estate litigation and challenging or defending unfair wills and Family Provision Claims.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLde4WChzTsWtUtCyfpuBcrxGSqjiEin2TvM-SN14AshMuK7Zs8xa9FITEe7RS0fSNLwHgP5oa3sOvfBNOqMG15bF_jRxoZTaWGg-oq28ZRfijARN3GsPlagpsZ_LXkl6OrYTcsN=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "The Estate Lawyers 4.9 (88) Law firm Open 22/69 Ann St Call Directions Website The Estate Lawyers (Brisbane City): Dedicated specifically to succession law, contesting wills, and representing executors or beneficiaries in disputes.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLdoBgb-VqwIbo0SwubEK_62hS1tX5_pR43FqMr3bVHK5z02lrCDXC06QJDvuJ8PBON2q6EJvMNhNnDP0WJy3fgTCRLnU_4msSzHfcIT5IB-yC9M5vv-s3llLFYjv7BQ2sdbnwg0xA=s192-w192-h144-n-k-no)\nThe Estate Lawyers 4.9 (88)  \nLaw firm  \nOpen 22/69 Ann St  \nCall Directions Website The Estate Lawyers (Brisbane City): Dedicated specifically to succession law, contesting wills, and representing executors or beneficiaries in disputes.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdoBgb-VqwIbo0SwubEK_62hS1tX5_pR43FqMr3bVHK5z02lrCDXC06QJDvuJ8PBON2q6EJvMNhNnDP0WJy3fgTCRLnU_4msSzHfcIT5IB-yC9M5vv-s3llLFYjv7BQ2sdbnwg0xA=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Direct Lawyers 4.9 (83) Estate planning attorney Open The Greenhouse, West Village, Level 4/97 Boundary St Call Directions Website Direct Lawyers (West End / Brisbane City): Specialises exclusively in Queensland succession law, managing Family Provision Claims, capacity challenges, and executor disputes.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLer2pNk-TtjqKOgxb-idyeiamRNs-eC9P-JY5TXrezFUQOoaFo0d91r9ZWLBFKn3zRc4HalL7z2ZJM2R-KGQPRJPgzSZP6fiKDpyxdlDsD0-6zo_HqhirIKEubEClSgbtK9hG07sWDUXFAk=s192-w192-h144-n-k-no)\nDirect Lawyers 4.9 (83)  \nEstate planning attorney  \nOpen The Greenhouse, West Village, Level 4/97 Boundary St  \nCall Directions Website Direct Lawyers (West End / Brisbane City): Specialises exclusively in Queensland succession law, managing Family Provision Claims, capacity challenges, and executor disputes.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLer2pNk-TtjqKOgxb-idyeiamRNs-eC9P-JY5TXrezFUQOoaFo0d91r9ZWLBFKn3zRc4HalL7z2ZJM2R-KGQPRJPgzSZP6fiKDpyxdlDsD0-6zo_HqhirIKEubEClSgbtK9hG07sWDUXFAk=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "ROC Legal 5.0 (12) Estate litigation attorney Open Level 4/260 Queen St Call Directions Website ROC Legal (Brisbane City): Operates dedicated will dispute and estate litigation practices with a strong focus on navigating strict QLD timeframes for Family Provision Applications.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLdTOyo3YqbejNFK0vhWfmdGg-ZIXAR11fhvAdkDpCVMUr0FYnlUcwR34OHfbiIQuFlbOxRjcvHmFJaPIvLRjRb1_KoWLE9a_m9O6P-ndYNi5OpfOBaxL5pJY3LEYj_L9ihx6iYX=s192-w192-h144-n-k-no)\nROC Legal 5.0 (12)  \nEstate litigation attorney  \nOpen Level 4/260 Queen St  \nCall Directions Website ROC Legal (Brisbane City): Operates dedicated will dispute and estate litigation practices with a strong focus on navigating strict QLD timeframes for Family Provision Applications.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdTOyo3YqbejNFK0vhWfmdGg-ZIXAR11fhvAdkDpCVMUr0FYnlUcwR34OHfbiIQuFlbOxRjcvHmFJaPIvLRjRb1_KoWLE9a_m9O6P-ndYNi5OpfOBaxL5pJY3LEYj_L9ihx6iYX=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "de Groots wills & estate lawyers 4.6 (28) Legal services Open River Quarter, Level 6/46 Edward St Call Directions Website de Groots wills & estate lawyers (Brisbane City): A long-standing boutique firm concentrating strictly on wills, estate planning, probate, and contentious estate litigation.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLdyqgsgjhH0ILoCMwOeuxBTZK4NBl1zy3oEm0L0wG5bTDYO_vTkLsrrJJeAr5XZtf-YSvAewIcd1wr3J9jS4xXbK5twqaAQbHjFHO631nLv2_StUl5CDP9ObafLoqF-rlvsmbvk6BiD5KQ=s192-w192-h144-n-k-no)\nde Groots wills & estate lawyers 4.6 (28)  \nLegal services  \nOpen River Quarter, Level 6/46 Edward St  \nCall Directions Website de Groots wills & estate lawyers (Brisbane City): A long-standing boutique firm concentrating strictly on wills, estate planning, probate, and contentious estate litigation.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdyqgsgjhH0ILoCMwOeuxBTZK4NBl1zy3oEm0L0wG5bTDYO_vTkLsrrJJeAr5XZtf-YSvAewIcd1wr3J9jS4xXbK5twqaAQbHjFHO631nLv2_StUl5CDP9ObafLoqF-rlvsmbvk6BiD5KQ=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "O'Connor, Ruddy & Garrett Solicitors 4.9 (85) Law firm Open 2/199 George St Call Directions Website O'Connor, Ruddy & Garrett Solicitors (Brisbane City): Offers specialised legal services handling contested wills and complex estate litigation matters in Queensland.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLdf1ibyBNPaOzzQUm_jm_nZBw6uDNC1mjalNXL9jcLaM18kB2kExnCMkJpGQ_py8GYydJtIXYQHbscNVIVolZgG3tvpo505ErD4cSwz1h7F7bctQR1vIRXuDtGHJVzSred9tveyAA=s192-w192-h144-n-k-no)\nO'Connor, Ruddy & Garrett Solicitors 4.9 (85)  \nLaw firm  \nOpen 2/199 George St  \nCall Directions Website O'Connor, Ruddy & Garrett Solicitors (Brisbane City): Offers specialised legal services handling contested wills and complex estate litigation matters in Queensland.[[1]](https://roclegal.com.au/will-dispute-lawyers-brisbane/)[[2]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdzMmREVjJiV0o1GAo)[[3]](https://www.directlawyers.com.au/estate-litigation)",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdf1ibyBNPaOzzQUm_jm_nZBw6uDNC1mjalNXL9jcLaM18kB2kExnCMkJpGQ_py8GYydJtIXYQHbscNVIVolZgG3tvpo505ErD4cSwz1h7F7bctQR1vIRXuDtGHJVzSred9tveyAA=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "ROC Legal",
+                  "domain": "roclegal.com.au",
+                  "url": "https://roclegal.com.au/will-dispute-lawyers-brisbane/",
+                  "title": "Will Dispute Lawyers Brisbane - ROC Legal",
+                  "text": "For a family provision claim, give the executor written notice of your intention to apply before six months have passed from the d..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdzMmREVjJiV0o1GAo",
+                  "title": "Will and Estate Lawyers Australia",
+                  "text": "Wills and probate lawyers in Brisbane, QLD. Will and Estate Lawyers Australia handles all Will disputes including Family Provision claims. Ask us about our no win, no fee policy for Family Provision Applications. Our Will Solicitors can help administer deceased estates from start to finish including obtaining Probate or Letters of Administration, ensuring Executors comply with their duties and receive Executor's commission. We provide fixed fee quotes. We also help defend contested estates. Completely organise your succession plan: an Estate Planning solicitor can help you make: - wills in Brisbane - Enduring Power of Attorney; - Advance Health Directive. Contact us for a free consultation. We do Zoom!"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Direct Lawyers",
+                  "domain": "www.directlawyers.com.au",
+                  "url": "https://www.directlawyers.com.au/estate-litigation",
+                  "title": "Estate Litigation Lawyers Brisbane | Contest a Will QLD",
+                  "text": "Direct Lawyers is a Brisbane-based wills and estates firm specializing exclusively in Queensland succession law, offering mobile, phone, and video consultations."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you'd like, let me know:",
+              "markdown": "If you'd like, let me know:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Are you looking to make a claim (contest a will) or defend an estate as an executor? Have you already provided formal written notice to the executor (noting the strict 6-month limit from the date of death in Queensland)?",
+              "markdown": "- Are you looking to **make a claim (contest a will)** or **defend an estate** as an executor?\n- Have you already provided **formal written notice** to the executor (noting the strict 6-month limit from the date of death in Queensland)?",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "I can share more details on what information or documentation you should prepare for an initial consultation.",
+              "markdown": "I can share more details on what information or documentation you should prepare for an initial consultation.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "ROC Legal",
+              "domain": "roclegal.com.au",
+              "url": "https://roclegal.com.au/will-dispute-lawyers-brisbane/",
+              "title": "Will Dispute Lawyers Brisbane - ROC Legal",
+              "text": "For a family provision claim, give the executor written notice of your intention to apply before six months have passed from the death."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Direct Lawyers",
+              "domain": "www.directlawyers.com.au",
+              "url": "https://www.directlawyers.com.au/estate-litigation",
+              "title": "Estate Litigation Lawyers Brisbane | Contest a Will QLD",
+              "text": "Direct Lawyers is a Brisbane-based wills and estates firm specializing exclusively in Queensland succession law, offering mobile, phone, and video consultations."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Google",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdzMmREVjJiV0o1GAo",
+              "title": "Will and Estate Lawyers Australia",
+              "text": "Wills and probate lawyers in Brisbane, QLD. Will and Estate Lawyers Australia handles all Will disputes including Family Provision claims. Ask us about our no win, no fee policy for Family Provision Applications. Our Will Solicitors can help administer deceased estates from start to finish including obtaining Probate or Letters of Administration, ensuring Executors comply with their duties and receive Executor's commission. We provide fixed fee quotes. We also help defend contested estates. Completely organise your succession plan: an Estate Planning solicitor can help you make: - wills in Brisbane - Enduring Power of Attorney; - Advance Health Directive. Contact us for a free consultation. We do Zoom!"
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

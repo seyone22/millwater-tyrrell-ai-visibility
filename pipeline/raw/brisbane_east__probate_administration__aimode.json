@@ -1,0 +1,250 @@
+{
+  "slug": "brisbane_east",
+  "pk": "probate_administration",
+  "plat": "aimode",
+  "text": "I am an executor handling probate and deceased estate administration in Brisbane East and Bayside (Carindale & Wynnum). Which law firms specialise in Queensland probate and estate administration?",
+  "loc": 9194035,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_east__probate_administration__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:31:47.839Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "I am an executor handling probate and deceased estate administration in Brisbane East and Bayside (Carindale & Wynnum). Which law firms specialise in Queensland probate and estate administration?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 9194035,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=I%20am%20an%20executor%20handling%20probate%20and%20deceased%20estate%20administration%20in%20Brisbane%20East%20and%20Bayside%20%28Carindale%20%26%20Wynnum%29.%20Which%20law%20firms%20specialise%20in%20Queensland%20probate%20and%20estate%20administration%3F&udm=50&uule=w+CAIQIFISCY2cnt7dW5FrEZCD3vNaowIF&hl=en&gl=AU",
+      "datetime": "2026-10-23 05:31:43 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "When managing probate and deceased estate administration in the Brisbane East and Bayside areas, you can choose between `boutique local firms with a deep community presence or dedicated, state-wide specialist succession law practices`.\n\n### Local Brisbane East & Bayside Firms\n\n\n\n---\n\n![](https://api.dataforseo.com/cdn/i/10230531-2877-0139-0000-fbbffab440db:20)\nDBL Solicitors 4.9 (142)  \nSolicitor  \nOpen 212 Bay Terrace  \nCall Directions Website With local offices spanning [Carina, Morningside, Wynnum, and the Brisbane CBD](https://www.dbl.com.au/) , DBL is heavily embedded in the Bayside and eastern suburbs. Their team assists executors with caring, practical guidance through deceased estate administration, asset distribution, and defending or navigating claims against an estate.\n\n---\n\n![](https://api.dataforseo.com/cdn/i/10230531-2877-0139-0000-fbbffab440db:21)\nConnor Hunter Lawyers 4.9 (114)  \nLegal services  \nOpen 17 Middle St  \nCall Directions Website Established in the local area back in 1971 (combining roots in Wynnum and Cleveland), this long-standing firm provides comprehensive support for wills, estate planning, and probate matters. They offer a traditional, community-focused approach combined with modern practice methods.\n\n---\n\n![](https://api.dataforseo.com/cdn/i/10230531-2877-0139-0000-fbbffab440db:22)\nWillwise Solicitor  \nClosed Australia Post Bx, 1601/738 Creek Rd  \nCall Directions Website Operating locally in Carindale, this practice handles wills, enduring powers of attorney, probate, and deceased estate administration, with specialized structuring for estate planning packages ranging from straightforward grants to complex testamentary trusts.[[1]](https://www.dbl.com.au/)[[2]](https://thecommunityleader.com.au/businesses/dbl/)[[3]](https://lawconnect.com/en-au/find/estate-administration/qld/wynnum-4178)[[4]](https://connorhunter.com/)[[5]](https://willwise.com.au/)\n\n### Dedicated Queensland Succession & Probate Specialists\n\n\n\n---\n\n![](https://api.dataforseo.com/cdn/i/10230531-2877-0139-0000-fbbffab440db:23)\nde Groots 4.6 (28)  \nLegal services  \nOpen River Quarter, Level 6/46 Edward St  \nCall Directions Website A prominent specialist wills and estate law firm operating in Brisbane (and interstate). They focus exclusively on estate planning, deceased estate administration, complex probate applications, and estate disputes, often featuring accredited succession law specialists.\n\n---\n\n![](https://api.dataforseo.com/cdn/i/10230531-2877-0139-0000-fbbffab440db:24)\nThe Estate Lawyers 4.9 (88)  \nLaw firm  \nOpen 22/69 Ann St  \nCall Directions Website A Brisbane- and Gold Coast-based specialist firm dealing strictly with Queensland wills, contested estates, and complex administration workflows. They frequently structure arrangements (in approved cases) to defer legal fees until the estate's funds or inheritance are disbursed.[[1]](https://degroots.com.au/)[[2]](https://theestatelawyers.com.au/)\n\nWould you like help identifying whether your specific estate requires a **local Bayside general practice** or a **dedicated succession law specialist** , or do you need a checklist of the **initial documents** an executor must gather for a Queensland probate application?",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "When managing probate and deceased estate administration in the Brisbane East and Bayside areas, you can choose between boutique local firms with a deep community presence or dedicated, state-wide specialist succession law practices.",
+              "markdown": "When managing probate and deceased estate administration in the Brisbane East and Bayside areas, you can choose between `boutique local firms with a deep community presence or dedicated, state-wide specialist succession law practices`.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Local Brisbane East & Bayside Firms",
+              "text": "DBL Solicitors 4.9 (142) Solicitor Open 212 Bay Terrace Call Directions Website With local offices spanning Carina, Morningside, Wynnum, and the Brisbane CBD, DBL is heavily embedded in the Bayside and eastern suburbs. Their team assists executors with caring, practical guidance through deceased estate administration, asset distribution, and defending or navigating claims against an estate.",
+              "markdown": "---\n\n![](https://api.dataforseo.com/cdn/i/10230531-2877-0139-0000-fbbffab440db:10)\nDBL Solicitors 4.9 (142)  \nSolicitor  \nOpen 212 Bay Terrace  \nCall Directions Website With local offices spanning [Carina, Morningside, Wynnum, and the Brisbane CBD](https://www.dbl.com.au/) , DBL is heavily embedded in the Bayside and eastern suburbs. Their team assists executors with caring, practical guidance through deceased estate administration, asset distribution, and defending or navigating claims against an estate.",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Carina, Morningside, Wynnum, and the Brisbane CBD",
+                  "description": null,
+                  "url": "https://www.dbl.com.au/",
+                  "domain": "www.dbl.com.au"
+                }
+              ],
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/10230531-2877-0139-0000-fbbffab440db:11"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Connor Hunter Lawyers 4.9 (114) Legal services Open 17 Middle St Call Directions Website Established in the local area back in 1971 (combining roots in Wynnum and Cleveland), this long-standing firm provides comprehensive support for wills, estate planning, and probate matters. They offer a traditional, community-focused approach combined with modern practice methods.",
+              "markdown": "---\n\n![](https://api.dataforseo.com/cdn/i/10230531-2877-0139-0000-fbbffab440db:12)\nConnor Hunter Lawyers 4.9 (114)  \nLegal services  \nOpen 17 Middle St  \nCall Directions Website Established in the local area back in 1971 (combining roots in Wynnum and Cleveland), this long-standing firm provides comprehensive support for wills, estate planning, and probate matters. They offer a traditional, community-focused approach combined with modern practice methods.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/10230531-2877-0139-0000-fbbffab440db:13"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Willwise Solicitor Closed Australia Post Bx, 1601/738 Creek Rd Call Directions Website Operating locally in Carindale, this practice handles wills, enduring powers of attorney, probate, and deceased estate administration, with specialized structuring for estate planning packages ranging from straightforward grants to complex testamentary trusts.",
+              "markdown": "---\n\n![](https://api.dataforseo.com/cdn/i/10230531-2877-0139-0000-fbbffab440db:14)\nWillwise Solicitor  \nClosed Australia Post Bx, 1601/738 Creek Rd  \nCall Directions Website Operating locally in Carindale, this practice handles wills, enduring powers of attorney, probate, and deceased estate administration, with specialized structuring for estate planning packages ranging from straightforward grants to complex testamentary trusts.[[1]](https://www.dbl.com.au/)[[2]](https://thecommunityleader.com.au/businesses/dbl/)[[3]](https://lawconnect.com/en-au/find/estate-administration/qld/wynnum-4178)[[4]](https://connorhunter.com/)[[5]](https://willwise.com.au/)",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/10230531-2877-0139-0000-fbbffab440db:15"
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "DBL Solicitors",
+                  "domain": "www.dbl.com.au",
+                  "url": "https://www.dbl.com.au/",
+                  "title": "DBL Solicitors",
+                  "text": "TRUSTED PARTNERS FOR OVER 25 YEARS We have undergone significant growth since our humble beginnings and now have 4 offices – Carin..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "thecommunityleader.com.au",
+                  "domain": "thecommunityleader.com.au",
+                  "url": "https://thecommunityleader.com.au/businesses/dbl/",
+                  "title": "DBL - The Community Leader and Real Estate New and Views",
+                  "text": "DBL Solicitors provide not only caring guidance, but will also ease your emotional transition by dealing with the practical side o..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "LawConnect",
+                  "domain": "lawconnect.com",
+                  "url": "https://lawconnect.com/en-au/find/estate-administration/qld/wynnum-4178",
+                  "title": "Find Estate Administration Lawyers in Wynnum, QLD",
+                  "text": "These practitioners typically assist with probate applications, estate asset distribution, and executor guidance throughout the ad..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Connor Hunter Lawyers",
+                  "domain": "connorhunter.com",
+                  "url": "https://connorhunter.com/",
+                  "title": "Connor Hunter Lawyers: Comprehensive Legal Services in ...",
+                  "text": "Established in 1971, our experienced legal practitioners are here to assist you with a full range of legal matters, from commercia..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Judy Hayward – Willwise",
+                  "domain": "willwise.com.au",
+                  "url": "https://willwise.com.au/",
+                  "title": "Wills & Estate Planning Carindale | Judy Hayward – Willwise",
+                  "text": "Services: Wills and enduring powers of attorney, estate planning assisted by accredited succession law specialists, succession law..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Dedicated Queensland Succession & Probate Specialists",
+              "text": "de Groots 4.6 (28) Legal services Open River Quarter, Level 6/46 Edward St Call Directions Website A prominent specialist wills and estate law firm operating in Brisbane (and interstate). They focus exclusively on estate planning, deceased estate administration, complex probate applications, and estate disputes, often featuring accredited succession law specialists.",
+              "markdown": "---\n\n![](https://api.dataforseo.com/cdn/i/10230531-2877-0139-0000-fbbffab440db:16)\nde Groots 4.6 (28)  \nLegal services  \nOpen River Quarter, Level 6/46 Edward St  \nCall Directions Website A prominent specialist wills and estate law firm operating in Brisbane (and interstate). They focus exclusively on estate planning, deceased estate administration, complex probate applications, and estate disputes, often featuring accredited succession law specialists.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/10230531-2877-0139-0000-fbbffab440db:17"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "The Estate Lawyers 4.9 (88) Law firm Open 22/69 Ann St Call Directions Website A Brisbane- and Gold Coast-based specialist firm dealing strictly with Queensland wills, contested estates, and complex administration workflows. They frequently structure arrangements (in approved cases) to defer legal fees until the estate's funds or inheritance are disbursed.",
+              "markdown": "---\n\n![](https://api.dataforseo.com/cdn/i/10230531-2877-0139-0000-fbbffab440db:18)\nThe Estate Lawyers 4.9 (88)  \nLaw firm  \nOpen 22/69 Ann St  \nCall Directions Website A Brisbane- and Gold Coast-based specialist firm dealing strictly with Queensland wills, contested estates, and complex administration workflows. They frequently structure arrangements (in approved cases) to defer legal fees until the estate's funds or inheritance are disbursed.[[1]](https://degroots.com.au/)[[2]](https://theestatelawyers.com.au/)",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/10230531-2877-0139-0000-fbbffab440db:19"
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "de Groots Wills and Estate Lawyers",
+                  "domain": "degroots.com.au",
+                  "url": "https://degroots.com.au/",
+                  "title": "de Groots: Estate Lawyers Australia | Wills & Estate Law",
+                  "text": "de Groots is a specialist Wills and Estate law firm serving clients in Brisbane, Sydney and Melbourne. Our experienced estate lawy..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "The Estate Lawyers",
+                  "domain": "theestatelawyers.com.au",
+                  "url": "https://theestatelawyers.com.au/",
+                  "title": "The Estate Lawyers",
+                  "text": "We act in all Will and Deceased estate matters with a Queensland connection covering all areas of litigation, administration and e..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Would you like help identifying whether your specific estate requires a local Bayside general practice or a dedicated succession law specialist, or do you need a checklist of the initial documents an executor must gather for a Queensland probate application?",
+              "markdown": "Would you like help identifying whether your specific estate requires a **local Bayside general practice** or a **dedicated succession law specialist** , or do you need a checklist of the **initial documents** an executor must gather for a Queensland probate application?",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "de Groots Wills and Estate Lawyers",
+              "domain": "degroots.com.au",
+              "url": "https://degroots.com.au/",
+              "title": "de Groots: Estate Lawyers Australia | Wills & Estate Law",
+              "text": "de Groots is a specialist Wills and Estate law firm serving clients in Brisbane, Sydney and Melbourne. Our experienced estate lawyers provide advice on Wills, esta..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "The Estate Lawyers",
+              "domain": "theestatelawyers.com.au",
+              "url": "https://theestatelawyers.com.au/",
+              "title": "The Estate Lawyers",
+              "text": "We act in all Will and Deceased estate matters with a Queensland connection covering all areas of litigation, administration and estate planning."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "DBL Solicitors",
+              "domain": "www.dbl.com.au",
+              "url": "https://www.dbl.com.au/",
+              "title": "DBL Solicitors",
+              "text": "TRUSTED PARTNERS FOR OVER 25 YEARS We have undergone significant growth since our humble beginnings and now have 4 offices – Carina, Morningside, Wynnum and Brisba..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

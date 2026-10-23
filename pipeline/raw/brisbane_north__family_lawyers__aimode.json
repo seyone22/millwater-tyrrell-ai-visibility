@@ -1,0 +1,191 @@
+{
+  "slug": "brisbane_north",
+  "pk": "family_lawyers",
+  "plat": "aimode",
+  "text": "Who are the best family lawyers in Brisbane Northside (Chermside & North Lakes)? Give me a shortlist of reputable family law firms with reasons.",
+  "loc": 9060852,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_north__family_lawyers__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:29:19.895Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Who are the best family lawyers in Brisbane Northside (Chermside & North Lakes)? Give me a shortlist of reputable family law firms with reasons.",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 9060852,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Who%20are%20the%20best%20family%20lawyers%20in%20Brisbane%20Northside%20%28Chermside%20%26%20North%20Lakes%29%3F%20Give%20me%20a%20shortlist%20of%20reputable%20family%20law%20firms%20with%20reasons.&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCV_fhDGw4pNrEXCE3vNaowIF",
+      "datetime": "2026-10-23 05:29:15 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "Here is a curated shortlist of reputable, highly rated family law firms located on Brisbane’s Northside, specifically covering the Chermside and North Lakes corridors (and immediate surrounds).\n\n### 1. Barton Family Lawyers (Chermside)\n\n- **Location:** 818 Gympie Rd, Chermside QLD 4032\n- **Why they are reputable:** Conveniently situated right in the heart of Chermside, this firm focuses heavily on client-centric, specialist family law services. They are widely praised in client reviews for balancing high technical capability and efficiency with deep empathy during emotionally draining separation, parenting, and property division matters.\n- **Best for:** Local, face-to-face accessibility around the Westfield Chermside hub with a compassionate, strategic approach.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdSNWJUUnFZMmR0GAo)\n\n### 2. Zande Law (North Lakes)\n\n- **Location:** Suite 9 / 15 Discovery Dr, North Lakes QLD 4509[[1]](https://www.google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEhNeGJYUnFNQRgK)\n- **Why they are reputable:** Zande Law is one of the longest-established practices in the North Lakes area. Led by experienced practitioners—including accredited family law specialists—the firm boasts decades of collective regional experience. Clients frequently highlight their thoroughness, patience, and straightforward guidance through complex property settlements and children’s care arrangements.[[1]](https://www.google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEhNeGJYUnFNQRgK)\n- **Best for:** Clients living or working in the Moreton Bay/North Lakes region wanting a seasoned, locally anchored team with specialist accreditation.[[1]](https://www.google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEhNeGJYUnFNQRgK)\n\n### 3. Preston and Associates (North Lakes)\n\n- **Location:** Shop 6 / 12 Endeavour Blvd, North Lakes QLD 4509[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdSNWJUUnFZMmR0GAo)\n- **Why they are reputable:** Positioned well in North Lakes, this practice receives stellar local community feedback for handling divorce, complex custody disputes, and property settlements. They are known for providing clear, actionable roadmap strategies early in a matter to help keep costs manageable and expectations realistic.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdSNWJUUnFZMmR0GAo)\n- **Best for:** Practical, no-nonsense advice for northern growth-corridor residents navigating contentious parenting or financial separation.\n\n### 4. Cudmore Legal (Aspley - Servicing Northside & North Lakes)\n\n- **Location:** Suite 34, Mezzanine Level, 59 Albany Creek Rd, Aspley QLD 4034\n- **Why they are reputable:** Located just a short drive from Chermside in neighbouring Aspley, Cudmore Legal explicitly services the entire northern Brisbane sprawl out to North Lakes. They practice heavily in family law litigation, divorce, and stubborn parenting disputes. Reviewers often note their assertive advocacy and transparent communication style.\n- **Best for:** Clients looking for a dedicated litigation/negotiation team that covers a wide geographic footprint across the Northside.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdSNWJUUnFZMmR0GAo)\n\nIf you'd like to narrow this down, let me know:\n\n- Are your primary issues focused on **property settlement** or **child parenting arrangements**?\n- Do you prefer a firm located **strictly in Chermside** or **strictly in North Lakes**?\n\nI can help tailor the recommendation or outline what to prepare for an initial consultation.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Here is a curated shortlist of reputable, highly rated family law firms located on Brisbane’s Northside, specifically covering the Chermside and North Lakes corridors (and immediate surrounds).",
+              "markdown": "Here is a curated shortlist of reputable, highly rated family law firms located on Brisbane’s Northside, specifically covering the Chermside and North Lakes corridors (and immediate surrounds).",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "1. Barton Family Lawyers (Chermside)",
+              "text": "Location: 818 Gympie Rd, Chermside QLD 4032 Why they are reputable: Conveniently situated right in the heart of Chermside, this firm focuses heavily on client-centric, specialist family law services. They are widely praised in client reviews for balancing high technical capability and efficiency with deep empathy during emotionally draining separation, parenting, and property division matters. Best for: Local, face-to-face accessibility around the Westfield Chermside hub with a compassionate, strategic approach.",
+              "markdown": "- **Location:** 818 Gympie Rd, Chermside QLD 4032\n- **Why they are reputable:** Conveniently situated right in the heart of Chermside, this firm focuses heavily on client-centric, specialist family law services. They are widely praised in client reviews for balancing high technical capability and efficiency with deep empathy during emotionally draining separation, parenting, and property division matters.\n- **Best for:** Local, face-to-face accessibility around the Westfield Chermside hub with a compassionate, strategic approach.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdSNWJUUnFZMmR0GAo)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdSNWJUUnFZMmR0GAo",
+                  "title": "Cudmore Legal",
+                  "text": "Cudmore Legal delivers powerful, strategic family law representation to Brisbane families. Led by Principal Lawyer Luke Cudmore, o..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "2. Zande Law (North Lakes)",
+              "text": "Location: Suite 9 / 15 Discovery Dr, North Lakes QLD 4509 Why they are reputable: Zande Law is one of the longest-established practices in the North Lakes area. Led by experienced practitioners—including accredited family law specialists—the firm boasts decades of collective regional experience. Clients frequently highlight their thoroughness, patience, and straightforward guidance through complex property settlements and children’s care arrangements. Best for: Clients living or working in the Moreton Bay/North Lakes region wanting a seasoned, locally anchored team with specialist accreditation.",
+              "markdown": "- **Location:** Suite 9 / 15 Discovery Dr, North Lakes QLD 4509[[1]](https://www.google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEhNeGJYUnFNQRgK)\n- **Why they are reputable:** Zande Law is one of the longest-established practices in the North Lakes area. Led by experienced practitioners—including accredited family law specialists—the firm boasts decades of collective regional experience. Clients frequently highlight their thoroughness, patience, and straightforward guidance through complex property settlements and children’s care arrangements.[[1]](https://www.google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEhNeGJYUnFNQRgK)\n- **Best for:** Clients living or working in the Moreton Bay/North Lakes region wanting a seasoned, locally anchored team with specialist accreditation.[[1]](https://www.google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEhNeGJYUnFNQRgK)",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "3. Preston and Associates (North Lakes)",
+              "text": "Location: Shop 6 / 12 Endeavour Blvd, North Lakes QLD 4509 Why they are reputable: Positioned well in North Lakes, this practice receives stellar local community feedback for handling divorce, complex custody disputes, and property settlements. They are known for providing clear, actionable roadmap strategies early in a matter to help keep costs manageable and expectations realistic. Best for: Practical, no-nonsense advice for northern growth-corridor residents navigating contentious parenting or financial separation.",
+              "markdown": "- **Location:** Shop 6 / 12 Endeavour Blvd, North Lakes QLD 4509[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdSNWJUUnFZMmR0GAo)\n- **Why they are reputable:** Positioned well in North Lakes, this practice receives stellar local community feedback for handling divorce, complex custody disputes, and property settlements. They are known for providing clear, actionable roadmap strategies early in a matter to help keep costs manageable and expectations realistic.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdSNWJUUnFZMmR0GAo)\n- **Best for:** Practical, no-nonsense advice for northern growth-corridor residents navigating contentious parenting or financial separation.",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdSNWJUUnFZMmR0GAo",
+                  "title": "Cudmore Legal",
+                  "text": "Cudmore Legal delivers powerful, strategic family law representation to Brisbane families. Led by Principal Lawyer Luke Cudmore, our firm has built a team of experienced solicitors committed to achieving results, not just processing cases. Our Aspley office serves families throughout northern Brisbane and North Lakes with aggressive advocacy in divorce litigation, parenting disputes, and property settlement matters. We don't settle for less than what you deserve. Our approach combines thorough legal strategy with relentless pursuit of favourable outcomes - protecting your parental rights, securing your financial future, and defending your interests. FREE 20-minute initial consultation. LGBTQ+ friendly. Women-led practice."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "4. Cudmore Legal (Aspley - Servicing Northside & North Lakes)",
+              "text": "Location: Suite 34, Mezzanine Level, 59 Albany Creek Rd, Aspley QLD 4034 Why they are reputable: Located just a short drive from Chermside in neighbouring Aspley, Cudmore Legal explicitly services the entire northern Brisbane sprawl out to North Lakes. They practice heavily in family law litigation, divorce, and stubborn parenting disputes. Reviewers often note their assertive advocacy and transparent communication style. Best for: Clients looking for a dedicated litigation/negotiation team that covers a wide geographic footprint across the Northside.",
+              "markdown": "- **Location:** Suite 34, Mezzanine Level, 59 Albany Creek Rd, Aspley QLD 4034\n- **Why they are reputable:** Located just a short drive from Chermside in neighbouring Aspley, Cudmore Legal explicitly services the entire northern Brisbane sprawl out to North Lakes. They practice heavily in family law litigation, divorce, and stubborn parenting disputes. Reviewers often note their assertive advocacy and transparent communication style.\n- **Best for:** Clients looking for a dedicated litigation/negotiation team that covers a wide geographic footprint across the Northside.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdSNWJUUnFZMmR0GAo)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdSNWJUUnFZMmR0GAo",
+                  "title": "Cudmore Legal",
+                  "text": "Cudmore Legal delivers powerful, strategic family law representation to Brisbane families. Led by Principal Lawyer Luke Cudmore, our firm has built a team of experienced solicitors committed to achieving results, not just processing cases. Our Aspley office serves families throughout northern Brisbane and North Lakes with aggressive advocacy in divorce litigation, parenting disputes, and property settlement matters. We don't settle for less than what you deserve. Our approach combines thorough legal strategy with relentless pursuit of favourable outcomes - protecting your parental rights, securing your financial future, and defending your interests. FREE 20-minute initial consultation. LGBTQ+ friendly. Women-led practice."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you'd like to narrow this down, let me know:",
+              "markdown": "If you'd like to narrow this down, let me know:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Are your primary issues focused on property settlement or child parenting arrangements ? Do you prefer a firm located strictly in Chermside or strictly in North Lakes ?",
+              "markdown": "- Are your primary issues focused on **property settlement** or **child parenting arrangements**?\n- Do you prefer a firm located **strictly in Chermside** or **strictly in North Lakes**?",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "I can help tailor the recommendation or outline what to prepare for an initial consultation.",
+              "markdown": "I can help tailor the recommendation or outline what to prepare for an initial consultation.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Google",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdSNWJUUnFZMmR0GAo",
+              "title": "Cudmore Legal",
+              "text": "Cudmore Legal delivers powerful, strategic family law representation to Brisbane families. Led by Principal Lawyer Luke Cudmore, our firm has built a team of experienced solicitors committed to achieving results, not just processing cases. Our Aspley office serves families throughout northern Brisbane and North Lakes with aggressive advocacy in divorce litigation, parenting disputes, and property settlement matters. We don't settle for less than what you deserve. Our approach combines thorough legal strategy with relentless pursuit of favourable outcomes - protecting your parental rights, securing your financial future, and defending your interests. FREE 20-minute initial consultation. LGBTQ+ friendly. Women-led practice."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Google",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4Y0hSM2RHTjVOWEUYCg",
+              "title": "Northside Family Law Centre",
+              "text": "Experienced Divorce & Family Lawyers on Brisbane Northside"
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Google",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4ZVdvMGF6TmtjV1EYCg",
+              "title": "Phillips Family Law",
+              "text": "Phillips Family Law specialise in separation and divorce, financial settlements, parenting and children arrangements, prenuptial and financial agreements, de facto and same sex relationships, and other family law matters, including international family law matters. We assist people across Queensland, interstate and living overseas who have family law matters requiring advice under Australian law."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Google",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEhNeGJYUnFNQRgK",
+              "title": "Zande Law",
+              "text": "Ste 9/15 Discovery Dr, North Lakes QLD 4509 · Professional law firm specializing in family law and conveyancing services."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "slug": "brisbane_west",
+  "pk": "divorce_property",
+  "plat": "aimode",
+  "text": "I am going through a separation and complex property settlement in Brisbane Western Suburbs (Indooroopilly & Centenary). Which family law firms have the strongest track record for property division and binding financial agreements?",
+  "loc": 9192539,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_west__divorce_property__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:26:41.392Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "I am going through a separation and complex property settlement in Brisbane Western Suburbs (Indooroopilly & Centenary). Which family law firms have the strongest track record for property division and binding financial agreements?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 9192539,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=I%20am%20going%20through%20a%20separation%20and%20complex%20property%20settlement%20in%20Brisbane%20Western%20Suburbs%20%28Indooroopilly%20%26%20Centenary%29.%20Which%20family%20law%20firms%20have%20the%20strongest%20track%20record%20for%20property%20division%20and%20binding%20financial%20agreements%3F&udm=50&uule=w+CAIQIFISCd0K1hBZUJFrEfCL3vNaowIF&hl=en&gl=AU",
+      "datetime": "2026-10-23 05:26:36 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "Navigating a separation with a complex property portfolio—especially one involving high-net-worth assets, corporate/trust structures, or intricate Binding Financial Agreements (BFAs)—requires specialized expertise.\n\nWhile many suburban boutique practices service the Western Suburbs (Indooroopilly, Toowong, and the Centenary suburbs), **complex property division and high-stakes BFAs are predominantly handled by top-tier specialist family law firms based in the Brisbane CBD** or prominent regional specialists who regularly appear in the Federal Circuit and Family Court of Australia.\n\nThe leading firms and practices recognized for complex property division and financial agreements in the Brisbane area include:\n\n\n\n---\n\n![](https://api.dataforseo.com/cdn/i/10230526-2877-0139-0000-e85129a638b4:12)\nPhillips Family Law 5.0 (33)  \nFamily law attorney  \nOpen 145 Ann St  \nCall Directions Website Phillips Family Law (CBD-based) — Widely acknowledged as a First Tier family law firm in [Doyle's Guide](https://www.phillipsfamilylaw.com.au/leading-family-lawyers-brisbane-2026/) . They specialize heavily in complex financial settlements, high-net-worth property division, corporate/trust asset tracing, and sophisticated Binding Financial Agreements.\n\n---\n\n![](https://api.dataforseo.com/cdn/i/10230526-2877-0139-0000-e85129a638b4:13)\nMichael Lynch Family Lawyers 4.4 (69)  \nFamily law attorney  \nOpen Level 25/240 Queen St  \nCall Directions Website Michael Lynch Family Lawyers (CBD-based with a strong local client base spanning Indooroopilly, Chapel Hill, and the Western Suburbs) — Long-standing specialist family law practice in Brisbane known for handling complex property division, clear financial analysis, and mediation outcomes with high emotional intelligence.\n\n---\n\n![](https://api.dataforseo.com/cdn/i/10230526-2877-0139-0000-e85129a638b4:14)\nLockett McCullough Lawyers 4.4 (114)  \nSolicitor  \nOpen 2 Bayliss St  \nCall Directions Website Lockett McCullough Lawyers (Western Suburbs presence / Toowong/Indooroopilly corridor) — A well-regarded local option frequently dealing with property adjustments and regional family law matters across Brisbane's western corridor.\n\n---\n\nGo To Court Lawyers![](https://api.dataforseo.com/cdn/i/10230526-2877-0139-0000-e85129a638b4:15)\n![](https://api.dataforseo.com/cdn/i/10230526-2877-0139-0000-e85129a638b4:16)\nGo To Court Lawyers Law firm  \nToowong, QLD, Australia  \nOffers localized accessibility in the western suburbs for initial conferences and structured property settlement guidance.[[1]](https://www.phillipsfamilylaw.com.au/)[[2]](https://www.phillipsfamilylaw.com.au/leading-family-lawyers-brisbane-2026/)[[3]](https://www.michaellynchfamilylawyers.com.au/)[[4]](https://www.michaellynchfamilylawyers.com.au/contact/)[[5]](https://www.localsearch.com.au/find/family-lawyers/brisbane-western-suburbs-qld)\n\n### Key Factors for Complex Property & BFAs\n\nWhen interviewing or choosing a firm for a complex settlement involving Western Suburbs property (such as high-value residential holdings in Indooroopilly or acreage/residential assets through the Centenary suburbs), look for:\n\n1. **Accredited Family Law Specialists:** Check if the principal solicitor is a Queensland Law Society (QLS) Accredited Specialist in Family Law.\n2. **Financial Acumen:** Ensure the firm routinely works alongside forensic accountants, valuation experts (for commercial and residential real estate), and corporate tax advisors.\n3. **BFA Strictness:** Binding Financial Agreements are notoriously easy to overturn if not drafted with absolute precision under sections 90B-90UC of the *Family Law Act 1975* . Ask specifically about their success rate and drafting rigor regarding BFAs.\n\nIf you'd like to narrow this down, please let me know:\n\n- Does the property pool involve **businesses, family trusts, or self-managed super funds (SMSFs)**?\n- Are you looking for a firm that prioritizes **collaborative negotiation/mediation** or aggressive **court litigation**?",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Navigating a separation with a complex property portfolio—especially one involving high-net-worth assets, corporate/trust structures, or intricate Binding Financial Agreements (BFAs)—requires specialized expertise.",
+              "markdown": "Navigating a separation with a complex property portfolio—especially one involving high-net-worth assets, corporate/trust structures, or intricate Binding Financial Agreements (BFAs)—requires specialized expertise.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "While many suburban boutique practices service the Western Suburbs (Indooroopilly, Toowong, and the Centenary suburbs), complex property division and high-stakes BFAs are predominantly handled by top-tier specialist family law firms based in the Brisbane CBD or prominent regional specialists who regularly appear in the Federal Circuit and Family Court of Australia.",
+              "markdown": "While many suburban boutique practices service the Western Suburbs (Indooroopilly, Toowong, and the Centenary suburbs), **complex property division and high-stakes BFAs are predominantly handled by top-tier specialist family law firms based in the Brisbane CBD** or prominent regional specialists who regularly appear in the Federal Circuit and Family Court of Australia.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "The leading firms and practices recognized for complex property division and financial agreements in the Brisbane area include:",
+              "markdown": "The leading firms and practices recognized for complex property division and financial agreements in the Brisbane area include:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Phillips Family Law 5.0 (33) Family law attorney Open 145 Ann St Call Directions Website Phillips Family Law (CBD-based) — Widely acknowledged as a First Tier family law firm in Doyle's Guide. They specialize heavily in complex financial settlements, high-net-worth property division, corporate/trust asset tracing, and sophisticated Binding Financial Agreements.",
+              "markdown": "---\n\n![](https://api.dataforseo.com/cdn/i/10230526-2877-0139-0000-e85129a638b4:6)\nPhillips Family Law 5.0 (33)  \nFamily law attorney  \nOpen 145 Ann St  \nCall Directions Website Phillips Family Law (CBD-based) — Widely acknowledged as a First Tier family law firm in [Doyle's Guide](https://www.phillipsfamilylaw.com.au/leading-family-lawyers-brisbane-2026/) . They specialize heavily in complex financial settlements, high-net-worth property division, corporate/trust asset tracing, and sophisticated Binding Financial Agreements.",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Doyle's Guide",
+                  "description": null,
+                  "url": "https://www.phillipsfamilylaw.com.au/leading-family-lawyers-brisbane-2026/",
+                  "domain": "www.phillipsfamilylaw.com.au"
+                }
+              ],
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/10230526-2877-0139-0000-e85129a638b4:7"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Michael Lynch Family Lawyers 4.4 (69) Family law attorney Open Level 25/240 Queen St Call Directions Website Michael Lynch Family Lawyers (CBD-based with a strong local client base spanning Indooroopilly, Chapel Hill, and the Western Suburbs) — Long-standing specialist family law practice in Brisbane known for handling complex property division, clear financial analysis, and mediation outcomes with high emotional intelligence.",
+              "markdown": "---\n\n![](https://api.dataforseo.com/cdn/i/10230526-2877-0139-0000-e85129a638b4:8)\nMichael Lynch Family Lawyers 4.4 (69)  \nFamily law attorney  \nOpen Level 25/240 Queen St  \nCall Directions Website Michael Lynch Family Lawyers (CBD-based with a strong local client base spanning Indooroopilly, Chapel Hill, and the Western Suburbs) — Long-standing specialist family law practice in Brisbane known for handling complex property division, clear financial analysis, and mediation outcomes with high emotional intelligence.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/10230526-2877-0139-0000-e85129a638b4:9"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Lockett McCullough Lawyers 4.4 (114) Solicitor Open 2 Bayliss St Call Directions Website Lockett McCullough Lawyers (Western Suburbs presence / Toowong/Indooroopilly corridor) — A well-regarded local option frequently dealing with property adjustments and regional family law matters across Brisbane's western corridor.",
+              "markdown": "---\n\n![](https://api.dataforseo.com/cdn/i/10230526-2877-0139-0000-e85129a638b4:10)\nLockett McCullough Lawyers 4.4 (114)  \nSolicitor  \nOpen 2 Bayliss St  \nCall Directions Website Lockett McCullough Lawyers (Western Suburbs presence / Toowong/Indooroopilly corridor) — A well-regarded local option frequently dealing with property adjustments and regional family law matters across Brisbane's western corridor.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/10230526-2877-0139-0000-e85129a638b4:11"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Key Factors for Complex Property & BFAs",
+              "text": "When interviewing or choosing a firm for a complex settlement involving Western Suburbs property (such as high-value residential holdings in Indooroopilly or acreage/residential assets through the Centenary suburbs), look for:",
+              "markdown": "When interviewing or choosing a firm for a complex settlement involving Western Suburbs property (such as high-value residential holdings in Indooroopilly or acreage/residential assets through the Centenary suburbs), look for:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Accredited Family Law Specialists: Check if the principal solicitor is a Queensland Law Society (QLS) Accredited Specialist in Family Law. Financial Acumen: Ensure the firm routinely works alongside forensic accountants, valuation experts (for commercial and residential real estate), and corporate tax advisors. BFA Strictness: Binding Financial Agreements are notoriously easy to overturn if not drafted with absolute precision under sections 90B-90UC of the Family Law Act 1975. Ask specifically about their success rate and drafting rigor regarding BFAs.",
+              "markdown": "1. **Accredited Family Law Specialists:** Check if the principal solicitor is a Queensland Law Society (QLS) Accredited Specialist in Family Law.\n2. **Financial Acumen:** Ensure the firm routinely works alongside forensic accountants, valuation experts (for commercial and residential real estate), and corporate tax advisors.\n3. **BFA Strictness:** Binding Financial Agreements are notoriously easy to overturn if not drafted with absolute precision under sections 90B-90UC of the *Family Law Act 1975* . Ask specifically about their success rate and drafting rigor regarding BFAs.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you'd like to narrow this down, please let me know:",
+              "markdown": "If you'd like to narrow this down, please let me know:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Does the property pool involve businesses, family trusts, or self-managed super funds (SMSFs) ? Are you looking for a firm that prioritizes collaborative negotiation/mediation or aggressive court litigation ?",
+              "markdown": "- Does the property pool involve **businesses, family trusts, or self-managed super funds (SMSFs)**?\n- Are you looking for a firm that prioritizes **collaborative negotiation/mediation** or aggressive **court litigation**?",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_paid",
+              "position": "left",
+              "text": "For specialized legal representation with complex property settlements and financial agreements, consider these options:",
+              "markdown": "For specialized legal representation with complex property settlements and financial agreements, consider these options:",
+              "items": [
+                {
+                  "type": "ai_overview_paid_element",
+                  "title": "Complex Family Law Matters - Accredited Family Lawyers - 25+ Years Experience",
+                  "url": null,
+                  "domain": null,
+                  "ad_aclk": "DChsSEwjbserJs8-XAxXhVpEFHTtNGl8YACICCAIQARoCbHI",
+                  "website_name": "Stone Group Lawyers",
+                  "breadcrumb": null,
+                  "snippet": "Accredited specialists in high-value property settlements & complex financial matters.",
+                  "images": null
+                },
+                {
+                  "type": "ai_overview_paid_element",
+                  "title": "Top Rated Family Lawyers - Find & Compare Lawyers - Takes Just Minutes",
+                  "url": null,
+                  "domain": null,
+                  "ad_aclk": "DChsSEwjbserJs8-XAxXhVpEFHTtNGl8YACICCAIQABoCbHI",
+                  "website_name": "lawconnect.com",
+                  "breadcrumb": null,
+                  "snippet": "LawConnect is the fast and easy way to connect to a trusted family lawyer in mins.",
+                  "images": null
+                }
+              ]
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Phillips Family Law",
+              "domain": "www.phillipsfamilylaw.com.au",
+              "url": "https://www.phillipsfamilylaw.com.au/",
+              "title": "Award Winning Family Lawyers Brisbane | Phillips Family Law",
+              "text": "Location: Brisbane, Queensland, Australia. Firm: Phillips Family Law (led by Tony Phillips, Fiona Caulley, Olivia Phillips). Specialisations: Separation, divorce, ..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Michael Lynch Family Lawyers",
+              "domain": "www.michaellynchfamilylawyers.com.au",
+              "url": "https://www.michaellynchfamilylawyers.com.au/contact/",
+              "title": "Contact - Michael Lynch Family Lawyers",
+              "text": "Brisbane Office: Level 25, 240 Queen St, Brisbane QLD 4000; GPO Box 757 Brisbane QLD 4001; Phone (07) 3221 4300; Email law@mlynch.com.au; Hours Mon-Fri 8:30am-5pm."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Phillips Family Law",
+              "domain": "www.phillipsfamilylaw.com.au",
+              "url": "https://www.phillipsfamilylaw.com.au/leading-family-lawyers-brisbane-2026/",
+              "title": "Phillips Family Law Recognition in 2026 Family Law",
+              "text": "Phillips Family Law Recognition in 2026 Doyles Guide to the Legal Profession for Family Law in Brisbane, Queensland. 7 November 2025; Industry News & Resources; Fi..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

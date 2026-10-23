@@ -1,0 +1,106 @@
+{
+  "slug": "logan",
+  "pk": "fixed_fee_family_estates",
+  "plat": "perplexity",
+  "text": "Which boutique law firms in Logan and Western Corridor (Ipswich to Brisbane) offer free initial consultations, fixed-fee wills, or deferred-fee options for family law and wills and estates?",
+  "loc": 9112660,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\logan__fixed_fee_family_estates__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:33:15.965Z",
+  "cost": 0.006312,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 49,
+      "output_tokens": 663,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005712,
+      "datetime": "2026-10-23 05:33:11 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "The strongest matches are below. **Confirm eligibility, scope, and current pricing directly with the firm**, especially for deferred-fee arrangements.\n\n| Firm | Area / relevant services | Cost option identified |\n|---|---|---|\n| **Ryder Lawyers** | Logan and Ipswich; family law and wills/estates | **Free 15-minute phone consultation** for new family-law clients. Will and EPOA packages start at **$1,320 individual** or **$1,920 couple**.[1] |\n| **XL Legal** | Brisbane, Ipswich and Logan; wills/estates and broader legal services | **Free 20-minute initial consultation** for wills and estates.[2] |\n| **SKC Lawyers** | Logan; family law and wills/estates | **Free 20-minute consultation** for wills/estates, plus fixed-fee and transparent-pricing options.[4] |\n| **Lightning Legal** | Forest Lake and Western Corridor, serving Logan/Ipswich | Offers **competitive fixed-price wills and estate-planning services**, including testamentary-trust wills.[5] |\n| **The Estate Lawyers** | Brisbane-based Queensland wills and estate specialists | **Free initial discussion**; fixed fees for estate work. In approved deceased-estate administration and estate-dispute matters, fees may be **deferred until inheritance is received**, capped at the amount recovered.[10] |\n| **Go To Court Lawyers** | Logan and Ipswich | Offers a **$295 fixed-fee wills-and-estates consultation**, covering advice and recommended next steps.[6][9] |\n| **RHC Solicitors** | Loganholme; Logan, Brisbane and South-East Queensland | Provides wills, EPOAs, estate planning, administration and disputes; the firm advertises affordable/fixed-fee legal services, although a specific wills price was not shown in the result.[7] |\n| **Fallu McMillan Lawyers** | Ipswich | Boutique/local firm practising **family law and wills and estates**; the available result did not state a free consultation, fixed-fee will price, or deferred-fee arrangement.[8] |\n\n### Best matches by need\n\n- **Free family-law first contact:** Ryder Lawyers.[1]\n- **Free wills-and-estates consultation:** XL Legal, SKC Lawyers, or The Estate Lawyers.[2][4][10]\n- **Fixed-fee or fixed-price wills:** Lightning Legal, Go To Court Lawyers, and The Estate Lawyers.[5][6][9][10]\n- **Deferred fees for estate matters:** The Estate Lawyers is the clearest match, subject to approval and usually limited to deceased-estate administration or will/estate disputes—not ordinary will drafting.[10]\n- **Ipswich-focused option:** Fallu McMillan Lawyers offers family law and wills/estates, but its free/fixed/deferred-fee terms should be confirmed before booking.[8]\n\nFree consultations commonly provide preliminary guidance only; ask whether advice, document review, written advice, or representation is charged separately.",
+              "annotations": [
+                {
+                  "title": "Family Law | Wills And Estates | Ryder Lawyers | Logan & Ipswich",
+                  "url": "https://ryderlawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estates - XL Legal",
+                  "url": "https://www.xllegal.com.au/wills-and-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Find Family Lawyers in Underwood QLD - Finchly",
+                  "url": "https://finchly.com.au/find/family-law/qld/underwood-4119",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Professional Legal Services You Can Trust in Logan - SKC Lawyers",
+                  "url": "https://skclawyers.com.au/location/logan/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estates Solicitor | Lightning Legal Forest Lake, Logan, Ipswich",
+                  "url": "https://www.lightninglegal.com.au/wills",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estates Lawyers Logan QLD",
+                  "url": "https://www.gotocourt.com.au/qld/logan-lawyers/wills-and-estates",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Affordable QLD Lawyers & Conveyancers | Fixed Fee Conveyancing Logan | Proven Estate & Family Lawyers | RHC Solicitors & Conveyancers",
+                  "url": "https://www.rhcsolicitors.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Fallu McMillan Lawyers: Ipswich Lawyers",
+                  "url": "https://www.fmlaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estates Lawyers in Ipswich, Queensland",
+                  "url": "https://www.gotocourt.com.au/qld/ipswich-lawyers/wills-and-estates",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The Estate Lawyers",
+                  "url": "https://theestatelawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "slug": "springfield",
+  "pk": "fixed_fee_family_estates",
+  "plat": "aimode",
+  "text": "Which boutique law firms in Springfield and Greater Springfield, QLD offer free initial consultations, fixed-fee wills, or deferred-fee options for family law and wills and estates?",
+  "loc": 9191413,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\springfield__fixed_fee_family_estates__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:25:43.866Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which boutique law firms in Springfield and Greater Springfield, QLD offer free initial consultations, fixed-fee wills, or deferred-fee options for family law and wills and estates?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 9191413,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20boutique%20law%20firms%20in%20Springfield%20and%20Greater%20Springfield%2C%20QLD%20offer%20free%20initial%20consultations%2C%20fixed-fee%20wills%2C%20or%20deferred-fee%20options%20for%20family%20law%20and%20wills%20and%20estates%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCRFktRYbSpFrEUDb3vNaowIF",
+      "datetime": "2026-10-23 05:25:39 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "In Springfield and the Greater Springfield region, boutique law firms provide targeted options for family law, wills, and estate planning with accessible fee structures.\n\n\n\n---\n\n![](https://api.dataforseo.com/cdn/i/10230525-2877-0139-0000-6dd941dbb2d0:8)\nStanford Legal Pty Ltd 4.9 (103)  \nLaw firm  \nOpen Springfield Central QLD  \nCall Directions Website\n\n- **Overview:** A prominent boutique firm serving Springfield, Ipswich, and Brisbane, led by Principal Solicitor Victoria Eastwood. They specialise in family law, property, commercial, and wills and estate planning.\n- **Consultation Offer:** They offer a **free initial consultation** (such as a complimentary 30-minute session for wills and estate planning or introductory family law advice).\n- **Scope:** Covers divorce, parenting, consent orders, domestic violence matters, alongside tailored wills, trusts, and powers of attorney. You can check their practice details on [Stanford Legal](https://stanfordlegal.com.au/).\n\n\n\n---\n\n![](https://api.dataforseo.com/cdn/i/10230525-2877-0139-0000-6dd941dbb2d0:9)\nLakelaw 4.7 (43)  \nLegal services  \nClosed Forest Lake QLD  \nCall Directions Website**Lakelaw** (Servicing Springfield from nearby Forest Lake)\n\n- **Overview:** A boutique suburban practice with over 30 years of experience led by Gregory Huddleston, regularly servicing Greater Springfield residents.\n- **Fee Structure:** Known for reasonable, moderate, and competitive fee structures, including **fixed fees** for specific transactional matters like residential and commercial conveyancing, alongside economical pricing for wills, enduring powers of attorney, and probate administration.\n- **Scope:** Handles family law settlements/agreements and comprehensive wills and estate administration/litigation. Learn more via [Lakelaw](https://www.lakelaw.com.au/).[[1]](https://lawconnect.com/en-au/find/family-law/qld/springfield-central-4300)[[2]](https://stanfordlegal.com.au/family-law)[[3]](https://stanfordlegal.com.au/wills-estate-planning/)[[4]](https://www.lakelaw.com.au/springfield-legal-service/)\n\nIf you'd like, let me know:\n\n- Whether you specifically need **family law** or **wills and estates** assistance\n- If you prefer a firm offering a **free consultation** versus a strict **fixed-fee arrangement** \n\nI can narrow down which practice best matches your immediate requirements.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "In Springfield and the Greater Springfield region, boutique law firms provide targeted options for family law, wills, and estate planning with accessible fee structures.",
+              "markdown": "In Springfield and the Greater Springfield region, boutique law firms provide targeted options for family law, wills, and estate planning with accessible fee structures.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Stanford Legal Pty Ltd 4.9 (103) Law firm Open Springfield Central QLD Call Directions WebsiteOverview: A prominent boutique firm serving Springfield, Ipswich, and Brisbane, led by Principal Solicitor Victoria Eastwood. They specialise in family law, property, commercial, and wills and estate planning.\nConsultation Offer: They offer a free initial consultation (such as a complimentary 30-minute session for wills and estate planning or introductory family law advice).\nScope: Covers divorce, parenting, consent orders, domestic violence matters, alongside tailored wills, trusts, and powers of attorney. You can check their practice details on Stanford Legal.",
+              "markdown": "---\n\n![](https://api.dataforseo.com/cdn/i/10230525-2877-0139-0000-6dd941dbb2d0:4)\nStanford Legal Pty Ltd 4.9 (103)  \nLaw firm  \nOpen Springfield Central QLD  \nCall Directions Website\n\n- **Overview:** A prominent boutique firm serving Springfield, Ipswich, and Brisbane, led by Principal Solicitor Victoria Eastwood. They specialise in family law, property, commercial, and wills and estate planning.\n- **Consultation Offer:** They offer a **free initial consultation** (such as a complimentary 30-minute session for wills and estate planning or introductory family law advice).\n- **Scope:** Covers divorce, parenting, consent orders, domestic violence matters, alongside tailored wills, trusts, and powers of attorney. You can check their practice details on [Stanford Legal](https://stanfordlegal.com.au/).",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Stanford Legal",
+                  "description": null,
+                  "url": "https://stanfordlegal.com.au/",
+                  "domain": "stanfordlegal.com.au"
+                }
+              ],
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/10230525-2877-0139-0000-6dd941dbb2d0:5"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Lakelaw 4.7 (43) Legal services Closed Forest Lake QLD Call Directions Website Lakelaw (Servicing Springfield from nearby Forest Lake)Overview: A boutique suburban practice with over 30 years of experience led by Gregory Huddleston, regularly servicing Greater Springfield residents.\nFee Structure: Known for reasonable, moderate, and competitive fee structures, including fixed fees for specific transactional matters like residential and commercial conveyancing, alongside economical pricing for wills, enduring powers of attorney, and probate administration.\nScope: Handles family law settlements/agreements and comprehensive wills and estate administration/litigation. Learn more via Lakelaw.",
+              "markdown": "---\n\n![](https://api.dataforseo.com/cdn/i/10230525-2877-0139-0000-6dd941dbb2d0:6)\nLakelaw 4.7 (43)  \nLegal services  \nClosed Forest Lake QLD  \nCall Directions Website**Lakelaw** (Servicing Springfield from nearby Forest Lake)\n\n- **Overview:** A boutique suburban practice with over 30 years of experience led by Gregory Huddleston, regularly servicing Greater Springfield residents.\n- **Fee Structure:** Known for reasonable, moderate, and competitive fee structures, including **fixed fees** for specific transactional matters like residential and commercial conveyancing, alongside economical pricing for wills, enduring powers of attorney, and probate administration.\n- **Scope:** Handles family law settlements/agreements and comprehensive wills and estate administration/litigation. Learn more via [Lakelaw](https://www.lakelaw.com.au/).[[1]](https://lawconnect.com/en-au/find/family-law/qld/springfield-central-4300)[[2]](https://stanfordlegal.com.au/family-law)[[3]](https://stanfordlegal.com.au/wills-estate-planning/)[[4]](https://www.lakelaw.com.au/springfield-legal-service/)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Lakelaw",
+                  "description": null,
+                  "url": "https://www.lakelaw.com.au/",
+                  "domain": "www.lakelaw.com.au"
+                }
+              ],
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/10230525-2877-0139-0000-6dd941dbb2d0:7"
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "LawConnect",
+                  "domain": "lawconnect.com",
+                  "url": "https://lawconnect.com/en-au/find/family-law/qld/springfield-central-4300",
+                  "title": "Family Lawyers in Springfield Central, QLD – 5 Nearby",
+                  "text": "Family Lawyers in Springfield Central QLD * Stanford Legal Pty Ltd 4.9 100 ratings Springfield Central, QLD 0483 980.. Stanford Le..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Stanford Legal",
+                  "domain": "stanfordlegal.com.au",
+                  "url": "https://stanfordlegal.com.au/family-law",
+                  "title": "Family Lawyers Ipswich and Springfield | Stanford Legal",
+                  "text": "Stanford Legal: Family law services in Ipswich, Springfield, and Brisbane led by Principal Solicitor Victoria Eastwood. First cons..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Stanford Legal",
+                  "domain": "stanfordlegal.com.au",
+                  "url": "https://stanfordlegal.com.au/wills-estate-planning/",
+                  "title": "Wills And Estate Planning Lawyers | Stanford Legal",
+                  "text": "Stanford Legal's wills and estate planning lawyers provide a personalised approach with genuine empathy, ensuring you feel support..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Lake Law",
+                  "domain": "www.lakelaw.com.au",
+                  "url": "https://www.lakelaw.com.au/springfield-legal-service/",
+                  "title": "Springfield legal service | Lakelaw",
+                  "text": "Lakelaw: Springfield legal services led by Gregory Huddleston (30 years experience) offering reasonable fees. Family Law: Divorce,"
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you'd like, let me know:",
+              "markdown": "If you'd like, let me know:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Whether you specifically need family law or wills and estates assistance If you prefer a firm offering a free consultation versus a strict fixed-fee arrangement",
+              "markdown": "- Whether you specifically need **family law** or **wills and estates** assistance\n- If you prefer a firm offering a **free consultation** versus a strict **fixed-fee arrangement**",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "I can narrow down which practice best matches your immediate requirements.",
+              "markdown": "I can narrow down which practice best matches your immediate requirements.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Stanford Legal",
+              "domain": "stanfordlegal.com.au",
+              "url": "https://stanfordlegal.com.au/family-law",
+              "title": "Family Lawyers Ipswich and Springfield | Stanford Legal",
+              "text": "Stanford Legal: Family law services in Ipswich, Springfield, and Brisbane led by Principal Solicitor Victoria Eastwood. First consultation is free; same lawyer han..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Stanford Legal",
+              "domain": "stanfordlegal.com.au",
+              "url": "https://stanfordlegal.com.au/wills-estate-planning/",
+              "title": "Wills And Estate Planning Lawyers | Stanford Legal",
+              "text": "Stanford Legal's wills and estate planning lawyers provide a personalised approach with genuine empathy, ensuring you feel supported every step of the way. ..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "LawConnect",
+              "domain": "lawconnect.com",
+              "url": "https://lawconnect.com/en-au/find/family-law/qld/springfield-central-4300",
+              "title": "Family Lawyers in Springfield Central, QLD – 5 Nearby",
+              "text": "Family Lawyers in Springfield Central QLD * Stanford Legal Pty Ltd 4.9 100 ratings Springfield Central, QLD 0483 980.. Stanford Legal Pty Ltd, based in Ipswich and..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

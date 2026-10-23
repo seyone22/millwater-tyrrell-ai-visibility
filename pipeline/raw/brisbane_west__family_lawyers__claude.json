@@ -1,0 +1,225 @@
+{
+  "slug": "brisbane_west",
+  "pk": "family_lawyers",
+  "plat": "claude",
+  "text": "Who are the best family lawyers in Brisbane Western Suburbs (Indooroopilly & Centenary)? Give me a shortlist of reputable family law firms with reasons.",
+  "loc": 9192539,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_west__family_lawyers__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:26:58.580Z",
+  "cost": 0.063475,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10150,
+      "output_tokens": 1495,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.062875,
+      "datetime": "2026-10-23 05:26:54 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a shortlist of reputable family law firms serving the **Brisbane Western Suburbs (Indooroopilly & Centenary)** area, based on available information:\n\n---\n\n## 🏆 Best Family Lawyers – Brisbane Western Suburbs (Indooroopilly & Centenary)\n\n---\n\n### 1. 🥇 **Melrose Keys Lawyers** *(Kenmore / Indooroopilly)*\n**📞 Website:** mk-law.com.au\n\n**Why they stand out:**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Recognised as a **Winner of the Inside Family Law Awards**, Melrose Keys Lawyers brings three decades of proven professionalism and quality across family, estate, and commercial law.",
+              "annotations": [
+                {
+                  "title": "Melrose Keys Lawyers - Brisbane Family and Estate Lawyers",
+                  "url": "https://mk-law.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Melrose Keys Lawyers - Brisbane Family and Estate Lawyers",
+                  "url": "https://mk-law.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their clients confirm this with a consistent **4.9-star average** from over 50 five-star Google reviews, and they proudly serve the **Kenmore, Indooroopilly, and Brisbane Western Suburbs** region.",
+              "annotations": [
+                {
+                  "title": "Melrose Keys Lawyers - Brisbane Family and Estate Lawyers",
+                  "url": "https://mk-law.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n✅ **Best for:** Award-winning service, long-established reputation, western suburbs locals.\n\n---\n\n### 2. 🥈 **Littles Family Lawyers** *(Indooroopilly)*\n**📞 Website:** littlesfl.com.au\n\n**Why they stand out:**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Littles Family Lawyers is a boutique Brisbane law firm that provides professional and competitively priced legal services **exclusively** in the field of family law.",
+              "annotations": [
+                {
+                  "title": "Littles Family Lawyers",
+                  "url": "https://au.linkedin.com/company/littles-family-lawyers",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their team of family law solicitors and support staff have been working together for over a decade, and the firm is located in the western suburbs at Indooroopilly, close to the Brisbane CBD.",
+              "annotations": [
+                {
+                  "title": "Littles Family Lawyers",
+                  "url": "https://au.linkedin.com/company/littles-family-lawyers",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their specialties include divorce and separation, child support, parenting arrangements, spousal maintenance, legal advice before separation, family dispute resolution, family violence, de facto relationships, property settlement, financial agreements, and consent orders.",
+              "annotations": [
+                {
+                  "title": "Littles Family Lawyers",
+                  "url": "https://au.linkedin.com/company/littles-family-lawyers",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n✅ **Best for:** Dedicated family law focus, competitive pricing, boutique personalised service.\n\n---\n\n### 3. 🥉 **New Way Lawyers** *(Indooroopilly)*\n**📞 (07) 3548 5850 | 80 Stamford Rd / 17 Station Rd, Indooroopilly**\n\n**Why they stand out:**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their Indooroopilly lawyers have extensive experience working on difficult and challenging family law and domestic violence matters.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Indooroopilly",
+                  "url": "https://www.newwaylawyers.com.au/indooroopilly-office/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The convenient location of their office means their lawyers can quickly and easily travel to the Brisbane Family Law Courts, Brisbane Magistrates Court, as well as other local Magistrates Courts around the greater Brisbane region.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Indooroopilly",
+                  "url": "https://www.newwaylawyers.com.au/indooroopilly-office/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They have been in business for **17 years**.\n\n✅ **Best for:** Domestic violence matters, experienced team, convenient court access.\n\n---\n\n### 4. **Hogan Stanton Lawyers** *(Graceville – Centenary area)*\n**📞 (07) 3278 1888 | 187 Long Street West, Graceville QLD 4075**\n\n**Why they stand out:**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Hogan Stanton Lawyers is a family law firm with a **5.0-star rating**, conveniently located in Graceville",
+              "annotations": [
+                {
+                  "title": "30 Best Local Family Law in Indooroopilly, QLD",
+                  "url": "https://www.whereis.com/indooroopilly-qld/family-law",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " — right in the heart of the Centenary suburbs corridor. They operate Monday to Friday, 8:30am–5:00pm.\n\n✅ **Best for:** Centenary suburbs clients (Graceville, Sherwood, Corinda area), top-rated local firm.\n\n---\n\n### 5. **C+K Family Lawyers** *(Sherwood – near Indooroopilly)*\n**📞 (07) 316… | Sherwood QLD (3.3 km from Indooroopilly)**\n\n**Why they stand out:**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "C+K Family Lawyers has a **4.5-star rating from 45 recommendations**",
+              "annotations": [
+                {
+                  "title": "Children's Lawyers in Indooroopilly, QLD",
+                  "url": "https://lawconnect.com/en-au/find/childrens-law/qld/indooroopilly-4068",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", making them one of the more reviewed local family law firms in the area. They are well-positioned to serve both Indooroopilly and Centenary suburb clients.\n\n✅ **Best for:** Well-reviewed local firm, children's law matters, accessible location.\n\n---\n\n### 6. **HRT Family Lawyers** *(Brisbane West area)*\n**Why they stand out:**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They offer strategic and practical guidance, ensuring excellent representation throughout negotiations, mediation, and court proceedings. Their senior family lawyer, Amelia Trotman, is an **Accredited Family Law Specialist** with over 17 years of experience, and previously led the family law division at a large national firm, managing a team of 18 lawyers across Australia.",
+              "annotations": [
+                {
+                  "title": "Children's Lawyers in Indooroopilly, QLD",
+                  "url": "https://lawconnect.com/en-au/find/childrens-law/qld/indooroopilly-4068",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n✅ **Best for:** Complex matters, accredited specialist expertise, mediation and court proceedings.\n\n---\n\n## 💡 Tips for Choosing the Right Firm:\n| Factor | What to Look For |\n|---|---|\n| **Accreditation** | Look for QLS Accredited Family Law Specialists |\n| **Reviews** | Check Google & LawConnect ratings |\n| **Specialisation** | Prefer firms focused *exclusively* on family law |\n| **Location** | Choose one close to your suburb for convenience |\n| **First Consultation** | Many offer free or low-cost initial consultations |\n\n> ⚠️ *This list is based on publicly available information and online reputation. Always conduct your own due diligence, read recent reviews, and consult with a few firms before making your decision.*",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "best family lawyers Indooroopilly Brisbane western suburbs",
+        "top family law firms Centenary suburbs Brisbane"
+      ]
+    }
+  ]
+}

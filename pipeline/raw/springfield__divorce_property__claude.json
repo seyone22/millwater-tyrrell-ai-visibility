@@ -1,0 +1,358 @@
+{
+  "slug": "springfield",
+  "pk": "divorce_property",
+  "plat": "claude",
+  "text": "I am going through a separation and complex property settlement in Springfield and Greater Springfield, QLD. Which family law firms have the strongest track record for property division and binding financial agreements?",
+  "loc": 9191413,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\springfield__divorce_property__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:24:50.463Z",
+  "cost": 0.062974,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10303,
+      "output_tokens": 1431,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.062374,
+      "datetime": "2026-10-23 05:24:46 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "I'm sorry to hear you're going through a separation — it's a stressful time, and having the right legal representation makes a real difference. Based on my research, here is a roundup of the family law firms in Springfield and Greater Springfield, QLD with strong track records in property division and Binding Financial Agreements (BFAs):\n\n---\n\n## 🏛️ Top Family Law Firms in Springfield & Greater Springfield, QLD\n\n### 1. **Stanford Legal** *(Springfield Central)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Stanford Legal is based in Springfield Central, serving Ipswich and Brisbane, with a clear commitment to keeping clients informed throughout their matter.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Ipswich and Springfield",
+                  "url": "https://stanfordlegal.com.au/family-law",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Lawyers Ipswich and Springfield",
+                  "url": "https://stanfordlegal.com.au/family-law",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They handle Binding Financial Agreements — private, written agreements about property and maintenance made before, during, or after a relationship — and advise on whether one suits your specific situation.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Ipswich and Springfield",
+                  "url": "https://stanfordlegal.com.au/family-law",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their family law expertise covers property settlement, consent orders, BFAs, spousal maintenance, superannuation splitting, and family dispute resolution.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Ipswich and Springfield",
+                  "url": "https://stanfordlegal.com.au/family-law",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 2. **GLG Legal Springfield (Springfield Legals)**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "GLG Legal Springfield offers expertise in divorce & separation, de facto relationships, Binding Financial Agreements, spousal maintenance, child living arrangements, division of property, superannuation and assets, and Family Dispute Resolution.",
+              "annotations": [
+                {
+                  "title": "Divorce Lawyers Springfield",
+                  "url": "https://www.springfieldlegals.com.au/areas-of-practice/family-law/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They have established a reputation built on trust, expert advice, and a personalised experience for families and businesses across greater western Brisbane.",
+              "annotations": [
+                {
+                  "title": "Springfield and Ipswich Legal Experts",
+                  "url": "https://www.springfieldlegals.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. **VM Family Law** *(Ipswich & Greater Springfield)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "VM Family Law advises and represents clients in property settlement matters, including alternate dispute resolution, entitlements, arbitration, consent orders, and spousal maintenance.",
+              "annotations": [
+                {
+                  "title": "Best Family Lawyers Ipswich & Greater Springfield",
+                  "url": "https://www.vmfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Family Lawyers Ipswich & Greater Springfield",
+                  "url": "https://www.vmfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They also advise and represent clients in Binding Financial Agreements, whether before, during, or after a marriage or de-facto relationship.",
+              "annotations": [
+                {
+                  "title": "Best Family Lawyers Ipswich & Greater Springfield",
+                  "url": "https://www.vmfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their team consists predominantly of female lawyers, which may be an important consideration for some clients seeking a female solicitor in the Ipswich and Springfield area.",
+              "annotations": [
+                {
+                  "title": "Best Family Lawyers Ipswich & Greater Springfield",
+                  "url": "https://www.vmfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 4. **Australian Family Lawyers** *(QLD-wide, serving Springfield)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Australian Family Lawyers aim to resolve disputes through negotiation and family mediation rather than in court, as part of their settlement-first principle, and can connect clients with experienced mediators.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Qld",
+                  "url": "https://www.australianfamilylawyers.com.au/cm-family-lawyers-qld",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their team also provides support for high-net-worth individuals dealing with complex structures such as trusts or family businesses, and assists with Binding Financial Agreements to establish clear financial arrangements.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Qld",
+                  "url": "https://www.australianfamilylawyers.com.au/cm-family-lawyers-qld",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 5. **Lake Law** *(Forest Lake / Springfield area)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Lake Law assists with all aspects of family law matters including Binding Financial Agreements, property settlements, entitlements, court documentation and representation, with an aim to always keep matters out of court and settled on the least cost basis.",
+              "annotations": [
+                {
+                  "title": "Springfield legal service",
+                  "url": "https://www.lakelaw.com.au/springfield-legal-service/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 6. **CK Family Lawyers** *(QLD)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "CK Family Lawyers provide clear, practical advice on Binding Financial Agreements, helping clients understand exactly what a BFA means, how it works, and whether it's the right step for their situation.",
+              "annotations": [
+                {
+                  "title": "Trusted Financial Agreements Lawyers QLD",
+                  "url": "https://ckfamilylawyers.com.au/financial-agreements/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They also ensure compliance with the strict requirement that each party to a BFA receive independent legal advice from separate lawyers, as required under the Family Law Act.",
+              "annotations": [
+                {
+                  "title": "Trusted Financial Agreements Lawyers QLD",
+                  "url": "https://ckfamilylawyers.com.au/financial-agreements/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## ⚖️ Key Things to Know About Property Settlements & BFAs in QLD\n\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Most family law matters in Queensland settle through negotiation, family dispute resolution, or mediation, and are then formalised by consent orders or a Binding Financial Agreement.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Ipswich and Springfield",
+                  "url": "https://stanfordlegal.com.au/family-law",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "A Binding Financial Agreement is a private contract between the parties that sets out how their assets will be divided. BFAs are not approved by the Court and do not need to be \"fair,\" but they must meet strict legal requirements to be binding and enforceable.",
+              "annotations": [
+                {
+                  "title": "Property Settlement, QLD - Spencer Family Law and Mediation",
+                  "url": "https://sflm.com.au/services/property-settlement/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Reaching an agreement outside of court is the preferred option, as it saves time, money, and emotional stress.",
+              "annotations": [
+                {
+                  "title": "Property Settlement, QLD - Spencer Family Law and Mediation",
+                  "url": "https://sflm.com.au/services/property-settlement/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "If your matter includes family trusts, business interests, or high-value assets, you will need specialised legal support for more complex family law matters.",
+              "annotations": [
+                {
+                  "title": "Property Settlement Qld",
+                  "url": "https://www.australianfamilylawyers.com.au/cm-property-settlement-qld",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 💡 Tips for Choosing the Right Firm\n\n1. **Book initial consultations** with 2–3 firms to compare their approach and fees.\n2. **Ask specifically** about their experience with complex property pools (e.g., businesses, trusts, investment properties, superannuation).\n3. **Check reviews** on Google and legal directories like LawConnect or Lawyers.com.au.\n4. **Ask about costs** — fixed-fee vs. hourly billing can make a big difference in complex matters.\n\nWould you like help narrowing down your choice based on your specific circumstances (e.g., high-asset matter, business interests, or urgency)?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "family law firms Springfield QLD property settlement binding financial agreements",
+        "best family lawyers Greater Springfield Ipswich QLD property division"
+      ]
+    }
+  ]
+}

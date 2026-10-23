@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane_south",
+  "pk": "family_lawyers",
+  "plat": "perplexity",
+  "text": "Who are the best family lawyers in Brisbane Southside (Mount Gravatt & Sunnybank)? Give me a shortlist of reputable family law firms with reasons.",
+  "loc": 9060851,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_south__family_lawyers__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:27:59.078Z",
+  "cost": 0.006339,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 39,
+      "output_tokens": 700,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005739,
+      "datetime": "2026-10-23 05:27:55 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "The strongest shortlist for Brisbane’s southside is **Bennett Carroll Solicitors**, **Michael Lynch Family Lawyers**, and **Daykin Family Law**. For highly complex or high-value matters, consider a recognised Brisbane CBD specialist such as **HopgoodGanim** or **Stewart Family Law**.\n\n## Shortlist\n\n- **Bennett Carroll Solicitors — Upper Mount Gravatt**  \n  The most convenient local option: its Brisbane South office serves Mount Gravatt, Sunnybank, Eight Mile Plains, Wishart and surrounding suburbs. Its family team handles parenting arrangements, property settlements, de facto relationships and divorce, with in-person and remote appointments available.[1]\n\n- **Michael Lynch Family Lawyers — Brisbane-wide**  \n  A long-established specialist family-law firm with more than 25 years in practice and over 100 years of combined professional experience. Several lawyers are Queensland Law Society-accredited family-law specialists, including Debra Effeney and Sarah Flower, making it a strong choice for complex parenting, property or financial matters.[2]\n\n- **Daykin Family Law — Brisbane**  \n  A specialist boutique led by Shannon Daykin, an Accredited Family Law Specialist and former President of the Family Law Practitioners’ Association of Queensland. The firm focuses on separation, divorce, parenting and property matters and may suit clients wanting focused, specialist advice rather than a generalist practice.[3]\n\n- **HopgoodGanim — Brisbane CBD**  \n  A premium option for complex or high-value disputes. Geoffrey Wilson is recognised for family law, mediation and alternative dispute resolution, while the firm is ranked Tier 1 for Brisbane family law by Best Law Firms.[4][5]\n\n- **Stewart Family Law — Brisbane**  \n  A specialist family-law practice with lawyers recognised by Best Lawyers for family law and mediation. It may be particularly suitable where negotiated settlement, mediation or collaborative resolution is preferred, while still having litigation capability if required.[4][5]\n\n- **Bennett Carroll’s nearest alternatives: Campbells Legal, Linklaw Solicitors and Times Lawyers Sunnybank**  \n  These firms appear in local Brisbane Southside listings, with locations in Upper Mount Gravatt or Sunnybank. They could be worth comparing for accessibility and pricing, but the available listing provides less evidence of specialist accreditation or independent national recognition than the firms above.[6]\n\n## Best choice by situation\n\n| Situation | Best starting point |\n|---|---|\n| Want a nearby office in Mount Gravatt/Sunnybank | **Bennett Carroll Solicitors** |\n| Need a dedicated family-law specialist firm | **Michael Lynch** or **Daykin Family Law** |\n| Complex assets, business interests or difficult litigation | **HopgoodGanim** |\n| Prefer mediation or a lower-conflict resolution | **Daykin Family Law** or **Stewart Family Law** |\n| Need to compare local firms and fees | **Bennett Carroll**, **Campbells Legal** and **Linklaw** |\n\nBefore retaining anyone, ask whether the individual solicitor is a **Queensland Law Society Accredited Specialist**, who will conduct the day-to-day work, the estimated total cost, and whether they regularly handle matters like yours. Rankings and reviews are useful screening tools, but they do not guarantee a particular outcome; obtain at least two initial consultations if the matter involves children, family violence, substantial assets or urgent court deadlines.",
+              "annotations": [
+                {
+                  "title": "Michael Lynch Family Lawyers: Family Lawyers Brisbane",
+                  "url": "https://www.michaellynchfamilylawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "10 BEST Family Lawyers in Brisbane Southside QLD | Localsearch",
+                  "url": "https://www.localsearch.com.au/find/family-lawyers/brisbane-southside-qld",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Lawyers in Brisbane",
+                  "url": "https://www.pcllawyers.com.au/brisbane/family-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Lawyers in Australia for Family Law",
+                  "url": "https://www.bestlawyers.com/australia/family-law",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Law Firm Of The Year",
+                  "url": "https://www.australianfamilylawyers.com.au/cm-family-law-lawyer-brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Daykin Family Law: Family & Divorce Lawyers Brisbane",
+                  "url": "https://daykinfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Lawyers Near You in Brisbane, Australia for Family Law",
+                  "url": "https://www.bestlawyers.com/australia/brisbane/family-law",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Find the best family lawyers in Brisbane",
+                  "url": "https://www.bark.com/en/au/family-lawyers/queensland/brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Brisbane, Family Law Firms",
+                  "url": "https://www.bestlawfirms.com/australia/family-law/brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Brisbane South Solicitors | Upper Mount Gravatt Lawyers",
+                  "url": "https://www.bcglaw.com.au/brisbane-south-upper-mount-gravatt-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

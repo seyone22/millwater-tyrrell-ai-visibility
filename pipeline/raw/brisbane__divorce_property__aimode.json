@@ -1,0 +1,205 @@
+{
+  "slug": "brisbane",
+  "pk": "divorce_property",
+  "plat": "aimode",
+  "text": "I am going through a separation and complex property settlement in Brisbane. Which family law firms have the strongest track record for property division and binding financial agreements?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane__divorce_property__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:25:34.750Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "I am going through a separation and complex property settlement in Brisbane. Which family law firms have the strongest track record for property division and binding financial agreements?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000339,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=I%20am%20going%20through%20a%20separation%20and%20complex%20property%20settlement%20in%20Brisbane.%20Which%20family%20law%20firms%20have%20the%20strongest%20track%20record%20for%20property%20division%20and%20binding%20financial%20agreements%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCbsg9lwEWpFrEcCE3vNaowIF",
+      "datetime": "2026-10-23 05:25:30 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "Several prominent Brisbane law firms are consistently recognized by independent legal directories like *Doyles Guide* and local peer consensus for handling **high-net-worth property divisions**, **complex corporate or trust structures** , and **Binding Financial Agreements (BFAs)**.[[1]](https://doylesguide.com/leading-family-divorce-lawyers-brisbane-2026/)\n\n### Prominent Brisbane Family Law Firms & Practices\n\n| Firm Name | Key Strengths & Focus Areas |\n|---|---|\n| **[Phillips Family Law](https://www.phillipsfamilylaw.com.au/)** | Recognized for complex financial settlements, prenuptial/binding financial agreements, and access to in-house or allied financial/psychological specialists. |\n| **Damien Greer Lawyers** | Renowned for preeminent expertise in contested matrimonial property and complex asset pools. |\n| **Barry Nilsson** | Features leading practitioners handling intricate family law, high-value property, and spousal maintenance disputes. |\n| **Mills Oakley** | Strong capability in complex commercial and family law intersections, including corporate entity and trust valuations. |\n| **HopgoodGanim** | A full-service commercial firm with a dedicated family law practice well-suited for business owners and multi-entity asset pools. |\n| **[Michael Lynch Family Lawyers](https://www.michaellynchfamilylawyers.com.au/)** | Dedicated family law practice experienced in property settlement negotiations, superannuation splitting, and separation timelines. |\n| **[Emerson Family Law](https://emfl.com.au/)** | Specializes in high-value and complex property divisions, financial agreements, and dispute resolution. |\n| **[Cooper Grace Ward](https://cgw.com.au/expertise/family-lawyers-brisbane/)** | Integrates family law with cross-disciplinary advice across tax, corporate, and real estate property law. |\n\n### What to Look for in a Complex Property Settlement\n\n- **Commercial & Tax Acumen:** If your property pool involves family trusts, company shares, partnerships, or self-managed super funds (SMSFs), you need a firm that collaborates closely with tax accountants and valuation experts.[[1]](https://cgw.com.au/expertise/family-lawyers-brisbane/)\n- **Binding Financial Agreement (BFA) Strictness:** BFAs under the *Family Law Act 1975* require independent legal advice for both parties with strict technical compliance. A flaw in drafting can lead to the agreement being set aside later by a court.\n- **Mediation vs. Litigation Track Record:** Most complex matters settle out of court via private mediation or financial arbitration. Look for lawyers skilled in alternative dispute resolution to avoid prolonged, costly litigation.[[1]](https://kellylawyers.com.au/services/family-law/)\n- **Time Limitations:** Keep strict statutory deadlines in mind: **12 months** from the date a divorce order takes effect for married couples, or **2 years** from the date of separation for de facto couples.[[1]](https://kellylawyers.com.au/services/family-law/)\n\nTo help narrow down the best fit, could you share:\n\n- Whether you are **married or in a de facto relationship**?\n- Whether the asset pool includes **businesses, trusts, or SMSFs**?\n- Whether you are aiming for an **amicable consent order** or facing a **contested litigation** path?",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Several prominent Brisbane law firms are consistently recognized by independent legal directories like Doyles Guide and local peer consensus for handling high-net-worth property divisions, complex corporate or trust structures, and Binding Financial Agreements (BFAs).",
+              "markdown": "Several prominent Brisbane law firms are consistently recognized by independent legal directories like *Doyles Guide* and local peer consensus for handling **high-net-worth property divisions**, **complex corporate or trust structures** , and **Binding Financial Agreements (BFAs)**.[[1]](https://doylesguide.com/leading-family-divorce-lawyers-brisbane-2026/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Doyle's Guide",
+                  "domain": "doylesguide.com",
+                  "url": "https://doylesguide.com/leading-family-divorce-lawyers-brisbane-2026/",
+                  "title": "Leading Family & Divorce Lawyers - Brisbane, 2026",
+                  "text": "The 2026 listing of leading Brisbane Family & Divorce Lawyers details. Rogers Adrian Dore, Bell Dore Lisa Foley, DA Family Lawyers..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Prominent Brisbane Family Law Firms & Practices",
+              "text": null,
+              "markdown": "### Prominent Brisbane Family Law Firms & Practices",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_table_element",
+              "position": "left",
+              "markdown": "| Firm Name | Key Strengths & Focus Areas |\n|---|---|\n| **[Phillips Family Law](https://www.phillipsfamilylaw.com.au/)** | Recognized for complex financial settlements, prenuptial/binding financial agreements, and access to in-house or allied financial/psychological specialists. |\n| **Damien Greer Lawyers** | Renowned for preeminent expertise in contested matrimonial property and complex asset pools. |\n| **Barry Nilsson** | Features leading practitioners handling intricate family law, high-value property, and spousal maintenance disputes. |\n| **Mills Oakley** | Strong capability in complex commercial and family law intersections, including corporate entity and trust valuations. |\n| **HopgoodGanim** | A full-service commercial firm with a dedicated family law practice well-suited for business owners and multi-entity asset pools. |\n| **[Michael Lynch Family Lawyers](https://www.michaellynchfamilylawyers.com.au/)** | Dedicated family law practice experienced in property settlement negotiations, superannuation splitting, and separation timelines. |\n| **[Emerson Family Law](https://emfl.com.au/)** | Specializes in high-value and complex property divisions, financial agreements, and dispute resolution. |\n| **[Cooper Grace Ward](https://cgw.com.au/expertise/family-lawyers-brisbane/)** | Integrates family law with cross-disciplinary advice across tax, corporate, and real estate property law. |",
+              "table": {
+                "table_header": [
+                  "Firm Name",
+                  "Key Strengths & Focus Areas"
+                ],
+                "table_content": [
+                  [
+                    "Phillips Family Law",
+                    "Recognized for complex financial settlements, prenuptial/binding financial agreements, and access to in-house or allied financial/psychological specialists."
+                  ],
+                  [
+                    "Damien Greer Lawyers",
+                    "Renowned for preeminent expertise in contested matrimonial property and complex asset pools."
+                  ],
+                  [
+                    "Barry Nilsson",
+                    "Features leading practitioners handling intricate family law, high-value property, and spousal maintenance disputes."
+                  ],
+                  [
+                    "Mills Oakley",
+                    "Strong capability in complex commercial and family law intersections, including corporate entity and trust valuations."
+                  ],
+                  [
+                    "HopgoodGanim",
+                    "A full-service commercial firm with a dedicated family law practice well-suited for business owners and multi-entity asset pools."
+                  ],
+                  [
+                    "Michael Lynch Family Lawyers",
+                    "Dedicated family law practice experienced in property settlement negotiations, superannuation splitting, and separation timelines."
+                  ],
+                  [
+                    "Emerson Family Law",
+                    "Specializes in high-value and complex property divisions, financial agreements, and dispute resolution."
+                  ],
+                  [
+                    "Cooper Grace Ward",
+                    "Integrates family law with cross-disciplinary advice across tax, corporate, and real estate property law."
+                  ]
+                ]
+              }
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "What to Look for in a Complex Property Settlement",
+              "text": "Commercial & Tax Acumen: If your property pool involves family trusts, company shares, partnerships, or self-managed super funds (SMSFs), you need a firm that collaborates closely with tax accountants and valuation experts. Binding Financial Agreement (BFA) Strictness: BFAs under the Family Law Act 1975 require independent legal advice for both parties with strict technical compliance. A flaw in drafting can lead to the agreement being set aside later by a court. Mediation vs. Litigation Track Record: Most complex matters settle out of court via private mediation or financial arbitration. Look for lawyers skilled in alternative dispute resolution to avoid prolonged, costly litigation. Time Limitations: Keep strict statutory deadlines in mind: 12 months from the date a divorce order takes effect for married couples, or 2 years from the date of separation for de facto couples.",
+              "markdown": "- **Commercial & Tax Acumen:** If your property pool involves family trusts, company shares, partnerships, or self-managed super funds (SMSFs), you need a firm that collaborates closely with tax accountants and valuation experts.[[1]](https://cgw.com.au/expertise/family-lawyers-brisbane/)\n- **Binding Financial Agreement (BFA) Strictness:** BFAs under the *Family Law Act 1975* require independent legal advice for both parties with strict technical compliance. A flaw in drafting can lead to the agreement being set aside later by a court.\n- **Mediation vs. Litigation Track Record:** Most complex matters settle out of court via private mediation or financial arbitration. Look for lawyers skilled in alternative dispute resolution to avoid prolonged, costly litigation.[[1]](https://kellylawyers.com.au/services/family-law/)\n- **Time Limitations:** Keep strict statutory deadlines in mind: **12 months** from the date a divorce order takes effect for married couples, or **2 years** from the date of separation for de facto couples.[[1]](https://kellylawyers.com.au/services/family-law/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Cooper Grace Ward",
+                  "domain": "cgw.com.au",
+                  "url": "https://cgw.com.au/expertise/family-lawyers-brisbane/",
+                  "title": "Family Law Brisbane - Divorce Lawyers | Cooper Grace Ward",
+                  "text": "Cooper Grace Ward is a law firm in Brisbane with a dedicated team of family lawyers. They offer advice on a range of family law is..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Kelly Lawyers",
+                  "domain": "kellylawyers.com.au",
+                  "url": "https://kellylawyers.com.au/services/family-law/",
+                  "title": "Family Lawyers Brisbane Northside",
+                  "text": "Most property settlements in Australia are resolved out of court through negotiation or mediation and then documented in consent o..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "To help narrow down the best fit, could you share:",
+              "markdown": "To help narrow down the best fit, could you share:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Whether you are married or in a de facto relationship ? Whether the asset pool includes businesses, trusts, or SMSFs ? Whether you are aiming for an amicable consent order or facing a contested litigation path?",
+              "markdown": "- Whether you are **married or in a de facto relationship**?\n- Whether the asset pool includes **businesses, trusts, or SMSFs**?\n- Whether you are aiming for an **amicable consent order** or facing a **contested litigation** path?",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Michael Lynch Family Lawyers",
+              "domain": "www.michaellynchfamilylawyers.com.au",
+              "url": "https://www.michaellynchfamilylawyers.com.au/",
+              "title": "Michael Lynch Family Lawyers: Family Lawyers Brisbane",
+              "text": "Couples going through a divorce or separation will generally have to ascertain their property settlement entitlements and divide their assets. A property settlemen..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Emerson Family Law",
+              "domain": "emfl.com.au",
+              "url": "https://emfl.com.au/",
+              "title": "Emerson Family Law: Best Family Lawyers in Brisbane",
+              "text": "Emerson Family Law is a team of experienced family lawyers in Brisbane. They specialize in: * Divorce * Separation * Complex property settlements * Domestic and fa..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Kelly Lawyers",
+              "domain": "kellylawyers.com.au",
+              "url": "https://kellylawyers.com.au/services/family-law/",
+              "title": "Family Lawyers Brisbane Northside",
+              "text": "Under section 44 of the Family Law Act 1975, married couples have 12 months from the date their divorce takes effect. De facto couples have 2 years from the date o..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Phillips Family Law",
+              "domain": "www.phillipsfamilylaw.com.au",
+              "url": "https://www.phillipsfamilylaw.com.au/",
+              "title": "Phillips Family Law: Award Winning Family Lawyers Brisbane",
+              "text": "Phillips Family Law offers services such as: * Separation and divorce * Financial settlements * Parenting and children arrangements * Prenuptial and financial agre..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

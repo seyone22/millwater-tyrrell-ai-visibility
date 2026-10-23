@@ -1,0 +1,325 @@
+{
+  "slug": "brisbane",
+  "pk": "probate_administration",
+  "plat": "claude",
+  "text": "I am an executor handling probate and deceased estate administration in Brisbane. Which law firms specialise in Queensland probate and estate administration?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane__probate_administration__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:26:25.064Z",
+  "cost": 0.058843,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 9666,
+      "output_tokens": 1283,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.058243,
+      "datetime": "2026-10-23 05:26:21 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is an overview of law firms in Brisbane and Queensland that specialise in probate and deceased estate administration:\n\n---\n\n### 1. 🏛️ **Queensland Probate** (qldprobate.com.au)\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Queensland Probate claims to be Queensland's leading probate law firm, and based on published data from the Queensland Law Reporter, has lodged the highest number of probate applications of any law firm in Queensland.",
+              "annotations": [
+                {
+                  "title": "Probate Lawyers Brisbane",
+                  "url": "https://qldprobate.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The firm specialises in wills and estates services, estate planning, administration of deceased estates, real estate transactions in deceased estates, and contesting a will. Their legal team has over 65 years of combined experience.",
+              "annotations": [
+                {
+                  "title": "Estate Planning Brisbane",
+                  "url": "https://qldprobate.com.au/estate-planning-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They handle probate and letters of administration across Queensland, with fixed-fee probate from $1,395 including GST.",
+              "annotations": [
+                {
+                  "title": "Probate Lawyers Brisbane",
+                  "url": "https://qldprobate.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 2. 🏛️ **Will and Estate Lawyers Australia** (willandestatelawyers.com.au)\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their lawyers focus exclusively on wills and estate law across Brisbane and Queensland, providing comprehensive assistance across all aspects of estate administration and planning.",
+              "annotations": [
+                {
+                  "title": "Wills and Estate Lawyers Brisbane",
+                  "url": "https://willandestatelawyers.com.au/wills-and-estate-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their Brisbane team guides executors through every step of the process, from obtaining probate or letters of administration to final distribution, handling all aspects including identifying assets, paying debts, preparing estate accounts, and ensuring compliance with Queensland succession laws.",
+              "annotations": [
+                {
+                  "title": "Wills and Estate Lawyers Brisbane",
+                  "url": "https://willandestatelawyers.com.au/wills-and-estate-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They offer probate services at a competitive fixed fee of $1,490 (legal fee only).",
+              "annotations": [
+                {
+                  "title": "Wills and Estate Lawyers Brisbane",
+                  "url": "https://willandestatelawyers.com.au/wills-and-estate-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. 🏛️ **Direct Lawyers** (directlawyers.com.au)\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Direct Lawyers is a Brisbane-based Wills and Estates law firm with over 15 years of focused experience, providing specialist legal services across Brisbane and Queensland, focused exclusively on Wills, Estate Planning, Probate, and Estate Disputes.",
+              "annotations": [
+                {
+                  "title": "Wills and Estates Lawyers Brisbane",
+                  "url": "https://www.directlawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They offer mobile appointments across Brisbane and remote appointments for clients across Queensland.",
+              "annotations": [
+                {
+                  "title": "Wills and Estates Lawyers Brisbane",
+                  "url": "https://www.directlawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 4. 🏛️ **Ryan Murdoch O'Regan Lawyers** (rmolaw.com.au)\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Ryan Murdoch O'Regan's Wills & Estates Team are expert probate lawyers in Brisbane and throughout South-East Queensland, with their entire team having considerable experience in wills and estates.",
+              "annotations": [
+                {
+                  "title": "Probate & Estate Administration Support in QLD",
+                  "url": "https://rmolaw.com.au/practice-areas/probate-administration/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They act for clients anywhere in Queensland (and internationally) in relation to Queensland estates.",
+              "annotations": [
+                {
+                  "title": "Probate & Estate Administration Support in QLD",
+                  "url": "https://rmolaw.com.au/practice-areas/probate-administration/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 5. 🏛️ **Empire Legal** (empirelegal.com.au)\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Empire Legal is a Queensland-based law firm with a wills and estates team that works with clients across Brisbane, the Gold Coast, Bayside and surrounding areas.",
+              "annotations": [
+                {
+                  "title": "Wills & Estates Lawyers Brisbane & QLD",
+                  "url": "https://empirelegal.com.au/services/wills-and-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They can help the executor obtain a Grant of Probate from the Supreme Court of Queensland — the legal authority that allows the executor to deal with the deceased's assets, including real estate, bank accounts and shares.",
+              "annotations": [
+                {
+                  "title": "Wills & Estates Lawyers Brisbane & QLD",
+                  "url": "https://empirelegal.com.au/services/wills-and-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 6. 🏛️ **Other Notable Firms**\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "**Mitchells Solicitors** draws on over 50 years of combined legal heritage through mergers with established Queensland practices and provides comprehensive probate assistance to Brisbane City residents navigating estate administration complexities.",
+              "annotations": [
+                {
+                  "title": "Compare 35 Probate Lawyers in Brisbane City, QLD",
+                  "url": "https://lawconnect.com/en-au/find/probate/qld/brisbane-city-4000",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "**RC & Co Lawyers** assists Brisbane City families and executors through the complexities of obtaining probate grants and managing deceased estate obligations, handling probate applications, estate distribution matters, and related administrative requirements.",
+              "annotations": [
+                {
+                  "title": "Compare 35 Probate Lawyers in Brisbane City, QLD",
+                  "url": "https://lawconnect.com/en-au/find/probate/qld/brisbane-city-4000",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "**Generations Law**, established in 2019, assists Brisbane City residents with probate applications and Letters of Administration through flexible service delivery including home visits and videoconferencing, and provides fixed fee pricing for estate matters.",
+              "annotations": [
+                {
+                  "title": "Compare 35 Probate Lawyers in Brisbane City, QLD",
+                  "url": "https://lawconnect.com/en-au/find/probate/qld/brisbane-city-4000",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "**Skene Lawyers** handles estate administration with precision for Brisbane City clients, drawing from over 20 years of experience to guide executors and beneficiaries through the probate process.",
+              "annotations": [
+                {
+                  "title": "Compare 35 Probate Lawyers in Brisbane City, QLD",
+                  "url": "https://lawconnect.com/en-au/find/probate/qld/brisbane-city-4000",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 💡 Tips for Choosing a Firm as an Executor:\n- **Fixed-fee pricing** is common among specialist firms and helps you budget with certainty.\n- Look for firms that offer **executor-specific guidance**, including help with asset identification, debt payment, and final distribution.\n- Consider whether you need **in-person, mobile, or remote** appointments depending on your location in Queensland.\n\nWould you like more detail on any specific firm, or information about the probate process itself in Queensland?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "law firms specialising in probate estate administration Brisbane Queensland"
+      ]
+    }
+  ]
+}

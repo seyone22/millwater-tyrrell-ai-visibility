@@ -1,0 +1,106 @@
+{
+  "slug": "springfield",
+  "pk": "family_lawyers",
+  "plat": "perplexity",
+  "text": "Who are the best family lawyers in Springfield and Greater Springfield, QLD? Give me a shortlist of reputable family law firms with reasons.",
+  "loc": 9191413,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\springfield__family_lawyers__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:24:11.265Z",
+  "cost": 0.006339,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 34,
+      "output_tokens": 705,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005739,
+      "datetime": "2026-10-23 05:24:07 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "The strongest shortlist for **Springfield and Greater Springfield, QLD** is **VM Family Law, GLG Legal Springfield, Walker Pender Lawyers, McNamara Law, and Stanford Legal**. The best choice depends on whether you need specialist family-violence support, complex property advice, parenting representation, mediation, or a local general-practice firm.\n\n- **VM Family Law — specialist family law and domestic violence**\n  - Serves Ipswich and Greater Springfield.\n  - Particularly strong option for domestic and family-violence matters: the firm says it was among Queensland’s early practices focused on this area and works with relevant support organisations.\n  - Principal Kath Manby has specialist domestic-violence expertise and has authored training material for lawyers in this field.[2]\n\n- **GLG Legal Springfield — local office with broader specialist resources**\n  - Based in Brookwater/Springfield and expressly serves Springfield, Ipswich and surrounding areas.\n  - Handles divorce, separation, property settlement and parenting disputes.\n  - Its connection with Michael Lynch Family Lawyers gives clients access to a larger family-law team and additional specialist experience.[1][3]\n\n- **Walker Pender Lawyers — established Ipswich firm with family-law capability**\n  - Serves Springfield and Greater West Brisbane from its Ipswich base.\n  - Its family-law team assists with separation, divorce, parenting arrangements, property settlements and family-violence matters; Kevin Murray is identified as a family-law specialist and mediator.\n  - The firm reports a history dating to 1874, a 4.8-star average from more than 180 Google reviews, and a 2026 Southeast Queensland family-law award claim.[7]\n\n- **McNamara Law — long-established local firm**\n  - Has offices in Ipswich and Springfield Central and nearly a century of regional experience.\n  - Suitable if you want a sizeable local practice with family-law, property and estate-planning capability under one roof.\n  - Family-law services include divorce, parenting disputes and financial agreements, with an emphasis on children’s best interests.[1]\n\n- **Stanford Legal — accessible boutique-style option**\n  - Located in Springfield Central and serving Springfield, Ipswich and Brisbane.\n  - Handles divorce, parenting agreements, consent orders and domestic-violence issues, including international matters.\n  - The firm reports a 4.9 rating from 100 listings and offers complimentary initial consultations, although review-platform ratings should be verified independently.[1]\n\n## How to choose\n\n- **Domestic or family violence:** start with VM Family Law; ask about urgent protection, parenting and safety arrangements.\n- **Complex property settlement or high-value assets:** compare GLG Legal, Walker Pender and McNamara Law.\n- **Parenting dispute or court proceedings:** ask who will personally run the matter and their experience in the Federal Circuit and Family Court.\n- **Straightforward divorce, consent orders or parenting agreement:** Stanford Legal may be worth comparing for accessibility and initial-cost clarity.\n- **Costs:** request a written disclosure of estimated fees, hourly rates, likely stages, barrister costs and what happens if the matter becomes contested.\n\nBefore engaging any firm, confirm that the solicitor is currently admitted in Queensland, check the firm’s recent independent reviews, ask whether the initial consultation is free, and obtain a written costs agreement. The listings and firm-reported ratings above are useful screening indicators, not a guarantee of outcome.[1][7]",
+              "annotations": [
+                {
+                  "title": "Find Trusted Family Lawyers near Springfield QLD",
+                  "url": "https://lawconnect.com/en-au/find/family-law/qld/springfield-4300",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "VM Family Law: Best Family Lawyers Ipswich & Springfield",
+                  "url": "https://www.vmfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Divorce Lawyers Springfield | Family Law Experts | GLG Legal",
+                  "url": "https://www.springfieldlegals.com.au/areas-of-practice/family-law/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top Law Firms in QLD · All time | LegalLink Leaderboard",
+                  "url": "https://legallink.info/en/lawfirms/leaderboard/addr/QLD",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Find the best family lawyers in Springfield Lakes",
+                  "url": "https://www.bark.com/en/au/family-lawyers/queensland/springfield-lakes/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Lawyer For Divorce Springfield",
+                  "url": "https://www.australianfamilylawyers.com.au/cm-lawyer-for-divorce-springfield",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Walker Pender: Solicitors in Ipswich",
+                  "url": "https://walkerpender.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top Family Law in Australia · All time | LegalLink Leaderboard",
+                  "url": "https://legallink.info/en/lawfirms/leaderboard/addr/family_law",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "SKC Lawyers",
+                  "url": "https://skclawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Find the Best Lawyer in Springfield Lakes - QLD - Word of Mouth",
+                  "url": "https://www.wordofmouth.com.au/qld/springfield-lakes/solicitor",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

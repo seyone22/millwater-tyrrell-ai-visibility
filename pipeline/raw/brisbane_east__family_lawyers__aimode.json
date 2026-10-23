@@ -1,0 +1,219 @@
+{
+  "slug": "brisbane_east",
+  "pk": "family_lawyers",
+  "plat": "aimode",
+  "text": "Who are the best family lawyers in Brisbane East and Bayside (Carindale & Wynnum)? Give me a shortlist of reputable family law firms with reasons.",
+  "loc": 9194035,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_east__family_lawyers__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:30:53.333Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Who are the best family lawyers in Brisbane East and Bayside (Carindale & Wynnum)? Give me a shortlist of reputable family law firms with reasons.",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 9194035,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Who%20are%20the%20best%20family%20lawyers%20in%20Brisbane%20East%20and%20Bayside%20%28Carindale%20%26%20Wynnum%29%3F%20Give%20me%20a%20shortlist%20of%20reputable%20family%20law%20firms%20with%20reasons.&udm=50&uule=w+CAIQIFISCY2cnt7dW5FrEZCD3vNaowIF&hl=en&gl=AU",
+      "datetime": "2026-10-23 05:30:48 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "Finding the right family lawyer in Brisbane’s eastern suburbs or the Bayside area comes down to balancing specialised expertise with local accessibility.\n\nA targeted shortlist of reputable, highly regarded family law practices servicing Carindale, Wynnum, and surrounding Bayside/East Brisbane regions includes the following:\n\n### 1. Honan Family Law (Coorparoo)\n\n- **Location & Reach:** Based nearby in Coorparoo (right on the edge of Brisbane’s inner-east, easily servicing Carindale and surrounding corridors).[[1]](https://www.familylaw.com.au/law-practice/honan-family-law/)\n- **Why they are reputable:** Led by Amy Honan—an Accredited Family Law Specialist practicing exclusively in family law since 2006—this boutique all-female firm is routinely recognized for its stellar client care. They are featured in the *Doyles Guide* Recommended List for Family and Parenting Law.[[1]](https://honanfamilylaw.com.au/)[[2]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhOdVh6Vm1PR3g2GAo)\n- **Key Reasons to Choose:** They champion a compassionate, practical, and highly strategic out-of-court settlement approach wherever possible, saving clients unnecessary litigation stress and costs, but they retain a strong reputation for advocacy if court intervention becomes unavoidable.[[1]](https://honanfamilylaw.com.au/)[[2]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhOdVh6Vm1PR3g2GAo)\n\n### 2. Connor Hunter Lawyers (Wynnum)\n\n- **Location & Reach:** Centrally located in Wynnum, deeply embedded in the Bayside community.[[1]](https://lawconnect.com/en-au/find/family-law/qld/wynnum-4178)\n- **Why they are reputable:** Established back in 1971, Connor Hunter is a foundational fixture of Bayside legal services. They provide a multi-disciplinary practice with a dedicated focus on family law, asset division, and child custody arrangements.[[1]](https://lawconnect.com/en-au/find/family-law/qld/wynnum-4178)\n- **Key Reasons to Choose:** If you prefer a long-standing, traditional local firm with deep roots in the Wynnum-Manly community rather than a flashy CBD corporate office, Connor Hunter offers stable, highly personal, and community-oriented guidance.[[1]](https://connorhunter.com/)\n\n### 3. Australian Family Lawyers (Manly / Bayside)\n\n- **Location & Reach:** Servicing the Brisbane Bayside area out of Manly.\n- **Why they are reputable:** Led locally by experienced practitioners like Danielle Dick, this branch is part of a larger, highly structured national network completely dedicated to family law.\n- **Key Reasons to Choose:** Ideal if you want the backing, modern digital resources, and structured framework of a national family law specialist firm, combined with localized Bayside representation for divorce, complex property settlements, and child-related matters.[[1]](https://www.australianfamilylawyers.com.au/locations/manly)\n\n### 4. Barto Du Plessis Solicitors (Carindale)\n\n- **Location & Reach:** Situated directly in Carindale.\n- **Why they are reputable:** A highly rated, approachable local practice offering localized convenience right in the heart of the Carindale residential and commercial hub.\n- **Key Reasons to Choose:** Excellent for clients looking for a down-to-earth, face-to-face consultation right in Carindale to handle initial separation advice, straightforward property agreements, or preliminary binding financial arrangements without traveling toward the city.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdadU1YZzJNMmMwGAo)\n\nTo help narrow down which of these options is the best fit, could you let me know:\n\n- Are you dealing primarily with **parenting/child custody arrangements** or **financial/property division**?\n- Do you prefer a **boutique local specialist** close to Carindale/Wynnum, or an **out-of-court collaborative approach** vs. litigation readiness?",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Finding the right family lawyer in Brisbane’s eastern suburbs or the Bayside area comes down to balancing specialised expertise with local accessibility.",
+              "markdown": "Finding the right family lawyer in Brisbane’s eastern suburbs or the Bayside area comes down to balancing specialised expertise with local accessibility.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "A targeted shortlist of reputable, highly regarded family law practices servicing Carindale, Wynnum, and surrounding Bayside/East Brisbane regions includes the following:",
+              "markdown": "A targeted shortlist of reputable, highly regarded family law practices servicing Carindale, Wynnum, and surrounding Bayside/East Brisbane regions includes the following:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "1. Honan Family Law (Coorparoo)",
+              "text": "Location & Reach: Based nearby in Coorparoo (right on the edge of Brisbane’s inner-east, easily servicing Carindale and surrounding corridors). Why they are reputable: Led by Amy Honan—an Accredited Family Law Specialist practicing exclusively in family law since 2006—this boutique all-female firm is routinely recognized for its stellar client care. They are featured in the Doyles Guide Recommended List for Family and Parenting Law. Key Reasons to Choose: They champion a compassionate, practical, and highly strategic out-of-court settlement approach wherever possible, saving clients unnecessary litigation stress and costs, but they retain a strong reputation for advocacy if court intervention becomes unavoidable.",
+              "markdown": "- **Location & Reach:** Based nearby in Coorparoo (right on the edge of Brisbane’s inner-east, easily servicing Carindale and surrounding corridors).[[1]](https://www.familylaw.com.au/law-practice/honan-family-law/)\n- **Why they are reputable:** Led by Amy Honan—an Accredited Family Law Specialist practicing exclusively in family law since 2006—this boutique all-female firm is routinely recognized for its stellar client care. They are featured in the *Doyles Guide* Recommended List for Family and Parenting Law.[[1]](https://honanfamilylaw.com.au/)[[2]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhOdVh6Vm1PR3g2GAo)\n- **Key Reasons to Choose:** They champion a compassionate, practical, and highly strategic out-of-court settlement approach wherever possible, saving clients unnecessary litigation stress and costs, but they retain a strong reputation for advocacy if court intervention becomes unavoidable.[[1]](https://honanfamilylaw.com.au/)[[2]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhOdVh6Vm1PR3g2GAo)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "www.familylaw.com.au",
+                  "domain": "www.familylaw.com.au",
+                  "url": "https://www.familylaw.com.au/law-practice/honan-family-law/",
+                  "title": "Honan Family Law in Coorparoo, QLD – Law Firm",
+                  "text": "Honan Family Law is a specialist family law firm based in Coorparoo, Brisbane, Queensland. The practice focuses exclusively on fam..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Honan Family Law",
+                  "domain": "honanfamilylaw.com.au",
+                  "url": "https://honanfamilylaw.com.au/",
+                  "title": "Specialist Family Lawyers Brisbane | Honan Family Law",
+                  "text": "Honan Family Law (Brisbane, all-female specialist team, focused on empathy, clear communication, and client needs."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhOdVh6Vm1PR3g2GAo",
+                  "title": "Honan Family Law",
+                  "text": "Unit 1/61 Holdsworth St, Coorparoo QLD 4151 · Brisbane's specialist family law firm, helping separating professionals, parents and..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "2. Connor Hunter Lawyers (Wynnum)",
+              "text": "Location & Reach: Centrally located in Wynnum, deeply embedded in the Bayside community. Why they are reputable: Established back in 1971, Connor Hunter is a foundational fixture of Bayside legal services. They provide a multi-disciplinary practice with a dedicated focus on family law, asset division, and child custody arrangements. , Connor Hunter is a foundational fixture of Bayside legal services. They provide a multi-disciplinary practice with a dedicated focus on family law, asset division, and child custody arrangements Connor Hunter Key Reasons to Choose: If you prefer a long-standing, traditional local firm with deep roots in the Wynnum-Manly community rather than a flashy CBD corporate office, Connor Hunter offers stable, highly personal, and community-oriented guidance. If you prefer a long-standing, traditional local firm with deep roots in the Wynnum-Manly community rather than a flashy CBD corporate office, Connor Hunter offers stable, highly personal, and community-oriented guidance Connor Hunter",
+              "markdown": "- **Location & Reach:** Centrally located in Wynnum, deeply embedded in the Bayside community.[[1]](https://lawconnect.com/en-au/find/family-law/qld/wynnum-4178)\n- **Why they are reputable:** Established back in 1971, Connor Hunter is a foundational fixture of Bayside legal services. They provide a multi-disciplinary practice with a dedicated focus on family law, asset division, and child custody arrangements.[[1]](https://lawconnect.com/en-au/find/family-law/qld/wynnum-4178)\n- **Key Reasons to Choose:** If you prefer a long-standing, traditional local firm with deep roots in the Wynnum-Manly community rather than a flashy CBD corporate office, Connor Hunter offers stable, highly personal, and community-oriented guidance.[[1]](https://connorhunter.com/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "LawConnect",
+                  "domain": "lawconnect.com",
+                  "url": "https://lawconnect.com/en-au/find/family-law/qld/wynnum-4178",
+                  "title": "Find Family Lawyers in Wynnum, QLD - LawConnect",
+                  "text": "Connor Hunter Lawyers Brisbane. Services include Family Law (asset division, child custody, spousal support), Wills & Estates. Cal..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Connor Hunter Lawyers",
+                  "domain": "connorhunter.com",
+                  "url": "https://connorhunter.com/",
+                  "title": "Connor Hunter Lawyers: Comprehensive Legal Services in ...",
+                  "text": "Established in 1971, our experienced legal practitioners are here to assist you with a full range of legal matters, from commercia..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "3. Australian Family Lawyers (Manly / Bayside)",
+              "text": "Location & Reach: Servicing the Brisbane Bayside area out of Manly. Why they are reputable: Led locally by experienced practitioners like Danielle Dick, this branch is part of a larger, highly structured national network completely dedicated to family law. Key Reasons to Choose: Ideal if you want the backing, modern digital resources, and structured framework of a national family law specialist firm, combined with localized Bayside representation for divorce, complex property settlements, and child-related matters.",
+              "markdown": "- **Location & Reach:** Servicing the Brisbane Bayside area out of Manly.\n- **Why they are reputable:** Led locally by experienced practitioners like Danielle Dick, this branch is part of a larger, highly structured national network completely dedicated to family law.\n- **Key Reasons to Choose:** Ideal if you want the backing, modern digital resources, and structured framework of a national family law specialist firm, combined with localized Bayside representation for divorce, complex property settlements, and child-related matters.[[1]](https://www.australianfamilylawyers.com.au/locations/manly)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Australian Family Lawyers",
+                  "domain": "www.australianfamilylawyers.com.au",
+                  "url": "https://www.australianfamilylawyers.com.au/locations/manly",
+                  "title": "Family Lawyers in Manly, Brisbane Bayside",
+                  "text": "Led by Danielle Dick, our trusted family lawyers in Manly, QLD (Brisbane Bayside) provide support for divorce, property settlement..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "4. Barto Du Plessis Solicitors (Carindale)",
+              "text": "Location & Reach: Situated directly in Carindale. Why they are reputable: A highly rated, approachable local practice offering localized convenience right in the heart of the Carindale residential and commercial hub. Key Reasons to Choose: Excellent for clients looking for a down-to-earth, face-to-face consultation right in Carindale to handle initial separation advice, straightforward property agreements, or preliminary binding financial arrangements without traveling toward the city.",
+              "markdown": "- **Location & Reach:** Situated directly in Carindale.\n- **Why they are reputable:** A highly rated, approachable local practice offering localized convenience right in the heart of the Carindale residential and commercial hub.\n- **Key Reasons to Choose:** Excellent for clients looking for a down-to-earth, face-to-face consultation right in Carindale to handle initial separation advice, straightforward property agreements, or preliminary binding financial arrangements without traveling toward the city.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdadU1YZzJNMmMwGAo)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdadU1YZzJNMmMwGAo",
+                  "title": "Barto Du Plessis Solicitors",
+                  "text": "28 St Andrews Cres, Carindale QLD 4152"
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "To help narrow down which of these options is the best fit, could you let me know:",
+              "markdown": "To help narrow down which of these options is the best fit, could you let me know:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Are you dealing primarily with parenting/child custody arrangements or financial/property division ? Do you prefer a boutique local specialist close to Carindale/Wynnum, or an out-of-court collaborative approach vs. litigation readiness?",
+              "markdown": "- Are you dealing primarily with **parenting/child custody arrangements** or **financial/property division**?\n- Do you prefer a **boutique local specialist** close to Carindale/Wynnum, or an **out-of-court collaborative approach** vs. litigation readiness?",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Honan Family Law",
+              "domain": "honanfamilylaw.com.au",
+              "url": "https://honanfamilylaw.com.au/",
+              "title": "Specialist Family Lawyers Brisbane | Honan Family Law",
+              "text": "Collaborative, out-of-court resolutions focused on empathy, clear communication, and client needs. Process: Initial consultation, strategy planning, and resolution..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Australian Family Lawyers",
+              "domain": "www.australianfamilylawyers.com.au",
+              "url": "https://www.australianfamilylawyers.com.au/locations/manly",
+              "title": "Family Lawyers in Manly, Brisbane Bayside",
+              "text": "Led by Danielle Dick, our trusted family lawyers in Manly, QLD (Brisbane Bayside) provide support for divorce, property settlements, child-related matters"
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Connor Hunter Lawyers",
+              "domain": "connorhunter.com",
+              "url": "https://connorhunter.com/",
+              "title": "Connor Hunter Lawyers: Comprehensive Legal Services in ...",
+              "text": "Established in 1971, our experienced legal practitioners are here to assist you with a full range of legal matters, from commercial law, conveyancing to wills and..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

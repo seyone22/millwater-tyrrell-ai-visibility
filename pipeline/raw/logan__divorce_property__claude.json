@@ -1,0 +1,326 @@
+{
+  "slug": "logan",
+  "pk": "divorce_property",
+  "plat": "claude",
+  "text": "I am going through a separation and complex property settlement in Logan and Western Corridor (Ipswich to Brisbane). Which family law firms have the strongest track record for property division and binding financial agreements?",
+  "loc": 9112660,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\logan__divorce_property__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:32:57.991Z",
+  "cost": 0.066568,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10761,
+      "output_tokens": 1579,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.065968,
+      "datetime": "2026-10-23 05:32:53 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a comprehensive overview of family law firms with strong track records for **property division and binding financial agreements (BFAs)** in the **Logan and Western Corridor (Ipswich to Brisbane)** region:\n\n---\n\n## 🏛️ Top Family Law Firms for Property Settlement & BFAs — Logan & Western Corridor\n\n---\n\n### 1. **DA Family Lawyers**\nThis is one of the most directly relevant firms for your area. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "DA Family Lawyers offer services including property settlements, financial agreements, mediation and FDR, with a service area specifically covering **Brisbane, Ipswich, Logan and surrounding areas**.",
+              "annotations": [
+                {
+                  "title": "Five Fantastic Best Family & Divorce Lawyers in Brisbane, Queensland, Australia",
+                  "url": "https://www.fivefantasticlawyers.com/family-divorce/australia/brisbane-queensland",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Their geographic focus makes them a strong candidate for clients in the Western Corridor.\n\n---\n\n### 2. **Empire Legal**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Most of Empire Legal's clients are in **Brisbane, the Gold Coast, the Sunshine Coast, Logan, Ipswich and Redlands**, and because everything settles via PEXA, they can act wherever the property sits.",
+              "annotations": [
+                {
+                  "title": "Property Settlement Lawyers Brisbane & Gold Coast",
+                  "url": "https://empirelegal.com.au/services/family-law-property-settlement/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Because Empire Legal is a property law firm first, they handle both halves of a settlement under one roof: the family-law paperwork (BFAs, consent orders) and the property transfer itself (title, QRO lodgement, PEXA).",
+              "annotations": [
+                {
+                  "title": "Property Settlement Lawyers Brisbane & Gold Coast",
+                  "url": "https://empirelegal.com.au/services/family-law-property-settlement/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " This dual capability is particularly useful in complex property settlements.\n\n---\n\n### 3. **Phillips Family Law**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Phillips Family Law has been listed as a **First Tier Queensland Family Law Firm** and as a Leading Australian Family Law Firm each year since 2015. Their services include property settlements, prenuptial and financial agreements, and de facto relationships.",
+              "annotations": [
+                {
+                  "title": "Award Winning Family Lawyers Brisbane",
+                  "url": "https://www.phillipsfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Director Fiona Caulley is recognised by Doyle's Guide as **Leading Complex & High Value Family Law** in Brisbane, Queensland 2026",
+              "annotations": [
+                {
+                  "title": "Award Winning Family Lawyers Brisbane",
+                  "url": "https://www.phillipsfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " — particularly relevant for complex property matters.\n\n---\n\n### 4. **Stewart Family Law**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Stewart Family Law is a **Doyle's Guide Recommended Family & Divorce Law Firm** in Brisbane for 2024, 2025 and 2026.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Brisbane",
+                  "url": "https://stewartfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Judy Stewart is Best Lawyers' 2027 Lawyer of the Year for Family Law in Brisbane, and both Judy and Temika Slee are **Queensland Law Society Accredited Specialists** in family law.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Brisbane",
+                  "url": "https://stewartfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They advise across all areas of family law, from divorce and separation to parenting disputes and complex property settlements under the Family Law Act.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Brisbane",
+                  "url": "https://stewartfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 5. **Michael Lynch Family Lawyers**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Michael Lynch Family Lawyers are family law solicitors in Brisbane, specialising in all aspects of family and relationship law, and are one of the **largest specialist family law firms Brisbane-wide**, having been established for over 25 years with over 100 years of combined experience.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Brisbane",
+                  "url": "https://www.michaellynchfamilylawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their services include property settlements, spousal maintenance, and domestic violence orders, covering Brisbane, Gold Coast, Sunshine Coast and across Queensland.",
+              "annotations": [
+                {
+                  "title": "Five Fantastic Best Family & Divorce Lawyers in Brisbane, Queensland, Australia",
+                  "url": "https://www.fivefantasticlawyers.com/family-divorce/australia/brisbane-queensland",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 6. **Emerson Family Law**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Emerson Family Law specialises in divorce, separation, **complex property settlements**, domestic & family violence, international family law, and **binding financial agreements** for both married and de facto couples — whether pre-cohabitation, during cohabitation, or after separation.",
+              "annotations": [
+                {
+                  "title": "Best Family Lawyers in Brisbane",
+                  "url": "https://emfl.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They resolve over 95% of cases out of court, protecting assets and children's well-being.",
+              "annotations": [
+                {
+                  "title": "Best Family Lawyers in Brisbane",
+                  "url": "https://emfl.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 7. **Australian Family Lawyers**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Australian Family Lawyers settle **more than 95% of matters before a final hearing**, with this high rate of resolution achieved through strategic negotiation, helping clients resolve parenting and property issues without a drawn-out process.",
+              "annotations": [
+                {
+                  "title": "Leading Family & Divorce Lawyers Brisbane",
+                  "url": "https://www.australianfamilylawyers.com.au/locations/brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They have been a finalist for **Law Firm of the Year** in the Australian Law Awards in 2020, 2021, 2022, 2023 and 2025.",
+              "annotations": [
+                {
+                  "title": "Leading Family & Divorce Lawyers Brisbane",
+                  "url": "https://www.australianfamilylawyers.com.au/locations/brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 8. **Daykin Family Law**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Led by **Accredited Family Law Specialist Shannon Daykin**, their Brisbane family lawyers help clients understand their options and take the next step with confidence.",
+              "annotations": [
+                {
+                  "title": "Family & Divorce Lawyers Brisbane",
+                  "url": "https://daykinfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Daykin Family Law is a full-service firm offering tailored solutions in property settlement, child support, spousal maintenance, and parenting matters.",
+              "annotations": [
+                {
+                  "title": "Family & Divorce Lawyers Brisbane",
+                  "url": "https://daykinfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 💡 Key Tips for Your Situation\n\n| Factor | What to Look For |\n|---|---|\n| **Accreditation** | QLS Accredited Specialists in Family Law |\n| **BFA Expertise** | Firms explicitly listing BFAs as a specialty |\n| **Local Presence** | Firms covering Logan/Ipswich directly |\n| **Complex Property** | Look for Doyle's Guide \"Complex & High Value\" ratings |\n| **Settlement Rate** | High out-of-court settlement rates save time and money |\n\n---\n\n**Recommended first steps:**\n1. **DA Family Lawyers** and **Empire Legal** are the most geographically aligned with Logan and the Western Corridor.\n2. For high-value or particularly complex matters, **Phillips Family Law** (Fiona Caulley) or **Stewart Family Law** are among the most decorated in the region.\n3. Always seek an **initial consultation** (many firms offer this) and confirm the lawyer handling your matter is a **QLS Accredited Specialist in Family Law**.\n\n> ⚠️ *This information is general in nature. Always verify current credentials and availability directly with the firm, and seek personalised legal advice tailored to your specific circumstances.*",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "best family law firms property settlement Logan Ipswich Brisbane 2024 2025",
+        "binding financial agreements property division family lawyers Logan Western Corridor Queensland"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1981 @@
+{
+  "generatedAt": "2026-10-23T05:45:20.080Z",
+  "totalAnswers": 280,
+  "totalSerps": 56,
+  "mtMentioned": 26,
+  "mtRatePct": 9.3,
+  "mtTop3": 18,
+  "mtTop3Pct": 6.4,
+  "mtNum1": 10,
+  "mtNum1Pct": 3.6,
+  "mtCited": 25,
+  "mtCitedPct": 8.9,
+  "wfMentioned": 26,
+  "wfRatePct": 9.3,
+  "wfTop3": 18,
+  "wfTop3Pct": 6.4,
+  "wfNum1": 10,
+  "wfNum1Pct": 3.6,
+  "wfCited": 25,
+  "wfCitedPct": 8.9,
+  "serpTop10Count": 3,
+  "serpTop20Count": 5,
+  "byPlat": {
+    "chatgpt": {
+      "total": 56,
+      "mentioned": 9,
+      "ratePct": 16.1,
+      "top3": 6,
+      "top3Pct": 10.7,
+      "num1": 4,
+      "cited": 8,
+      "avgChars": 10875,
+      "avgCitations": 31.9
+    },
+    "perplexity": {
+      "total": 56,
+      "mentioned": 2,
+      "ratePct": 3.6,
+      "top3": 2,
+      "top3Pct": 3.6,
+      "num1": 1,
+      "cited": 2,
+      "avgChars": 2945,
+      "avgCitations": 10
+    },
+    "aimode": {
+      "total": 56,
+      "mentioned": 6,
+      "ratePct": 10.7,
+      "top3": 4,
+      "top3Pct": 7.1,
+      "num1": 3,
+      "cited": 6,
+      "avgChars": 7502,
+      "avgCitations": 5.4
+    },
+    "gemini": {
+      "total": 56,
+      "mentioned": 5,
+      "ratePct": 8.9,
+      "top3": 3,
+      "top3Pct": 5.4,
+      "num1": 2,
+      "cited": 5,
+      "avgChars": 4688,
+      "avgCitations": 15.4
+    },
+    "claude": {
+      "total": 56,
+      "mentioned": 4,
+      "ratePct": 7.1,
+      "top3": 3,
+      "top3Pct": 5.4,
+      "num1": 0,
+      "cited": 4,
+      "avgChars": 4963,
+      "avgCitations": 8.6
+    }
+  },
+  "byCity": {
+    "ipswich": {
+      "name": "Ipswich, QLD",
+      "displayLoc": "Ipswich Central & CBD (HQ)",
+      "state": "QLD",
+      "total": 35,
+      "mentioned": 15,
+      "ratePct": 42.9,
+      "top3": 11,
+      "top3Pct": 31.4,
+      "num1": 5,
+      "serpTop10": 3,
+      "serpTop20": 4,
+      "serpTotal": 7,
+      "gbp": {
+        "branchCount": 1,
+        "totalReviews": 107,
+        "maxRating": 4.8,
+        "hasRatedGbp43Plus": true,
+        "inMapsPack20": true,
+        "mapsPackRank": 5
+      },
+      "topFirms": [
+        {
+          "name": "Fallu McMillan Lawyers",
+          "count": 25,
+          "pct": 71.4
+        },
+        {
+          "name": "Walker Pender Group",
+          "count": 15,
+          "pct": 42.9
+        },
+        {
+          "name": "McNamara Law",
+          "count": 15,
+          "pct": 42.9
+        },
+        {
+          "name": "Richard Zande & Associates",
+          "count": 15,
+          "pct": 42.9
+        },
+        {
+          "name": "Millwater Tyrrell Law",
+          "count": 15,
+          "pct": 42.9
+        },
+        {
+          "name": "Keane Legal",
+          "count": 15,
+          "pct": 42.9
+        },
+        {
+          "name": "Stanford Legal",
+          "count": 15,
+          "pct": 42.9
+        },
+        {
+          "name": "Jacaranda Law",
+          "count": 14,
+          "pct": 40
+        },
+        {
+          "name": "Turner Freeman Lawyers",
+          "count": 12,
+          "pct": 34.3
+        },
+        {
+          "name": "Best Wilson Buckley Family Law",
+          "count": 11,
+          "pct": 31.4
+        }
+      ]
+    },
+    "springfield": {
+      "name": "Springfield and Greater Springfield, QLD",
+      "displayLoc": "Springfield & Greater Springfield",
+      "state": "QLD",
+      "total": 35,
+      "mentioned": 2,
+      "ratePct": 5.7,
+      "top3": 0,
+      "top3Pct": 0,
+      "num1": 0,
+      "serpTop10": 0,
+      "serpTop20": 0,
+      "serpTotal": 7,
+      "gbp": {
+        "branchCount": 0,
+        "totalReviews": 0,
+        "maxRating": 0,
+        "hasRatedGbp43Plus": false,
+        "inMapsPack20": false,
+        "mapsPackRank": null
+      },
+      "topFirms": [
+        {
+          "name": "Stanford Legal",
+          "count": 29,
+          "pct": 82.9
+        },
+        {
+          "name": "Brookwater Legal",
+          "count": 24,
+          "pct": 68.6
+        },
+        {
+          "name": "GLG Legal",
+          "count": 23,
+          "pct": 65.7
+        },
+        {
+          "name": "McNamara Law",
+          "count": 19,
+          "pct": 54.3
+        },
+        {
+          "name": "Keane Legal",
+          "count": 14,
+          "pct": 40
+        },
+        {
+          "name": "Michael Lynch Family Lawyers",
+          "count": 9,
+          "pct": 25.7
+        },
+        {
+          "name": "The Estate Lawyers",
+          "count": 9,
+          "pct": 25.7
+        },
+        {
+          "name": "Thynne + Macartney",
+          "count": 6,
+          "pct": 17.1
+        },
+        {
+          "name": "Australian Family Lawyers",
+          "count": 5,
+          "pct": 14.3
+        },
+        {
+          "name": "QLD Estate Lawyers",
+          "count": 5,
+          "pct": 14.3
+        }
+      ]
+    },
+    "brisbane": {
+      "name": "Brisbane",
+      "displayLoc": "Brisbane CBD & Inner Metro",
+      "state": "QLD",
+      "total": 35,
+      "mentioned": 0,
+      "ratePct": 0,
+      "top3": 0,
+      "top3Pct": 0,
+      "num1": 0,
+      "serpTop10": 0,
+      "serpTop20": 0,
+      "serpTotal": 7,
+      "gbp": {
+        "branchCount": 0,
+        "totalReviews": 0,
+        "maxRating": 0,
+        "hasRatedGbp43Plus": false,
+        "inMapsPack20": false,
+        "mapsPackRank": null
+      },
+      "topFirms": [
+        {
+          "name": "HopgoodGanim Lawyers",
+          "count": 15,
+          "pct": 42.9
+        },
+        {
+          "name": "Cooper Grace Ward",
+          "count": 13,
+          "pct": 37.1
+        },
+        {
+          "name": "Phillips Family Law",
+          "count": 12,
+          "pct": 34.3
+        },
+        {
+          "name": "Barry.Nilsson.",
+          "count": 10,
+          "pct": 28.6
+        },
+        {
+          "name": "Damien Greer Lawyers",
+          "count": 10,
+          "pct": 28.6
+        },
+        {
+          "name": "Stewart Family Law",
+          "count": 8,
+          "pct": 22.9
+        },
+        {
+          "name": "Australian Family Lawyers",
+          "count": 8,
+          "pct": 22.9
+        },
+        {
+          "name": "Thynne + Macartney",
+          "count": 8,
+          "pct": 22.9
+        },
+        {
+          "name": "The Estate Lawyers",
+          "count": 8,
+          "pct": 22.9
+        },
+        {
+          "name": "Michael Lynch Family Lawyers",
+          "count": 7,
+          "pct": 20
+        }
+      ]
+    },
+    "brisbane_west": {
+      "name": "Brisbane Western Suburbs (Indooroopilly & Centenary)",
+      "displayLoc": "Brisbane West (Indooroopilly & Centenary)",
+      "state": "QLD",
+      "total": 35,
+      "mentioned": 0,
+      "ratePct": 0,
+      "top3": 0,
+      "top3Pct": 0,
+      "num1": 0,
+      "serpTop10": 0,
+      "serpTop20": 0,
+      "serpTotal": 7,
+      "gbp": {
+        "branchCount": 0,
+        "totalReviews": 0,
+        "maxRating": 0,
+        "hasRatedGbp43Plus": false,
+        "inMapsPack20": false,
+        "mapsPackRank": null
+      },
+      "topFirms": [
+        {
+          "name": "Will and Estate Lawyers Australia",
+          "count": 11,
+          "pct": 31.4
+        },
+        {
+          "name": "The Estate Lawyers",
+          "count": 8,
+          "pct": 22.9
+        },
+        {
+          "name": "Stewart Family Law",
+          "count": 7,
+          "pct": 20
+        },
+        {
+          "name": "Cornford-Scott Lawyers",
+          "count": 7,
+          "pct": 20
+        },
+        {
+          "name": "Phillips Family Law",
+          "count": 5,
+          "pct": 14.3
+        },
+        {
+          "name": "McCullough Robertson",
+          "count": 5,
+          "pct": 14.3
+        },
+        {
+          "name": "Michael Lynch Family Lawyers",
+          "count": 5,
+          "pct": 14.3
+        },
+        {
+          "name": "Thynne + Macartney",
+          "count": 5,
+          "pct": 14.3
+        },
+        {
+          "name": "HopgoodGanim Lawyers",
+          "count": 4,
+          "pct": 11.4
+        },
+        {
+          "name": "Daykin Family Law",
+          "count": 4,
+          "pct": 11.4
+        }
+      ]
+    },
+    "brisbane_south": {
+      "name": "Brisbane Southside (Mount Gravatt & Sunnybank)",
+      "displayLoc": "Brisbane South (Mt Gravatt & Sunnybank)",
+      "state": "QLD",
+      "total": 35,
+      "mentioned": 0,
+      "ratePct": 0,
+      "top3": 0,
+      "top3Pct": 0,
+      "num1": 0,
+      "serpTop10": 0,
+      "serpTop20": 0,
+      "serpTotal": 7,
+      "gbp": {
+        "branchCount": 0,
+        "totalReviews": 0,
+        "maxRating": 0,
+        "hasRatedGbp43Plus": false,
+        "inMapsPack20": false,
+        "mapsPackRank": null
+      },
+      "topFirms": [
+        {
+          "name": "Bennett Carroll Solicitors",
+          "count": 20,
+          "pct": 57.1
+        },
+        {
+          "name": "Michael Lynch Family Lawyers",
+          "count": 7,
+          "pct": 20
+        },
+        {
+          "name": "Australian Family Lawyers",
+          "count": 7,
+          "pct": 20
+        },
+        {
+          "name": "Stewart Family Law",
+          "count": 6,
+          "pct": 17.1
+        },
+        {
+          "name": "The Estate Lawyers",
+          "count": 6,
+          "pct": 17.1
+        },
+        {
+          "name": "Thynne + Macartney",
+          "count": 5,
+          "pct": 14.3
+        },
+        {
+          "name": "Phillips Family Law",
+          "count": 4,
+          "pct": 11.4
+        },
+        {
+          "name": "Damien Greer Lawyers",
+          "count": 4,
+          "pct": 11.4
+        },
+        {
+          "name": "Attwood Marshall Lawyers",
+          "count": 4,
+          "pct": 11.4
+        },
+        {
+          "name": "Barry.Nilsson.",
+          "count": 3,
+          "pct": 8.6
+        }
+      ]
+    },
+    "brisbane_north": {
+      "name": "Brisbane Northside (Chermside & North Lakes)",
+      "displayLoc": "Brisbane North (Chermside & North Lakes)",
+      "state": "QLD",
+      "total": 35,
+      "mentioned": 0,
+      "ratePct": 0,
+      "top3": 0,
+      "top3Pct": 0,
+      "num1": 0,
+      "serpTop10": 0,
+      "serpTop20": 0,
+      "serpTotal": 7,
+      "gbp": {
+        "branchCount": 0,
+        "totalReviews": 0,
+        "maxRating": 0,
+        "hasRatedGbp43Plus": false,
+        "inMapsPack20": false,
+        "mapsPackRank": null
+      },
+      "topFirms": [
+        {
+          "name": "Northside Family Law Centre",
+          "count": 18,
+          "pct": 51.4
+        },
+        {
+          "name": "Barton Family Lawyers",
+          "count": 17,
+          "pct": 48.6
+        },
+        {
+          "name": "Kelly Lawyers",
+          "count": 14,
+          "pct": 40
+        },
+        {
+          "name": "Cooke & Hutchinson Lawyers",
+          "count": 10,
+          "pct": 28.6
+        },
+        {
+          "name": "Best Wilson Buckley Family Law",
+          "count": 9,
+          "pct": 25.7
+        },
+        {
+          "name": "Pennisi Zia Lawyers",
+          "count": 7,
+          "pct": 20
+        },
+        {
+          "name": "Australian Family Lawyers",
+          "count": 6,
+          "pct": 17.1
+        },
+        {
+          "name": "Journey Family Lawyers",
+          "count": 6,
+          "pct": 17.1
+        },
+        {
+          "name": "Aitken Whyte Lawyers",
+          "count": 6,
+          "pct": 17.1
+        },
+        {
+          "name": "Koolik & Associates",
+          "count": 5,
+          "pct": 14.3
+        }
+      ]
+    },
+    "brisbane_east": {
+      "name": "Brisbane East and Bayside (Carindale & Wynnum)",
+      "displayLoc": "Brisbane East & Bayside (Carindale & Wynnum)",
+      "state": "QLD",
+      "total": 35,
+      "mentioned": 0,
+      "ratePct": 0,
+      "top3": 0,
+      "top3Pct": 0,
+      "num1": 0,
+      "serpTop10": 0,
+      "serpTop20": 0,
+      "serpTotal": 7,
+      "gbp": {
+        "branchCount": 0,
+        "totalReviews": 0,
+        "maxRating": 0,
+        "hasRatedGbp43Plus": false,
+        "inMapsPack20": false,
+        "mapsPackRank": null
+      },
+      "topFirms": [
+        {
+          "name": "DBL Solicitors",
+          "count": 13,
+          "pct": 37.1
+        },
+        {
+          "name": "The Estate Lawyers",
+          "count": 9,
+          "pct": 25.7
+        },
+        {
+          "name": "Michael Lynch Family Lawyers",
+          "count": 8,
+          "pct": 22.9
+        },
+        {
+          "name": "HopgoodGanim Lawyers",
+          "count": 7,
+          "pct": 20
+        },
+        {
+          "name": "Australian Family Lawyers",
+          "count": 7,
+          "pct": 20
+        },
+        {
+          "name": "Go To Court Lawyers",
+          "count": 6,
+          "pct": 17.1
+        },
+        {
+          "name": "Cooper Grace Ward",
+          "count": 5,
+          "pct": 14.3
+        },
+        {
+          "name": "Thynne + Macartney",
+          "count": 5,
+          "pct": 14.3
+        },
+        {
+          "name": "Bennett Carroll Solicitors",
+          "count": 5,
+          "pct": 14.3
+        },
+        {
+          "name": "Attwood Marshall Lawyers",
+          "count": 5,
+          "pct": 14.3
+        }
+      ]
+    },
+    "logan": {
+      "name": "Logan and Western Corridor (Ipswich to Brisbane)",
+      "displayLoc": "Logan & Western Corridor",
+      "state": "QLD",
+      "total": 35,
+      "mentioned": 9,
+      "ratePct": 25.7,
+      "top3": 7,
+      "top3Pct": 20,
+      "num1": 5,
+      "serpTop10": 0,
+      "serpTop20": 1,
+      "serpTotal": 7,
+      "gbp": {
+        "branchCount": 0,
+        "totalReviews": 0,
+        "maxRating": 0,
+        "hasRatedGbp43Plus": false,
+        "inMapsPack20": true,
+        "mapsPackRank": 5
+      },
+      "topFirms": [
+        {
+          "name": "Ryder Lawyers",
+          "count": 16,
+          "pct": 45.7
+        },
+        {
+          "name": "Fallu McMillan Lawyers",
+          "count": 15,
+          "pct": 42.9
+        },
+        {
+          "name": "Stanford Legal",
+          "count": 11,
+          "pct": 31.4
+        },
+        {
+          "name": "Millwater Tyrrell Law",
+          "count": 9,
+          "pct": 25.7
+        },
+        {
+          "name": "Keane Legal",
+          "count": 9,
+          "pct": 25.7
+        },
+        {
+          "name": "Turner Freeman Lawyers",
+          "count": 9,
+          "pct": 25.7
+        },
+        {
+          "name": "Best Wilson Buckley Family Law",
+          "count": 8,
+          "pct": 22.9
+        },
+        {
+          "name": "Phillips Family Law",
+          "count": 7,
+          "pct": 20
+        },
+        {
+          "name": "McNamara Law",
+          "count": 7,
+          "pct": 20
+        },
+        {
+          "name": "Go To Court Lawyers",
+          "count": 7,
+          "pct": 20
+        }
+      ]
+    }
+  },
+  "byCat": {
+    "family_lawyers": {
+      "category": "Family Law — Best Firm Shortlist",
+      "title": "Best Family Lawyers",
+      "template": "Who are the best family lawyers in {city}? Give me a shortlist of reputable family law firms with reasons.",
+      "total": 40,
+      "mentioned": 2,
+      "ratePct": 5,
+      "top3": 1,
+      "num1": 1,
+      "topFirms": [
+        {
+          "name": "Phillips Family Law",
+          "count": 12,
+          "pct": 30
+        },
+        {
+          "name": "Michael Lynch Family Lawyers",
+          "count": 11,
+          "pct": 27.5
+        },
+        {
+          "name": "Best Wilson Buckley Family Law",
+          "count": 9,
+          "pct": 22.5
+        },
+        {
+          "name": "HopgoodGanim Lawyers",
+          "count": 9,
+          "pct": 22.5
+        },
+        {
+          "name": "Fallu McMillan Lawyers",
+          "count": 8,
+          "pct": 20
+        },
+        {
+          "name": "McNamara Law",
+          "count": 8,
+          "pct": 20
+        },
+        {
+          "name": "Australian Family Lawyers",
+          "count": 8,
+          "pct": 20
+        },
+        {
+          "name": "Walker Pender Group",
+          "count": 7,
+          "pct": 17.5
+        }
+      ]
+    },
+    "divorce_property": {
+      "category": "Family Law — Divorce & Property Settlement",
+      "title": "Divorce & Property Settlement",
+      "template": "I am going through a separation and complex property settlement in {city}. Which family law firms have the strongest track record for property division and binding financial agreements?",
+      "total": 40,
+      "mentioned": 4,
+      "ratePct": 10,
+      "top3": 4,
+      "num1": 1,
+      "topFirms": [
+        {
+          "name": "Australian Family Lawyers",
+          "count": 20,
+          "pct": 50
+        },
+        {
+          "name": "Phillips Family Law",
+          "count": 19,
+          "pct": 47.5
+        },
+        {
+          "name": "Michael Lynch Family Lawyers",
+          "count": 13,
+          "pct": 32.5
+        },
+        {
+          "name": "Cooper Grace Ward",
+          "count": 13,
+          "pct": 32.5
+        },
+        {
+          "name": "Barry.Nilsson.",
+          "count": 12,
+          "pct": 30
+        },
+        {
+          "name": "Best Wilson Buckley Family Law",
+          "count": 11,
+          "pct": 27.5
+        },
+        {
+          "name": "HopgoodGanim Lawyers",
+          "count": 11,
+          "pct": 27.5
+        },
+        {
+          "name": "McNamara Law",
+          "count": 9,
+          "pct": 22.5
+        }
+      ]
+    },
+    "parenting_custody": {
+      "category": "Family Law — Parenting & Mediation",
+      "title": "Parenting, Custody & Mediation (FDRP)",
+      "template": "Which family lawyers in {city} are best for parenting arrangements, child custody disputes, and accredited family dispute resolution (mediation)?",
+      "total": 40,
+      "mentioned": 5,
+      "ratePct": 12.5,
+      "top3": 2,
+      "num1": 1,
+      "topFirms": [
+        {
+          "name": "Australian Family Lawyers",
+          "count": 15,
+          "pct": 37.5
+        },
+        {
+          "name": "Michael Lynch Family Lawyers",
+          "count": 14,
+          "pct": 35
+        },
+        {
+          "name": "Stewart Family Law",
+          "count": 14,
+          "pct": 35
+        },
+        {
+          "name": "Best Wilson Buckley Family Law",
+          "count": 13,
+          "pct": 32.5
+        },
+        {
+          "name": "Keane Legal",
+          "count": 10,
+          "pct": 25
+        },
+        {
+          "name": "Daykin Family Law",
+          "count": 10,
+          "pct": 25
+        },
+        {
+          "name": "The Law People",
+          "count": 8,
+          "pct": 20
+        },
+        {
+          "name": "Stanford Legal",
+          "count": 7,
+          "pct": 17.5
+        }
+      ]
+    },
+    "wills_estate_planning": {
+      "category": "Wills & Estates — Estate Planning & EPOA",
+      "title": "Wills, EPOA & Testamentary Trusts",
+      "template": "Who are the best wills and estates lawyers in {city} for drafting wills, testamentary trusts, and enduring powers of attorney?",
+      "total": 40,
+      "mentioned": 2,
+      "ratePct": 5,
+      "top3": 1,
+      "num1": 0,
+      "topFirms": [
+        {
+          "name": "Bennett Carroll Solicitors",
+          "count": 15,
+          "pct": 37.5
+        },
+        {
+          "name": "Thynne + Macartney",
+          "count": 13,
+          "pct": 32.5
+        },
+        {
+          "name": "McNamara Law",
+          "count": 8,
+          "pct": 20
+        },
+        {
+          "name": "Brookwater Legal",
+          "count": 7,
+          "pct": 17.5
+        },
+        {
+          "name": "Turner Freeman Lawyers",
+          "count": 7,
+          "pct": 17.5
+        },
+        {
+          "name": "Stanford Legal",
+          "count": 7,
+          "pct": 17.5
+        },
+        {
+          "name": "Estate First Lawyers",
+          "count": 7,
+          "pct": 17.5
+        },
+        {
+          "name": "HopgoodGanim Lawyers",
+          "count": 7,
+          "pct": 17.5
+        }
+      ]
+    },
+    "probate_administration": {
+      "category": "Wills & Estates — Probate & Deceased Estates",
+      "title": "Probate & Deceased Estate Administration",
+      "template": "I am an executor handling probate and deceased estate administration in {city}. Which law firms specialise in Queensland probate and estate administration?",
+      "total": 40,
+      "mentioned": 0,
+      "ratePct": 0,
+      "top3": 0,
+      "num1": 0,
+      "topFirms": [
+        {
+          "name": "The Estate Lawyers",
+          "count": 21,
+          "pct": 52.5
+        },
+        {
+          "name": "Bennett Carroll Solicitors",
+          "count": 15,
+          "pct": 37.5
+        },
+        {
+          "name": "Thynne + Macartney",
+          "count": 13,
+          "pct": 32.5
+        },
+        {
+          "name": "Turner Freeman Lawyers",
+          "count": 12,
+          "pct": 30
+        },
+        {
+          "name": "Will and Estate Lawyers Australia",
+          "count": 11,
+          "pct": 27.5
+        },
+        {
+          "name": "QLD Estate Lawyers",
+          "count": 9,
+          "pct": 22.5
+        },
+        {
+          "name": "Jacaranda Law",
+          "count": 8,
+          "pct": 20
+        },
+        {
+          "name": "Stanford Legal",
+          "count": 8,
+          "pct": 20
+        }
+      ]
+    },
+    "contesting_wills": {
+      "category": "Wills & Estates — Contesting a Will & FPA",
+      "title": "Contesting a Will & Estate Litigation (FPA)",
+      "template": "Which wills and estates law firms in {city} specialise in contesting a will, Family Provision Applications (FPA), and estate litigation?",
+      "total": 40,
+      "mentioned": 4,
+      "ratePct": 10,
+      "top3": 2,
+      "num1": 1,
+      "topFirms": [
+        {
+          "name": "Armstrong Legal",
+          "count": 22,
+          "pct": 55
+        },
+        {
+          "name": "The Estate Lawyers",
+          "count": 20,
+          "pct": 50
+        },
+        {
+          "name": "Aitken Whyte Lawyers",
+          "count": 17,
+          "pct": 42.5
+        },
+        {
+          "name": "Attwood Marshall Lawyers",
+          "count": 16,
+          "pct": 40
+        },
+        {
+          "name": "Turner Freeman Lawyers",
+          "count": 14,
+          "pct": 35
+        },
+        {
+          "name": "Will and Estate Lawyers Australia",
+          "count": 14,
+          "pct": 35
+        },
+        {
+          "name": "Bennett Carroll Solicitors",
+          "count": 9,
+          "pct": 22.5
+        },
+        {
+          "name": "Thynne + Macartney",
+          "count": 9,
+          "pct": 22.5
+        }
+      ]
+    },
+    "fixed_fee_family_estates": {
+      "category": "Commercial Offer — Free Consult & Fixed/Deferred Fees",
+      "title": "Fixed-Fee Wills, Free Consult & Deferred Fees",
+      "template": "Which boutique law firms in {city} offer free initial consultations, fixed-fee wills, or deferred-fee options for family law and wills and estates?",
+      "total": 40,
+      "mentioned": 9,
+      "ratePct": 22.5,
+      "top3": 8,
+      "num1": 6,
+      "topFirms": [
+        {
+          "name": "Stanford Legal",
+          "count": 12,
+          "pct": 30
+        },
+        {
+          "name": "Millwater Tyrrell Law",
+          "count": 9,
+          "pct": 22.5
+        },
+        {
+          "name": "Ryder Lawyers",
+          "count": 9,
+          "pct": 22.5
+        },
+        {
+          "name": "The Estate Lawyers",
+          "count": 7,
+          "pct": 17.5
+        },
+        {
+          "name": "Nurture Law",
+          "count": 6,
+          "pct": 15
+        },
+        {
+          "name": "Barton Family Lawyers",
+          "count": 5,
+          "pct": 12.5
+        },
+        {
+          "name": "QLD Estate Lawyers",
+          "count": 5,
+          "pct": 12.5
+        },
+        {
+          "name": "Journey Family Lawyers",
+          "count": 5,
+          "pct": 12.5
+        }
+      ]
+    }
+  },
+  "leaderboard": [
+    {
+      "name": "Stanford Legal",
+      "mentions": 55,
+      "top3": 29,
+      "num1": 9,
+      "byPlat": {
+        "chatgpt": 18,
+        "perplexity": 6,
+        "aimode": 9,
+        "gemini": 12,
+        "claude": 10
+      },
+      "byCity": {
+        "ipswich": 15,
+        "springfield": 29,
+        "logan": 11
+      },
+      "byCat": {
+        "divorce_property": 8,
+        "parenting_custody": 7,
+        "wills_estate_planning": 7,
+        "probate_administration": 8,
+        "contesting_wills": 7,
+        "fixed_fee_family_estates": 12,
+        "family_lawyers": 6
+      },
+      "sharePct": 19.6,
+      "top3Pct": 10.4
+    },
+    {
+      "name": "The Estate Lawyers",
+      "mentions": 52,
+      "top3": 36,
+      "num1": 8,
+      "byPlat": {
+        "chatgpt": 16,
+        "perplexity": 16,
+        "aimode": 5,
+        "gemini": 7,
+        "claude": 8
+      },
+      "byCity": {
+        "ipswich": 1,
+        "springfield": 9,
+        "brisbane": 8,
+        "brisbane_west": 8,
+        "brisbane_south": 6,
+        "brisbane_north": 4,
+        "brisbane_east": 9,
+        "logan": 7
+      },
+      "byCat": {
+        "probate_administration": 21,
+        "contesting_wills": 20,
+        "fixed_fee_family_estates": 7,
+        "wills_estate_planning": 4
+      },
+      "sharePct": 18.6,
+      "top3Pct": 12.9
+    },
+    {
+      "name": "Bennett Carroll Solicitors",
+      "mentions": 48,
+      "top3": 31,
+      "num1": 25,
+      "byPlat": {
+        "chatgpt": 2,
+        "perplexity": 20,
+        "aimode": 3,
+        "gemini": 9,
+        "claude": 14
+      },
+      "byCity": {
+        "ipswich": 7,
+        "springfield": 4,
+        "brisbane": 3,
+        "brisbane_west": 2,
+        "brisbane_south": 20,
+        "brisbane_north": 1,
+        "brisbane_east": 5,
+        "logan": 6
+      },
+      "byCat": {
+        "family_lawyers": 4,
+        "wills_estate_planning": 15,
+        "probate_administration": 15,
+        "contesting_wills": 9,
+        "divorce_property": 2,
+        "fixed_fee_family_estates": 3
+      },
+      "sharePct": 17.1,
+      "top3Pct": 11.1
+    },
+    {
+      "name": "Australian Family Lawyers",
+      "mentions": 47,
+      "top3": 20,
+      "num1": 6,
+      "byPlat": {
+        "chatgpt": 1,
+        "perplexity": 20,
+        "aimode": 4,
+        "gemini": 14,
+        "claude": 8
+      },
+      "byCity": {
+        "ipswich": 5,
+        "springfield": 5,
+        "brisbane": 8,
+        "brisbane_west": 4,
+        "brisbane_south": 7,
+        "brisbane_north": 6,
+        "brisbane_east": 7,
+        "logan": 5
+      },
+      "byCat": {
+        "family_lawyers": 8,
+        "divorce_property": 20,
+        "parenting_custody": 15,
+        "fixed_fee_family_estates": 4
+      },
+      "sharePct": 16.8,
+      "top3Pct": 7.1
+    },
+    {
+      "name": "Fallu McMillan Lawyers",
+      "mentions": 42,
+      "top3": 29,
+      "num1": 9,
+      "byPlat": {
+        "chatgpt": 9,
+        "perplexity": 11,
+        "aimode": 5,
+        "gemini": 14,
+        "claude": 3
+      },
+      "byCity": {
+        "ipswich": 25,
+        "springfield": 2,
+        "logan": 15
+      },
+      "byCat": {
+        "family_lawyers": 8,
+        "divorce_property": 7,
+        "parenting_custody": 4,
+        "wills_estate_planning": 6,
+        "probate_administration": 7,
+        "contesting_wills": 7,
+        "fixed_fee_family_estates": 3
+      },
+      "sharePct": 15,
+      "top3Pct": 10.4
+    },
+    {
+      "name": "McNamara Law",
+      "mentions": 42,
+      "top3": 28,
+      "num1": 8,
+      "byPlat": {
+        "chatgpt": 15,
+        "perplexity": 7,
+        "aimode": 4,
+        "gemini": 15,
+        "claude": 1
+      },
+      "byCity": {
+        "ipswich": 15,
+        "springfield": 19,
+        "brisbane_west": 1,
+        "logan": 7
+      },
+      "byCat": {
+        "family_lawyers": 8,
+        "divorce_property": 9,
+        "wills_estate_planning": 8,
+        "probate_administration": 6,
+        "contesting_wills": 4,
+        "fixed_fee_family_estates": 3,
+        "parenting_custody": 4
+      },
+      "sharePct": 15,
+      "top3Pct": 10
+    },
+    {
+      "name": "Michael Lynch Family Lawyers",
+      "mentions": 41,
+      "top3": 28,
+      "num1": 7,
+      "byPlat": {
+        "chatgpt": 9,
+        "perplexity": 8,
+        "aimode": 9,
+        "gemini": 4,
+        "claude": 11
+      },
+      "byCity": {
+        "springfield": 9,
+        "brisbane": 7,
+        "brisbane_west": 5,
+        "brisbane_south": 7,
+        "brisbane_north": 2,
+        "brisbane_east": 8,
+        "logan": 3
+      },
+      "byCat": {
+        "family_lawyers": 11,
+        "divorce_property": 13,
+        "parenting_custody": 14,
+        "fixed_fee_family_estates": 3
+      },
+      "sharePct": 14.6,
+      "top3Pct": 10
+    },
+    {
+      "name": "Keane Legal",
+      "mentions": 38,
+      "top3": 23,
+      "num1": 1,
+      "byPlat": {
+        "chatgpt": 11,
+        "perplexity": 0,
+        "aimode": 8,
+        "gemini": 15,
+        "claude": 4
+      },
+      "byCity": {
+        "ipswich": 15,
+        "springfield": 14,
+        "logan": 9
+      },
+      "byCat": {
+        "family_lawyers": 6,
+        "divorce_property": 3,
+        "parenting_custody": 10,
+        "wills_estate_planning": 5,
+        "probate_administration": 5,
+        "contesting_wills": 5,
+        "fixed_fee_family_estates": 4
+      },
+      "sharePct": 13.6,
+      "top3Pct": 8.2
+    },
+    {
+      "name": "Brookwater Legal",
+      "mentions": 37,
+      "top3": 18,
+      "num1": 11,
+      "byPlat": {
+        "chatgpt": 10,
+        "perplexity": 3,
+        "aimode": 8,
+        "gemini": 9,
+        "claude": 7
+      },
+      "byCity": {
+        "ipswich": 8,
+        "springfield": 24,
+        "logan": 5
+      },
+      "byCat": {
+        "family_lawyers": 6,
+        "parenting_custody": 7,
+        "wills_estate_planning": 7,
+        "probate_administration": 8,
+        "contesting_wills": 5,
+        "divorce_property": 2,
+        "fixed_fee_family_estates": 2
+      },
+      "sharePct": 13.2,
+      "top3Pct": 6.4
+    },
+    {
+      "name": "Best Wilson Buckley Family Law",
+      "mentions": 36,
+      "top3": 29,
+      "num1": 15,
+      "byPlat": {
+        "chatgpt": 5,
+        "perplexity": 13,
+        "aimode": 3,
+        "gemini": 10,
+        "claude": 5
+      },
+      "byCity": {
+        "ipswich": 11,
+        "springfield": 1,
+        "brisbane": 3,
+        "brisbane_west": 2,
+        "brisbane_north": 9,
+        "brisbane_east": 2,
+        "logan": 8
+      },
+      "byCat": {
+        "family_lawyers": 9,
+        "divorce_property": 11,
+        "parenting_custody": 13,
+        "fixed_fee_family_estates": 3
+      },
+      "sharePct": 12.9,
+      "top3Pct": 10.4
+    },
+    {
+      "name": "Thynne + Macartney",
+      "mentions": 36,
+      "top3": 12,
+      "num1": 4,
+      "byPlat": {
+        "chatgpt": 15,
+        "perplexity": 16,
+        "aimode": 1,
+        "gemini": 3,
+        "claude": 1
+      },
+      "byCity": {
+        "ipswich": 2,
+        "springfield": 6,
+        "brisbane": 8,
+        "brisbane_west": 5,
+        "brisbane_south": 5,
+        "brisbane_north": 3,
+        "brisbane_east": 5,
+        "logan": 2
+      },
+      "byCat": {
+        "probate_administration": 13,
+        "divorce_property": 1,
+        "wills_estate_planning": 13,
+        "contesting_wills": 9
+      },
+      "sharePct": 12.9,
+      "top3Pct": 4.3
+    },
+    {
+      "name": "Phillips Family Law",
+      "mentions": 36,
+      "top3": 28,
+      "num1": 12,
+      "byPlat": {
+        "chatgpt": 12,
+        "perplexity": 2,
+        "aimode": 8,
+        "gemini": 7,
+        "claude": 7
+      },
+      "byCity": {
+        "springfield": 1,
+        "brisbane": 12,
+        "brisbane_west": 5,
+        "brisbane_south": 4,
+        "brisbane_north": 3,
+        "brisbane_east": 4,
+        "logan": 7
+      },
+      "byCat": {
+        "divorce_property": 19,
+        "family_lawyers": 12,
+        "parenting_custody": 5
+      },
+      "sharePct": 12.9,
+      "top3Pct": 10
+    },
+    {
+      "name": "Turner Freeman Lawyers",
+      "mentions": 34,
+      "top3": 18,
+      "num1": 8,
+      "byPlat": {
+        "chatgpt": 7,
+        "perplexity": 11,
+        "aimode": 2,
+        "gemini": 10,
+        "claude": 4
+      },
+      "byCity": {
+        "ipswich": 12,
+        "springfield": 1,
+        "brisbane": 3,
+        "brisbane_west": 2,
+        "brisbane_north": 4,
+        "brisbane_east": 3,
+        "logan": 9
+      },
+      "byCat": {
+        "wills_estate_planning": 7,
+        "probate_administration": 12,
+        "contesting_wills": 14,
+        "fixed_fee_family_estates": 1
+      },
+      "sharePct": 12.1,
+      "top3Pct": 6.4
+    },
+    {
+      "name": "HopgoodGanim Lawyers",
+      "mentions": 34,
+      "top3": 18,
+      "num1": 0,
+      "byPlat": {
+        "chatgpt": 9,
+        "perplexity": 12,
+        "aimode": 4,
+        "gemini": 8,
+        "claude": 1
+      },
+      "byCity": {
+        "brisbane": 15,
+        "brisbane_west": 4,
+        "brisbane_south": 3,
+        "brisbane_north": 2,
+        "brisbane_east": 7,
+        "logan": 3
+      },
+      "byCat": {
+        "family_lawyers": 9,
+        "divorce_property": 11,
+        "parenting_custody": 5,
+        "wills_estate_planning": 7,
+        "probate_administration": 1,
+        "contesting_wills": 1
+      },
+      "sharePct": 12.1,
+      "top3Pct": 6.4
+    },
+    {
+      "name": "Go To Court Lawyers",
+      "mentions": 33,
+      "top3": 7,
+      "num1": 2,
+      "byPlat": {
+        "chatgpt": 2,
+        "perplexity": 16,
+        "aimode": 1,
+        "gemini": 9,
+        "claude": 5
+      },
+      "byCity": {
+        "ipswich": 7,
+        "springfield": 3,
+        "brisbane": 1,
+        "brisbane_west": 3,
+        "brisbane_south": 1,
+        "brisbane_north": 5,
+        "brisbane_east": 6,
+        "logan": 7
+      },
+      "byCat": {
+        "family_lawyers": 3,
+        "parenting_custody": 6,
+        "probate_administration": 5,
+        "contesting_wills": 8,
+        "divorce_property": 4,
+        "fixed_fee_family_estates": 3,
+        "wills_estate_planning": 4
+      },
+      "sharePct": 11.8,
+      "top3Pct": 2.5
+    },
+    {
+      "name": "Will and Estate Lawyers Australia",
+      "mentions": 32,
+      "top3": 15,
+      "num1": 6,
+      "byPlat": {
+        "chatgpt": 3,
+        "perplexity": 4,
+        "aimode": 3,
+        "gemini": 6,
+        "claude": 16
+      },
+      "byCity": {
+        "brisbane": 4,
+        "brisbane_west": 11,
+        "brisbane_south": 3,
+        "brisbane_north": 3,
+        "brisbane_east": 4,
+        "logan": 7
+      },
+      "byCat": {
+        "probate_administration": 11,
+        "contesting_wills": 14,
+        "fixed_fee_family_estates": 3,
+        "wills_estate_planning": 4
+      },
+      "sharePct": 11.4,
+      "top3Pct": 5.4
+    },
+    {
+      "name": "Stewart Family Law",
+      "mentions": 31,
+      "top3": 22,
+      "num1": 10,
+      "byPlat": {
+        "chatgpt": 6,
+        "perplexity": 14,
+        "aimode": 1,
+        "gemini": 3,
+        "claude": 7
+      },
+      "byCity": {
+        "springfield": 1,
+        "brisbane": 8,
+        "brisbane_west": 7,
+        "brisbane_south": 6,
+        "brisbane_north": 2,
+        "brisbane_east": 4,
+        "logan": 3
+      },
+      "byCat": {
+        "fixed_fee_family_estates": 1,
+        "family_lawyers": 7,
+        "divorce_property": 9,
+        "parenting_custody": 14
+      },
+      "sharePct": 11.1,
+      "top3Pct": 7.9
+    },
+    {
+      "name": "GLG Legal",
+      "mentions": 29,
+      "top3": 24,
+      "num1": 8,
+      "byPlat": {
+        "chatgpt": 6,
+        "perplexity": 8,
+        "aimode": 4,
+        "gemini": 6,
+        "claude": 5
+      },
+      "byCity": {
+        "springfield": 23,
+        "brisbane_west": 1,
+        "brisbane_south": 1,
+        "brisbane_east": 1,
+        "logan": 3
+      },
+      "byCat": {
+        "family_lawyers": 4,
+        "divorce_property": 6,
+        "parenting_custody": 4,
+        "wills_estate_planning": 2,
+        "probate_administration": 6,
+        "contesting_wills": 4,
+        "fixed_fee_family_estates": 3
+      },
+      "sharePct": 10.4,
+      "top3Pct": 8.6
+    },
+    {
+      "name": "Millwater Tyrrell Law",
+      "mentions": 26,
+      "top3": 18,
+      "num1": 10,
+      "byPlat": {
+        "chatgpt": 9,
+        "perplexity": 2,
+        "aimode": 6,
+        "gemini": 5,
+        "claude": 4
+      },
+      "byCity": {
+        "ipswich": 15,
+        "springfield": 2,
+        "logan": 9
+      },
+      "byCat": {
+        "family_lawyers": 2,
+        "divorce_property": 4,
+        "parenting_custody": 5,
+        "wills_estate_planning": 2,
+        "contesting_wills": 4,
+        "fixed_fee_family_estates": 9
+      },
+      "sharePct": 9.3,
+      "top3Pct": 6.4
+    },
+    {
+      "name": "Armstrong Legal",
+      "mentions": 26,
+      "top3": 12,
+      "num1": 2,
+      "byPlat": {
+        "chatgpt": 8,
+        "perplexity": 11,
+        "aimode": 0,
+        "gemini": 0,
+        "claude": 7
+      },
+      "byCity": {
+        "ipswich": 3,
+        "springfield": 3,
+        "brisbane": 3,
+        "brisbane_west": 4,
+        "brisbane_south": 3,
+        "brisbane_north": 3,
+        "brisbane_east": 4,
+        "logan": 3
+      },
+      "byCat": {
+        "contesting_wills": 22,
+        "fixed_fee_family_estates": 4
+      },
+      "sharePct": 9.3,
+      "top3Pct": 4.3
+    },
+    {
+      "name": "Cooper Grace Ward",
+      "mentions": 26,
+      "top3": 11,
+      "num1": 5,
+      "byPlat": {
+        "chatgpt": 1,
+        "perplexity": 9,
+        "aimode": 3,
+        "gemini": 9,
+        "claude": 4
+      },
+      "byCity": {
+        "brisbane": 13,
+        "brisbane_west": 2,
+        "brisbane_south": 3,
+        "brisbane_north": 1,
+        "brisbane_east": 5,
+        "logan": 2
+      },
+      "byCat": {
+        "family_lawyers": 2,
+        "divorce_property": 13,
+        "wills_estate_planning": 7,
+        "probate_administration": 2,
+        "contesting_wills": 2
+      },
+      "sharePct": 9.3,
+      "top3Pct": 3.9
+    },
+    {
+      "name": "Attwood Marshall Lawyers",
+      "mentions": 25,
+      "top3": 10,
+      "num1": 3,
+      "byPlat": {
+        "chatgpt": 12,
+        "perplexity": 3,
+        "aimode": 0,
+        "gemini": 2,
+        "claude": 8
+      },
+      "byCity": {
+        "springfield": 2,
+        "brisbane": 5,
+        "brisbane_west": 4,
+        "brisbane_south": 4,
+        "brisbane_north": 3,
+        "brisbane_east": 5,
+        "logan": 2
+      },
+      "byCat": {
+        "probate_administration": 5,
+        "wills_estate_planning": 4,
+        "contesting_wills": 16
+      },
+      "sharePct": 8.9,
+      "top3Pct": 3.6
+    },
+    {
+      "name": "Walker Pender Group",
+      "mentions": 22,
+      "top3": 17,
+      "num1": 5,
+      "byPlat": {
+        "chatgpt": 5,
+        "perplexity": 8,
+        "aimode": 0,
+        "gemini": 4,
+        "claude": 5
+      },
+      "byCity": {
+        "ipswich": 15,
+        "springfield": 1,
+        "logan": 6
+      },
+      "byCat": {
+        "family_lawyers": 7,
+        "divorce_property": 3,
+        "parenting_custody": 2,
+        "wills_estate_planning": 5,
+        "probate_administration": 1,
+        "contesting_wills": 3,
+        "fixed_fee_family_estates": 1
+      },
+      "sharePct": 7.9,
+      "top3Pct": 6.1
+    },
+    {
+      "name": "Jacaranda Law",
+      "mentions": 22,
+      "top3": 13,
+      "num1": 7,
+      "byPlat": {
+        "chatgpt": 8,
+        "perplexity": 0,
+        "aimode": 3,
+        "gemini": 7,
+        "claude": 4
+      },
+      "byCity": {
+        "ipswich": 14,
+        "springfield": 2,
+        "logan": 6
+      },
+      "byCat": {
+        "wills_estate_planning": 6,
+        "probate_administration": 8,
+        "contesting_wills": 5,
+        "fixed_fee_family_estates": 3
+      },
+      "sharePct": 7.9,
+      "top3Pct": 4.6
+    },
+    {
+      "name": "Damien Greer Lawyers",
+      "mentions": 22,
+      "top3": 8,
+      "num1": 1,
+      "byPlat": {
+        "chatgpt": 3,
+        "perplexity": 3,
+        "aimode": 5,
+        "gemini": 8,
+        "claude": 3
+      },
+      "byCity": {
+        "springfield": 1,
+        "brisbane": 10,
+        "brisbane_west": 3,
+        "brisbane_south": 4,
+        "brisbane_north": 1,
+        "brisbane_east": 2,
+        "logan": 1
+      },
+      "byCat": {
+        "divorce_property": 9,
+        "family_lawyers": 6,
+        "parenting_custody": 7
+      },
+      "sharePct": 7.9,
+      "top3Pct": 2.9
+    },
+    {
+      "name": "Barton Family Lawyers",
+      "mentions": 22,
+      "top3": 17,
+      "num1": 10,
+      "byPlat": {
+        "chatgpt": 4,
+        "perplexity": 4,
+        "aimode": 4,
+        "gemini": 5,
+        "claude": 5
+      },
+      "byCity": {
+        "springfield": 1,
+        "brisbane": 2,
+        "brisbane_west": 1,
+        "brisbane_south": 1,
+        "brisbane_north": 17
+      },
+      "byCat": {
+        "fixed_fee_family_estates": 5,
+        "parenting_custody": 7,
+        "family_lawyers": 5,
+        "divorce_property": 5
+      },
+      "sharePct": 7.9,
+      "top3Pct": 6.1
+    },
+    {
+      "name": "Ryder Lawyers",
+      "mentions": 21,
+      "top3": 9,
+      "num1": 3,
+      "byPlat": {
+        "chatgpt": 6,
+        "perplexity": 1,
+        "aimode": 3,
+        "gemini": 5,
+        "claude": 6
+      },
+      "byCity": {
+        "ipswich": 4,
+        "springfield": 1,
+        "logan": 16
+      },
+      "byCat": {
+        "divorce_property": 2,
+        "fixed_fee_family_estates": 9,
+        "family_lawyers": 3,
+        "wills_estate_planning": 3,
+        "probate_administration": 3,
+        "contesting_wills": 1
+      },
+      "sharePct": 7.5,
+      "top3Pct": 3.2
+    },
+    {
+      "name": "Daykin Family Law",
+      "mentions": 21,
+      "top3": 12,
+      "num1": 6,
+      "byPlat": {
+        "chatgpt": 2,
+        "perplexity": 9,
+        "aimode": 0,
+        "gemini": 6,
+        "claude": 4
+      },
+      "byCity": {
+        "ipswich": 2,
+        "brisbane": 3,
+        "brisbane_west": 4,
+        "brisbane_south": 1,
+        "brisbane_north": 3,
+        "brisbane_east": 4,
+        "logan": 4
+      },
+      "byCat": {
+        "parenting_custody": 10,
+        "family_lawyers": 5,
+        "divorce_property": 6
+      },
+      "sharePct": 7.5,
+      "top3Pct": 4.3
+    },
+    {
+      "name": "Barry.Nilsson.",
+      "mentions": 21,
+      "top3": 15,
+      "num1": 4,
+      "byPlat": {
+        "chatgpt": 7,
+        "perplexity": 2,
+        "aimode": 4,
+        "gemini": 7,
+        "claude": 1
+      },
+      "byCity": {
+        "brisbane": 10,
+        "brisbane_west": 2,
+        "brisbane_south": 3,
+        "brisbane_north": 1,
+        "brisbane_east": 2,
+        "logan": 3
+      },
+      "byCat": {
+        "family_lawyers": 7,
+        "divorce_property": 12,
+        "parenting_custody": 2
+      },
+      "sharePct": 7.5,
+      "top3Pct": 5.4
+    },
+    {
+      "name": "Aitken Whyte Lawyers",
+      "mentions": 21,
+      "top3": 6,
+      "num1": 2,
+      "byPlat": {
+        "chatgpt": 7,
+        "perplexity": 3,
+        "aimode": 2,
+        "gemini": 2,
+        "claude": 7
+      },
+      "byCity": {
+        "brisbane": 5,
+        "brisbane_west": 3,
+        "brisbane_south": 1,
+        "brisbane_north": 6,
+        "brisbane_east": 2,
+        "logan": 4
+      },
+      "byCat": {
+        "probate_administration": 2,
+        "contesting_wills": 17,
+        "wills_estate_planning": 2
+      },
+      "sharePct": 7.5,
+      "top3Pct": 2.1
+    }
+  ],
+  "irls": {
+    "n": 280,
+    "positives": 26,
+    "iterations": 30,
+    "coefficients": [
+      {
+        "name": "Intercept (β₀)",
+        "beta": -5.424,
+        "se": 0.902,
+        "z": -6.02,
+        "or": null,
+        "ci95": null,
+        "pValue": "<0.001"
+      },
+      {
+        "name": "Google Organic Top-10 SERP Presence (X₁)",
+        "beta": 0.36,
+        "se": 0.621,
+        "z": 0.58,
+        "or": 1.43,
+        "ci95": [
+          0.42,
+          4.84
+        ],
+        "pValue": "0.5619"
+      },
+      {
+        "name": "Verified Local GBP in Corridor Maps Pack (X₂)",
+        "beta": 3.953,
+        "se": 0.776,
+        "z": 5.1,
+        "or": 52.1,
+        "ci95": [
+          11.38,
+          238.4
+        ],
+        "pValue": "<0.001"
+      },
+      {
+        "name": "Dedicated Practice Sub-Page Architecture (X₃)",
+        "beta": 0.977,
+        "se": 0.639,
+        "z": 1.53,
+        "or": 2.66,
+        "ci95": [
+          0.76,
+          9.29
+        ],
+        "pValue": "0.1265"
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane",
+  "pk": "parenting_custody",
+  "plat": "perplexity",
+  "text": "Which family lawyers in Brisbane are best for parenting arrangements, child custody disputes, and accredited family dispute resolution (mediation)?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane__parenting_custody__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:25:40.242Z",
+  "cost": 0.006334,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 31,
+      "output_tokens": 703,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005734,
+      "datetime": "2026-10-23 05:25:36 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For Brisbane parenting arrangements, child-custody disputes, and mediation, these firms stand out based on specialist credentials, parenting-law experience, and publicly stated mediation/FDR services:\n\n| Firm / lawyer | Why consider them |\n|---|---|\n| **Stewart Family Law — Judy Stewart and Temika Slee** | Particularly strong fit where mediation is a priority. Judy Stewart is an Accredited Family Law Specialist, an AMDRAS Advanced Mediator, and a registered FDR practitioner. Temika Slee is also an Accredited Family Law Specialist and registered FDR practitioner, including child-inclusive mediation and issuing section 60I certificates where appropriate.[1][3] |\n| **The Law People — Jill Johnstone** | Led by Jill Johnstone, an Accredited Family Law Specialist, with services covering parenting plans, parenting orders, safety concerns, negotiation, mediation, and court proceedings.[7][8] |\n| **HopgoodGanim — Geoffrey Wilson** | A Brisbane lawyer recognised for Family Law, Alternative Dispute Resolution, and Family Law Mediation, with experience in parenting arrangements and dispute resolution.[5] |\n| **Michael Lynch Family Lawyers — Debra Effeney and Sarah Flower** | The firm focuses on child-related disputes, parenting arrangements, child support, family violence, abduction, and mediation; Debra Effeney and Sarah Flower are listed as Accredited Family Law Specialists.[9] |\n| **Landers** | Handles parenting agreements, domestic and international custody issues, relocation, mediation, negotiation, and court representation, with a Brisbane office.[4] |\n| **Damien Greer Lawyers — Wendy Miller** | Wendy Miller is identified as an Accredited Family Law Specialist and Accredited Family Law Arbitrator, with a settlement-focused practice involving negotiation, mediation, arbitration, collaborative law, and litigation when needed.[5] |\n\n**Best match by situation:**\n\n- **Accredited FDR practitioner and mediation-first approach:** Stewart Family Law.\n- **Complex or high-conflict parenting dispute with possible court proceedings:** The Law People, Michael Lynch Family Lawyers, or Landers.\n- **Senior ADR and mediation expertise:** HopgoodGanim or Stewart Family Law.\n- **Relocation, international parenting, or cross-border issues:** Landers or Michael Lynch Family Lawyers.\n- **Family violence or immediate safety concerns:** seek urgent advice from a family lawyer before attempting mediation; FDR may be unsuitable where serious safety risks or family violence exist.[8]\n\nIn Australia, “child custody” is generally addressed through **parenting plans, consent orders, or parenting orders**. Before applying to court for parenting orders, FDR is often required, although exemptions can apply—for example, in cases involving family violence, child abuse, urgency, or a lack of genuine suitability for mediation.[8]\n\nBefore retaining a firm, ask:\n\n- Is the individual lawyer a **Queensland Law Society Accredited Specialist in Family Law**?\n- Is the mediator a **registered Family Dispute Resolution Practitioner**, and can they issue a section 60I certificate?\n- Will the same lawyer handle negotiation, mediation preparation, and court proceedings?\n- What is the proposed strategy if mediation fails?\n- How are family violence, coercive control, child safety, or urgent relocation issues handled?\n\nObtain an independent quote and confirm current accreditation directly with the lawyer or the relevant professional register, since firm websites and practitioner roles can change.",
+              "annotations": [
+                {
+                  "title": "Child Custody Lawyers Brisbane | Free 15-Minute Consult",
+                  "url": "https://stewartfamilylaw.com.au/child-custody-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Stewart Family Law: Family Lawyers Brisbane",
+                  "url": "https://stewartfamilylaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Mediation & Dispute Resolution Practitioners Brisbane",
+                  "url": "https://stewartfamilylaw.com.au/family-mediation-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Lawyers for Parenting Agreements, Family Mediation and ...",
+                  "url": "https://landers.com.au/legal-service/parenting",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Lawyers in Australia for Family Law",
+                  "url": "https://www.bestlawyers.com/australia/family-law",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Simonidis steel lawyers",
+                  "url": "https://simsteel.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The Law People: Family Lawyers Brisbane | Family Law Firm",
+                  "url": "https://thelawpeople.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Child Custody Lawyers Brisbane",
+                  "url": "https://thelawpeople.com.au/parenting-arrangements/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Michael Lynch Family Lawyers: Family Lawyers Brisbane",
+                  "url": "https://www.michaellynchfamilylawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Family Dispute Resolution Brisbane",
+                  "url": "https://www.australianfamilylawyers.com.au/cm-family-dispute-resolution-brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

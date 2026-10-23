@@ -1,0 +1,308 @@
+{
+  "slug": "ipswich",
+  "pk": "wills_estate_planning",
+  "plat": "claude",
+  "text": "Who are the best wills and estates lawyers in Ipswich for drafting wills, testamentary trusts, and enduring powers of attorney?",
+  "loc": 9060853,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\ipswich__wills_estate_planning__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:24:06.927Z",
+  "cost": 0.062635,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 9985,
+      "output_tokens": 1472,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.062035,
+      "datetime": "2026-10-23 05:24:02 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a roundup of some of the best wills and estates lawyers in Ipswich, Queensland, who can assist with drafting wills, testamentary trusts, and enduring powers of attorney:\n\n---\n\n### 1. 🏆 **Walker Pender Group**\n📍 28 Nicholas Street, Ipswich QLD 4305 | 📞 (07) 3813 7833\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "For nearly 150 years, Walker Pender's Wills and Estate Lawyers have been a trusted presence in the Ipswich community.",
+              "annotations": [
+                {
+                  "title": "Will Lawyers",
+                  "url": "https://walkerpender.com.au/will/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They assist individuals and families with sensitive matters like estate planning, will creation, and dispute resolution, offering a steady hand during moments that require thoughtful legal care.",
+              "annotations": [
+                {
+                  "title": "Will Lawyers",
+                  "url": "https://walkerpender.com.au/will/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their knowledgeable and experienced lawyers offer competitive packages and can provide valuable advice regarding estate planning, including services for singles, couples, and more complex matters involving trusts and companies.",
+              "annotations": [
+                {
+                  "title": "Wills and Estate Planning Lawyers",
+                  "url": "https://walkerpender.com.au/will/estate-planning/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 2. 🌺 **Jacaranda Law**\n📍 77 Roderick Street, Ipswich QLD 4305 | 📞 (07) 3812 2667\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Jacaranda Law provides expert legal advice and personalised support in wills, estate planning, elder law, and estate administration, based in Ipswich and serving clients across Queensland.",
+              "annotations": [
+                {
+                  "title": "Wills & Estates Lawyer Ipswich",
+                  "url": "https://jacarandalaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their services include wills and estate planning, probate and estate administration, will disputes, and testamentary trusts.",
+              "annotations": [
+                {
+                  "title": "Wills & Estates Lawyer Ipswich",
+                  "url": "https://jacarandalaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are well-reviewed for their personal approach — ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "a lawyer at the firm even came to a client's house for appointments to prevent an elderly father from having added stress.",
+              "annotations": [
+                {
+                  "title": "Wills & Estates Lawyer Ipswich",
+                  "url": "https://jacarandalaw.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. ⚖️ **Richard Zande and Associates**\n📍 Ipswich, QLD | 📞 (07) 328...\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Richard Zande and Associates brings over 60 years of expertise to wills and estates work, helping families navigate succession planning, estate administration, and testamentary disputes.",
+              "annotations": [
+                {
+                  "title": "Compare 5 Wills and Estates Lawyers in Ipswich, QLD",
+                  "url": "https://lawconnect.com/en-au/find/wills-and-estates/qld/ipswich-4305",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The firm's flexible approach includes conducting consultations at clients' homes, hospitals, or during evening hours when traditional appointments aren't suitable.",
+              "annotations": [
+                {
+                  "title": "Compare 5 Wills and Estates Lawyers in Ipswich, QLD",
+                  "url": "https://lawconnect.com/en-au/find/wills-and-estates/qld/ipswich-4305",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are rated 4.6 stars from 89 client reviews.\n\n---\n\n### 4. 📜 **Bennett Carroll Solicitors**\n📍 Multiple offices including Ipswich | 📞 1300 334 566\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Bennett Carroll Solicitors provide legal advice on wills, enduring powers of attorney (EPOAs), and estate administration in Brisbane, Ipswich, and surrounding areas.",
+              "annotations": [
+                {
+                  "title": "Wills & Estate Planning Lawyers Queensland",
+                  "url": "https://www.bcglaw.com.au/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Remote and in-office appointments are available.",
+              "annotations": [
+                {
+                  "title": "Wills & Estate Planning Lawyers Queensland",
+                  "url": "https://www.bcglaw.com.au/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 5. 🏡 **Stanford Legal**\n📍 Ipswich (also serving Springfield and Brisbane)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "At Stanford Legal, expert estate planning is a priority to ensure your legacy is protected and your wishes are faithfully executed, with every aspect of your will and estate planning meticulously managed.",
+              "annotations": [
+                {
+                  "title": "Wills and Estates Planning Lawyers Ipswich",
+                  "url": "https://stanfordlegal.com.au/wills-estate-planning/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their team of Ipswich solicitors and wills specialists balance unmatched expertise with genuine empathy, ensuring clients feel supported every step of the way.",
+              "annotations": [
+                {
+                  "title": "Wills and Estates Planning Lawyers Ipswich",
+                  "url": "https://stanfordlegal.com.au/wills-estate-planning/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 6. 🌿 **Brookwater Legal**\n📍 Greater Springfield/Ipswich area | 📞 (07) 3437 8555\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Brookwater Legal is a community-first practice helping individuals and families across Greater Springfield and Ipswich with wills, powers of attorney, probate, and estate matters — so your wishes are clear, your assets go where you intend, and your loved ones are spared unnecessary stress and expense.",
+              "annotations": [
+                {
+                  "title": "Local Wills And Estates Lawyers",
+                  "url": "https://www.brookwaterlegal.com.au/wills-estates-lawyers",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 7. ⚖️ **Millwater Tyrrell Law**\n📍 Ipswich, QLD\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Millwater Tyrrell Law is an Ipswich law firm of expert family and divorce lawyers, commercial, conveyancing, estates, and criminal lawyers providing legal services to the Ipswich, Brisbane, and Springfield areas.",
+              "annotations": [
+                {
+                  "title": "Ipswich Lawyers - Ipswich Expert Family & Commercial Lawyers",
+                  "url": "https://millwatertyrrell.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They handle wills and estates matters alongside their other practice areas.\n\n---\n\n### 8. ⚖️ **M.A. Kent & Associates**\n📍 Ipswich, QLD | 📞 (07) 328...\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "M.A. Kent & Associates, established in 1968 and led by Mr Gregory Ploetz since 1987, offers comprehensive legal services in Ipswich and beyond.",
+              "annotations": [
+                {
+                  "title": "Compare 5 Wills and Estates Lawyers in Ipswich, QLD",
+                  "url": "https://lawconnect.com/en-au/find/wills-and-estates/qld/ipswich-4305",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are rated 4.3 stars from 101 client reviews.\n\n---\n\n### Tips for Choosing the Right Lawyer:\n- **For testamentary trusts**: Look for firms with dedicated estate planning experience (Jacaranda Law and Walker Pender are strong picks).\n- **For enduring powers of attorney**: Bennett Carroll Solicitors and Walker Pender both specifically advertise EPOA services.\n- **For flexibility**: Richard Zande and Associates offer home/hospital visits and after-hours appointments.\n- Always ask about fixed-fee pricing for standard wills and EPOA documents before engaging a firm.",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "best wills and estates lawyers Ipswich",
+        "testamentary trusts enduring power of attorney lawyers Ipswich Queensland"
+      ]
+    }
+  ]
+}

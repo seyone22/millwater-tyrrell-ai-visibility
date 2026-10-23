@@ -1,0 +1,344 @@
+{
+  "slug": "logan",
+  "pk": "fixed_fee_family_estates",
+  "plat": "claude",
+  "text": "Which boutique law firms in Logan and Western Corridor (Ipswich to Brisbane) offer free initial consultations, fixed-fee wills, or deferred-fee options for family law and wills and estates?",
+  "loc": 9112660,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\logan__fixed_fee_family_estates__claude.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:33:51.773Z",
+  "cost": 0.072592,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 11039,
+      "output_tokens": 1925,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.071992,
+      "datetime": "2026-10-23 05:33:47 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a detailed overview of boutique and smaller law firms in the **Logan and Western Corridor (Ipswich to Brisbane)** region that offer **free initial consultations**, **fixed-fee wills**, or **deferred/no-win-no-fee options** for family law and wills & estates:\n\n---\n\n## 🏛️ Boutique Law Firms – Logan & Western Corridor\n\n---\n\n### 1. 🌟 Ryder Lawyers *(Logan City)*\n**Services:** Family Law | Wills & Estates\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Ryder Lawyers is a prominent female-led boutique law firm in Logan City, Queensland.",
+              "annotations": [
+                {
+                  "title": "Estate Planning Lawyers near Logan Central, QLD",
+                  "url": "https://lawconnect.com/en-au/find/estate-planning/qld/logan-central-4114",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their experienced team of Family Law & Wills and Estates lawyers in Logan and Ipswich will support you to negotiate the best outcome for you and your family. They offer a no-obligation, free 15-minute phone consultation for all new Family Law matters.",
+              "annotations": [
+                {
+                  "title": "Family Law",
+                  "url": "https://ryderlawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- ✅ **Free initial consultation** (15-minute phone consult)\n- 📍 Logan City\n\n---\n\n### 2. 🌟 Millwater Tyrrell Law *(Ipswich / Springfield)*\n**Services:** Family Law | Wills & Estates | Commercial | Conveyancing | Criminal\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Millwater Tyrrell Law is an Ipswich law firm of expert family and divorce lawyers, commercial, conveyancing, estates, and criminal lawyers providing legal services to the Ipswich, Brisbane and Springfield areas.",
+              "annotations": [
+                {
+                  "title": "Ipswich Lawyers - Ipswich Expert Family & Commercial Lawyers",
+                  "url": "https://millwatertyrrell.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They offer a free, no-obligation, 30-minute meeting so that they can understand your needs.",
+              "annotations": [
+                {
+                  "title": "Ipswich Lawyers - Ipswich Expert Family & Commercial Lawyers",
+                  "url": "https://millwatertyrrell.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- ✅ **Free 30-minute initial consultation**\n- 📍 Ipswich / Springfield\n\n---\n\n### 3. 🌟 Stanford Legal *(Springfield Central)*\n**Services:** Family Law | Wills & Estates | Conveyancing | Commercial\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Stanford Legal is a Queensland law practice based in Springfield Central, acting for clients across Ipswich, Brisbane and South East Queensland in property law and conveyancing, family law, wills and estates, and commercial law.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Ipswich",
+                  "url": "https://stanfordlegal.com.au/family-law",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The first consultation is free, and you'll leave with a clear list of next steps. The first conversation with their family law team is free.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Ipswich",
+                  "url": "https://stanfordlegal.com.au/family-law",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- ✅ **Free first consultation**\n- 📍 Springfield Central (Western Corridor)\n\n---\n\n### 4. 🌟 RHC Solicitors *(Loganholme)*\n**Services:** Family Law | Wills & Estates | Conveyancing | Criminal | Commercial\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "RHC Solicitors specialises in Fixed Fee Conveyancing, Family Law, Criminal Law, Wills & Estates and Commercial Law. Get your free quote or free consultation now.",
+              "annotations": [
+                {
+                  "title": "Affordable QLD Lawyers & Conveyancers",
+                  "url": "https://www.rhcsolicitors.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They have over 35 years of experience with proven results.",
+              "annotations": [
+                {
+                  "title": "Affordable QLD Lawyers & Conveyancers",
+                  "url": "https://www.rhcsolicitors.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- ✅ **Free consultation / free quote**\n- ✅ **Fixed-fee services available**\n- 📍 Loganholme (Logan area)\n\n---\n\n### 5. 🌟 Deen Lawyers *(Mobile – Logan, Brisbane & Gold Coast)*\n**Services:** Wills & Estates | Conveyancing | Personal Injury\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Deen Lawyers is a boutique law practice specialising in personal injury claims, conveyancing, and wills and estate law. Led by principal Anwardeen Hamid Sultan, who has over ten years of experience, the firm prioritises outstanding, friendly, and cost-effective legal services.",
+              "annotations": [
+                {
+                  "title": "Estate Planning Lawyers near Logan Central, QLD",
+                  "url": "https://lawconnect.com/en-au/find/estate-planning/qld/logan-central-4114",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They offer a complimentary initial consultation, with mobile meetings across Logan, Brisbane, and the Gold Coast for conveyancing and personal injury claims.",
+              "annotations": [
+                {
+                  "title": "Estate Planning Lawyers near Logan Central, QLD",
+                  "url": "https://lawconnect.com/en-au/find/estate-planning/qld/logan-central-4114",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- ✅ **Free initial consultation**\n- ✅ **Mobile/home visits available**\n- 📍 Serves Logan, Brisbane & surrounds\n\n---\n\n### 6. 🌟 Brisbane Family Law Firm *(Serving Logan & Ipswich)*\n**Services:** Family Law\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They offer a free initial consultation and welcome calls from the Logan area, the City of Brisbane, the City of Redland, the City of Gold Coast, the City of Ipswich, and the Scenic Rim region.",
+              "annotations": [
+                {
+                  "title": "Family Lawyers Logan - Brisbane Family Law Firm",
+                  "url": "https://brisbanefamilylawfirm.com.au/family-lawyers-logan/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- ✅ **Free initial consultation**\n- 📍 Brisbane (serves Logan & Ipswich)\n\n---\n\n### 7. 🌟 Will and Estate Lawyers Australia *(Milton/Brisbane – serves Western Corridor)*\n**Services:** Wills & Estates | Probate | Estate Disputes\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They offer transparent, fixed-fee pricing for wills, probate, and letters of administration. For will disputes and family provision applications, they work on a no-win, no-fee basis.",
+              "annotations": [
+                {
+                  "title": "Wills and Estate Lawyers Brisbane",
+                  "url": "https://willandestatelawyers.com.au/wills-and-estate-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Fixed fees start at $799 for wills and $1,490 for probate.",
+              "annotations": [
+                {
+                  "title": "Wills and Estate Lawyers Brisbane",
+                  "url": "https://willandestatelawyers.com.au/wills-and-estate-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They provide free no-obligation telephone consultations where you can discuss your matter with a lawyer and receive a fixed fee quote.",
+              "annotations": [
+                {
+                  "title": "Wills and Estate Lawyers Brisbane",
+                  "url": "https://willandestatelawyers.com.au/wills-and-estate-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They also serve clients across South East Queensland including Gold Coast, Ipswich, Logan, and Toowoomba.",
+              "annotations": [
+                {
+                  "title": "Contact Us",
+                  "url": "https://willandestatelawyers.com.au/contact-us/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- ✅ **Free telephone consultation**\n- ✅ **Fixed-fee wills from $799**\n- ✅ **No-win, no-fee** for estate disputes\n- 📍 Milton, Brisbane (serves Ipswich & Logan)\n\n---\n\n### 8. 🌟 The Estate Lawyers *(Brisbane – serves region)*\n**Services:** Wills & Estates\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The Estate Lawyers do not charge for your first discussion or email exchange with one of their specialist wills and estates lawyers, and your enquiry is confidential and obligation-free, no matter how big or small the estate in question might be.",
+              "annotations": [
+                {
+                  "title": "The Estate Lawyers",
+                  "url": "https://theestatelawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They will provide you with some initial guidance free of charge and can discuss their fee proposal for any work you might require.",
+              "annotations": [
+                {
+                  "title": "The Estate Lawyers",
+                  "url": "https://theestatelawyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- ✅ **Free initial consultation (phone or email)**\n- 📍 Brisbane (serves surrounding regions)\n\n---\n\n## 📊 Quick Comparison Summary\n\n| Firm | Location | Free Consult | Fixed-Fee Wills | No-Win/Deferred Fee |\n|---|---|---|---|---|\n| **Ryder Lawyers** | Logan City | ✅ 15-min phone | ❓ | ❓ |\n| **Millwater Tyrrell Law** | Ipswich/Springfield | ✅ 30-min | ❓ | ❓ |\n| **Stanford Legal** | Springfield Central | ✅ | ❓ | ❓ |\n| **RHC Solicitors** | Loganholme | ✅ | ✅ | ❓ |\n| **Deen Lawyers** | Mobile (Logan) | ✅ |",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "boutique law firms Logan Ipswich Brisbane free initial consultation family law wills estates",
+        "fixed fee wills deferred fee family law firms Logan Ipswich Western Corridor Queensland"
+      ]
+    }
+  ]
+}

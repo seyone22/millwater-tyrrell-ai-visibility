@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane",
+  "pk": "probate_administration",
+  "plat": "perplexity",
+  "text": "I am an executor handling probate and deceased estate administration in Brisbane. Which law firms specialise in Queensland probate and estate administration?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane__probate_administration__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:26:00.839Z",
+  "cost": 0.006202,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 34,
+      "output_tokens": 568,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005602,
+      "datetime": "2026-10-23 05:25:56 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Several Brisbane and Queensland firms specifically advertise probate and deceased-estate administration services for executors:\n\n- **A.L.F. Lawyers** — Brisbane and South-East Queensland; handles Supreme Court probate applications, letters of administration, executor advice, asset distribution and estate disputes.[1]\n- **Bennett Carroll Solicitors** — Queensland-wide, with Brisbane offices; assists with probate, identifying assets, paying debts, executor obligations and distribution to beneficiaries.[2]\n- **Turner Freeman Lawyers** — Brisbane; advises executors on probate, letters of administration, estate administration, family-provision claims and will disputes.[3]\n- **MacDonald Law** — Brisbane, Toowoomba and the Gold Coast; handles both straightforward and complex estates, including asset collection, liabilities, property, businesses and testamentary trusts.[4]\n- **Nextgen.Law** — Brisbane, Moreton Bay and regional Queensland; focuses on probate, letters of administration, beneficiary identification and deceased-estate administration.[5]\n- **Cooper Grace Ward** — Brisbane CBD; provides advice on probate and letters of administration, executor duties, intestate estates, asset collection and distribution, and disputes.[8]\n- **Queensland Estate Lawyers (QEL)** — Queensland-focused; offers probate application preparation and lodgement, Supreme Court representation and post-probate administration.[9]\n- **Hall Payne Lawyers** — Queensland practice with wills-and-estates solicitors; assists with probate, letters of administration, estate distribution and disputes.[7]\n- **Murdoch Lawyers** — Brisbane and Toowoomba; acts for executors and administrators through the various stages of estate administration.[10]\n\nFor a routine Brisbane estate, compare **A.L.F., Bennett Carroll, Turner Freeman, MacDonald Law, Nextgen.Law** and **QEL**. For a substantial, contested or commercially complex estate, **Cooper Grace Ward** may be worth considering. Confirm before engaging a firm that it will handle the full process—not merely the probate application—including collecting assets, dealing with tax and debts, transferring or selling property, and preparing final distributions.\n\nWhen obtaining quotes, ask about:\n\n- Fixed fee versus hourly billing, and what the quote excludes\n- Whether Supreme Court filing and advertising fees are included\n- Assistance with tax, superannuation, trusts, businesses and property\n- Potential family-provision or will-dispute risks\n- Whether the firm will provide regular estate accounts and a written distribution plan\n- Who will act as the supervising solicitor and whether they regularly practise in Queensland succession law\n\nProbate and letters of administration are Queensland Supreme Court processes, so ensure the solicitor is admitted to practise in Queensland and experienced with the Queensland procedure.[3]",
+              "annotations": [
+                {
+                  "title": "Probate Lawyers Brisbane | Apply for Grant of Probate",
+                  "url": "https://www.alflawyers.com.au/probate-lawyers-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Estate Administration & Probate Lawyers in Queensland",
+                  "url": "https://www.bcglaw.com.au/estate-administration/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills & Estates Lawyers Brisbane - Probate Law",
+                  "url": "https://www.turnerfreeman.com.au/wills-estates-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills and Estates lawyers Toowoomba and Brisbane",
+                  "url": "https://www.macdonaldlaw.com.au/will-estates",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Probate | Deceased Estate Lawyers Brisbane | Nextgen.Law",
+                  "url": "https://nextgen.law/probate-and-estate-administration/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Probate Lawyers Queensland | Fraser Lawyers Gold Coast",
+                  "url": "https://www.fraserlawyers.com/probate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Wills, Estate Planning & Deceased Estates",
+                  "url": "https://hallpayne.com.au/areas-of-practice/wills-estates/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Estate administration and disputes - Brisbane - Cooper Grace Ward",
+                  "url": "https://cgw.com.au/expertise/estate-administration-disputes/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "QLD Probate Lawyers | Estate Administration | QLD Estate Lawyers",
+                  "url": "https://qldestatelawyers.com.au/probate-lawyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Estate Administration Lawyers Toowoomba & Brisbane",
+                  "url": "https://www.murdochs.com.au/future-planning/estate-administration/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

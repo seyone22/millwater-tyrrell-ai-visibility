@@ -1,0 +1,285 @@
+{
+  "slug": "brisbane_west",
+  "pk": "fixed_fee_family_estates",
+  "plat": "aimode",
+  "text": "Which boutique law firms in Brisbane Western Suburbs (Indooroopilly & Centenary) offer free initial consultations, fixed-fee wills, or deferred-fee options for family law and wills and estates?",
+  "loc": 9192539,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\millwater-tyrrell-ai-visibility\\pipeline\\raw\\brisbane_west__fixed_fee_family_estates__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-23T05:28:35.845Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which boutique law firms in Brisbane Western Suburbs (Indooroopilly & Centenary) offer free initial consultations, fixed-fee wills, or deferred-fee options for family law and wills and estates?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 9192539,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20boutique%20law%20firms%20in%20Brisbane%20Western%20Suburbs%20%28Indooroopilly%20%26%20Centenary%29%20offer%20free%20initial%20consultations%2C%20fixed-fee%20wills%2C%20or%20deferred-fee%20options%20for%20family%20law%20and%20wills%20and%20estates%3F&udm=50&uule=w+CAIQIFISCd0K1hBZUJFrEfCL3vNaowIF&hl=en&gl=AU",
+      "datetime": "2026-10-23 05:28:31 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "Finding a boutique suburban practice in Brisbane’s Western Suburbs (such as Indooroopilly, Kenmore, and surrounding Centenary suburbs) that cleanly checks *every* box—free consultations, fixed-fee wills, and deferred-fee family law—requires looking closely at how `individual local firms structure their pricing`.\n\nStrictly speaking, **free initial consultations for family law** are rare across boutique firms due to the high liability and complex initial assessment required (many charge a fixed initial consultation fee instead, e.g., Michael Lynch Family Lawyers nearby ). However, specific local practices advertise free initial appointments for specific areas like estate planning, or utilize transparent fixed-fee models for wills and conveyancing.[[1]](https://lawconnect.com/en-au/find/wills-and-estates/qld/indooroopilly-4068)[[2]](https://www.michaellynchfamilylawyers.com.au/about/fixed-price-consultation/)[[3]](https://www.kenmorelawyers.com.au/wills-estates-lawyers/)[[4]](https://www.ellyettlaw.com.au/services-1)\n\nA breakdown of notable boutique and localized options servicing the Indooroopilly and Centenary/Kenmore corridor includes:\n\n\n\n---\n\n![](https://api.dataforseo.com/cdn/i/10230528-2877-0139-0000-6ff55a5c5b57:4)\nKenmore Lawyers 5.0 (6)  \nSolicitor  \nOpen 2077 Moggill Rd  \nCall Directions Website**Kenmore Lawyers** *(Servicing Kenmore, Indooroopilly, Chapel Hill, Fig Tree Pocket)* \n\n- **Wills & Estates:** Explicitly offer **free initial appointments** (via phone, in person, or video) covering estate planning, testamentary trusts, and EPOA.\n- **Family Law:** Handles general family law and litigation matters, though initial consultation terms for family law should be verified directly with their intake team.\n- **Check out:** Kenmore Lawyers Estate Law\n\n\n\n---\n\n![](https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=M70l52AG_OygNEp-fRvpfQ&cb_client=search.gws-prod.grass&yaw=85.321884&pitch=0&thumbfov=100&w=82&h=82)\nEllyett Law 5.0 (4)  \nLaw firm  \nOpen Suit 22/20 Park Rd  \nCall Directions Website**Ellyett Law** *(Servicing the Western Suburbs / Milton / Indooroopilly corridor)* \n\n- **Approach:** A boutique practice explicitly structured to avoid high city-firm costs, offering personalized solutions for family law and estate planning.\n- **Pricing:** Focuses on transparent, **fixed-fee pricing structures** across their core services (including property transactions and wills) to prevent unexpected billing surprises.\n- **Check out:** Ellyett Law Services\n\n\n\n---\n\n![](https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8M1ZxgVNgBavKOsPNMDyLw&cb_client=search.gws-prod.grass&yaw=101.94455&pitch=0&thumbfov=100&w=82&h=82)\nH Drakos & Company 4.4 (34)  \nLaw firm  \nOpen 170 Boundary St  \nCall Directions Website\n\n- **Wills & Estates / Family Law:** A long-standing boutique firm with decades of experience handling both sensitive family law separations and comprehensive estate planning (simple/complex wills, EPOA, and probate) with localized, personalized attention.[[1]](https://lawconnect.com/en-au/find/estate-planning/qld/indooroopilly-4068)[[2]](https://www.kenmorelawyers.com.au/estate-law/)[[3]](https://www.kenmorelawyers.com.au/wills-estates-lawyers/)[[4]](https://lawconnect.com/en-au/find/wills-and-estates/qld/indooroopilly-4068)[[5]](https://www.ellyettlaw.com.au/)[[6]](https://www.ellyettlaw.com.au/services-1)\n\n### Regarding Deferred Fees (Settle-on-Completion / Legal Aid / Delayed Billing)\n\nTrue **deferred-fee options** (where you pay nothing until a property settlement or estate distribution finalises) are generally handled on a case-by-case discretionary basis by boutique family law firms, or sometimes via specialized litigation funding or third-party credit providers. Most suburban boutiques require upfront retainers for active family law litigation unless structured through specific consent order payment milestones.\n\nIf you'd like, I can:\n\n- Help you **contact or clarify intake policies** regarding free/fixed pricing with these specific suburban practices.\n- Provide more details on how **family law deferred payment structures** (like deferred property settlement funding) work in Queensland.\n\nLet me know how you'd like to **proceed**!",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Finding a boutique suburban practice in Brisbane’s Western Suburbs (such as Indooroopilly, Kenmore, and surrounding Centenary suburbs) that cleanly checks every box—free consultations, fixed-fee wills, and deferred-fee family law—requires looking closely at how individual local firms structure their pricing.",
+              "markdown": "Finding a boutique suburban practice in Brisbane’s Western Suburbs (such as Indooroopilly, Kenmore, and surrounding Centenary suburbs) that cleanly checks *every* box—free consultations, fixed-fee wills, and deferred-fee family law—requires looking closely at how `individual local firms structure their pricing`.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Strictly speaking, free initial consultations for family law are rare across boutique firms due to the high liability and complex initial assessment required (many charge a fixed initial consultation fee instead, e.g., Michael Lynch Family Lawyers nearby ). However, specific local practices advertise free initial appointments for specific areas like estate planning, or utilize transparent fixed-fee models for wills and conveyancing.",
+              "markdown": "Strictly speaking, **free initial consultations for family law** are rare across boutique firms due to the high liability and complex initial assessment required (many charge a fixed initial consultation fee instead, e.g., Michael Lynch Family Lawyers nearby ). However, specific local practices advertise free initial appointments for specific areas like estate planning, or utilize transparent fixed-fee models for wills and conveyancing.[[1]](https://lawconnect.com/en-au/find/wills-and-estates/qld/indooroopilly-4068)[[2]](https://www.michaellynchfamilylawyers.com.au/about/fixed-price-consultation/)[[3]](https://www.kenmorelawyers.com.au/wills-estates-lawyers/)[[4]](https://www.ellyettlaw.com.au/services-1)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "LawConnect",
+                  "domain": "lawconnect.com",
+                  "url": "https://lawconnect.com/en-au/find/wills-and-estates/qld/indooroopilly-4068",
+                  "title": "Wills and Estates Lawyers in Indooroopilly, QLD - LawConnect",
+                  "text": "Our range of services includes Family Law, Wills and Estate Planning, Commercial Law, and Conveyancing, all with fixed fees to avo..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Michael Lynch Family Lawyers",
+                  "domain": "www.michaellynchfamilylawyers.com.au",
+                  "url": "https://www.michaellynchfamilylawyers.com.au/about/fixed-price-consultation/",
+                  "title": "Fixed Price Initial Consultation | Michael Lynch Family Lawyers",
+                  "text": "Fixed Price Initial Consultation. This confidential appointment takes approximately 1.5 hours. The fixed-fee consultation rate is ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "www.kenmorelawyers.com.au",
+                  "domain": "www.kenmorelawyers.com.au",
+                  "url": "https://www.kenmorelawyers.com.au/wills-estates-lawyers/",
+                  "title": "Wills & Estate Lawyers",
+                  "text": "We offer Wills & Estates services. We provide advice in relation to all manner of estate planning. We offer FREE initial appointme..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Ellyett Law",
+                  "domain": "www.ellyettlaw.com.au",
+                  "url": "https://www.ellyettlaw.com.au/services-1",
+                  "title": "Services | Ellyett Law",
+                  "text": "Conveyancing Ellyett Law offers fixed fee services for all QLD property transactions with no hidden fees. Call us today to talk ab..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "A breakdown of notable boutique and localized options servicing the Indooroopilly and Centenary/Kenmore corridor includes:",
+              "markdown": "A breakdown of notable boutique and localized options servicing the Indooroopilly and Centenary/Kenmore corridor includes:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Kenmore Lawyers 5.0 (6) Solicitor Open 2077 Moggill Rd Call Directions Website Kenmore Lawyers (Servicing Kenmore, Indooroopilly, Chapel Hill, Fig Tree Pocket)Wills & Estates: Explicitly offer free initial appointments (via phone, in person, or video) covering estate planning, testamentary trusts, and EPOA.\nFamily Law: Handles general family law and litigation matters, though initial consultation terms for family law should be verified directly with their intake team.\nCheck out: Kenmore Lawyers Estate Law",
+              "markdown": "---\n\n![](https://api.dataforseo.com/cdn/i/10230528-2877-0139-0000-6ff55a5c5b57:2)\nKenmore Lawyers 5.0 (6)  \nSolicitor  \nOpen 2077 Moggill Rd  \nCall Directions Website**Kenmore Lawyers** *(Servicing Kenmore, Indooroopilly, Chapel Hill, Fig Tree Pocket)* \n\n- **Wills & Estates:** Explicitly offer **free initial appointments** (via phone, in person, or video) covering estate planning, testamentary trusts, and EPOA.\n- **Family Law:** Handles general family law and litigation matters, though initial consultation terms for family law should be verified directly with their intake team.\n- **Check out:** Kenmore Lawyers Estate Law",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/10230528-2877-0139-0000-6ff55a5c5b57:3"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Ellyett Law 5.0 (4) Law firm Open Suit 22/20 Park Rd Call Directions Website Ellyett Law (Servicing the Western Suburbs / Milton / Indooroopilly corridor)Approach: A boutique practice explicitly structured to avoid high city-firm costs, offering personalized solutions for family law and estate planning.\nPricing: Focuses on transparent, fixed-fee pricing structures across their core services (including property transactions and wills) to prevent unexpected billing surprises.\nCheck out: Ellyett Law Services",
+              "markdown": "---\n\n![](https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=M70l52AG_OygNEp-fRvpfQ&cb_client=search.gws-prod.grass&yaw=85.321884&pitch=0&thumbfov=100&w=82&h=82)\nEllyett Law 5.0 (4)  \nLaw firm  \nOpen Suit 22/20 Park Rd  \nCall Directions Website**Ellyett Law** *(Servicing the Western Suburbs / Milton / Indooroopilly corridor)* \n\n- **Approach:** A boutique practice explicitly structured to avoid high city-firm costs, offering personalized solutions for family law and estate planning.\n- **Pricing:** Focuses on transparent, **fixed-fee pricing structures** across their core services (including property transactions and wills) to prevent unexpected billing surprises.\n- **Check out:** Ellyett Law Services",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=M70l52AG_OygNEp-fRvpfQ&cb_client=search.gws-prod.grass&yaw=85.321884&pitch=0&thumbfov=100&w=82&h=82"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "H Drakos & Company 4.4 (34) Law firm Open 170 Boundary St Call Directions WebsiteWills & Estates / Family Law: A long-standing boutique firm with decades of experience handling both sensitive family law separations and comprehensive estate planning (simple/complex wills, EPOA, and probate) with localized, personalized attention.",
+              "markdown": "---\n\n![](https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8M1ZxgVNgBavKOsPNMDyLw&cb_client=search.gws-prod.grass&yaw=101.94455&pitch=0&thumbfov=100&w=82&h=82)\nH Drakos & Company 4.4 (34)  \nLaw firm  \nOpen 170 Boundary St  \nCall Directions Website\n\n- **Wills & Estates / Family Law:** A long-standing boutique firm with decades of experience handling both sensitive family law separations and comprehensive estate planning (simple/complex wills, EPOA, and probate) with localized, personalized attention.[[1]](https://lawconnect.com/en-au/find/estate-planning/qld/indooroopilly-4068)[[2]](https://www.kenmorelawyers.com.au/estate-law/)[[3]](https://www.kenmorelawyers.com.au/wills-estates-lawyers/)[[4]](https://lawconnect.com/en-au/find/wills-and-estates/qld/indooroopilly-4068)[[5]](https://www.ellyettlaw.com.au/)[[6]](https://www.ellyettlaw.com.au/services-1)",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8M1ZxgVNgBavKOsPNMDyLw&cb_client=search.gws-prod.grass&yaw=101.94455&pitch=0&thumbfov=100&w=82&h=82"
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "LawConnect",
+                  "domain": "lawconnect.com",
+                  "url": "https://lawconnect.com/en-au/find/estate-planning/qld/indooroopilly-4068",
+                  "title": "Estate Planning Lawyers in Indooroopilly, QLD - LawConnect",
+                  "text": "estate planning services include the preparation of simple and complex Wills, They offer guidance in deceased estate administratio..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "www.kenmorelawyers.com.au",
+                  "domain": "www.kenmorelawyers.com.au",
+                  "url": "https://www.kenmorelawyers.com.au/estate-law/",
+                  "title": "Wills & Estates Lawyers | Kenmore Lawyers",
+                  "text": "Estate Services: Will drafting. Estate preparation and risk management (asset evaluation, trusts, life insurance). Free initial co..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "www.kenmorelawyers.com.au",
+                  "domain": "www.kenmorelawyers.com.au",
+                  "url": "https://www.kenmorelawyers.com.au/wills-estates-lawyers/",
+                  "title": "Wills & Estate Lawyers",
+                  "text": "We offer Wills & Estates services. We provide advice in relation to all manner of estate planning. We offer FREE initial appointme..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "LawConnect",
+                  "domain": "lawconnect.com",
+                  "url": "https://lawconnect.com/en-au/find/wills-and-estates/qld/indooroopilly-4068",
+                  "title": "Wills and Estates Lawyers in Indooroopilly, QLD - LawConnect",
+                  "text": "Our boutique firm offers personalised legal solutions in Family and Commercial Law without the high costs of city firms. We aim for resolutions, not conflict"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Ellyett Law",
+                  "domain": "www.ellyettlaw.com.au",
+                  "url": "https://www.ellyettlaw.com.au/",
+                  "title": "Family and Commercial Law | Www.ellyettelaw.com.au | Milton",
+                  "text": "Ellyett Law offers fixed fee services for all QLD property transactions with no hidden fees. Call us today to talk about how we ca..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Ellyett Law",
+                  "domain": "www.ellyettlaw.com.au",
+                  "url": "https://www.ellyettlaw.com.au/services-1",
+                  "title": "Services | Ellyett Law",
+                  "text": "Conveyancing Ellyett Law offers fixed fee services for all QLD property transactions with no hidden fees. Call us today to talk ab..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Regarding Deferred Fees (Settle-on-Completion / Legal Aid / Delayed Billing)",
+              "text": "True deferred-fee options (where you pay nothing until a property settlement or estate distribution finalises) are generally handled on a case-by-case discretionary basis by boutique family law firms, or sometimes via specialized litigation funding or third-party credit providers. Most suburban boutiques require upfront retainers for active family law litigation unless structured through specific consent order payment milestones.",
+              "markdown": "True **deferred-fee options** (where you pay nothing until a property settlement or estate distribution finalises) are generally handled on a case-by-case discretionary basis by boutique family law firms, or sometimes via specialized litigation funding or third-party credit providers. Most suburban boutiques require upfront retainers for active family law litigation unless structured through specific consent order payment milestones.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you'd like, I can:",
+              "markdown": "If you'd like, I can:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Help you contact or clarify intake policies regarding free/fixed pricing with these specific suburban practices. Provide more details on how family law deferred payment structures (like deferred property settlement funding) work in Queensland.",
+              "markdown": "- Help you **contact or clarify intake policies** regarding free/fixed pricing with these specific suburban practices.\n- Provide more details on how **family law deferred payment structures** (like deferred property settlement funding) work in Queensland.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Let me know how you'd like to proceed !",
+              "markdown": "Let me know how you'd like to **proceed**!",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "LawConnect",
+              "domain": "lawconnect.com",
+              "url": "https://lawconnect.com/en-au/find/estate-planning/qld/indooroopilly-4068",
+              "title": "Estate Planning Lawyers in Indooroopilly, QLD - LawConnect",
+              "text": "estate planning services include the preparation of simple and complex Wills, They offer guidance in deceased estate administration, probate, and estate disputes."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "LawConnect",
+              "domain": "lawconnect.com",
+              "url": "https://lawconnect.com/en-au/find/wills-and-estates/qld/indooroopilly-4068",
+              "title": "Wills and Estates Lawyers in Indooroopilly, QLD - LawConnect",
+              "text": "Our boutique firm offers personalised legal solutions in Family and Commercial Law without the high costs of city firms. We aim for resolutions, not conflict"
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Ellyett Law",
+              "domain": "www.ellyettlaw.com.au",
+              "url": "https://www.ellyettlaw.com.au/",
+              "title": "Family and Commercial Law | Www.ellyettelaw.com.au | Milton",
+              "text": "Ellyett Law offers fixed fee services for all QLD property transactions with no hidden fees. Call us today to talk about how we can help you.."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

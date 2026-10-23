@@ -1,0 +1,1115 @@
+{
+  "version": "0.1.20261022",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.8930 sec.",
+  "cost": 0.0116,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "10230524-2877-0619-0000-1d59e8e05359",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.8829 sec.",
+      "cost": 0.0116,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "ai_optimization",
+        "ai_keyword_data",
+        "keywords_search_volume",
+        "live"
+      ],
+      "data": {
+        "api": "ai_optimization",
+        "function": "keywords_search_volume",
+        "keywords": [
+          "family lawyer",
+          "divorce lawyer",
+          "wills and estates lawyer",
+          "estate planning lawyer",
+          "probate lawyer",
+          "contesting a will",
+          "enduring power of attorney qld",
+          "binding financial agreement lawyer",
+          "property settlement lawyer",
+          "family lawyer brisbane",
+          "wills and estates lawyer brisbane",
+          "contesting a will queensland",
+          "divorce lawyer brisbane",
+          "deceased estate lawyer",
+          "family lawyer ipswich",
+          "child custody lawyer"
+        ],
+        "location_code": 2036,
+        "language_code": "en"
+      },
+      "result": [
+        {
+          "location_code": 2036,
+          "language_code": "en",
+          "items_count": 16,
+          "items": [
+            {
+              "keyword": "family lawyer",
+              "ai_search_volume": 3659,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 9,
+                  "ai_search_volume": 3659
+                },
+                {
+                  "year": 2026,
+                  "month": 8,
+                  "ai_search_volume": 2383
+                },
+                {
+                  "year": 2026,
+                  "month": 7,
+                  "ai_search_volume": 1874
+                },
+                {
+                  "year": 2026,
+                  "month": 6,
+                  "ai_search_volume": 1755
+                },
+                {
+                  "year": 2026,
+                  "month": 5,
+                  "ai_search_volume": 2145
+                },
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 2158
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 2096
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 2180
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 2400
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 2686
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 2374
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 2243
+                }
+              ]
+            },
+            {
+              "keyword": "divorce lawyer",
+              "ai_search_volume": 724,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 9,
+                  "ai_search_volume": 724
+                },
+                {
+                  "year": 2026,
+                  "month": 8,
+                  "ai_search_volume": 587
+                },
+                {
+                  "year": 2026,
+                  "month": 7,
+                  "ai_search_volume": 553
+                },
+                {
+                  "year": 2026,
+                  "month": 6,
+                  "ai_search_volume": 516
+                },
+                {
+                  "year": 2026,
+                  "month": 5,
+                  "ai_search_volume": 673
+                },
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 615
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 578
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 493
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 681
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 686
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 626
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 608
+                }
+              ]
+            },
+            {
+              "keyword": "wills and estates lawyer",
+              "ai_search_volume": 119,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 9,
+                  "ai_search_volume": 119
+                },
+                {
+                  "year": 2026,
+                  "month": 8,
+                  "ai_search_volume": 36
+                },
+                {
+                  "year": 2026,
+                  "month": 7,
+                  "ai_search_volume": 2
+                },
+                {
+                  "year": 2026,
+                  "month": 6,
+                  "ai_search_volume": 1
+                },
+                {
+                  "year": 2026,
+                  "month": 5,
+                  "ai_search_volume": 1
+                },
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 2
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 1
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 1
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 0
+                }
+              ]
+            },
+            {
+              "keyword": "estate planning lawyer",
+              "ai_search_volume": 36,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 9,
+                  "ai_search_volume": 36
+                },
+                {
+                  "year": 2026,
+                  "month": 8,
+                  "ai_search_volume": 16
+                },
+                {
+                  "year": 2026,
+                  "month": 7,
+                  "ai_search_volume": 9
+                },
+                {
+                  "year": 2026,
+                  "month": 6,
+                  "ai_search_volume": 1
+                },
+                {
+                  "year": 2026,
+                  "month": 5,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 15
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 15
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 15
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 0
+                }
+              ]
+            },
+            {
+              "keyword": "probate lawyer",
+              "ai_search_volume": 90,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 9,
+                  "ai_search_volume": 90
+                },
+                {
+                  "year": 2026,
+                  "month": 8,
+                  "ai_search_volume": 75
+                },
+                {
+                  "year": 2026,
+                  "month": 7,
+                  "ai_search_volume": 60
+                },
+                {
+                  "year": 2026,
+                  "month": 6,
+                  "ai_search_volume": 55
+                },
+                {
+                  "year": 2026,
+                  "month": 5,
+                  "ai_search_volume": 78
+                },
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 97
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 107
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 113
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 146
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 132
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 106
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 100
+                }
+              ]
+            },
+            {
+              "keyword": "contesting a will",
+              "ai_search_volume": 8484,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 9,
+                  "ai_search_volume": 8484
+                },
+                {
+                  "year": 2026,
+                  "month": 8,
+                  "ai_search_volume": 6385
+                },
+                {
+                  "year": 2026,
+                  "month": 7,
+                  "ai_search_volume": 6591
+                },
+                {
+                  "year": 2026,
+                  "month": 6,
+                  "ai_search_volume": 6876
+                },
+                {
+                  "year": 2026,
+                  "month": 5,
+                  "ai_search_volume": 8325
+                },
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 8731
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 8604
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 8385
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 8567
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 9699
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 8794
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 9136
+                }
+              ]
+            },
+            {
+              "keyword": "enduring power of attorney qld",
+              "ai_search_volume": 51,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 9,
+                  "ai_search_volume": 51
+                },
+                {
+                  "year": 2026,
+                  "month": 8,
+                  "ai_search_volume": 53
+                },
+                {
+                  "year": 2026,
+                  "month": 7,
+                  "ai_search_volume": 49
+                },
+                {
+                  "year": 2026,
+                  "month": 6,
+                  "ai_search_volume": 58
+                },
+                {
+                  "year": 2026,
+                  "month": 5,
+                  "ai_search_volume": 69
+                },
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 72
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 75
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 68
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 68
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 55
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 41
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 33
+                }
+              ]
+            },
+            {
+              "keyword": "binding financial agreement lawyer",
+              "ai_search_volume": 47,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 9,
+                  "ai_search_volume": 47
+                },
+                {
+                  "year": 2026,
+                  "month": 8,
+                  "ai_search_volume": 29
+                },
+                {
+                  "year": 2026,
+                  "month": 7,
+                  "ai_search_volume": 30
+                },
+                {
+                  "year": 2026,
+                  "month": 6,
+                  "ai_search_volume": 31
+                },
+                {
+                  "year": 2026,
+                  "month": 5,
+                  "ai_search_volume": 46
+                },
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 39
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 32
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 16
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 11
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 6
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 3
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 0
+                }
+              ]
+            },
+            {
+              "keyword": "property settlement lawyer",
+              "ai_search_volume": 33,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 9,
+                  "ai_search_volume": 33
+                },
+                {
+                  "year": 2026,
+                  "month": 8,
+                  "ai_search_volume": 35
+                },
+                {
+                  "year": 2026,
+                  "month": 7,
+                  "ai_search_volume": 30
+                },
+                {
+                  "year": 2026,
+                  "month": 6,
+                  "ai_search_volume": 37
+                },
+                {
+                  "year": 2026,
+                  "month": 5,
+                  "ai_search_volume": 54
+                },
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 49
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 48
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 32
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 23
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 32
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 22
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 21
+                }
+              ]
+            },
+            {
+              "keyword": "family lawyer brisbane",
+              "ai_search_volume": 67,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 9,
+                  "ai_search_volume": 67
+                },
+                {
+                  "year": 2026,
+                  "month": 8,
+                  "ai_search_volume": 28
+                },
+                {
+                  "year": 2026,
+                  "month": 7,
+                  "ai_search_volume": 6
+                },
+                {
+                  "year": 2026,
+                  "month": 6,
+                  "ai_search_volume": 7
+                },
+                {
+                  "year": 2026,
+                  "month": 5,
+                  "ai_search_volume": 9
+                },
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 9
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 10
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 11
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 11
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 8
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 6
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 7
+                }
+              ]
+            },
+            {
+              "keyword": "wills and estates lawyer brisbane",
+              "ai_search_volume": 21,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 9,
+                  "ai_search_volume": 21
+                },
+                {
+                  "year": 2026,
+                  "month": 8,
+                  "ai_search_volume": 7
+                },
+                {
+                  "year": 2026,
+                  "month": 7,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 6,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 5,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 0
+                }
+              ]
+            },
+            {
+              "keyword": "contesting a will queensland",
+              "ai_search_volume": 22,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 9,
+                  "ai_search_volume": 22
+                },
+                {
+                  "year": 2026,
+                  "month": 8,
+                  "ai_search_volume": 11
+                },
+                {
+                  "year": 2026,
+                  "month": 7,
+                  "ai_search_volume": 13
+                },
+                {
+                  "year": 2026,
+                  "month": 6,
+                  "ai_search_volume": 15
+                },
+                {
+                  "year": 2026,
+                  "month": 5,
+                  "ai_search_volume": 23
+                },
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 21
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 25
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 21
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 20
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 22
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 24
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 31
+                }
+              ]
+            },
+            {
+              "keyword": "divorce lawyer brisbane",
+              "ai_search_volume": 9,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 9,
+                  "ai_search_volume": 9
+                },
+                {
+                  "year": 2026,
+                  "month": 8,
+                  "ai_search_volume": 2
+                },
+                {
+                  "year": 2026,
+                  "month": 7,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 6,
+                  "ai_search_volume": 1
+                },
+                {
+                  "year": 2026,
+                  "month": 5,
+                  "ai_search_volume": 4
+                },
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 4
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 3
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 10
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 13
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 14
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 12
+                }
+              ]
+            },
+            {
+              "keyword": "deceased estate lawyer",
+              "ai_search_volume": 6,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 9,
+                  "ai_search_volume": 6
+                },
+                {
+                  "year": 2026,
+                  "month": 8,
+                  "ai_search_volume": 6
+                },
+                {
+                  "year": 2026,
+                  "month": 7,
+                  "ai_search_volume": 3
+                },
+                {
+                  "year": 2026,
+                  "month": 6,
+                  "ai_search_volume": 1
+                },
+                {
+                  "year": 2026,
+                  "month": 5,
+                  "ai_search_volume": 1
+                },
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 1
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 1
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 1
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 3
+                }
+              ]
+            },
+            {
+              "keyword": "family lawyer ipswich",
+              "ai_search_volume": 2,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 9,
+                  "ai_search_volume": 2
+                },
+                {
+                  "year": 2026,
+                  "month": 8,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 7,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 6,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 5,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 0
+                }
+              ]
+            },
+            {
+              "keyword": "child custody lawyer",
+              "ai_search_volume": 3,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 9,
+                  "ai_search_volume": 3
+                },
+                {
+                  "year": 2026,
+                  "month": 8,
+                  "ai_search_volume": 4
+                },
+                {
+                  "year": 2026,
+                  "month": 7,
+                  "ai_search_volume": 2
+                },
+                {
+                  "year": 2026,
+                  "month": 6,
+                  "ai_search_volume": 13
+                },
+                {
+                  "year": 2026,
+                  "month": 5,
+                  "ai_search_volume": 16
+                },
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 17
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 8
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 2
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 6
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 5
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 5
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 2
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
