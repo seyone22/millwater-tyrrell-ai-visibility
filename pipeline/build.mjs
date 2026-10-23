@@ -747,7 +747,7 @@ function marketSlide(c, idx) {
   const mtTot = seriesAll('millwatertyrrell.com.au').reduce((a, b) => a + b, 0);
 
   const chart = lineChart({
-    w: 1140, h: 590, pad: [34, 395, 68, 76], labels, yMax: 100, yTicks: [0, 25, 50, 75, 100], yFmt: v => v.toLocaleString('en-AU'),
+    w: 1140, h: 590, pad: [34, 435, 68, 76], labels, yMax: 100, yTicks: [0, 25, 50, 75, 100], yFmt: v => v.toLocaleString('en-AU'),
     series: S.map(([name, d, color, width]) => {
       const vals = series(d);
       const tot15 = seriesAll(d).reduce((a, b) => a + b, 0);
