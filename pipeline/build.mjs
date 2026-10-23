@@ -389,7 +389,7 @@ slide('method', 'white', `
 // ─── 5. Map (8 Ipswich & Brisbane Corridors) ────────────────────────────────
 {
   const R = r => 8 + Math.sqrt(Math.max(0, r) / 100) * 46;
-  const COL = 930;
+  const COL = 900;
   const lab = {
     brisbane_north: [COL, 150, 'start'],
     brisbane:       [COL, 250, 'start'],
@@ -677,9 +677,9 @@ function marketSlide(c, idx) {
   const labelOffsets = {
     ipswich:        { dx: -18, dy: 8,   anchor: 'end',   label: 'Ipswich HQ' },
     logan:          { dx: 18,  dy: 6,   anchor: 'start', label: 'Logan & Western Corridor' },
-    springfield:    { dx: 18,  dy: -22, anchor: 'start', label: 'Springfield & Greater Springfield' },
+    springfield:    { dx: 18,  dy: -16, anchor: 'start', label: 'Springfield & Greater Springfield' },
     brisbane_west:  { dx: 0,   dy: 0,   anchor: 'start', label: '', hide: true },
-    brisbane:       { dx: 18,  dy: -4,  anchor: 'start', label: 'Brisbane CBD & Metro (5 Corridors = 0%)' },
+    brisbane:       { dx: 14,  dy: -26, anchor: 'start', label: 'Brisbane CBD & Metro (5 Corridors)' },
     brisbane_south: { dx: 0,   dy: 0,   anchor: 'start', label: '', hide: true },
     brisbane_north: { dx: 0,   dy: 0,   anchor: 'start', label: '', hide: true },
     brisbane_east:  { dx: 0,   dy: 0,   anchor: 'start', label: '', hide: true }
@@ -782,7 +782,7 @@ function marketSlide(c, idx) {
 
 // ─── 20. The Gap to Close (Dumbbell) ────────────────────────────────────────
 {
-  const w = 1260, rowH = 66, top = 58, left = 295, right = 140;
+  const w = 1520, rowH = 66, top = 58, left = 430, right = 150;
   const x = v => left + v / 100 * (w - left - right);
   const rows = ORDER.map((c, i) => {
     const s = cityStats[c]; const yy = top + i * rowH; const gap = s.rate - s.leaderRate;
@@ -1113,6 +1113,12 @@ path.draw, path.pulp {
 #ws-maps .ticks li { font-size: 18.5px !important; line-height: 1.34 !important; }
 .g-bar { padding: 6px 14px !important; overflow: hidden !important; }
 .g-bar span { font-size: 14.5px !important; line-height: 1.22 !important; }
+.db-city { font-size: 21.5px !important; }
+.m-city { font-size: 25px !important; }
+.m-stat { font-size: 21px !important; }
+.chart .sc-lab { font-size: 19px !important; }
+.cp-row { grid-template-columns: 245px repeat(7, 1fr) !important; }
+.cp-city { font-size: 17.5px !important; line-height: 1.2 !important; }
 `;
 const JS = fs.readFileSync(path.join(pipelineDir, 'deck.js'), 'utf8');
 const html = `<!DOCTYPE html>
