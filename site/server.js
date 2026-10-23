@@ -117,8 +117,8 @@ function renderPinGateHtml(target = '/') {
     transition: border-color 0.15s ease, box-shadow 0.15s ease;
   }
   input:focus {
-    border-color: #D92D20;
-    box-shadow: 0 0 0 3px rgba(217, 45, 32, 0.2);
+    border-color: #179CEE;
+    box-shadow: 0 0 0 3px rgba(23, 156, 238, 0.22);
   }
   input.error {
     border-color: #EF4444;
@@ -126,7 +126,7 @@ function renderPinGateHtml(target = '/') {
   }
   .btn-continue {
     width: 100%;
-    background: #111827;
+    background: #179CEE;
     color: #FFFFFF;
     border: none;
     border-radius: 8px;
@@ -137,7 +137,7 @@ function renderPinGateHtml(target = '/') {
     transition: background-color 0.15s ease;
   }
   .btn-continue:hover {
-    background: #1F2937;
+    background: #0D74B8;
   }
   .btn-continue:active {
     background: #000000;
@@ -440,7 +440,7 @@ const server = http.createServer((req, res) => {
       if (role === 'internal') {
         const switcherHtml = `
           <div style="position:fixed;top:16px;right:20px;z-index:9999;display:flex;gap:8px;align-items:center;">
-            <a href="/technical" style="background:#9A7B3E;color:#FFFFFF;padding:8px 14px;border-radius:6px;font-size:12px;font-weight:700;text-decoration:none;box-shadow:0 2px 8px rgba(0,0,0,0.2);border:1px solid #7A5F2B;">Technical Dossier →</a>
+            <a href="/technical" style="background:#179CEE;color:#FFFFFF;padding:8px 14px;border-radius:6px;font-size:12px;font-weight:700;text-decoration:none;box-shadow:0 2px 8px rgba(23,156,238,0.28);border:1px solid #0D74B8;">Technical Dossier →</a>
             <a href="/logout" style="background:#FFFFFF;color:#6B7280;padding:8px 10px;border-radius:6px;font-size:12px;text-decoration:none;box-shadow:0 2px 8px rgba(0,0,0,0.08);border:1px solid #E5E7EB;">Lock</a>
           </div>
         </body>`;

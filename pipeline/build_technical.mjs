@@ -173,18 +173,18 @@ const html = `<!DOCTYPE html>
 <style>
 ${baseCss}
   :root {
-    --pulp: #1E3A8A !important;
-    --pulp-dark: #172554 !important;
-    --navy: #0F172A !important;
+    --pulp: #179CEE !important;
+    --pulp-dark: #0D74B8 !important;
+    --navy: #0D1520 !important;
   }
-  .slide { background: #FFFFFF; color: #111827; padding: 64px 96px 84px; gap: 18px; }
-  .slide.dark { background: #0F172A !important; color: #F9FAFB; }
-  .eyebrow { font-size: 16px; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; color: #1E3A8A; margin-bottom: 4px; }
-  h1, h2 { color: #0F172A; letter-spacing: -0.025em; margin-bottom: 6px; }
+  .slide { background: #FFFFFF; color: #191919; padding: 64px 96px 84px; gap: 18px; }
+  .slide.dark { background: #0D1520 !important; color: #F9FAFB; }
+  .eyebrow { font-size: 16px; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; color: #0D74B8; margin-bottom: 4px; }
+  h1, h2 { color: #191919; letter-spacing: -0.025em; margin-bottom: 6px; }
   h2 { font-size: 38px; font-weight: 800; line-height: 1.12; }
   p.lead { font-size: 19px; color: #4B5563; line-height: 1.45; margin-bottom: 10px; max-width: 1640px; }
   table.data-table { width: 100%; border-collapse: collapse; font-size: 16px; margin-top: 6px; }
-  table.data-table th { background: #0F172A; color: #FFFFFF; text-align: left; padding: 10px 13px; font-size: 13.5px; text-transform: uppercase; letter-spacing: 0.06em; }
+  table.data-table th { background: #0D1520; color: #FFFFFF; text-align: left; padding: 10px 13px; font-size: 13.5px; text-transform: uppercase; letter-spacing: 0.06em; }
   table.data-table td { padding: 8.5px 13px; border-bottom: 1px solid #E5E7EB; vertical-align: middle; line-height: 1.32; }
   table.data-table tr:nth-child(even) td { background: #F9FAFB; }
   #tech-05-gbp-cid-audit table.data-table { font-size: 14px; }
@@ -199,11 +199,11 @@ ${baseCss}
   .num { text-align: right; }
   .mono { font-family: "JetBrains Mono", "SFMono-Regular", Consolas, monospace; }
   .kpi-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 24px; margin: 18px 0; }
-  .kpi-card { background: #0F172A; color: #FFFFFF; padding: 26px 26px; border-radius: 10px; border-top: 4px solid #C59B27; }
+  .kpi-card { background: #0D1520; color: #FFFFFF; padding: 26px 26px; border-radius: 10px; border-top: 4px solid #179CEE; }
   .kpi-card .val { font-size: 42px; font-weight: 800; color: #FFFFFF; letter-spacing: -0.02em; }
   .kpi-card .lbl { font-size: 14.5px; text-transform: uppercase; letter-spacing: 0.08em; color: #D1D5DB; margin-top: 8px; }
-  .code-box { background: #0F172A; color: #E5E7EB; padding: 18px 24px; border-radius: 10px; font-family: "JetBrains Mono", monospace; font-size: 15.5px; overflow-x: auto; line-height: 1.44; margin-top: 8px; white-space: pre; }
-  .alert-box { border-left: 5px solid #C59B27; background: #FAF8F5; padding: 18px 22px; border-radius: 8px; margin: 10px 0; font-size: 17.5px; line-height: 1.42; color: #1F2937; }
+  .code-box { background: #0D1520; color: #E5E7EB; padding: 18px 24px; border-radius: 10px; font-family: "JetBrains Mono", monospace; font-size: 15.5px; overflow-x: auto; line-height: 1.44; margin-top: 8px; white-space: pre; }
+  .alert-box { border-left: 5px solid #179CEE; background: #F0F9FF; padding: 18px 22px; border-radius: 8px; margin: 10px 0; font-size: 17.5px; line-height: 1.42; color: #191919; }
 </style>
 </head>
 <body>

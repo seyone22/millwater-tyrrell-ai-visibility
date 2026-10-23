@@ -243,8 +243,8 @@ function lineChart({ w, h, pad, labels, series, yMax, yTicks, yFmt = v => v, end
   return `<svg class="chart ${dark ? 'dark' : ''}" viewBox="0 0 ${w} ${h}" width="${w}" height="${h}" role="img" aria-label="${esc(series.map(s => s.name).join(', '))} line chart">
     <defs>
       <linearGradient id="gPulp" x1="0" y1="0" x2="0" y2="1">
-        <stop offset="0" stop-color="#1E3A8A" stop-opacity=".35"/>
-        <stop offset="1" stop-color="#1E3A8A" stop-opacity="0"/>
+        <stop offset="0" stop-color="#179CEE" stop-opacity=".35"/>
+        <stop offset="1" stop-color="#179CEE" stop-opacity="0"/>
       </linearGradient>
     </defs>
     ${grid}${xl}${paths}${el}${annotations}</svg>`;
@@ -292,7 +292,7 @@ const SRC_ANS = `Source: ${TOTAL_ANSWERS} empirical AI Search answers collected 
   const yMax = Math.ceil(maxVal / 4000) * 4000;
   const chart = lineChart({
     w: 1000, h: 455, pad: [36, 175, 56, 95], labels: AIDEMAND.labels, yMax, yTicks: [0, Math.round(yMax / 3), Math.round((2 * yMax) / 3), yMax], yFmt: v => v.toLocaleString('en-AU'),
-    series: [{ name: 'Sep 26', values: AIDEMAND.values, color: '#1E3A8A', width: 6, area: 'gPulp', valueLabel: '', label: false }],
+    series: [{ name: 'Sep 26', values: AIDEMAND.values, color: '#179CEE', width: 6, area: 'gPulp', valueLabel: '', label: false }],
     area: true, endLabels: false,
     ann: [
       (x, y) => `<g class="pop" style="--d:1500ms"><text x="${x(11) + 20}" y="${y(sepClusterVol) + 10}" class="callnum">${sepClusterVol.toLocaleString('en-AU')}/mo</text></g>`,
@@ -428,7 +428,7 @@ slide('method', 'white', `
       </svg>
       <div class="map-side">
         <div class="legend-map">
-          <p><svg width="44" height="44" aria-hidden="true"><circle cx="22" cy="22" r="18" fill="#1E3A8A"/></svg><span>Share of answers naming Millwater Tyrrell</span></p>
+          <p><svg width="44" height="44" aria-hidden="true"><circle cx="22" cy="22" r="18" fill="#179CEE"/></svg><span>Share of answers naming Millwater Tyrrell</span></p>
           <p><svg width="44" height="44" aria-hidden="true"><circle cx="22" cy="22" r="18" fill="none" stroke="#9DAAC0" stroke-width="2.5" stroke-dasharray="5 5"/></svg><span>Share for the corridor leader</span></p>
         </div>
         <table class="rank-table">
@@ -490,7 +490,7 @@ function pracChips(c) {
   const s = cityStats.ipswich;
   const rowsH = s.top.slice(0, 7).map(x => x.name);
   if (!rowsH.includes(TARGET)) rowsH.push(TARGET);
-  const shade = v => ['#F8FAFC', '#EFF6FF', '#DBEAFE', '#BFDBFE', '#93C5FD', '#60A5FA', '#2563EB', '#1E3A8A'][Math.min(7, v)];
+  const shade = v => ['#F8FAFC', '#EFF6FF', '#DBEAFE', '#BFDBFE', '#93C5FD', '#60A5FA', '#2563EB', '#179CEE'][Math.min(7, v)];
   const shortPlat = { aimode: 'AI Mode', chatgpt: 'ChatGPT', perplexity: 'Perplexity', gemini: 'Gemini', claude: 'Claude' };
   const heat = `<div class="heat" role="table" aria-label="Ipswich answers naming each law firm by assistant">
     <div class="heat-row head" role="row"><span role="columnheader"></span>${PLAT.map(([k]) => `<span role="columnheader">${shortPlat[k]}</span>`).join('')}<span role="columnheader">Total</span></div>
@@ -685,12 +685,12 @@ function marketSlide(c, idx) {
     const px = x(sx), py = y(sy);
     const off = labelOffsets[c] || { dx: 18, dy: 6, anchor: 'start', label: CITY[c] };
     if (off.hide) {
-      return `<circle cx="${px}" cy="${py}" r="10" fill="#1E3A8A" stroke="#0F172A" stroke-width="3"/>`;
+      return `<circle cx="${px}" cy="${py}" r="10" fill="#179CEE" stroke="#0F172A" stroke-width="3"/>`;
     }
     const lx = px + off.dx;
     const ly = py + off.dy;
     return `<g class="pop" style="--d:${300 + i * 110}ms">
-      <circle cx="${px}" cy="${py}" r="13" fill="#1E3A8A" stroke="#0F172A" stroke-width="4"/>
+      <circle cx="${px}" cy="${py}" r="13" fill="#179CEE" stroke="#0F172A" stroke-width="4"/>
       <text x="${lx}" y="${ly}" text-anchor="${off.anchor}" class="sc-lab">${off.label} <tspan class="sc-v">${cityStats[c].rateExact}% (${cityStats[c].lhdMentions}/35)</tspan></text>
     </g>`;
   }).join('');
@@ -730,16 +730,16 @@ function marketSlide(c, idx) {
     ['QLD Estate Lawyers', 'qldestatelawyers.com.au', '#64748B', 3],
     ['McNamara Law (Ipswich)', 'mcna.com.au', '#94A3B8', 3],
     ['Walker Pender (Ipswich)', 'walkerpender.com.au', '#CBD5E1', 3],
-    ['Millwater Tyrrell Law', 'millwatertyrrell.com.au', '#1E3A8A', 7],
+    ['Millwater Tyrrell Law', 'millwatertyrrell.com.au', '#179CEE', 7],
   ];
   const labels = HIST_LABELS;
   const chart = lineChart({
     w: 1140, h: 600, pad: [30, 310, 70, 90], labels, yMax: 65, yTicks: [0, 15, 30, 45, 65], yFmt: v => v.toLocaleString('en-AU'),
-    series: S.map(([name, d, color, width]) => ({ name, values: series(d), color, width, cls: name === 'Millwater Tyrrell Law' ? 'pulp' : '', textColor: name === 'Millwater Tyrrell Law' ? '#1E3A8A' : '#0F172A' })),
+    series: S.map(([name, d, color, width]) => ({ name, values: series(d), color, width, cls: name === 'Millwater Tyrrell Law' ? 'pulp' : '', textColor: name === 'Millwater Tyrrell Law' ? '#179CEE' : '#0F172A' })),
   });
   const sh = lineChart({
     w: 520, h: 230, pad: [36, 40, 52, 70], labels: labels.map((l, i) => (i === 0 || i === labels.length - 1) ? l : ''), yMax: 25, yTicks: [0, 5, 10, 15, 25], yFmt: v => v + '%', endLabels: false,
-    series: [{ name: 'Millwater Tyrrell Share', values: shareSeries, color: '#1E3A8A', width: 5, label: false }],
+    series: [{ name: 'Millwater Tyrrell Share', values: shareSeries, color: '#179CEE', width: 5, label: false }],
     ann: [(x, y) => `<text x="${x(labels.length - 1)}" y="${y(shareSeries[shareSeries.length - 1]) - 14}" text-anchor="end" class="callsmall pulp">${shareSeries[shareSeries.length - 1]}%</text>`],
   });
   const bwbTot = series('bwbfamilylaw.com.au').reduce((a, b) => a + b, 0);
@@ -770,7 +770,7 @@ function marketSlide(c, idx) {
       <text x="0" y="${yy + 9}" class="db-city">${CITY[c]}</text>
       <line x1="${x(Math.min(s.rate, s.leaderRate))}" x2="${x(Math.max(s.rate, s.leaderRate))}" y1="${yy}" y2="${yy}" class="db-line grow-x" style="--d:${300 + i * 110}ms"/>
       <circle cx="${x(s.leaderRate)}" cy="${yy}" r="13" fill="#0F172A" class="pop" style="--d:${250 + i * 110}ms"/>
-      <circle cx="${x(s.rate)}" cy="${yy}" r="13" fill="#1E3A8A" stroke="#FFFFFF" stroke-width="4" class="pop" style="--d:${450 + i * 110}ms"/>
+      <circle cx="${x(s.rate)}" cy="${yy}" r="13" fill="#179CEE" stroke="#FFFFFF" stroke-width="4" class="pop" style="--d:${450 + i * 110}ms"/>
       <text x="${w - right + 30}" y="${yy + 9}" class="db-gap ${gap >= 0 ? 'pos' : ''}">${gap > 0 ? '+' : gap === 0 ? '±' : '−'}${Math.abs(gap)} pts</text>
       <text x="${x(s.leaderRate)}" y="${yy - 20}" text-anchor="middle" class="db-lead">${esc(short(s.leader.name))}</text>
     </g>`;
@@ -870,7 +870,7 @@ slide('plan', 'white', `
 
 // ─── 25. Workstream 03: Practice & Corridor Pages (Benchmark Page 25) ───────
 {
-  const shade5 = v => ['#F8FAFC', '#EFF6FF', '#BFDBFE', '#60A5FA', '#2563EB', '#1E3A8A'][Math.min(5, v)];
+  const shade5 = v => ['#F8FAFC', '#EFF6FF', '#BFDBFE', '#60A5FA', '#2563EB', '#179CEE'][Math.min(5, v)];
   const grid = `<div class="cp" role="table" aria-label="AI answers naming Millwater Tyrrell Law by corridor and practice area">
     <div class="cp-row head" role="row"><span role="columnheader"></span>${PRAC.map(([k]) => `<span role="columnheader">${PRAC_SHORT[k]}</span>`).join('')}</div>
     ${ORDER.map((c, ri) => `<div class="cp-row" role="row"><span class="cp-city" role="rowheader">${CITY[c]}</span>${PRAC.map(([p], ci) => { const v = cityStats[c].byPrompt[p].lhd; return `<span role="cell" class="cp-cell pop${v === 0 ? ' zero' : ''}" style="--d:${150 + (ri * 7 + ci) * 18}ms;background:${shade5(v)};color:${v >= 3 ? '#FFFFFF' : '#0F172A'}">${v}</span>`; }).join('')}</div>`).join('')}
@@ -961,9 +961,9 @@ slide('ws-entity', 'white', `
     <text x="${x(12) + 18}" y="${y(mcnaRate) + 14}" class="el" fill="#64748B">McNamara Law today <tspan class="elv">${mcnaRate}%</tspan></text>
     <line x1="${x(0)}" x2="${x(12)}" y1="${y(fmRate)}" y2="${y(fmRate)}" stroke="#0F172A" stroke-width="4" stroke-dasharray="2 10" stroke-linecap="round" class="fadein"/>
     <text x="${x(12) + 18}" y="${y(fmRate) + 24}" class="el">Fallu McMillan today <tspan class="elv">${fmRate}%</tspan></text>
-    <path d="${target.map((v, i) => `${i ? 'L' : 'M'}${x(xs[i])},${y(v)}`).join('')}" pathLength="1" class="draw" fill="none" stroke="#1E3A8A" stroke-width="6" stroke-dasharray="1" style="--d:300ms"/>
+    <path d="${target.map((v, i) => `${i ? 'L' : 'M'}${x(xs[i])},${y(v)}`).join('')}" pathLength="1" class="draw" fill="none" stroke="#179CEE" stroke-width="6" stroke-dasharray="1" style="--d:300ms"/>
     <path d="${target.map((v, i) => `${i ? 'L' : 'M'}${x(xs[i])},${y(v)}`).join('')}" fill="none" stroke="#F8FAFC" stroke-width="7" stroke-dasharray="14 12" class="fadein" style="--d:1500ms"/>
-    ${target.map((v, i) => `<circle cx="${x(xs[i])}" cy="${y(v)}" r="${i ? 10 : 13}" fill="${i ? '#F8FAFC' : '#1E3A8A'}" stroke="#1E3A8A" stroke-width="5" class="pop" style="--d:${400 + i * 350}ms"/><text x="${i ? x(xs[i]) : x(xs[i]) + 22}" y="${i ? y(v) - 22 : y(v) + 38}" text-anchor="${i ? 'middle' : 'start'}" class="callsmall pulp">${i === 3 ? '' : v + '%'}${i ? '' : ` today (${cityStats.ipswich.lhdMentions}/35)`}</text>`).join('')}
+    ${target.map((v, i) => `<circle cx="${x(xs[i])}" cy="${y(v)}" r="${i ? 10 : 13}" fill="${i ? '#F8FAFC' : '#179CEE'}" stroke="#179CEE" stroke-width="5" class="pop" style="--d:${400 + i * 350}ms"/><text x="${i ? x(xs[i]) : x(xs[i]) + 22}" y="${i ? y(v) - 22 : y(v) + 38}" text-anchor="${i ? 'middle' : 'start'}" class="callsmall pulp">${i === 3 ? '' : v + '%'}${i ? '' : ` today (${cityStats.ipswich.lhdMentions}/35)`}</text>`).join('')}
     <text x="${x(12) + 18}" y="${y(target[3]) - 10}" class="el pulp-t">Millwater Tyrrell <tspan class="elv">${target[3]}%</tspan></text>
   </svg>`;
 
@@ -1031,33 +1031,33 @@ slide('appendix', 'white', `
 
 // ─── Page Compilation with Millwater Tyrrell Authoritative Navy + Brass Theme ──
 const CSS = fs.readFileSync(path.join(pipelineDir, 'deck.css'), 'utf8') + `
-/* Millwater Tyrrell Law Authoritative Legal Navy & Warm Gold Theme Overrides */
+/* Millwater Tyrrell Law Official Brand Palette (#179CEE Azure Blue & #191919 / #0D1520 Charcoal Slate) */
 :root {
-  --pulp: #1E3A8A !important;
-  --pulp-dark: #172554 !important;
-  --navy: #0F172A !important;
+  --pulp: #179CEE !important;
+  --pulp-dark: #0D74B8 !important;
+  --navy: #0D1520 !important;
 }
 .slide.dark, .slide.cover, .slide.close {
-  background: #0F172A !important;
+  background: #0D1520 !important;
 }
 .slide.accent {
-  background: linear-gradient(135deg, #0F172A 0%, #172554 65%, #1E3A8A 100%) !important;
+  background: linear-gradient(135deg, #0D1520 0%, #0D74B8 60%, #179CEE 100%) !important;
 }
 .hb-row.is-pulp .hb-fill, .fillc, .lg-dot.pulp, .key.on, .cv-cells i.on, .dots i.on {
-  background-color: #1E3A8A !important;
-  fill: #1E3A8A !important;
+  background-color: #179CEE !important;
+  fill: #179CEE !important;
 }
 .slide.dark .key.on, .slide.dark .cv-cells i.on, .slide.dark .fillc {
-  background-color: #38BDF8 !important;
-  fill: #38BDF8 !important;
+  background-color: #179CEE !important;
+  fill: #179CEE !important;
 }
 .pulp, .pulp-t, .eyebrow {
-  color: #1E3A8A !important;
-  fill: #1E3A8A !important;
+  color: #0D74B8 !important;
+  fill: #0D74B8 !important;
 }
 .slide.dark .pulp, .slide.dark .pulp-t, .slide.dark .m-pulp, .slide.dark .eyebrow.on-dark {
-  color: #38BDF8 !important;
-  fill: #38BDF8 !important;
+  color: #179CEE !important;
+  fill: #179CEE !important;
 }
 /* 8-Corridor & 35-Cell Grid Precision Fit Overrides */
 .cover { grid-template-columns: 730px 1fr !important; gap: 0 36px !important; }
