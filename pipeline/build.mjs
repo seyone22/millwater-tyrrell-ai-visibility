@@ -298,7 +298,7 @@ const SRC_ANS = `Source: ${TOTAL_ANSWERS} empirical AI Search answers collected 
   const maxVal = Math.max(...AIDEMAND.values, 14000);
   const yMax = Math.ceil(maxVal / 4000) * 4000;
   const chart = lineChart({
-    w: 1000, h: 455, pad: [36, 175, 56, 95], labels: AIDEMAND.labels, yMax, yTicks: [0, Math.round(yMax / 3), Math.round((2 * yMax) / 3), yMax], yFmt: v => v.toLocaleString('en-AU'),
+    w: 1000, h: 455, pad: [36, 220, 56, 95], labels: AIDEMAND.labels, yMax, yTicks: [0, Math.round(yMax / 3), Math.round((2 * yMax) / 3), yMax], yFmt: v => v.toLocaleString('en-AU'),
     series: [{ name: 'Sep 26', values: AIDEMAND.values, color: '#179CEE', width: 6, area: 'gPulp', valueLabel: '', label: false }],
     area: true, endLabels: false,
     ann: [
@@ -732,11 +732,11 @@ function marketSlide(c, idx) {
 {
   const S = [
     ['Best Wilson Buckley', 'bwbfamilylaw.com.au', '#0D1520', 4],
-    ['de Groots Wills & Estates', 'degroots.com.au', '#334155', 3],
+    ['de Groots Wills/Estates', 'degroots.com.au', '#334155', 3],
     ['Phillips Family Law', 'phillipsfamilylaw.com.au', '#475569', 3],
     ['QLD Estate Lawyers', 'qldestatelawyers.com.au', '#64748B', 3],
-    ['McNamara Law (Ipswich)', 'mcna.com.au', '#94A3B8', 3],
-    ['Walker Pender (Ipswich)', 'walkerpender.com.au', '#CBD5E1', 3],
+    ['McNamara Law', 'mcna.com.au', '#94A3B8', 3],
+    ['Walker Pender', 'walkerpender.com.au', '#CBD5E1', 3],
     ['Millwater Tyrrell Law', 'millwatertyrrell.com.au', '#179CEE', 6],
   ];
   const labels = HIST_LABELS;
@@ -747,7 +747,7 @@ function marketSlide(c, idx) {
   const mtTot = seriesAll('millwatertyrrell.com.au').reduce((a, b) => a + b, 0);
 
   const chart = lineChart({
-    w: 1140, h: 590, pad: [34, 340, 68, 86], labels, yMax: 100, yTicks: [0, 25, 50, 75, 100], yFmt: v => v.toLocaleString('en-AU'),
+    w: 1140, h: 590, pad: [34, 395, 68, 76], labels, yMax: 100, yTicks: [0, 25, 50, 75, 100], yFmt: v => v.toLocaleString('en-AU'),
     series: S.map(([name, d, color, width]) => {
       const vals = series(d);
       const tot15 = seriesAll(d).reduce((a, b) => a + b, 0);
@@ -1119,6 +1119,7 @@ path.draw, path.pulp {
 .chart .sc-lab { font-size: 19px !important; }
 .cp-row { grid-template-columns: 245px repeat(7, 1fr) !important; }
 .cp-city { font-size: 17.5px !important; line-height: 1.2 !important; }
+#trend .chart .el { font-size: 18px !important; }
 `;
 const JS = fs.readFileSync(path.join(pipelineDir, 'deck.js'), 'utf8');
 const html = `<!DOCTYPE html>
