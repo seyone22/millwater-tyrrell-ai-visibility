@@ -172,13 +172,20 @@ const natTop = (M.leaderboard || []).map(f => ({ name: f.name, n: f.mentions }))
 const mtNatIdx = natTop.findIndex(x => x.name === TARGET);
 const mtNatRank = mtNatIdx >= 0 ? mtNatIdx + 1 : 15;
 
-// 15-Month Historical Mentions from hist.json (Aug 2025 – Oct 2026)
+// 14 Completed Full Months (Aug 2025 – Sep 2026) + Oct 2026 MTD from hist.json
 const M_NAMES_SHORT = ['', 'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
-const mtHistRaw = [...(H['millwatertyrrell.com.au']?.hist || [])].reverse();
-const HIST_LABELS = H.months || mtHistRaw.map(h => `${M_NAMES_SHORT[h.month]} ${String(h.year).slice(2)}`);
-const series = dom => {
-  if (H.domains?.[dom]?.mentions) return H.domains[dom].mentions;
+const mtHistRawAll = [...(H['millwatertyrrell.com.au']?.hist || [])].reverse();
+// Exclude partial in-progress month (2026-10) from line chart series so lines end on completed full month (Sep 2026), while preserving full 15-month totals
+const mtHistComplete = mtHistRawAll.filter(h => !(h.year === 2026 && h.month === 10));
+const HIST_LABELS = mtHistComplete.map(h => `${M_NAMES_SHORT[h.month]} ${String(h.year).slice(2)}`);
+const seriesAll = dom => {
   if (H[dom]?.hist) return [...H[dom].hist].reverse().map(h => h.metrics?.mentions || 0);
+  if (H.domains?.[dom]?.mentions) return H.domains[dom].mentions;
+  return mtHistRawAll.map(() => 0);
+};
+const series = dom => {
+  if (H[dom]?.hist) return [...H[dom].hist].reverse().filter(h => !(h.year === 2026 && h.month === 10)).map(h => h.metrics?.mentions || 0);
+  if (H.domains?.[dom]?.mentions) return H.domains[dom].mentions.slice(0, HIST_LABELS.length);
   return HIST_LABELS.map(() => 0);
 };
 const TRACKED_DOMS = ['millwatertyrrell.com.au', 'bwbfamilylaw.com.au', 'degroots.com.au', 'phillipsfamilylaw.com.au', 'qldestatelawyers.com.au', 'mcna.com.au', 'walkerpender.com.au'];
@@ -724,40 +731,53 @@ function marketSlide(c, idx) {
 // ─── 19. 15-Month Trend ─────────────────────────────────────────────────────
 {
   const S = [
-    ['Best Wilson Buckley', 'bwbfamilylaw.com.au', '#0F172A', 4],
+    ['Best Wilson Buckley', 'bwbfamilylaw.com.au', '#0D1520', 4],
     ['de Groots Wills & Estates', 'degroots.com.au', '#334155', 3],
     ['Phillips Family Law', 'phillipsfamilylaw.com.au', '#475569', 3],
     ['QLD Estate Lawyers', 'qldestatelawyers.com.au', '#64748B', 3],
     ['McNamara Law (Ipswich)', 'mcna.com.au', '#94A3B8', 3],
     ['Walker Pender (Ipswich)', 'walkerpender.com.au', '#CBD5E1', 3],
-    ['Millwater Tyrrell Law', 'millwatertyrrell.com.au', '#179CEE', 7],
+    ['Millwater Tyrrell Law', 'millwatertyrrell.com.au', '#179CEE', 6],
   ];
   const labels = HIST_LABELS;
+  const bwbTot = seriesAll('bwbfamilylaw.com.au').reduce((a, b) => a + b, 0);
+  const dgTot = seriesAll('degroots.com.au').reduce((a, b) => a + b, 0);
+  const mcnaTot = seriesAll('mcna.com.au').reduce((a, b) => a + b, 0);
+  const wpTot = seriesAll('walkerpender.com.au').reduce((a, b) => a + b, 0);
+  const mtTot = seriesAll('millwatertyrrell.com.au').reduce((a, b) => a + b, 0);
+
   const chart = lineChart({
-    w: 1140, h: 600, pad: [30, 310, 70, 90], labels, yMax: 65, yTicks: [0, 15, 30, 45, 65], yFmt: v => v.toLocaleString('en-AU'),
-    series: S.map(([name, d, color, width]) => ({ name, values: series(d), color, width, cls: name === 'Millwater Tyrrell Law' ? 'pulp' : '', textColor: name === 'Millwater Tyrrell Law' ? '#179CEE' : '#0F172A' })),
+    w: 1140, h: 590, pad: [34, 340, 68, 86], labels, yMax: 100, yTicks: [0, 25, 50, 75, 100], yFmt: v => v.toLocaleString('en-AU'),
+    series: S.map(([name, d, color, width]) => {
+      const vals = series(d);
+      const tot15 = seriesAll(d).reduce((a, b) => a + b, 0);
+      return {
+        name,
+        values: vals,
+        color,
+        width,
+        cls: name === 'Millwater Tyrrell Law' ? 'pulp' : '',
+        textColor: name === 'Millwater Tyrrell Law' ? '#0D74B8' : '#191919',
+        valueLabel: `${vals[vals.length - 1]}/mo (${tot15} tot)`
+      };
+    }),
   });
   const sh = lineChart({
-    w: 520, h: 230, pad: [36, 40, 52, 70], labels: labels.map((l, i) => (i === 0 || i === labels.length - 1) ? l : ''), yMax: 25, yTicks: [0, 5, 10, 15, 25], yFmt: v => v + '%', endLabels: false,
+    w: 520, h: 220, pad: [34, 40, 50, 70], labels: labels.map((l, i) => (i === 0 || i === labels.length - 1) ? l : ''), yMax: 5, yTicks: [0, 1, 2, 3, 5], yFmt: v => v + '%', endLabels: false,
     series: [{ name: 'Millwater Tyrrell Share', values: shareSeries, color: '#179CEE', width: 5, label: false }],
-    ann: [(x, y) => `<text x="${x(labels.length - 1)}" y="${y(shareSeries[shareSeries.length - 1]) - 14}" text-anchor="end" class="callsmall pulp">${shareSeries[shareSeries.length - 1]}%</text>`],
+    ann: [(x, y) => `<text x="${x(labels.length - 1)}" y="${y(shareSeries[shareSeries.length - 1]) - 14}" text-anchor="end" class="callsmall pulp">${shareSeries[shareSeries.length - 1]}% (Sep 26)</text>`],
   });
-  const bwbTot = series('bwbfamilylaw.com.au').reduce((a, b) => a + b, 0);
-  const dgTot = series('degroots.com.au').reduce((a, b) => a + b, 0);
-  const mcnaTot = series('mcna.com.au').reduce((a, b) => a + b, 0);
-  const wpTot = series('walkerpender.com.au').reduce((a, b) => a + b, 0);
-  const mtTot = series('millwatertyrrell.com.au').reduce((a, b) => a + b, 0);
 
   slide('trend', 'white', `
-    <header class="hd"><p class="eyebrow">15-Month Historical Trajectory · DataForSEO LLM Mentions</p><h2 class="h1">Over 15 months, Ipswich neighbor Best Wilson Buckley logged ${bwbTot} AI mentions and McNamara Law logged ${mcnaTot}, vs ${mtTot} for Millwater Tyrrell</h2></header>
+    <header class="hd"><p class="eyebrow">15-Month Historical Domain Citations · DataForSEO Australia Index</p><h2 class="h1">Across Australia-wide AI answers, Best Wilson Buckley logged ${bwbTot} domain citations and McNamara Law logged ${mcnaTot}, vs ${mtTot} for Millwater Tyrrell</h2></header>
     <div class="cols-trend">
-      <div class="panel"><p class="chart-title">Monthly Google AI answers in Australia referencing each law firm’s domain, Aug 2025 to Oct 2026</p>${chart}</div>
+      <div class="panel"><p class="chart-title">Monthly Google AI answers in Australia citing each law firm’s domain (completed months Aug 2025–Sep 2026; 15-mo totals incl. Oct 2026 MTD shown at right)</p>${chart}</div>
       <div class="side-stats">
-        <div class="stat"><span class="big">${(mcnaTot / Math.max(1, mtTot)).toFixed(1)}×</span><span class="stat-cap"><b>Ipswich Neighbor Comparison:</b> McNamara Law (<code>mcna.com.au</code>) recorded <b>${mcnaTot} AI mentions</b> (15,690 AI impressions) and Walker Pender recorded <b>${wpTot} mentions</b> (8,770 impressions), vs <b>${mtTot} mentions</b> (2,050 impressions) for <code>millwatertyrrell.com.au</code>.</span></div>
-        <div class="mini-chart"><p class="mini-title">Millwater Tyrrell Share of Tracked Cohort (Aug 25–Oct 26)</p>${sh}<p class="note">Millwater Tyrrell’s monthly AI mentions rose from 0 (late 2025) to 4 in Oct 2026 — proving early traction in Ipswich that can be multiplied across Springfield and Brisbane.</p></div>
+        <div class="stat"><span class="big">${(mcnaTot / Math.max(1, mtTot)).toFixed(1)}×</span><span class="stat-cap"><b>Why Multi-Page Hubs Compound Nationally:</b> While Millwater Tyrrell beats Best Wilson Buckley in local Ipswich buyer prompts (15/35 vs 9/35), <code>mcna.com.au</code> (<b>${mcnaTot} citations</b>, 15,690 impressions) and <code>walkerpender.com.au</code> (<b>${wpTot} citations</b>) win 5–9× more Australia-wide informational citations via deep topic articles.</span></div>
+        <div class="mini-chart"><p class="mini-title">Millwater Tyrrell Share of Tracked Cohort (Aug 25–Sep 26)</p>${sh}<p class="note">Millwater Tyrrell rose from 0 monthly domain citations in 2025 to 2/mo in Sep 2026 (and 4 in Oct 2026 MTD, 9 total) — early momentum that scales once Probate, FPA &amp; Brisbane hubs go live.</p></div>
       </div>
     </div>
-    ${src('Source: DataForSEO LLM Mentions Historical API (/v3/ai_optimization/llm_mentions/historical/live, location_code: 2036 Australia, Aug 2025 to Oct 2026).')}`);
+    ${src('Source: DataForSEO LLM Mentions Historical API (/v3/ai_optimization/llm_mentions/historical/live, location_code: 2036 Australia, Aug 2025 to Sep 2026 completed months + Oct 2026 MTD).')}`);
 }
 
 // ─── 20. The Gap to Close (Dumbbell) ────────────────────────────────────────
@@ -1058,6 +1078,9 @@ const CSS = fs.readFileSync(path.join(pipelineDir, 'deck.css'), 'utf8') + `
 .slide.dark .pulp, .slide.dark .pulp-t, .slide.dark .m-pulp, .slide.dark .eyebrow.on-dark {
   color: #179CEE !important;
   fill: #179CEE !important;
+}
+path.draw, path.pulp {
+  fill: none !important;
 }
 /* 8-Corridor & 35-Cell Grid Precision Fit Overrides */
 .cover { grid-template-columns: 730px 1fr !important; gap: 0 36px !important; }
