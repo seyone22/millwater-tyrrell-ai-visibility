@@ -941,10 +941,10 @@ slide('ws-entity', 'white', `
 // ─── 27. Roadmap (Gantt — Benchmark Page 27) ────────────────────────────────
 {
   const lanes = [
-    ['01 · Squarespace & Schema Fix', [[1, 2, 'Fix homepage title; purge 88 /testimonials/* hash URLs & /hide; fix /search 403'], [2, 4, 'Inject LegalService + Attorney + CID JSON-LD; add Matthew Tyrrell to /our-lawyers']]],
-    ['02 · GBP Category & Service Areas', [[1, 2, 'Set Primary GBP to "Family law attorney" + add "Estate planning", "Divorce", "Mediation"'], [3, 8, 'Switch GBP URL to https://; add Springfield & Brisbane service areas; drive 107→150+ rev']]],
-    ['03 · Probate, FPA & Corridor Pages', [[2, 5, 'Publish /probate-qld, /contesting-a-will-fpa-qld & Wills pricing card on /pricing'], [5, 10, 'Launch /springfield-lawyers, /brisbane-family-wills-lawyers & /brisbane-west-lawyers']]],
-    ['04 · LawConnect, QLS & Directories', [[2, 6, 'Optimize Firm & Partner profiles on LawConnect (224 cits), QLS (73 cits) & FDRP Register'], [6, 12, 'Secure ThreeBestRated, Lawzana & Doyle’s Guide submissions for Family & Wills/Estates']]],
+    ['01 · Squarespace & Schema Fix', [[1, 3, 'Fix homepage title; purge 88 /testimonials/* URLs & /hide; fix /search 403'], [4, 7, 'Inject LegalService + Attorney + CID JSON-LD; add Matthew Tyrrell to /our-lawyers']]],
+    ['02 · GBP Category & Service Areas', [[1, 3, 'Set Primary GBP to "Family law attorney" + add Estate, Divorce & Mediation'], [4, 9, 'Switch GBP URL to https://; add Springfield & Brisbane service areas; 107→150+ reviews']]],
+    ['03 · Probate, FPA & Corridor Pages', [[2, 5, 'Publish /probate-qld, /contesting-a-will-fpa-qld & Wills pricing card on /pricing'], [6, 10, 'Launch /springfield-lawyers, /brisbane-family-wills-lawyers & /brisbane-west-lawyers']]],
+    ['04 · LawConnect, QLS & Directories', [[2, 5, 'Optimize Firm & Partner profiles on LawConnect (224 cits), QLS (73 cits) & FDRP'], [6, 12, 'Secure ThreeBestRated, Lawzana & Doyle’s Guide listings for Family & Wills/Estates']]],
     ['05 · Monthly 280-Prompt Audit', [[1, 12, `Baseline locked Oct 2026 (${M.mtMentioned}/${TOTAL_ANSWERS}); re-run 280-prompt panel on the 15th of each month`, 'light']]],
   ];
   const lab = 330;
@@ -1111,6 +1111,8 @@ path.draw, path.pulp {
 #map .map-side .note { font-size: 16px !important; line-height: 1.32 !important; margin-top: 8px !important; }
 #ws-maps .ticks { gap: 12px !important; }
 #ws-maps .ticks li { font-size: 18.5px !important; line-height: 1.34 !important; }
+.g-bar { padding: 6px 14px !important; overflow: hidden !important; }
+.g-bar span { font-size: 14.5px !important; line-height: 1.22 !important; }
 `;
 const JS = fs.readFileSync(path.join(pipelineDir, 'deck.js'), 'utf8');
 const html = `<!DOCTYPE html>
